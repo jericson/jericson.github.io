@@ -1,1 +1,0 @@
-# jericson.github.io
