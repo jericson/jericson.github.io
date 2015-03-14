@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Building a customer support system (part 1)
+title:  Building a Customer Support System
+subtitle: Part 1; a Prehistory
 tags: support
-author: Jon Ericson
 ---
 
 Before I was
@@ -28,13 +28,15 @@ experiencing a 60% increase in ticket volume.
 
 # Prehistory
 
-At some point in the distant past,
-[Jeff Atwood](http://blog.codinghorror.com/) answered questions sent
-to `team@`.[^1] As the site grew, 
+On August 8, 2008, [Jeff Atwood](http://blog.codinghorror.com/) began
+answering questions sent to `team@`.[^1] As the site grew and as sites
+were added, the team got larger.  
 
 [^1]:
 
-    Or at least that's how I remember the email I got complaining
-about an offensive avatar on Stack Overflow.  I sent a followup email
-questioning why I was still seeing that avatar. The answer, of course:
-[caching](http://meta.stackexchange.com/a/221414/1438).
+    I seem to recall an email I sent around then complaining about an
+offensive avatar on Stack Overflow.  After getting a reply from Jeff
+that the image had been changed, I sent a followup email wondering why
+I was still seeing that avatar. The answer, of course:
+[caching](http://meta.stackexchange.com/a/221414/1438). Unfortunately,
+I can't find a copy of that particular email anymore.
