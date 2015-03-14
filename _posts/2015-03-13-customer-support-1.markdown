@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Building a customer support system (part 1)
-tag: support
+tags: support
 author: Jon Ericson
 ---
 
@@ -30,7 +30,7 @@ experiencing a 60% increase in ticket volume.
 
 At some point in the distant past,
 [Jeff Atwood](http://blog.codinghorror.com/) answered questions sent
-to `team@`.[^1] 
+to `team@`.[^1] As the site grew, 
 
 [^1]:
 
