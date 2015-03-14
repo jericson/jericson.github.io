@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jericson&amp;mdash;Community Manager</title>
+    <description>Jon Ericson works for Stack Exchange as a Community Manager. What is a Community Manager? Read on.
+</description>
+    <link>http://jericson.github.io//</link>
+    <atom:link href="http://jericson.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 13 Mar 2015 16:26:57 -0700</pubDate>
+    <lastBuildDate>Fri, 13 Mar 2015 16:26:57 -0700</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 13 Mar 2015 06:06:24 -0700</pubDate>
+        <link>http://jericson.github.io//jekyll/update/2015/03/13/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://jericson.github.io//jekyll/update/2015/03/13/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Building a customer support system (part 1)</title>
+        <description>&lt;p&gt;Before I was
+&lt;a href=&quot;http://blog.stackoverflow.com/2013/08/please-welcome-jon-ericson-community-manager/&quot;&gt;hired by Stack Exchange&lt;/a&gt;,
+I wrote:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The variety of work, especially new features, sounds like a welcome
+change of pace for me.  I like the “user support” stuff too.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;User support, as it turns out, drains me of all energy within
+hours. &lt;a href=&quot;https://twitter.com/horse_ebooks/status/228032106859749377&quot;&gt;“Unfortunately, as you probably already know, people”&lt;/a&gt;
+need a lot of things and we can’t always help. Thankfully, we control
+our schedule, so I typically mix answering meta posts, responding to
+moderator chat pings, emails and handling user flags between work on
+fun stuff like
+&lt;a href=&quot;http://meta.stackexchange.com/q/234259/1438&quot;&gt;new features&lt;/a&gt; and
+&lt;a href=&quot;http://blog.stackoverflow.com/2014/12/winter-bash-2014/&quot;&gt;events&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;However, one day every week or so was dedicated to answering requests
+sent to &lt;code&gt;team@&lt;/code&gt;. This is part one in a series of posts describing how
+we managed to reduce the misery factor while simultaneously
+experiencing a 60% increase in ticket volume.&lt;/p&gt;
+
+&lt;h1 id=&quot;prehistory&quot;&gt;Prehistory&lt;/h1&gt;
+
+&lt;p&gt;At some point in the distant past,
+&lt;a href=&quot;http://blog.codinghorror.com/&quot;&gt;Jeff Atwood&lt;/a&gt; answered questions sent
+to &lt;code&gt;team@&lt;/code&gt;.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+
+      &lt;p&gt;Or at least that’s how I remember the email I got complaining about
+an offensive avatar on Stack Overflow.  I sent a followup email
+questioning why I was still seeing that avatar. The answer, of course:
+&lt;a href=&quot;http://meta.stackexchange.com/a/221414/1438&quot;&gt;caching&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 13 Mar 2015 00:00:00 -0700</pubDate>
+        <link>http://jericson.github.io//2015/03/13/customer-support-1.html</link>
+        <guid isPermaLink="true">http://jericson.github.io//2015/03/13/customer-support-1.html</guid>
+        
+        <category>support</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
