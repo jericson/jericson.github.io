@@ -1,0 +1,62 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2004.02.24.00.04.36;	author jericson;	state Exp;
+branches;
+next	;
+
+
+desc
+@CSS style sheet.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@h1, h2, h3, h4, h5, h6, ul, body{font-family: garamond, times, serif;}
+pre{font-family: monospace;}
+h2, h3, h4, h5, h6{
+	color: navy;
+	padding: .15em;
+}
+h2{
+	border: solid;
+}
+h1.title{
+	font-size: 200%; 
+	color: navy;
+	text-align:center;
+}
+.page{
+        border: solid;
+	border-width: thin; 
+        background: url("image/paper-yellow.jpg");
+}
+.greek{
+	font-family: Symbol, sans-serif;
+}
+h2.mexico{
+	color: #F80000;
+	border-color: #009000;
+}
+.mexico{
+	color: #F80000;
+}
+body{
+	text-decoration: none;
+	color: black;
+	text-align: left;
+	padding: 1em;
+        
+}
+code{
+	white-space: pre
+}@

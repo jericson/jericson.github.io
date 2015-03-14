@@ -1,0 +1,61 @@
+head	1.1;
+access;
+symbols;
+locks
+	jericson:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2004.02.23.23.51.25;	author jericson;	state Exp;
+branches;
+next	;
+
+
+desc
+@Mussings on creating a homepage.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title>Web Publishing for Fun and Profit</title>
+  </head>
+
+  <body>
+    <h1>Web Publishing for Fun and Profit</h1>
+
+    <h2>For Fun</h2>
+    <p>
+      Some things people do are pointless unless the person doing them
+      thinks they are fun&mdash;publishing a web page for instance.
+      There are plenty of things that we should do even if they are
+      unpleasant, such as pay taxes, give food to the poor, and wash
+      behind our ears.  But if you feel some sort of obligation to
+      update your web page, you're doing it wrong.  
+    </p>
+
+    <h2>For Profit</h2>
+    <p>
+      <a
+      href="http://www.amazon.com/exec/obidos/redirect-home/jonericson-20">Shop
+      at Amazon<a>.
+    </p>
+
+
+    <hr> <a href="http://home.earthlink.net/~jericson">Home</a>
+    <address><a href="mailto:jericson+homepage@@earthlink.net">Jon
+    Ericson</a></address>
+<!-- Created: Mon May 12 15:11:30 PDT 2003 -->
+<!-- hhmts start -->
+Last modified: Tue May 20 13:43:40 PDT 2003
+<!-- hhmts end -->
+  </body>
+</html>
+@

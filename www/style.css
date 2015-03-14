@@ -1,0 +1,34 @@
+h1, h2, h3, h4, h5, h6, ul{font-family: Helvetica, bold;}
+pre{font-family: monospace;}
+h2, h3, h4, h5, h6{
+	color: navy;
+	border: solid;
+	padding: .15em;
+}
+
+h1.title{
+	font-size: 200%; 
+	color: navy;
+	text-align:center;
+}
+.page{
+        border: solid;
+	border-width: thin; 
+        background: url("image/paper-yellow.jpg");
+}
+.greek{
+	font-family: Symbol;
+}
+.mexico{
+	color: #F80000;
+	border: solid;
+	border-color: #009000;
+}
+body{
+	font-family: times;
+	text-decoration: none;
+	color: black;
+	text-align: left;
+	padding: 1em;
+        
+}

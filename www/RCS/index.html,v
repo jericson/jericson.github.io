@@ -1,0 +1,395 @@
+head	1.2;
+access;
+symbols;
+locks
+	jericson:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2004.02.24.00.39.47;	author jericson;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2004.02.23.23.51.25;	author jericson;	state Exp;
+branches;
+next	;
+
+
+desc
+@The initial page.
+@
+
+
+1.2
+log
+@Minor changes.
+@
+text
+@<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title>Jon's Page O' Stuff</title>
+    <meta name="description" content="Items of interest to Jon Ericson
+      (and Joy Ericson) including Christian missions in Mexico City,
+      the Christ-centered fraternity--Alpha Gamma Omega, Bible study,
+      travel, camping, and our family.">
+    <meta name="keywords" content="Jon Ericson, Joy Ericson, Mexico
+      City, missions, Alpha Gamma Omega, Christ-centered, Bible
+      study, travel, camping, marriage">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  </head>
+  <body class="page">
+    <h1 class="title">Jon's Page O' Stuff</h1>
+
+    <h2>My Family</h2>
+    
+    <p>
+      Joshua Lewis Ericson was born on May 28, 2003 in Denver,
+      Colorado.
+    </p>
+    <p>
+      Our first visit with our Doctor was on January 8, 2002.  She
+      gave us the results of Joy's blood tests, and everything is
+      fine.  We also listened to the baby's heartbeat with a Doppler
+      stethoscope.  It's wonderful to hear the quick, steady beat of
+      the heart simulating blood-flow.  I guess I never understood the
+      "Miracle of Birth" before now.
+    </p>
+    <p>
+      On January 14, 2003 we went into the big Kaiser hospital on
+      Sunset Boulevard (where Joshua would have been born) to have a
+      more extensive ultrasound.  It was amazing!  We could see the
+      skeleton, the four chambers of the heart, facial features and
+      even the baby sucking its thumb!  The technician also determined
+      that we would have a boy.  More importantly, the baby appears to
+      be healthy and developing well.  Most problems are found either
+      in this ultrasound or in the blood tests.
+    </p>
+    <p>
+      We started a ten week birth class taught by a <a
+      href="http://www.bradleybirth.com/">Bradley Method®</a>
+      teacher.  It's very interesting and I'll have to tell you about
+      it sometime.
+    </p>
+    <p>
+      <img src="image/baby-prof-01-14-03.jpg" 
+	   alt="[Image of our baby in profile]" width=600
+	   height=444> <em>Our baby in profile.</em>
+    </p>
+    <p>
+      <a href="http://www.upromise.com">Upromise</a>
+    </p>
+
+    <h2>Marriage</h2>
+    <p>
+      <img src="image/wedding-party.jpg" 
+	   alt="[Image of our wedding party]" width=599
+	   height=512> <em>Our wedding party.</em>
+    </p>
+    <p>
+      See <a href="http://photos.yahoo.com/maestrajoy">Joy's photo
+      collection </a> for more pictures (including my brother, Bob).
+    </p>
+
+    <h2>Engagement</h2>
+
+    <p>
+      I asked Joy to marry me at <a
+      href="http://www.nps.gov/jotr/index.htm">Joshua Tree National
+      Park</a>.  Here is a <a href="image/ring-topo.jpg">topographical
+      map</a> of the place I asked her.  And this is an <a
+      href="image/ring-aerial.jpg">aerial picture</a>.  Oddly I didn't
+      think of the <a href="image/ring.jpg">"Jumbo Rock"</a>
+      joke&mdash;she did.  More information about our wedding can be
+      found at <a
+      href="http://www.theknot.com/members/JoyMcMasters&amp;JonEricson">
+      http://www.theknot.com/members/JoyMcMasters&amp;JonEricson</a>.
+      My mom discovered that Joy and I were married on the
+      66<sup>th</sup> Anniversary of <a
+      href="http://www.joshua.tree.national-park.com/info.htm#esta">Joshua
+      Tree</a>.
+    </p>
+    <p>
+      I <a href="chug.html">chugged</a> at the meeting following our
+      engagement.
+    </p>
+    <p>
+      <img src="image/christmas2000.jpg" alt="[Image]" width=320
+      height=240> <em>Joy and I at my office Christmas Party</em>
+    </p>
+    <h2 class="mexico">Missions Trip 2001</h2>
+    <h3 class="mexico">Preparation</h3>
+    <p>
+      Joy and I went to México for two months in Summer 2001 with <a
+      href="http://www.spearhead.org">Spearhead</a>.  One of my
+      responsibilities was to write the <a
+      href="pre-spearhead2001.pdf">support letter</a>.
+    </p>
+    <h3 class="mexico">The Mission</h3>
+    <table>
+      <tr>
+          <td>
+            <img src="image/xochi.jpg" 
+                 alt="[Image of Joy and I at Xochimilco]" width=320
+                 height=231>
+          </td>
+          <td>
+            While we were in Mexico Joy wrote weekly email updates to
+            our supporters:
+            <ol>
+              <li><a href="saludos1.html">Saludos de México (June 19,
+                  2001)</a></li>
+
+              <li><a href="saludos2.html">Saludos de México (June 25,
+                  2001)</a></li>
+
+              <li><a href="saludos3.html">Saludos de México (June 30,
+                  2001)</a></li>
+
+              <li><a href="saludos4.html">Saludos de México (July 6,
+                  2001)</a></li>
+
+              <li><a href="saludos5.html">Saludos de México (July 13,
+                  2001)</a></li>
+
+              <li><a href="saludos6.html">Saludos de México (July 21,
+                  2001)</a></li>
+
+              <li><a href="saludos7.html">Saludos de México (July 31,
+                  2001)</a></li>
+
+            </ol>
+          </td>
+    </table>
+
+    <p>
+      This is one of the pictures Joy took.  Others may be found in <a
+      href="http://photos.yahoo.com/maestrajoy">Joy's photo album </a>
+      or in my <a href="mexico-photos.html">annotated photo album</a>.
+    </p>
+    <img src="image/senorpecado-small.jpg" width=90 height=70
+    alt="[Image of Jóse and Señor Pecado (me)]"> <em>The forces of
+    Good and Evil face off</em>
+    
+    <p>
+      Here is an <a href="image/mexico-aerial.jpg">aerial image of
+      Mexico City</a>.  The Spearhead office, Spanish classes,
+      meetings and Joy's family were on <a
+      href="image/mexico-map.jpg">Liverpool</a>.  More importantly (in
+      a city with a ration of public to private transportation inverse
+      compared to Los Angeles), it was close to Metro <a
+      href="image/TLinea1.jpg">Linea 1</a>, between
+      <em>Cuauhtémoc</em> and <em>Insurgentes</em>.  I lived in the
+      south-east corner of Mexico City.  It took about 20 minutes via
+      Micro (small buses) to get to <em>Constitución de 1917</em> on
+      <a href="image/TLinea8.jpg">Linea 8</a>.  From there, it took
+      another 45 minutes to an hour to get to class in the morning.
+      Joy's "commute" was 30 seconds.
+    </p>
+    <p>
+      Adam Ribbeck and I lived with José Carbente Hernandez and his
+      mother Isabel.  "Next door" (each house shares a wall with the
+      houses on either side) lived Isabel's mother (abuelita), brother
+      and his family.  One of Isabel's nieces, Marcela Reyes, lived
+      nearby and came to visit fairly often.  Every morning Isabel
+      made breakfast for us, then left to cook and clean for another
+      family in order to earn a living.  José worked all over the city
+      with a construction crew.  When we came home from Spearhead
+      events there was always some sort of juice to drink&mdash;pineapple,
+      orange, <em>tamarindo</em>, <em><a
+      href="http://www.desertusa.com/magoct97/oct_pa/du_prkpear.html">
+      tuna</a></em>(a fruit, not a fish), lime, watermelon, papaya,
+      guava, and (most importantly) <a href="pepino.html">cucumber</a>.
+    </p>
+    <h3 class="mexico">Debriefing</h3>
+    <p>
+      Joy and I wrote a <a href="post-spearhead2001.pdf">letter of
+      thanks</a>.
+    </p>
+    <h2>Family</h2>
+    <p>
+      My brother Dave got married in May, 2002.  Their
+      web-page is <a
+      href="http://www.theknot.com/members/SarahSloat&amp;DavidEricson">
+      http://www.theknot.com/members/SarahSloat&amp;DavidEricson</a>.
+    </p>
+    <p>
+      My other brother, Doug, just got engaged.  So in the proud
+      tradition of the Ericsons, he set up a <a
+      href="http://dericson.sbpnet.com/">webpage</a>.  But don't click
+      over there; it will shock you with its mediocrity.  (You asked
+      for it Doug.)
+    </p>
+    <p>
+      As far as I know, my other brother, Bob, doesn't have a website
+      and isn't engaged.  
+    </p>
+
+    <h2>Bible Study</h2>
+    <p>
+      I reformatted <a href="galatians.pdf">Galatians</a> for the <a
+      href="http://www.alphagammaomega.com">Alpha Gamma Omega
+      fraternity</a> (A&Gamma;&Omega;) Bible study that I led.
+    </p>
+
+    <h2>Church</h2>
+    <p>
+      I attend <a
+      href="http://calvarybiblechurch.org/spanishhttp://www.calvarybiblechurch.org/spanish_ministries.aspx">Iglesia
+      Biblica El Calvario</a> in Burbank.  Our pastor, Dan Balderas,
+      performed our marriage and led us in pre-marital counseling.  He
+      died in the Fall of 2003 after a long struggle with cancer.
+    </p>
+    <p>
+      <img alt="[Image]" src="image/pastor_dan.jpg" width=150
+      height=172><em>Dan Balderas</em>
+    </p>
+
+    <h2>Books</h2>
+    <p>
+      I've loved books as long as I can remember.  Lately I've been
+      using <a href="http://www.latex-project.org/">LaTeX</a> to
+      typeset public domain books like <a href="ltprn10.pdf"><em>The
+      Light Princess</em></a> by George MacDonald.  If you intend to
+      print a copy, you might want a <a href="ltprn10s.pdf">version in
+      signature format</a>.  For those interested, I also have the <a
+      href="ltprn10.tex">source file</a>.  Thanks to <a
+      href="http://www.gutenberg.org/">Project Gutenberg</a> for
+      providing the text of this and many other books in ASCII format.
+      You can also buy a copy from <a
+      href="http://www.amazon.com/exec/obidos/ASIN/0374444587/jonericson-20">
+      Amazon</a>.
+    </p>
+
+    <h2>Profession</h2>
+    <p>
+      Currently, I am a computer programmer with <a
+      href="http://jpl.stx.com/">Raytheon</a>, a contractor for the <a
+      href="http://www.jpl.nasa.gov">Jet Propulsion Laboratory</a>.
+      My project is the <a
+      href="http://tes.jpl.nasa.gov/">Tropospheric Emission
+      Spectrometer</a>, which is scheduled to launch in 2004.
+      Previously, I was part of the ground support team for the <a
+      href="http://www.jpl.nasa.gov/srtm/">Shuttle Radar Topography
+      Mission</a>.
+    </p>
+    <p>
+      Most of my work is in <a
+      href="http://www.ioccc.org/index.html">C</a>, <a
+      href="http://www.kornshell.com/">Korn shell</a> and <a
+      href="http://www.oracle.com">PL/SQL</a> at the moment, but I
+      much prefer <a href="http://perl.com/">Perl</a>.  <a
+      href="http://dev.perl.org/perl6/">Perl 6</a> is still in
+      development.
+    </p>
+    <p>
+      If you understood the previous paragraph, you've probably
+      guessed that I'm a fan of the <a
+      href="http://www.bell-labs.com/history/unix/">Unix</a> operating
+      system.  I think of it as a "literate" computer system, since
+      everything can be done by typing words.  Unlike writing (which
+      moved from hieroglyphs to letters), computer system design seems
+      to move from words to images.  I still use Windows so that I can
+      use programs like Quicken and to play games which aren't
+      available on Unix machines.  <a
+      href="http://cygwin.com/">Cygwin</a> (a Unix-like layer over
+      Microsoft Windows) is the best of both worlds.  You might find
+      this <a
+      href="http://www.cryptonomicon.com/beginning.html">essay</a> by
+      Neal Stephenson interesting, though I don't completely agree
+      with it.
+    </p>
+    <p>
+      For the purposes of full disclosure, I must say that I am an <a
+      href="http://xemacs.org">XEmacs</a> user.  It stands at one of
+      the twin peaks of Unix editor evolution.  (On the other peak
+      stands <a href="http://vim.org">Vim</a>.)  With a little work
+      you can make it do nearly anything, including <a
+      href="mail-sort.html">sort mail</a>.  It's also darn good at
+      editing documents.
+    </p>
+
+    <h2>Not <em>that</em> Jon Ericson</h2>
+    <p>
+      You might as well know that I am <em>not</em> <a
+      href="http://www.drake.edu/artsci/rhetcom/facstaff.html">a
+      Professor Emeritus of Rhetoric and Communication Studies at
+      Drake University</a>.  Nor am I <a
+      href="http://sf.www.lysator.liu.se/~chief/wstainor.html">a
+      bassist for a Scandinavian Indie band called
+      <em>Stardog</em></a>.
+    </p>
+
+
+    <hr> <a href="http://www.geocities.com/jericson">Home</a>
+    <address><a href="mailto:jlericson+index@@yahoo.com">Jon
+    Ericson</a></address>
+<!-- Created: ?? -->
+<!-- hhmts start -->
+Last modified: Mon Feb 23 16:39:30 PST 2004
+<!-- hhmts end -->
+    <p>
+      <a href="http://validator.w3.org/check?uri=http://www.geocities.com/jericson/;ss=1;sp=1;outline=1">
+        <img border="0" src="http://www.w3.org/Icons/valid-html401"
+             alt="Valid HTML 4.01!" height="31" width="88"></a>
+      <a href="http://jigsaw.w3.org/css-validator/validator?uri=http://www.geocities.com/jericson/">
+        <img style="border:0;width:88px;height:31px"
+             src="http://jigsaw.w3.org/css-validator/images/vcss"
+             alt="Valid CSS!">
+      </a>
+    </p>
+  </body> 
+</html>
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d21 2
+a22 10
+      Joy and I are having a baby!  We don't know anything about it
+      right now except that the due-date is June 15.  If you feel the
+      need to buy gifts, we put some ideas on our <a
+        href="http://www.findgift.com/cgi-local/Registry.cgi?m=View&rid=00360369963389724384039">registry</a>. 
+      (Sadly, the <a
+      href="http://www.organizedregistry.com/unipad.php?acctid=1811">
+      old registry</a> has disappeared.)  On December 11, 2002 we got
+      our first <a href="image/baby-12-11-02.jpg">look</a> at our
+      child.  I don't think either one of us believed that the
+      pregnancy was for real until we saw it.
+d34 2
+a35 2
+      Sunset Boulevard (where the baby will be born) to have a more
+      extensive ultrasound.  It was amazing!  We could see the
+d38 3
+a40 4
+      the gender, but you'll have to talk to us to find out for
+      yourself.  More importantly, the baby appears to be healthy and
+      developing well.  Most problems are found either in this
+      ultrasound or in the blood tests.
+d211 2
+a212 1
+      I attend <a href="http://calvarybiblechurch.org/spanish">Iglesia
+d214 2
+a215 1
+      performed our marriage and led us in pre-marital counseling.
+d298 2
+a299 2
+    <hr> <a href="http://home.earthlink.net/~jericson">Home</a>
+    <address><a href="mailto:jericson+index@@earthlink.net">Jon
+d303 1
+a303 1
+Last modified: Tue May 20 13:45:06 PDT 2003
+d306 1
+a306 1
+      <a href="http://validator.w3.org/check?uri=http://home.earthlink.net/~jericson/;ss=1;sp=1;outline=1">
+d309 1
+a309 1
+      <a href="http://jigsaw.w3.org/css-validator/validator?uri=http://home.earthlink.net/~jericson/">
+@

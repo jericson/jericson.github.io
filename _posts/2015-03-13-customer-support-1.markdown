@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Building a Customer Support System
-subtitle: Part 1; a Prehistory
+subtitle: Part 1
 tags: support
 ---
 
@@ -30,7 +30,7 @@ experiencing a 60% increase in ticket volume.
 
 On August 8, 2008, [Jeff Atwood](http://blog.codinghorror.com/) began
 answering questions sent to `team@`.[^1] As the site grew and as sites
-were added, the team got larger.  
+were added, the team got larger.
 
 [^1]:
 

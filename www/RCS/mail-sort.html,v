@@ -1,0 +1,205 @@
+head	1.1;
+access;
+symbols;
+locks
+	jericson:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2004.02.23.23.51.25;	author jericson;	state Exp;
+branches;
+next	;
+
+
+desc
+@Musings on sorting mail.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title>Mail Sorting Strategies</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  </head>
+
+  <body class="page">
+    <h1 class="title">Mail Sorting Strategies</h1>
+
+    <p>
+      Think a moment about how you read mail.  If you're like me,
+      there are certain people whose messages you want to read right
+      away and others whose messages you'd rather not read at all.  If
+      you are subscribed to a mailing list or two, you might want to
+      group those messages together.  Some messages you'll want to
+      keep for years and be able to find after a few minutes of
+      searching.  Some messages are from colleagues and others are
+      from friends.  Your work life and home life are
+      separate&mdash;why isn't your work and home mail?  If you
+      recognize these small frustrations using email, you, my friend,
+      need automated mail sorting.
+    </p>
+    <p>
+      Most mail programs offer the option (if you can find it) to sort
+      messages into different mailboxes based on information found in
+      email headers.  For instance a really simple strategy would be
+      to sort mail to boxes based on the From header.  If I sent you a
+      message, your mail program might create a box named "Jon
+      Ericson" and move my messages there.  Or you could sort everyone
+      who sends you mail into the "Friends" and "Foes" mailboxes.  As
+      a matter of fact, most of my sorting rules make use of the From
+      header.  I can normally predict what sort of things a
+      person will mail me about.
+    </p>
+    <p>
+      If you want to keep mailing list messages together, the From
+      header is unreliable and awkward.  That's because list server
+      software preserves the From header when it forwards mail to its
+      list.  Fortunately it normally adds other headers for the
+      purpose of allowing easy sorting and as a sort of signature.
+      A fairly reliable thing to look for is the address of the list
+      in the Sender header.
+    </p>
+    <p>
+      So far we've looked at "whitelist" strategies: sorting messages
+      from people you want to receive messages from.  Most people are
+      driven to mail sorting because they want to "blacklist" certain
+      types of messages.  Most of us would like to never again see the
+      get-rich-quick schemes, Viagra and diploma sales pitches,
+      invitations to visit pornographic web pages, and
+      who-knows-what-they-say foreign language emails.  The From
+      header is rarely useful, since spammers tend to use some bogus
+      Hotmail, Yahoo! or AOL address.
+    </p>
+    <p>
+      In the epic battle between large ISPs (who get the majority of
+      complaints) and the spammers (who are attracted to the huge
+      number of accounts) victory goes to the innovator.  When ISPs
+      blocked spam with identical Subject headers to thousands of
+      subscribers, spammers began including random numbers pushed to
+      the end by spaces.  So a simple blacklist rule is to junk
+      subjects with more than 2 spaces in a row.
+    </p>
+    <p>
+      Of course you can also censor based on certain words in the
+      Subject.  My earliest spam filter was to junk messages with the
+      string 'sex' in the Subject.  Naturally I lost a message a few
+      days later because one of my colleagues misspelled consecutive.
+      The first lesson to learn is that you should <em>never</em>
+      throw mail away without glancing over it first.  For this
+      reason, my blacklisted mail goes to the Junk mailbox, not to the
+      trash.  
+    </p>
+    <p>
+      The second lesson is to be sure to filter <em>words</em> not
+      <em>strings</em>.  Maybe I don't want to read what strangers
+      might have to say about <em>sex</em>, but perhaps I would be
+      interested in messages about <em>sex</em>tants.  (On the other
+      hand I suppose I don't care about <em>sex</em>tons.)
+    </p>
+    <p>
+      Perhaps the most important lesson though is to whitelist filter
+      aggressively before you blacklist.  You know from deduction that
+      emails from coworkers are usually about work.  You know from
+      induction that emails about sex are usually spam.  So your
+      whitelist rules tend to be more certain than your blacklist
+      rules.
+    </p>
+    <p>
+      Here's the code (Emacs lisp) that splits my mail:
+      <br/>
+      <br/>
+
+<code>
+(setq nnmail-split-methods 'bbdb/gnus-split-method)
+
+(setq nnmail-split-fancy
+      '(| (: nnmail-split-fancy-with-parent)
+          (from           mail                                       "INBOX")
+          ("sender"       "owner-advanced-sl@@multimanpublishing.com" "ASL")
+          ("sender"       "cygwin-announce-owner@@cygwin.com"         "Cygwin")
+          ("sender"       "xemacs-announce-admin@@xemacs.org"         "xemacs")
+          ("mailing-list" "perl.org"                                 "perl")
+          (to             "all.personnel@@list.jpl.nasa.gov"          "NASA")
+          ("mailing-list" "swish"                                    "swish")
+          ("content-type" "text/html\\|big5\\|gb2312\\|ks_c_.*"      "Junk")
+          ("subject"      ".*[1²°¶÷].*\\|   [0-9A-Z]\\|panties"      "Junk")
+          ("subject"      "earn"                                     "Junk")
+          ("message-id"   "tw"                                       "Junk")
+          (from           "jpl.nasa.gov"                             "NASA")
+          (from           "raytheon.com"                             "Raytheon")
+          ("precedence"   "bulk"                                     "Junk")
+          (to             "Ericson\\|jlericson"                      "INBOX")
+          (to             "jericson@@earthlink.net"                   "INBOX")
+;          ("x-mindspring-loop" "jericson.earthlink.net"              "INBOX")
+          "Junk"))
+</code>
+    </p>
+    <p>
+      The first line sorts mail from people I know using <em><a
+      href="http://bbdb.sourceforge.net/">Insidious Big Brother
+      Database</a></em>.  It's basically an address book that links
+      with <a href="http://www.gnus.org">Gnus</a> (the News/Mail
+      reader for Emacs).  <br/> <br/>
+<code>
+(setq nnmail-split-methods 'bbdb/gnus-split-method)
+</code>
+    </p>
+    <p>
+      Then I sort mailing lists:
+      <br/>
+      <br/>
+<code>
+(setq nnmail-split-fancy
+      '(| (: nnmail-split-fancy-with-parent)
+          (from           mail                                       "INBOX")
+          ("sender"       "owner-advanced-sl@@multimanpublishing.com" "ASL")
+          ("sender"       "cygwin-announce-owner@@cygwin.com"         "Cygwin")
+          ("sender"       "xemacs-announce-admin@@xemacs.org"         "xemacs")
+          ("mailing-list" "perl.org"                                 "perl")
+          (to             "all.personnel@@list.jpl.nasa.gov"          "NASA")
+          ("mailing-list" "swish"                                    "swish")
+</code>
+    </p>
+    <p>
+      Next, get rid of likely spam:
+      <br/>
+      <br/>
+<code>
+          ("content-type" "text/html\\|big5\\|gb2312\\|ks_c_.*"      "Junk")
+          ("subject"      ".*[1²°¶÷].*\\|   [0-9A-Z]\\|panties"      "Junk")
+          ("subject"      "earn"                                     "Junk")
+          ("message-id"   "tw"                                       "Junk")
+          (from           "jpl.nasa.gov"                             "NASA")
+          (from           "raytheon.com"                             "Raytheon")
+          ("precedence"   "bulk"                                     "Junk")
+
+          (to             "Ericson\\|jlericson"                      "INBOX")
+          (to             "jericson@@earthlink.net"                   "INBOX")
+;          ("x-mindspring-loop" "jericson.earthlink.net"              "INBOX")
+          "Junk"))
+</code>
+      
+    </p>
+
+
+    <hr> <a href="http://home.earthlink.net/~jericson">Home</a>
+    <address><a href="mailto:jericson+mail-sort@@earthlink.net">Jon
+    Ericson</a></address>
+
+<!-- Created: Tue Feb 12 18:39:25 PST 2002 -->
+<!-- hhmts start -->
+Last modified: Tue May 20 13:46:03 PDT 2003
+<!-- hhmts end -->
+  </body>
+</html>
+<!--  LocalWords:  tants
+ -->
+@

@@ -1,0 +1,57 @@
+head	1.1;
+access;
+symbols;
+locks
+	jericson:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2004.02.23.23.51.25;	author jericson;	state Exp;
+branches;
+next	;
+
+
+desc
+@Some thoughts on AGO's doughnut giveaway.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title>Doughnuts</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  </head>
+
+  <body>
+    <h1>Doughnuts</h1>
+
+    <p>
+      Perhaps coffee and doughnuts are too mundane to have any deep
+      spiritual significance.  
+      <a
+      href="http://www.dailybruin.bruin.net/db/articles.asp?ID=18258">Andrew
+      Taylor's Daily Bruin article</a> <a
+      href="http://www.dailybruin.bruin.net/db/articles.asp?ID=18332">Andrew
+      Ahlering's response</a> <a
+      href="http://www.dailybruin.bruin.net/db/articles.asp?ID=18390">Susan Eckerman's letter</a>
+    </p>
+
+    <hr> <a href="http://home.earthlink.net/~jericson">Home</a>
+    <address><a href="mailto:jericson+doughnuts@@earthlink.net">Jon
+    Ericson</a></address>
+
+<!-- Created: Fri Feb 22 11:22:10 PST 2002 -->
+<!-- hhmts start -->
+Last modified: Tue May 20 13:24:40 PDT 2003
+<!-- hhmts end -->
+  </body>
+</html>
+@

@@ -9,7 +9,7 @@ Over the years, I've used a number of blogging options, including:
 
 * [A handmade blog on Geocities.](https://web.archive.org/web/20091026234407/http://geocities.com/jlericson/)
 * [Blogger](http://4of2.blogspot.com/)
-* [WordPress.com](taking1and1.wordpress.com)
+* [WordPress.com](http://taking1and1.wordpress.com)
 * [Medium](https://medium.com/@jlericson)
 
 Of those, my clucky, manually designed Geocities page was the most

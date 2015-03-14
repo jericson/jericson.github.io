@@ -4,3 +4,7 @@ _site/
 
 # Emacs
 *~
+
+# Backups
+
+*.bak
