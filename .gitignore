@@ -10,3 +10,6 @@ _site/
 
 # OSX
 .DS_store
+
+# RCS
+RCS
