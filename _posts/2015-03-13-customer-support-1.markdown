@@ -2,6 +2,7 @@
 layout: post
 title:  Building a customer support system (part 1)
 tag: support
+author: Jon Ericson
 ---
 
 Before I was
