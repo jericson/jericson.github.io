@@ -1,4 +1,4 @@
-#!/usr/local/bin/ksh
+#!/usr/bin/env ksh
 comment=$1
 
 git add --all

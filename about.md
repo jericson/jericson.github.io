@@ -87,8 +87,9 @@ GitHub repository. Instead of FTPing the output, I just push the
 source from my local machine. If GitHub stops hosting pages, I'd have
 all my content and the tools I need to generate it under my control. I
 get the best of both cloud and local storage with automatic version
-control built right in. If you are a programmer who likes to write,
-there's no reason not to try it out.
+control built right in. (My Geocities setup was backed by RCS, but
+that was considerably less convenient.) If you are a programmer who
+likes to write, there's no reason not to try it out.
 
 ---
 
@@ -101,5 +102,5 @@ of free, community-driven Q&amp;A sites" title="profile for Jon
 Ericson on Stack Exchange, a network of free, community-driven Q&amp;A
 sites" /></a>
 
-
-
+<!--  LocalWords:  Geocities WordPress html LocalWords
+ -->
