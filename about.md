@@ -15,17 +15,17 @@ Over the years, I've used a number of blogging options, including:
 Of those, my clunky, manually designed Geocities page was the most
 satisfying. I won't go into detail, but each of the other options are
 limited in some way or another by the whims of the blog software
-developers. With a hand built page, I just edited some HTML and FTPed
+developers. With a hand-built page, I just edited some HTML and FTPed
 it to the server. If anything looked off, I fixed it.
 
 One of my frustrations with building my own web page was writing
 HTML. Having to open and close tags makes authoring in HTML a tedious
 pain. I would have preferred to write my blog in
 [Pod](http://perldoc.perl.org/perlpod.html) or, better yet,
-[LaTeX](http://www.latex-project.org/). While that did solve the
-authoring problem, it required a `*2html` script. Converting from one
-format to another is complicated and error prone. In 2001, I wrote my
-resume in Pod. It started with this section:
+[LaTeX](http://www.latex-project.org/). While that would solve the
+authoring problem, it also requires complicated and error prone
+`*2html` scripts. In 2001, I wrote my resume in Pod. It started with
+this section:
 
     =begin latex
 
@@ -58,7 +58,9 @@ addicted to subtitles, which is not an option provided by the base
 theme. No matter. I just added a line to `_layout/page.html`:
 
 {% raw %}
-    {%if page.subtitle %}<h2 class="post-subtitle">{{ page.subtitle }}</h2>{% endif %}
+    {%if page.subtitle %}
+      <h2 class="post-subtitle">{{ page.subtitle }}</h2>
+    {% endif %}
 {% endraw %}
     
 Then I can add in the
