@@ -12,7 +12,7 @@ Over the years, I've used a number of blogging options, including:
 * [WordPress.com](http://taking1and1.wordpress.com)
 * [Medium](https://medium.com/@jlericson)
 
-Of those, my clucky, manually designed Geocities page was the most
+Of those, my clunky, manually designed Geocities page was the most
 satisfying. I won't go into detail, but each of the other options are
 limited in some way or another by the whims of the blog software
 developers. With a hand built page, I just edited some HTML and FTPed
@@ -102,5 +102,5 @@ of free, community-driven Q&amp;A sites" title="profile for Jon
 Ericson on Stack Exchange, a network of free, community-driven Q&amp;A
 sites" /></a>
 
-<!--  LocalWords:  Geocities WordPress html LocalWords
+<!--  LocalWords:  Geocities WordPress html LocalWords permalink
  -->
