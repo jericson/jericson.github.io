@@ -1,4 +1,4 @@
-[jericson.github.io](http://jericson.github.io/)
+# [jericson.github.io](http://jericson.github.io/)
 
 Try my [Feedback Wiki](wiki/Feedback-Wiki) for public
 comments. Otherwise, my contact information can be found on the bottom
