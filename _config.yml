@@ -2,7 +2,7 @@
 title: Pathological Writer
 email: jericson@stackexchange.com
 description: > # this means to ignore newlines until "baseurl:"
-  Community Manager at Stack Exchange. What's a Community Manager?
+  What's a Community Manager at Stack Exchange?
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jericson.github.io/" # the base hostname & protocol for your site
 author: Jon Ericson
