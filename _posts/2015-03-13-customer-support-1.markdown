@@ -58,7 +58,7 @@ From what I gather, the way it worked was:
 1. At the start of each person's day, they logged into the shared
    Gmail account via an incognito window[^2] and added their name as a
    a label to all tickets that came in over night. As new tickets came
-   in, they'd need to be labeled as well.
+   in, they'd need to be labeled as well. 
 
 2. Emails were answered one at a time with the help of an array of
    canned responses. Unfortunately, canned responses have a habit of
@@ -78,16 +78,15 @@ So the shared email account had been pushed to the limits by the time
 I arrived and
 [Tim Post](http://blog.stackoverflow.com/2013/05/welcome-tim-post-our-latest-community-manager/)
 evaluated several options and settled on
-[Zendesk](https://www.zendesk.com/) to replace it. The new system
-solved the two problems with Gmail:
+[Zendesk](https://www.zendesk.com/) to replace it. Unlike Gmail:
 
 1. Each user (or "Agent") has their own login credentials so there's
    no need to manually label your tickets. Tickets carry status with
-   them so you can filter just those that require your attention. They
-   can also be sorted by last update or by subject line. Once you have
-   a list of tickets, you can "Play" the list so that the next in line
-   is automatically loaded as you submit changes. If you have
-   specialists (such as our
+   them so you can filter just unsolved tickets that require your
+   attention. They can also be sorted by last update or by subject
+   line. Once you have a list of tickets, you can "Play" the list so
+   that the next in line is automatically loaded as you submit
+   changes. If you have specialists (such as our
    [Portuguese-](http://blog.stackoverflow.com/2013/08/introducing-gabe-the-smiling-community-manager/)
    and
    [Japanese-](http://blog.stackoverflow.com/2014/07/please-welcome-jmac-community-manager-of-the-rising-sun/)speaking
@@ -114,7 +113,8 @@ team (such as
 [Stack Overflow Careers](http://careers.stackoverflow.com/)) without
 losing the original email headers. As a bonus, we aren't
 [locked into](http://www.joelonsoftware.com/articles/fog0000000032.html)
-their service, though after a year and a half that's moot point.
+their service, though after a year and a half that's probably a moot
+point.
 
 **Next time:** scaling by hiring.
 

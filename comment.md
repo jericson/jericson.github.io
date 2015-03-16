@@ -13,8 +13,7 @@ comments are an entirely experimental feature. My gauge for success is:
 
 However, comments are emailed to my personal account and I keep a copy
 in case I ever change my mind about publishing. If you left an email,
-I'll try to respond. But you might be better off sending me an email
-directly.
+I'll try to respond. 
 
 For the curious, I'm using
 [Poole](http://hawksworx.com/blog/adding-a-static-comments-system-to-my-jekyll-build/)
