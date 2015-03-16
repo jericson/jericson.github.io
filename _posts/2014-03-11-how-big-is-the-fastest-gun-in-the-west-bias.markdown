@@ -127,9 +127,5 @@ and dangerous.  Only the best survive long.
     more obscure questions can be both valuable to human knowledge and
     rewarding in terms of reputation.
 
----
-
-Please leave any feedback on the [original question](http://meta.stackexchange.com/q/225033/1438).
-
-<!--  LocalWords:  http stackexchange
+<!--  LocalWords:  http stackexchange LocalWords
  -->
