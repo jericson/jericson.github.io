@@ -2,6 +2,7 @@
 layout: page
 title: About
 subtitle: Why Jekyll?
+comments: yes
 permalink: /about/
 ---
 
