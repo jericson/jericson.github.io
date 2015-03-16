@@ -2,7 +2,7 @@
 layout: post
 title:  Building a Customer Support System
 subtitle: Part 1
-comments: 1
+comments: yes
 tags: support
 ---
 
@@ -13,16 +13,17 @@ I wrote in an email:
 > The variety of work, especially new features, sounds like a welcome
 change of pace for me.  I like the "user support" stuff too.
 
-Since I'm generally able to solve people's problems on the sites or at
-least give them advice, this turns out to be true. We control our
-schedule, so I typically mix answering meta posts, responding to
-moderator chat pings, and handling user emails and flags between work
-on bigger projects like
+I typically mix answering meta posts, responding to moderator chat
+pings, and handling user emails and flags between work on bigger
+projects like
 [new features](http://meta.stackexchange.com/q/234259/1438) and
-[events](http://blog.stackoverflow.com/2014/12/winter-bash-2014/). Moving
-from one task to the next provides me feeling productivity that I
-didn't have with previous jobs. There's nothing like knowing you left
-the world a little bit better at the end of the day.
+[events](http://blog.stackoverflow.com/2014/12/winter-bash-2014/), so
+there is certainly plenty of variety. Moving from one task to the next
+provides me feeling productivity that I didn't have with previous
+jobs. Since I'm generally able to solve people's problems on the
+sites, user support turns out to be satisfying as well. There's
+nothing like knowing you left the world a little bit better at the end
+of the day.
 
 However, our job also requires each of us to regularly respond to
 requests sent to
@@ -42,8 +43,8 @@ misery factor of customer support even as our contact rate doubled:
 
 On August 8, 2008, [Jeff Atwood](http://blog.codinghorror.com/) began
 answering questions sent to `team@`.[^1] Presumably the other members
-of the team had access to the email account, but most of the the sent
-messages are either unsigned or signed by
+of the team had access to the email account, but most of the early
+replies are either unsigned or signed by
 Jeff. [Jarrod](http://blog.stackoverflow.com/2009/01/welcome-stack-overflow-valued-associate-00002/)
 and
 [Geoff](http://blog.stackoverflow.com/2009/05/welcome-stack-overflow-valued-associate-00003/)
@@ -57,7 +58,7 @@ From what I gather, the way it worked was:
 1. At the start of each person's day, they logged into the shared
    Gmail account via an incognito window[^2] and added their name as a
    a label to all tickets that came in over night. As new tickets came
-   in, they'd need to be labeled as well until the end of the shift.[^3]
+   in, they'd need to be labeled as well.
 
 2. Emails were answered one at a time with the help of an array of
    canned responses. Unfortunately, canned responses have a habit of
@@ -66,17 +67,19 @@ From what I gather, the way it worked was:
 Just before I was hired in July of 2013, the team handled over a
 thousand tickets a month with the equivalent of one full-time employee
 (spread across 5 actual employees). Assuming nobody worked more than a
-40 hour week (ha!), that works out to over 6 tickets an hour. Tickets
+40 hour week (ha!), that's  over 6 tickets an hour. Tickets
 take a variable amount of time and effort to clear. Some cost a minute
 or two to triage and send the appropriate canned response. Others take
-several hours of investigation and a carefully composed reply. 
+several hours of investigation and a carefully composed reply.
 
 # Enter Zendesk
 
 So the shared email account had been pushed to the limits by the time
 I arrived and
 [Tim Post](http://blog.stackoverflow.com/2013/05/welcome-tim-post-our-latest-community-manager/)
-settled on [Zendesk](https://www.zendesk.com/) to replace it. That solved the two problems with using Gmail:
+evaluated several options and settled on
+[Zendesk](https://www.zendesk.com/) to replace it. The new system
+solved the two problems with Gmail:
 
 1. Each user (or "Agent") has their own login credentials so there's
    no need to manually label your tickets. Tickets carry status with
@@ -111,7 +114,7 @@ team (such as
 [Stack Overflow Careers](http://careers.stackoverflow.com/)) without
 losing the original email headers. As a bonus, we aren't
 [locked into](http://www.joelonsoftware.com/articles/fog0000000032.html)
-their service.
+their service, though after a year and a half that's moot point.
 
 **Next time:** scaling by hiring.
 
@@ -135,13 +138,6 @@ email or the `team@` archives.
 other Gmail accounts you might have. Loading `team@` in another
 browser could work too. These days there's enough support for multiple
 Google addresses that might not be necessary.
-
-[^3]:
-
-    By the time I started at Stack Exchange, shifts started and ended
-    at 10am Eastern. Since most of our team are in that timezone,
-    there might not be any tickets to label at the start of the
-    workday.
 
 <!-- LocalWords: Zendesk LocalWords login Shog heyer http html
 joelonsoftware -->

@@ -1,7 +1,7 @@
 ---
 layout: default
 subtitle: Thanks for the comment
-comments: 1
+comments: yes
 permalink: /comment.html
 ---
 
@@ -19,7 +19,7 @@ directly.
 For the curious, I'm using
 [Poole](http://hawksworx.com/blog/adding-a-static-comments-system-to-my-jekyll-build/)
 to store comments. If you copy
-[my source code](https://github.com/jericson/jericson.github.io/blob/master/_includes/comments.html),
+[my source code](https://github.com/jericson/jericson.github.io/blob/master/_includes/comments.html jericson.github.io/_includes/comments.html),
 please use your own API key.
 
 And just in case you want to try again:
