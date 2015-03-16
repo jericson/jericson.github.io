@@ -1,5 +1,7 @@
+{% if page.comments %}
 <hr>
 
+<!-- If you copy this file, please use your own Poole API key and not mine! -->
 <form action="http://pooleapp.com/stash/1e2f8c89-86d7-408b-bf73-be6b2953a3c1/" method="post">
   <h2>Leave feedback</h2>
   <input type="hidden" name="redirect_to" value="{{ site.url }}comment.html" />
@@ -13,3 +15,4 @@
   <textarea name="comment" class="comment-text"></textarea><br />
   <input type="submit" value="comment" />
 </form>
+{% endif %}

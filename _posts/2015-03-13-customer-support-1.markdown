@@ -2,6 +2,7 @@
 layout: post
 title:  Building a Customer Support System
 subtitle: Part 1
+comments: 1
 tags: support
 ---
 
@@ -94,16 +95,23 @@ settled on [Zendesk](https://www.zendesk.com/) to replace it. That solved the tw
 2. Instead of canned responses, Zendesk offers macros that not only
    send a reply to the user, but also automate ticket handling tasks
    such as categorizing response type. We have a simple templating
-   system so that we can insert site-specific URLs into our responses.
-
-   In addition,
+   system so that we can insert site-specific URLs into our
+   responses. In addition,
    [Shog9](http://blog.stackoverflow.com/2011/03/welcome-valued-associate-josh-heyer/)
    has written a suite of scripts to help us find the information we
    need to diagnose problems quickly. His work with the
    [developer tools](https://developer.zendesk.com/) has probably
    saved us thousands of clicks so far.
 
-
+This isn't a full review of Zendesk and we only use a small fraction
+of the available features. One feature we liked was the ability to
+pass messages through our existing `team@` email system. This can be
+helpful when we need to forward a message to another Stack Exchange
+team (such as
+[Stack Overflow Careers](http://careers.stackoverflow.com/)) without
+losing the original email headers. As a bonus, we aren't
+[locked into](http://www.joelonsoftware.com/articles/fog0000000032.html)
+their service.
 
 **Next time:** scaling by hiring.
 
@@ -135,5 +143,5 @@ Google addresses that might not be necessary.
     there might not be any tickets to label at the start of the
     workday.
 
-<!--  LocalWords:  Zendesk LocalWords login Shog heyer 
- -->
+<!-- LocalWords: Zendesk LocalWords login Shog heyer http html
+joelonsoftware -->
