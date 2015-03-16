@@ -68,7 +68,7 @@ thousand tickets a month with the equivalent of one full-time employee
 40 hour week (ha!), that works out to over 6 tickets an hour. Tickets
 take a variable amount of time and effort to clear. Some cost a minute
 or two to triage and send the appropriate canned response. Others take
-several hours of investigation and a carefully composed reply.
+several hours of investigation and a carefully composed reply. 
 
 # Enter Zendesk
 
@@ -78,18 +78,30 @@ I arrived and
 settled on [Zendesk](https://www.zendesk.com/) to replace it. That solved the two problems with using Gmail:
 
 1. Each user (or "Agent") has their own login credentials so there's
-   no need to manually label your tickets.
+   no need to manually label your tickets. Tickets carry status with
+   them so you can filter just those that require your attention. They
+   can also be sorted by last update or by subject line. Once you have
+   a list of tickets, you can "Play" the list so that the next in line
+   is automatically loaded as you submit changes. If you have
+   specialists (such as our
+   [Portuguese-](http://blog.stackoverflow.com/2013/08/introducing-gabe-the-smiling-community-manager/)
+   and
+   [Japanese-](http://blog.stackoverflow.com/2014/07/please-welcome-jmac-community-manager-of-the-rising-sun/)speaking
+   Community Managers), they can set up triggers to have specific
+   types of tickets assigned the them. In terms of workflow, Zendesk
+   improves on Gmail exponentially.
 
 2. Instead of canned responses, Zendesk offers macros that not only
    send a reply to the user, but also automate ticket handling tasks
-   such as categorizing the response type.
+   such as categorizing response type. We have a simple templating
+   system so that we can insert site-specific URLs into our responses.
 
-In the year and a half since we started using Zendesk,
-[Shog9](http://blog.stackoverflow.com/2011/03/welcome-valued-associate-josh-heyer/)
-has written a suite of scripts to help us find the information we need
-to diagnose problems quickly. His work with the
-[developer tools](https://developer.zendesk.com/) has probably saved
-us thousands of clicks so far.
+   In addition,
+   [Shog9](http://blog.stackoverflow.com/2011/03/welcome-valued-associate-josh-heyer/)
+   has written a suite of scripts to help us find the information we
+   need to diagnose problems quickly. His work with the
+   [developer tools](https://developer.zendesk.com/) has probably
+   saved us thousands of clicks so far.
 
 
 
