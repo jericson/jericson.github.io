@@ -57,8 +57,8 @@ From what I gather, the way it worked was:
 
 1. At the start of each person's day, they logged into the shared
    Gmail account via an incognito window[^2] and added their name as a
-   a label to all tickets that came in over night. As new tickets came
-   in, they'd need to be labeled as well. 
+   label to all tickets that came in over night. As new tickets came
+   in, they'd need to be labeled as well.
 
 2. Emails were answered one at a time with the help of an array of
    canned responses. Unfortunately, canned responses have a habit of
