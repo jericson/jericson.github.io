@@ -5,6 +5,8 @@ _drafts/
 
 # Emacs
 *~
+\#*\#
+.\#*
 
 # Backups
 *.bak
