@@ -89,7 +89,9 @@ In the year and a half since we started using Zendesk,
 has written a suite of scripts to help us find the information we need
 to diagnose problems quickly. His work with the
 [developer tools](https://developer.zendesk.com/) has probably saved
-us thousands of clicks.
+us thousands of clicks so far.
+
+
 
 **Next time:** scaling by hiring.
 
