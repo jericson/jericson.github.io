@@ -18,3 +18,5 @@ directly.
 For the curious, I'm using
 [Poole](http://hawksworx.com/blog/adding-a-static-comments-system-to-my-jekyll-build/)
 to store comments.
+
+{% include comments.html %}
