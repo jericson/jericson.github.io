@@ -14,7 +14,7 @@ So far my layout is pretty basic. But I have added the following:
 ## Licence clarification
 
 Any code I write is currently licenced under the Artistic
-License. (But that's not set in stone. I you'd like me to release
+License. (But that's not set in stone. If you'd like me to release
 under a different license for some reason, just ask.)
 
 I retain copyright on my own content (essentially everything not under
