@@ -48,6 +48,7 @@ GEM
       net-dns (~> 0.6)
       public_suffix (~> 1.4)
     hitimes (1.2.2)
+    hpricot (0.8.6)
     html-pipeline (1.9.0)
       activesupport (>= 2)
       nokogiri (~> 1.4)
@@ -140,5 +141,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (= 33)
+  hpricot
   html-proofer
   json

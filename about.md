@@ -75,24 +75,24 @@ tab. That reduces the edit-compile-run-debug cycle to (almost) the
 bare minimum. The one tweak I'd like to make is for the page to be
 reloaded automatically when I make a change.
 
-So the authoring side is pretty well handled by Jekyll. Hosting has
-come a long way since Geocities. I fully expect Blogspot to be
-discontinued in the future, which will mean importing my old content
-or relying on the
-[Wayback Machine](https://archive.org/web/). WordPress.com is probably
-viable as long as
-[Automattic](http://en.wikipedia.org/wiki/Automattic) remains
-privately owned and profitable. Who knows about Medium? I guess
-there's a way to download a zip file in case that gets shut down.
+On the hosting side, [GitHub Pages](https://pages.github.com/) are
+served by a GitHub repository. Instead of FTPing the output, I just
+push the source from my local machine. If GitHub stops hosting pages,
+I'd have all my content and the tools I need to generate it under my
+control. I get the best of both cloud and local storage with automatic
+version control built right in. (My Geocities setup was backed by RCS,
+but that was considerably less convenient.) If you are a programmer
+who likes to write, there's no reason not to try it out.
 
-By contrast, [GitHub Pages](https://pages.github.com/) are served by a
-GitHub repository. Instead of FTPing the output, I just push the
-source from my local machine. If GitHub stops hosting pages, I'd have
-all my content and the tools I need to generate it under my control. I
-get the best of both cloud and local storage with automatic version
-control built right in. (My Geocities setup was backed by RCS, but
-that was considerably less convenient.) If you are a programmer who
-likes to write, there's no reason not to try it out.
+Unexpectedly, Jekyll imports several of my legacy blogs seamlessly. I
+no longer need to rely on the
+[Wayback Machine](https://archive.org/web/) to serve
+[my Geocities pages](/geocities) or
+[my Medium post](/medium/A-readthrough-of-Roe-v--Wade.html). All I had
+to do was put them in sub-directories under my source directory and
+Jekyll collected them into the site. I have my Blogger and
+WordPress.com blogs saved as XML files ready to be
+[deployed](http://import.jekyllrb.com/docs/home/) if needed.
 
 ---
 
@@ -105,5 +105,7 @@ of free, community-driven Q&amp;A sites" title="profile for Jon
 Ericson on Stack Exchange, a network of free, community-driven Q&amp;A
 sites" /></a>
 
-<!--  LocalWords:  Geocities WordPress html LocalWords permalink
+<!--  LocalWords:  Geocities WordPress html LocalWords permalink RCS
+ -->
+<!--  LocalWords:  Wayback geocities
  -->
