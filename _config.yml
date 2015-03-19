@@ -1,5 +1,6 @@
 # Site settings
 title: Jon Quixote
+icon: /images/donquixote.gif
 email: jericson@stackexchange.com
 description: > # this means to ignore newlines until "baseurl:"
   What does a Community Manager at Stack Exchange do?
@@ -17,3 +18,5 @@ defaults:
 
 # Build settings
 markdown: kramdown
+
+# LocalWords:  jericson LocalWords kramdown

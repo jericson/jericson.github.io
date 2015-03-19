@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Building a Customer Support System
+title:  Building a customer support system
 subtitle: Part 1
 comments: yes
 tags: support
