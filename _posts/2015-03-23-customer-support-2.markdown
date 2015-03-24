@@ -117,7 +117,7 @@ recovery page and ask them to follow the directions.
 I was planning on writing out the other 5 steps, but it's my `team@`
 week and this has turned into procrastination time.
 
-Next time, I'll either talk more about Joel's Seven Steps or go into
+**Next time:** I'll either talk more about Joel's Seven Steps or go into
 other things we've done to improve our system.
 
 
