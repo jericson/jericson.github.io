@@ -116,7 +116,7 @@ losing the original email headers. As a bonus, we aren't
 their service, though after a year and a half that's probably a moot
 point.
 
-**Next time:** scaling by hiring.
+**Next time:** [scaling by hiring]({% post_url 2015-03-23-customer-support-2 %}.
 
 ---
 
@@ -139,5 +139,5 @@ other Gmail accounts you might have. Loading `team@` in another
 browser could work too. These days there's enough support for multiple
 Google addresses that might not be necessary.
 
-<!-- LocalWords: Zendesk LocalWords login Shog heyer http html
+<!-- LocalWords: Zendesk LocalWords login Shog heyer http html url
 joelonsoftware -->
