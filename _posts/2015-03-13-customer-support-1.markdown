@@ -116,7 +116,7 @@ losing the original email headers. As a bonus, we aren't
 their service, though after a year and a half that's probably a moot
 point.
 
-**Next time:** [scaling by hiring]({% post_url 2015-03-23-customer-support-2 %}.
+**Next time:** [scaling by hiring]({% post_url 2015-03-23-customer-support-2 %}).
 
 ---
 
