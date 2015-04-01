@@ -91,7 +91,7 @@ now that they understand how folks on other sites felt about the
 strategy. And I, for one, gained a greater appreciation of the clever
 users of Code Golf. They aren't evil at all; just misunderstood.
 
-So maybe today hasn't been so bad after all.
+So maybe tomorrow hasn't been so bad after all.
 
-<!--  LocalWords:  Toxoplasma Tamagotchi StackEgg
+<!--  LocalWords:  Toxoplasma Tamagotchi StackEgg png
 LocalWords -->
