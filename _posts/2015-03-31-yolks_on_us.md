@@ -13,8 +13,13 @@ our users to play. It's called
 [StackEgg](http://meta.stackoverflow.com/questions/289032/whats-stackegg). Users
 vote on a
 [Twitch Plays _Pokémon_](http://en.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon)
-sort of way. Because of timezones, the game started before I woke up
-and we'd already [DDoSed ourselves](https://twitter.com/df07/status/582906770034683904):
+sort of way. Each community owns their own pet site and work together
+to help it grow from private beta to public beta to graduation to
+"winning the internet". The idea was to give people an overly
+simplistic model of how Stack Exchange sites grow.
+
+Because of timezones, the game started before I woke up
+and we'd already [crashed our own sites](https://twitter.com/df07/status/582906770034683904):
 
 ![The _yolk's_ on us.](https://pbs.twimg.com/media/CBbmnlpUMAEAuBi.png)
 
@@ -82,7 +87,7 @@ their Stackagotchi had matured. But that idea fell by the wayside as
 the deadline approached. We gave users a network leaderboard, but no
 other way for sites to interact. In retrospect, it was inevitable that
 the raiding strategy would develop. What's surprising was how
-_quickly_ Code Review discovered it.
+_quickly_ Code Golf discovered the exploit.
 
 Thankfully, the controversy has mostly blown over already. As far as I
 can tell, the treatment regimen was good, old-fashioned
