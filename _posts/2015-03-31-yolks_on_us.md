@@ -14,7 +14,7 @@ our users to play. It's called
 vote on a
 [Twitch Plays _Pokémon_](http://en.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon)
 sort of way. Because of timezones, the game started before I woke up
-and we'd already DDoSed ourselves:
+and we'd already [DDoSed ourselves](https://twitter.com/df07/status/582906770034683904):
 
 ![The _yolk's_ on us.](https://pbs.twimg.com/media/CBbmnlpUMAEAuBi.png)
 
@@ -93,5 +93,5 @@ users of Code Golf. They aren't evil at all; just misunderstood.
 
 So maybe tomorrow hasn't been so bad after all.
 
-<!--  LocalWords:  Toxoplasma Tamagotchi StackEgg png
+<!--  LocalWords:  Toxoplasma Tamagotchi StackEgg png DDoSed
 LocalWords -->
