@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Building a customer support system
-subtitle: Part 1
+subtitle: Moving from email to Zendesk
 comments: yes
 tags: support
 ---

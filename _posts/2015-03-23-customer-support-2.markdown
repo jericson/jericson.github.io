@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Building a customer support system
-subtitle: Part 2
+subtitle: Training
 comments: yes
 tags: support
 ---
@@ -117,8 +117,7 @@ recovery page and ask them to follow the directions.
 I was planning on writing out the other 5 steps, but it's my `team@`
 week and this has turned into procrastination time.
 
-**Next time:** I'll either talk more about Joel's Seven Steps or go into
-other things we've done to improve our system.
+**Next time:** [more of Joel's Seven Steps]({% post_url 2015-04-06-customer-support-3 %}).
 
 
 

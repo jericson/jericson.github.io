@@ -1,5 +1,6 @@
 #!/usr/bin/env ksh
-post=$1
+draft=$1
+echo $draft | sed -e "s|_drafts/|_posts/`date +%Y-%m-%d`-|" | read post
 
-mv _drafts/$post _posts/`date +%Y-%m-%d`-$post
+mv $draft $post 
 ./htmlproof.sh
