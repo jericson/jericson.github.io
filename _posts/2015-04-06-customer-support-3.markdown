@@ -120,9 +120,7 @@ problems. Using them _also_ makes it easy to ignore hostile language
 in the ticket and focus on solving the user's underlying problem.
 
 
-**Next time:** I've been experimenting with a simple interface change
-  to decrease the number of tickets from people who are not our
-  users. It's noticeably reduced our 3<sup>rd</sup> party tickets.
+**Next time:** [reducing 3<sup>rd</sup> party tickets]({% post_url 2015-04-08-customer-support-4 %}).
 
 
 <!--  LocalWords:  Zendesk LocalWords login Shog heyer  wikipedia api
