@@ -13,12 +13,12 @@ So far my layout is pretty basic. But I have added the following:
 
 * Tag pages are built with the
   [jekyll-tagging plugin](https://github.com/pattex/jekyll-tagging). Since
-  Github pages are generated in safe mode, the process is a bit
+  GitHub Pages are generated in safe mode, the process is a bit
   convoluted:
 
     1. Build `_site/tag` with `jekyll build` on my local machine.
-    2. Move `site/tag` to `tag` and push changes to Github.
-    3. Github copies `tag` back to `_site/tag` so that they are served
+    2. Move `site/tag` to `tag` and push changes to GitHub.
+    3. GitHub copies `tag` back to `_site/tag` so that they are served
        on the site.
 
   It's important to remove the `tag` directory before running Jekyll
@@ -46,5 +46,5 @@ simplicity's sake, I will probably settle on putting everything under
 Creative Commons at some point. But not today.
 
 
-<!--  LocalWords:  css sa LocalWords html jekyll Github
+<!--  LocalWords:  css sa LocalWords html jekyll GitHub
  -->
