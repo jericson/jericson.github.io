@@ -20,4 +20,10 @@ defaults:
 # Build settings
 markdown: kramdown
 
+# Tags (https://github.com/pattex/jekyll-tagging)
+tag_page_layout: tag_page
+tag_page_dir: tag
+#tag_feed_layout: tag_feed
+#tag_feed_dir: tag
+
 # LocalWords:  jericson LocalWords kramdown herf ericson http

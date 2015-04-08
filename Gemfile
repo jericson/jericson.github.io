@@ -9,3 +9,4 @@ gem 'hpricot'
 
 gem 'html-proofer'
 
+gem 'jekyll-tagging'
