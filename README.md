@@ -5,7 +5,10 @@
 So far my layout is pretty basic. But I have added the following:
 
 * Posts and pages may now have a `subtitle` attribute for alternate or
-  extended titles.
+  extended titles. One of the sneaky benefits of my setup is that you
+  can create a page that doesn't show up in the top bar menu by
+  including a subtitle and leaving the title blank. (See my hidden
+  page about [comments](http://jericson.github.io/comment.html).
 
 * Comments (powered by [Poole](http://pooleapp.com/)) can be turned on
   by adding `comments: yes` to the front matter of posts and
@@ -18,7 +21,7 @@ So far my layout is pretty basic. But I have added the following:
   convoluted:
 
     1. Build `_site/tag` with `jekyll build` on my local machine.
-    2. Move `site/tag` to `tag` and push changes to GitHub.
+    2. Copy `_site/tag` to `tag` and push changes to GitHub.
     3. GitHub copies `tag` back to `_site/tag` so that they are served
        on the site.
 
