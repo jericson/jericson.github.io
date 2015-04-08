@@ -12,7 +12,7 @@ layout: default
       {% endif %}
       {% if page.tags %}
       • {% for tag in page.tags %}
-          [{{ tag }}]
+          [<a href="/tag/{{ tag }}.html">{{ tag }}</a>]
         {% endfor %}
       {% endif %}
     </p>
