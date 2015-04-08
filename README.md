@@ -11,6 +11,26 @@ So far my layout is pretty basic. But I have added the following:
   adding `comments: yes` to the front matter of posts and
   pages. For more information, see <http://jericson.github.io/comment.html>.
 
+* Tag pages are built with the
+  [jekyll-tagging plugin](https://github.com/pattex/jekyll-tagging). Since
+  Github pages are generated in safe mode, the process is a bit
+  convoluted:
+
+    1. Build `_site/tag` with `jekyll build` on my local machine.
+    2. Move `site/tag` to `tag` and push changes to Github.
+    3. Github copies `tag` back to `_site/tag` so that they are served
+       on the site.
+
+  It's important to remove the `tag` directory before running Jekyll
+  or you will end up copying an old version of the tag pages back to
+  `_site/tag`. So that I don't have to remember all of this, I
+  scripted it in `build_tags.sh`. It's also important to not build the
+  tag pages with drafts that you haven't published. Therefore, when I
+  run a Jekyll server on my local machine, I always use safe mode to
+  avoid rebuilding tag pages:
+
+      bundle exec jekyll serve --watch --draft --safe
+
 ## Licence clarification
 
 Any code I write is currently licenced under the Artistic
@@ -26,5 +46,5 @@ simplicity's sake, I will probably settle on putting everything under
 Creative Commons at some point. But not today.
 
 
-<!--  LocalWords:  css sa LocalWords html
+<!--  LocalWords:  css sa LocalWords html jekyll Github
  -->
