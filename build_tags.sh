@@ -3,4 +3,4 @@ set -e # halt script on error
 
 rm -r tag
 bundle exec jekyll build
-cp -r _site/tag .
+mv _site/tag .

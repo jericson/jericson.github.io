@@ -127,9 +127,9 @@ of the list of logos:
 
 In the next few weeks, I plan to customize more banners starting with single-product sites such as:
 
-* [Ask Ubuntu](http://askubuntu.com/)
-* [Ask Different](http://apple.stackexchange.com/)
-* [Ask Patents](http://patents.stackexchange.com/)
+* [Ask Ubuntu](http://askubuntu.com/contact)
+* [Ask Different](http://apple.stackexchange.com/contact)
+* [Ask Patents](http://patents.stackexchange.com/contact)
 
 **Next time:** Last fall we tackled a much bigger problem than
   3<sup>rd</sup> party tickets: manual account merges and deletions.
