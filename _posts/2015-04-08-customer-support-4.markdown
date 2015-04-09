@@ -145,7 +145,9 @@ In the next few weeks, I plan to customize more banners starting with single-pro
 
 I suspect these will only be incremental gains for us, but the links
 could become valuable for many anonymous users who stumble onto our
-sites.
+sites. Ultimately, we are most interested in getting people the
+resources they need with as little fuss as possible and that includes
+when they try to contact us directly.
 
 **Next time:** Last fall we tackled a much bigger problem than
   3<sup>rd</sup> party tickets: manual account merges and deletions.
