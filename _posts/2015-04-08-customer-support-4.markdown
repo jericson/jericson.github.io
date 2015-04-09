@@ -16,11 +16,12 @@ and when those answers frequently turn up in Google searches, it's
 inevitable that some lost souls will mistake you for the official
 product support system of some other company. So we get hundreds of
 support tickets each month that have nothing to do with our sites. It
-doesn't help when we actually tried (and failed) to be a support
-channel for
+doesn't help when we actually tried (and failed) to be the official
+support channel for
 [Facebook developers](http://blog.stackoverflow.com/2011/08/facebook-stackoverflow/).
 
-To give you a taste of the tickets we get, consider:
+To give you a taste of the tickets we get, here's one I dug out of the
+archive:
 
 > Hello, I have been using my password for over 15 years and I am 61
 > years old and that is my password that I can easily remember
@@ -39,7 +40,7 @@ we can do to help. Se we used a macro that sends this reply:
 
 (We also warned against mailing passwords to strangers.)
 
-Not having an account on our site is the calling card of a
+Not having an account on our site is the primary calling card of a
 3<sup>rd</sup> party request. Occasionally a user will lose access to
 their account and sometimes people create accounts thinking it will
 help them solve their problem with the Apple store or whatnot. In the
@@ -77,6 +78,15 @@ should be put to use elsewhere. Personally, I find these requests
 particularly draining since I'm utterly powerless to do anything to
 help. 
 
+My borther and I used to stay up late reading or watching TV when I
+came home from college. Once in a while, he'd ask me a question and
+while we were in the middle of the conversation, I'd realize he was
+asleep. Answering these tickets is a bit like that. They are just
+coherent enough that you gotta take them seriously. But the further
+you go, the more dreamlike the interaction turns out. Your best bet is
+to immediately <strike>dash their hopes</strike> let them know they
+might be in the wrong place.
+
 So on March 20 we added this notice to the top of the contact form:
 
 > [![Honeypot (text only)](http://i.stack.imgur.com/R6B3F.png)](http://meta.stackexchange.com/contact)
@@ -111,13 +121,15 @@ After eight days of testing this version we saw further improvement:
 
 I'm pleased with a potential 40% decrease in tickets intended for
 other products, but there's more we can do. We designed the system so
-that every site can have its own custom notification. We have a site
-for [Christianity](http://christianity.stackexchange.com), so we
-sometimes get requests like:
+that every site can have its own custom notification. Sometimes people
+find our [Christianity](http://christianity.stackexchange.com) and
+send requests like:
 
 > May I submit my prayer request to you?
 
-I decided to add
+We don't get nearly as many people looking for Facebook help from that
+site because questions tend to the theological rather than the
+technological. So I added
 [this banner](http://christianity.stackexchange.com/contact) in place
 of the list of logos:
 
@@ -131,11 +143,17 @@ In the next few weeks, I plan to customize more banners starting with single-pro
 * [Ask Different](http://apple.stackexchange.com/contact)
 * [Ask Patents](http://patents.stackexchange.com/contact)
 
+I suspect these will only be incremental gains for us, but the links
+could become valuable for many anonymous users who stumble onto our
+sites.
+
 **Next time:** Last fall we tackled a much bigger problem than
   3<sup>rd</sup> party tickets: manual account merges and deletions.
 
 
 ---
+
+Footnotes:
 
 [^1]: For those who are wondering, we also have unregistered and
       moderator user types. Neither is significant in relative terms,
