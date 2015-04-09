@@ -15,9 +15,9 @@ the [Stack Exchange network](http://stackexchange.com/sites#answers),
 and when those answers frequently turn up in Google searches, it's
 inevitable that some lost souls will mistake you for the official
 product support system of some other company. So we get hundreds of
-support tickets each month that really are intended for some other
-company. It doesn't help when we actually tried (and failed) to be a
-support channel for
+support tickets each month that have nothing to do with our sites. It
+doesn't help when we actually tried (and failed) to be a support
+channel for
 [Facebook developers](http://blog.stackoverflow.com/2011/08/facebook-stackoverflow/).
 
 To give you a taste of the tickets we get, consider:
