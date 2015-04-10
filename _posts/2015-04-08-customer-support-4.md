@@ -78,7 +78,7 @@ should be put to use elsewhere. Personally, I find these requests
 particularly draining since I'm utterly powerless to do anything to
 help. 
 
-My borther and I used to stay up late reading or watching TV when I
+My brother and I used to stay up late reading or watching TV when I
 came home from college. Once in a while, he'd ask me a question and
 while we were in the middle of the conversation, I'd realize he was
 asleep. Answering these tickets is a bit like that. They are just
@@ -171,5 +171,5 @@ Footnotes:
  -->
 <!--  LocalWords:  Spolsky's html OpenID unbanned Uber Uber's uber
  -->
-<!--  LocalWords:  http png
+<!--  LocalWords:  http png stackexchange url
  -->
