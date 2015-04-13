@@ -137,7 +137,8 @@ of the list of logos:
 > [secular site](http://meta.christianity.stackexchange.com/questions/193/brothers-we-are-not-christians). We
 > cannot answer your religious questions personally.
 
-In the next few weeks, I plan to customize more banners starting with single-product sites such as:
+In the next few weeks, I plan to customize more banners starting with
+single-product sites such as:
 
 * [Ask Ubuntu](http://askubuntu.com/contact)
 * [Ask Different](http://apple.stackexchange.com/contact)
@@ -148,6 +149,41 @@ could become valuable for many anonymous users who stumble onto our
 sites. Ultimately, we are most interested in getting people the
 resources they need with as little fuss as possible and that includes
 when they try to contact us directly.
+
+# Update (April 12)
+
+Reporting the results in terms of Zendesk tickets proved difficult
+initially because not all the tickets had been handled last
+week. Thankfully, at the end of March, we hired two Community Growth
+Operations Specialists who reduced our backlog from nearly a thousand
+tickets. So we now have enough data to show the effect in terms of
+people actually handling new tickets:
+
+![Rate of third-party tickets](/image/3rd_party-rate.png)
+
+I used a 4-day rolling average to smooth the data. If I didn't do
+that, there'd be weird spikes on days with a dozen or more third-party
+tickets or sudden cliffs if a day happened to get none. I also
+eliminated all the tickets from one of our agents who got so sick of
+3<sup>rd</sup> party tickets they just archived them without
+responding.[^3] The X-axis represents the date tickets were submitted,
+so the drop around March 20 is directly related to the addition of the
+honeypot. To put it in more practical terms, the honeypot saves us
+from about 2 fruitless tickets a day:
+
+    Period       3rd party per day per week per year
+    ------------ ----------------- -------- --------
+    Pre-honeypot               6.3       43     2288
+    Honeypot                   4.1       29     1493
+    Saving (35%)               2.2       15      795
+
+I extrapolated the savings out to a year because the savings is
+[all about scale](http://meta.stackoverflow.com/questions/251175/stack-overflow-is-not-yet-a-vast-wasteland-a-history-of-moderator-tooling). As
+I mentioned above, one
+[context switch](http://www.joelonsoftware.com/articles/fog0000000022.html)
+really isn't that big of a deal. But saving 800 or so over the course
+of a year is. Real progress can be made with seemingly modest
+improvements.
 
 **Next time:** Last fall we tackled a much bigger problem than
   3<sup>rd</sup> party tickets: manual account merges and deletions.
@@ -166,6 +202,14 @@ Footnotes:
       it occurred to me that many of the anonymous tickets are blocked
       as spam. Spammers are unlikely to read our contact form. And
       yes, we do get a lot of spam via our contact form.
+
+[^3]: It's a tossup whether or not it's a kinder course of action to
+      ignore these tickets or to use our macro. It's nearly impossible
+      to send a reply that's both honest and not going to rub a
+      handful of people the wrong way. I imagine many people send
+      these tickets with some vague hope that they will get lucky and
+      forget about it a few minutes later. On the other hand, this did
+      screw with our data a bit.
 
 <!--  LocalWords:  Zendesk LocalWords login Shog heyer  wikipedia api
  -->
