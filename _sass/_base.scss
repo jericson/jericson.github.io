@@ -150,6 +150,12 @@ pre {
 }
 
 
+/**
+ * Superscripts
+ */
+
+/* H/T: http://stackoverflow.com/a/1530819/1438 */
+sup { vertical-align: top; position: relative; top: -0.5em; }
 
 /**
  * Wrapper
