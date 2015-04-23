@@ -309,7 +309,7 @@ Footnotes:
       part of the problem is that
       [men have no fashions](https://books.google.com/books?id=V0MEAAAAMBAJ&lpg=PP1&pg=PA20#v=onepage&q=fashions&f=false).)
 
-[^4]: The projects never did get merged because of my Lone Ranger
+[^4]: The projects never did get merged because of my own Lone Ranger
       attitude. Shortly after I left the project, a colleague called
       to ask me to check in some code. So I probably ought not cast
       any stones.
