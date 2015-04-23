@@ -59,7 +59,7 @@ addicted to subtitles, which is not an option provided by the base
 theme. No matter. I just added a line to `_layout/page.html`:
 
 {% raw %}
-    {%if page.subtitle %}
+    {% if page.subtitle %}
       <h2 class="post-subtitle">{{ page.subtitle }}</h2>
     {% endif %}
 {% endraw %}
