@@ -55,7 +55,7 @@ Calculus performance   |  62% |   54% |   58%
 64% of male students and 56% of females passed the Computer Science
 test (with a 3 or better). This is a problem for my theory, but the
 gender gap doesn't fully explain why
-[only about 20 of programmers working in the US are women](http://www.npr.org/blogs/alltechconsidered/2013/04/29/178810467/blazing-the-trail-for-female-programmers). No,
+[only about 20% of programmers working in the US are women](http://www.npr.org/blogs/alltechconsidered/2013/04/29/178810467/blazing-the-trail-for-female-programmers). No,
 the real problem is the ratio of young men and women who take the test
 in the first place:
 
