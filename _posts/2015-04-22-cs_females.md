@@ -64,7 +64,6 @@ in the first place:
 -                    - | ---: | ----: | ----:
 CS participation       |  81% |   19% |  100%
 Calculus participation |  52% |   48% |  100%
-CS/Calc. participation |  13% |    3% |    8%
 
 
 AP Calculus is pretty important for anyone planning on entering
@@ -82,7 +81,9 @@ Therefore, whatever causes keep women from working as programmers have
 pretty much been in place by the time girls are 17 years old or
 so. Hostile work environments can't be _the reason_ so few women are
 programmers. At best my theory explains why some offices have more
-women than others.
+women than others. We have no way of knowing if the ~20% of women
+working as programmers are the same ~20% as took the AP Computer
+Science test, but it's startling that the numbers worked out that way.
 
 As it happens, I took (and passed) both AP tests my senior
 year. Taking Calculus was predictable enough; I'd excelled at math
@@ -105,7 +106,7 @@ of happenstances:
    comparison to reading the source and improving them.
 2. Later, my family moved to San Jose, California. Being in the heart
    of Silicon Valley, the public library had a extensive collection of
-   programming books. So in addition to reading Isaac Asimov's _Robot_
+   programming textbooks. So in addition to reading Isaac Asimov's _Robot_
    series, I consumed books about Artificial Intelligence that
    prompted me to write little programs that simulated robotic mice
    solving digital mazes.
@@ -177,13 +178,13 @@ exceptional.
 
 If we judge programmers by things such as whether they take and pass
 AP Computer Science in high school, there's strong evidence that men
-are better than women. But I've worked with many female programmers
-and that just does not seem to be true. When I mentally rank the
-programmers I've known by how good they are at their jobs, women are
-as likely to be near the top of the list as the bottom. None of the
-typical markers of passionate programmers work either. The only real
-way to rank my colleagues is by remembering how well (and how often)
-they were able to complete projects, solve problems, and fix
+are better developers than women. But I've worked with many female
+programmers and that just does not seem to be true. When I mentally
+rank the programmers I've known by how good they are at their jobs,
+women are as likely to be near the top of the list as the bottom. None
+of the typical markers of passionate programmers work either. The only
+real way to rank my colleagues is by remembering how well (and how
+often) they were able to complete projects, solve problems, and fix
 bugs. There are no shortcuts.
 
 The standardized AP test certainly doesn't cover the bases. The
@@ -235,7 +236,7 @@ programmers. These men (and if
 [Google is to be believed](https://www.google.com/webhp?q=great+programmers),
 they are mostly men[^3]) are able to
 [create a new language in 10 days](http://www.computer.org/csdl/mags/co/2012/02/mco2012020007.pdf)
-or start a
+or start an
 [aerospace company on the side](http://en.wikipedia.org/wiki/Armadillo_Aerospace). And
 why not? If you are starting up a new company, this is _exactly_ the
 sort of programmer you'll want to hire.
@@ -278,7 +279,7 @@ used the database library he'd written himself, and there was no
 manual for it. For the next week, we worked to test and debug his
 changes, but because this was a production system we had to pull all
 of his changes out until we'd figured it out. A little later, he left
-the company and so the changes just didn't get pushed.
+the company and so the changes just didn't get pushed.[^4]
 
 As long as software companies fixate on hiring alpha male programmers
 (of either gender), we are never going to see the
@@ -308,11 +309,16 @@ Footnotes:
       part of the problem is that
       [men have no fashions](https://books.google.com/books?id=V0MEAAAAMBAJ&lpg=PP1&pg=PA20#v=onepage&q=fashions&f=false).)
 
+[^4]: The projects never did get merged because of my Lone Ranger
+      attitude. Shortly after I left the project, a colleague called
+      to ask me to check in some code. So I probably ought not cast
+      any stones.
+
 <!--  LocalWords:  LocalWords http Holberton Calc gif eniac Tandy SX th GW Ahl
  -->
 <!--  LocalWords:  aspx  Asimov Fairfax html asin Spolsky wikipedia
  -->
 <!--  LocalWords:  pdf NlzZtIwAAAAJ Jordans mdash paulgraham https
  -->
-<!--  LocalWords:  Raytheon
+<!--  LocalWords:  Raytheon Asimov's Ahl's MEAAAAMBAJ
  -->
