@@ -66,7 +66,7 @@ us time to take a big picture view every now and then.
 Last week, for instance, I noticed a strange ticket from an Uber
 customer reporting problem with a particular driver. Oddly, the person
 identified themselves as an employee of Disney working just across
-town form me. Digging through our access logs, I discovered the user
+town from me. Digging through our access logs, I discovered the user
 came to our site via the
 [Uber API support page](https://developer.uber.com/support/). No
 wonder the Disney employee was so confused!
