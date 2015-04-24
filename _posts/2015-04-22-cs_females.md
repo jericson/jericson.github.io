@@ -231,8 +231,8 @@ solving intricate (and therefore interesting) problems.
 
 The software industry fixates on
 [great hackers](http://www.paulgraham.com/gh.html)&mdash;the Micheal
-Jordans of the field who are five or ten times as productive ordinary
-programmers. These men (and if
+Jordans of the field who are five or ten times as productive as
+ordinary programmers. These men (and if
 [Google is to be believed](https://www.google.com/webhp?q=great+programmers),
 they are mostly men[^3]) are able to
 [create a new language in 10 days](http://www.computer.org/csdl/mags/co/2012/02/mco2012020007.pdf)
