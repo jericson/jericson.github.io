@@ -12,7 +12,7 @@ English. If you disagree with some or all of what I have to say, I'm
 willing to read your persuasive essay too. If you hate my opinion, all I
 can say is that I'm sorry.
 
-[![Left: Glen Beck Right: Frances Elizabeth Snyder Holberton](/image/eniac1.gif)](http://ftp.arl.mil/ftp/historic-computers/)
+[![Left: Glen Beck Right: Frances Elizabeth Snyder Holberton](/images/eniac1.gif)](http://ftp.arl.mil/ftp/historic-computers/)
 
 We recently ran a survey on Stack Overflow and
 [noted](http://stackoverflow.com/research/developer-survey-2015#profile-women):

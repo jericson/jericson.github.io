@@ -159,7 +159,7 @@ Operations Specialists who reduced our backlog from nearly a thousand
 tickets. So we now have enough data to show the effect in terms of
 people actually handling new tickets:
 
-![Rate of third-party tickets](/image/3rd_party-rate.png)
+![Rate of third-party tickets](/images/3rd_party-rate.png)
 
 I used a 4-day rolling average to smooth the data. If I didn't do
 that, there'd be weird spikes on days with a dozen or more third-party
