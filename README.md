@@ -35,6 +35,14 @@ So far my layout is pretty basic. But I have added the following:
 
       bundle exec jekyll serve --watch --draft --safe
 
+* I'm playing around with importing meta posts with `get_se_post.rb`
+  which uses the
+  [Stack Exchange API](http://api.stackexchange.com/docs). It takes
+  two parameters: a site and a post identifier. The output goes to
+  `stdout`, so you'll have to save it with something like:
+
+      ruby get_se_post.rb Meta.Puzzling 3020 > _drafts/site_evaluations.md 
+
 ## Licence clarification
 
 Any code I write is currently licenced under the Artistic
@@ -50,5 +58,7 @@ simplicity's sake, I will probably settle on putting everything under
 Creative Commons at some point. But not today.
 
 
-<!--  LocalWords:  css sa LocalWords html jekyll GitHub
+<!--  LocalWords:  css sa LocalWords html jekyll GitHub se rb stdout
+ -->
+<!--  LocalWords:  md
  -->
