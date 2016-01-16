@@ -2,7 +2,7 @@
 layout: post
 title: Computer Science and women
 comments: yes
-tags: community opinion
+tags: community opinion programming
 ---
 
 I've tagged this as [opinion](/tag/opinion.html) because it's
