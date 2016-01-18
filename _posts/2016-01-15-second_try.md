@@ -72,7 +72,7 @@ bad luck would start to look more average not because the commander
 yelled at them, but rather as a result of statistical phenomenon.
 
 While it can seem like we consistently screw up initial
-communication, it's problably better to say we don't often restate
+communication, it's probably better to say we don't often restate
 meta posts when we get the communication right. We only ever write
 second posts when we don't get the feedback we want or aren't swayed
 by it. And that's a bit of shame now that I think about it. We don't
@@ -90,7 +90,7 @@ really should look:
 The hard part&mdash;the bottom line&mdash;is being self-critical
 enough to recognize when our ideas aren't a good idea. The next
 hardest part is admitting publicly that we screwed up, not with the
-way we communicted, but in the idea itself. Far too often, we don't
+way we communicated, but in the idea itself. Far too often, we don't
 complete the loop on bad ideas even when we recognize them.
 
 I wrote in my review of Stack Exchange's 2015 accomplishments:
@@ -100,9 +100,11 @@ I wrote in my review of Stack Exchange's 2015 accomplishments:
 > to provide our users with the very best platform for helping each
 > other and creating lasting artifacts.
 
-The challenge as our company grows and becomes more speciallized is to
+The challenge as our company grows and becomes more specialized is to
 continue letting our partners peer over our shoulders as we
 work. There's no such thing as too much communication among friends.
 
-<!--  LocalWords:  LocalWords Affleck Clooney png Lassam
+<!--  LocalWords:  LocalWords Affleck Clooney png Lassam nbsp IDF
+ -->
+<!--  LocalWords:  Kahneman
  -->
