@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/jericson
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jericson.github.io
+  * I am jericson (https://keybase.io/jericson) on keybase.
+  * I have a public key with fingerprint 834A 7AB0 5373 E241 1C01  A3C2 9C29 13F4 097C 3E2C
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01206c2d304b28dec446b76451f1c741b99b1da283d7e8b5e0dbd3ed856ff7492c7c0a",
+            "fingerprint": "834a7ab05373e2411c01a3c29c2913f4097c3e2c",
+            "host": "keybase.io",
+            "key_id": "9c2913f4097c3e2c",
+            "kid": "01018c3f399698e5d4c6013901fb8b2538d36139cf988b0d8c810c4fd070334afa1c0a",
+            "uid": "f7ea90ecb3d0923032ee7d9e3c215319",
+            "username": "jericson"
+        },
+        "service": {
+            "hostname": "jericson.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1454735177,
+    "expire_in": 157680000,
+    "prev": "9c5d438da6483e53abf87cde74fb0bf851cb188ddd5e708f70ca695abcfff7e0",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMNrAnicbVJ5TFRHHF5W2IQlVFIaDg+QR6Dabsk79723yKGCxx/EpjZcsVnfm5nH
+PpDdZfftIlfbRWkxHkF7RCgxaGqqUFEDlFqlcrWlilFpK2JtBMTQlCZSK6QrNnYW
+6z9NJ5PM9X3ffL9vZjB8ic4Y1Lwm8lFodbop6ErfUY8ut+udLVWE7IAVhKWKKEGL
+A9oJkVuzlqiQsBAkRZNmQEOGZGVagAiwrFnmzSxHKRTgWUoWRZmCEi0wkEeCzCES
+ypBBUODMisKzIg14QEqEiVBUexFyOV2qXcOyAsNKvCSTHMMziGYpCpCUxABaxJ1i
+FJYUeYAPACbaHO4AA5uTJTdKUR14Dy+si/b+B//cN0kJgFEYUTSLAuIgC8wkxYgk
+pciCTHOMABkzXgNFFASZhAIQKBKwCiR5ksHmFIl65tuzKKfwSBJJBGQGkiLNkAyN
+EA9FhC1THEOJAaAbuexSKcLoYuRSgdthJ2pMBN71qgAFgg1U8h9ESpGq2Tzys6qc
+LofmAI6d+NymaU63JcDXKpwBQjmSrf9KWWXVDnGamOFFLreK77FQGAk0NaBNsRzL
+MxzF8yYC7XKqLmRVAwiONwskboF7kHcxO5wKzkEyswKDOEaSFYEHEPGsIpN4zlFA
+pgQBQsghnhQUngSSWeQkGSj4aRFJBIorszuwNhbVpCKs6VaL7JLmcSGipr9ve7Au
+yKgzhOgD30xnDI14/vmiZpc+Recbe1P39XsiPvkmtRtRY/kf791w+VJnYvh0d9ul
+gse+h7fy9gwk/TAV0WPYuHYqFoRlzTyZnICsN/rr+KjEiaEdGbaxnIch42+3318X
+0/Wn/Eou7D3FhVQ2L+mxH9sx5EG/p83f2SrGJxXW/hVpKOgK0yt5WTD9AH2x/tPX
+blStKn9vem/W0vym/Xmu5OkBuH34jjG2+URbatzEhHf+5PHb+rraY1Xhp//40Z/W
+6pm5liKcHi4v9ieURZaP01caGk8FR7yeOnd+5EgdY4hKX5fzhu36mrhfi8fd374/
+ucfT0ZDQcvPG5Z9XBM2PBJXp99mTtAcnzn24rbDCEVtCt/rKfdr9i5vGeoa173W+
+zSG+0c6GSOPV6EMD514I13Vmo5qs/ntS4a66prOehjM93zW5F7i4D9yG0kcd7Wvf
+ios/uLzCmngtuSRjaET/sveLGWvLpu6kp0NbV6/aHJ2Q5p+KN1U/blK07ODlzsF3
+J+f6Dne0nVk4+3fL0HF+tDJmsPWJ17JiPKczOMFnKCz4LDtTGWBWxm7RA87JxZQl
+X1iW33kyQVx5T7JwMdmg76PMxGUV9VEu00+66wu7t1XvfnV/7ptPv2y0fZXsF4TG
+B2Cut/7z5LvtxuELtY7bdytj109z671Hr4auDkud3XigdNR36Df/rZeGj2TEHPxl
+w4uz/rxMJermP9MIulY=
+=CCuo
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jericson
+
+==================================================================
