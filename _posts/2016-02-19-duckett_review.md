@@ -43,12 +43,12 @@ see samples of the material in the preview. All of it (and much more)
 can be found on the Stack Exchange site.
 
 On the topic of licences, the notice on the top and bottom of each
-page ("Copyrighted Material") is misleading at best. It implies to
-most readers that they should not copy the text. But the truth is
-copying is fine as long as you follow the Creative Commons licence. I
-haven't purchased the entire book, but it doesn't look as if the
-licence is referenced. I have no idea if this fits with the letter of
-the law; it certainly violates the spirit.
+page of the print preview ("Copyrighted Material") is misleading at
+best. It implies to most readers that they should not copy the
+text. But the truth is copying is fine as long as you follow the
+Creative Commons licence. I haven't purchased the entire book, but it
+doesn't look as if the licence is referenced. I have no idea if this
+fits with the letter of the law; it certainly violates the spirit.
 
 That said, I think there's a lot of potential value in creating a
 curated copy of Biblical Hermeneutics questions and answers. Looking
