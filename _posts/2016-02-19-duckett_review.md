@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A review of _Hermeneutics: Questions and Answers_
+title: A review of: Hermeneutics: Questions and Answers
 comments: yes
 tags: community review
 ---
