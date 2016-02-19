@@ -1,6 +1,7 @@
 ---
 layout: post
 title: If at first you don't succeed . . .
+comments: yes
 tags: community meta
 ---
 

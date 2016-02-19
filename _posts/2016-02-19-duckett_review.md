@@ -62,7 +62,7 @@ not so much curated as copied by an algorithm. That's disappointing.
 
 Also disappointing is the formatting. Many posts quote from other
 sources, but the Kindle version of the book does a poor job of showing
-where a quotation starts and end. The preview of the print version is
+where a quotation starts and ends. The preview of the print version is
 a little more functional, but centered and italic text is hard to
 read. Overall the typesetting (in both versions) seems
 mechanical. Since it was almost certainly produced by a script, that
