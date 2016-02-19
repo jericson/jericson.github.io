@@ -2,7 +2,7 @@
 layout: post
 title: A review of _Hermeneutics: Questions and Answers_
 comments: yes
-tags: community
+tags: community review
 ---
 
 Recently I discovered the work of one George A Duckett who has copied
