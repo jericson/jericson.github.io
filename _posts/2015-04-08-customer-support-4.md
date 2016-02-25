@@ -28,7 +28,7 @@ archive:
 > **[password redacted]**. Please put my password on my account
 
 Even if we did know what product he was talking about there's nothing
-we can do to help. Se we used a macro that sends this reply:
+we can do to help. So we used a macro that sends this reply:
 
 > You may have contacted the wrong party. This email address provides
 > support for the Q&A web sites at stackexchange.com, but we are not
