@@ -21,7 +21,7 @@ trap       | Registered |        39,872 |      20,245  | (50.77%)
 trap       | Registered |        23,583 |      11,688  | (49.56%)
 
 Both before and after we introduced
-[the burb](http://stackoverflow.com/contact), about half of registered
+[the blurb](http://stackoverflow.com/contact), about half of registered
 users followed through with sending. The ~1% decrease seems
 concerning, but we don't have a
 [large enough sample size](http://www.evanmiller.org/ab-testing/sample-size.html#!4.16;80;5;0.78;0)
