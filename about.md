@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-subtitle: Why Jekyll?
 comments: yes
 permalink: /about/
 ---
@@ -22,6 +21,7 @@ If you want to send me a secret, I have a
 
 ---
 
+## Why Jekyll?
 
 Over the years, I've used a number of blogging options, including:
 
