@@ -2,7 +2,7 @@
 layout: post
 title:  Building a customer support system
 subtitle: Adding a honeypot
-comments: no
+comments: yes
 tags: support
 ---
 

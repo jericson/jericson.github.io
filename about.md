@@ -6,6 +6,23 @@ comments: yes
 permalink: /about/
 ---
 
+Remember [Geek Code](https://en.wikipedia.org/wiki/Geek_Code)? Here's a modern version:
+
+<a href="http://stackexchange.com/users/1083/jon-ericson"><img
+src="http://stackexchange.com/users/flair/1083.png" width="208"
+height="58" alt="profile for Jon Ericson on Stack Exchange, a network
+of free, community-driven Q&amp;A sites" title="profile for Jon
+Ericson on Stack Exchange, a network of free, community-driven Q&amp;A
+sites" /></a>
+
+If you want to send me a secret, I have a
+[Keybase account](https://keybase.io/jericson).
+
+[![No Comment](http://www.catb.org/~esr/ecsl/graphics/ecsllogo1.png)](http://www.catb.org/~esr/ecsl/)
+
+---
+
+
 Over the years, I've used a number of blogging options, including:
 
 * [A handmade blog on Geocities.](https://web.archive.org/web/20091026234407/http://geocities.com/jlericson/)
@@ -93,17 +110,7 @@ to do was put them in sub-directories under my source directory and
 Jekyll collected them into the site. I have my Blogger and
 WordPress.com blogs saved as XML files ready to be
 [deployed](http://import.jekyllrb.com/docs/home/) if needed.
-
----
-
-Remember [Geek Code](http://www.geekcode.com/)? Here's a modern version:
-
-<a href="http://stackexchange.com/users/1083/jon-ericson"><img
-src="http://stackexchange.com/users/flair/1083.png" width="208"
-height="58" alt="profile for Jon Ericson on Stack Exchange, a network
-of free, community-driven Q&amp;A sites" title="profile for Jon
-Ericson on Stack Exchange, a network of free, community-driven Q&amp;A
-sites" /></a>
+ 
 
 <!--  LocalWords:  Geocities WordPress html LocalWords permalink RCS
  -->
