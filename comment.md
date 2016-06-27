@@ -27,7 +27,7 @@ suspect.
 After
 [thinking about comments](http://meta.stackexchange.com/q/204402/1438)
 on Stack Overflow, I'm convinced that comment sections require either
-a bar to entry or active moderation since I'm not interested in
+a bar to entry or active moderation. Since I'm not interested in
 moderating comments on my blog, I'm content to require people to have
 a GitHub account to interact publically on my posts. I don't think
 that's a high bar, but it should eliminate comment spam. (My old
