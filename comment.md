@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Comments
+subtitle: Comments
 comments: yes
 permalink: /comment.html
 ---
