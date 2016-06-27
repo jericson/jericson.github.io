@@ -6,12 +6,12 @@
     <meta name="viewport" content="width=device-width initial-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Jon Quixote</title>
+    <title>Tags</title>
     <meta name="description" content="What does a Community Manager at Stack Exchange do?
 ">
 
     <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="http://jericson.github.io//tag/opinion.html">
+    <link rel="canonical" href="http://jericson.github.io//tag/">
 </head>
 
 
@@ -87,17 +87,25 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <h2>Posts about [opinion]</h2>
-<ul>
-  
-  <li>22 Apr 2015 |
-    <a href="/2015/04/22/cs_females.html">
-      Computer Science and women
-    </a>
-  </li>
-  
-</ul>
+        <div class="post">
 
+  <header class="post-header">
+    <h1 class="post-title">Tags</h1>
+    
+  </header>
+
+  <article class="post-content">
+    <div id="tag-cloud">
+    <a href="/tag/community.html" class="set-5">community</a> <a href="/tag/elections.html" class="set-1">elections</a> <a href="/tag/fastest-gun.html" class="set-1">fastest-gun</a> <a href="/tag/meta.html" class="set-1">meta</a> <a href="/tag/meta-post.html" class="set-1">meta-post</a> <a href="/tag/opinion.html" class="set-1">opinion</a> <a href="/tag/programming.html" class="set-1">programming</a> <a href="/tag/remote.html" class="set-1">remote</a> <a href="/tag/review.html" class="set-1">review</a> <a href="/tag/support.html" class="set-4">support</a>
+</div>
+
+
+<!--  LocalWords:  LocalWords 
+ -->
+
+  </article>
+
+</div>
 
       </div>
     </div>

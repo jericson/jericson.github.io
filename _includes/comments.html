@@ -1,18 +1,7 @@
 {% if page.comments %}
 <hr>
 
-<!-- If you copy this file, please use your own Poole API key and not mine! -->
-<form action="http://pooleapp.com/stash/1e2f8c89-86d7-408b-bf73-be6b2953a3c1/" method="post">
-  <h2>Send <a href="{{ site.url }}comment.html">feedback</a></h2>
-  <input type="hidden" name="redirect_to" value="{{ site.url }}comment.html" />
-  <input type="hidden" name="path" value="{{ page.id }}" />
-  <input type="text" name="name">
-  <label for="name">Name</label><br />
-  <input type="text" name="email">
-  <label for="url">Email (optional but helpful if you want a response)</label><br />
-  <input type="text" name="url">
-  <label for="url">URL (optional)</label><br />
-  <textarea name="comment" class="comment-text"></textarea><br />
-  <input type="submit" value="send" />
-</form>
+Send feedback by <a href="https://github.com/jericson/jericson.github.io/issues/new?title=Re:%20{{ page.title }}&labels=comments&body=%0A%0A---%0A(Please%20use%20this%20issue%20for%20[comments]({{ site.url }}comment.html)%20on%20[{{ page.title }}]({{ site.url }}{{ page.url }}).)">
+creating a GitHub issue</a>.
+
 {% endif %}

@@ -1,26 +1,39 @@
 ---
 layout: default
-subtitle: Thanks for the comment
+title: Comments
 comments: yes
 permalink: /comment.html
 ---
 
-Since you took the time to leave a comment, I thought you might like
-to know that it likely won't ever show up on the page. That's because
-comments are an entirely experimental feature. My gauge for success is:
+I don't expect a lot of comments on this site. If you want to interact
+with me, you'll need to use one of the contact options in the footer
+or create a GitHub issue. (I first learned of this idea from, no
+surprise, a
+[Stack Overflow answer](http://stackoverflow.com/a/33745584/1438) that
+came up in a Google search.) If you follow the link at the bottom of
+one of my posts and have a GitHub account, you'll be able to let
+me know what you think. If this system gets used (and the comments aren't
+junky), I'll probably do some automation to pull in comments to the
+page itself.
 
-> If I get a lot of comments, I'll think about making them a permanent part of the site.
-
-However, comments are emailed to my personal account and I keep a copy
-in case I ever change my mind about publishing. If you left an email address,
-I'll try to respond. 
-
-For the curious, I'm using
+I originally used
 [Poole](http://hawksworx.com/blog/adding-a-static-comments-system-to-my-jekyll-build/)
-to store comments. If you copy
-[my source code](https://github.com/jericson/jericson.github.io/blob/master/_includes/comments.html),
-please use your own API key.
+to store comments, but the backend site went down recently. Switching
+to using issues has the pleasant side effect of elimating the external
+dependency. If I ever stop using GitHub to host this blog, I'll have
+to find another commenting solution. But that's not at all likely, I
+suspect.
 
-And just in case you want to try again:
+After
+[thinking about comments](http://meta.stackexchange.com/q/204402/1438)
+on Stack Overflow, I'm convinced that comment sections require either
+a bar to entry or active moderation since I'm not interested in
+moderating comments on my blog, I'm content to require people to have
+a GitHub account to interact publically on my posts. I don't think
+that's a high bar, but it should eliminate comment spam. (My old
+comment scheme got about as many spam comments as legitimate comments,
+so I was never tempted to publish comments.)
+
+And just in case you want to comment on comments:
 
 {% include comments.html %}

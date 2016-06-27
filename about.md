@@ -21,7 +21,7 @@ If you want to send me a secret, I have a
 
 ---
 
-## Why Jekyll?
+## Why Jekyll? ##
 
 Over the years, I've used a number of blogging options, including:
 
@@ -110,7 +110,8 @@ to do was put them in sub-directories under my source directory and
 Jekyll collected them into the site. I have my Blogger and
 WordPress.com blogs saved as XML files ready to be
 [deployed](http://import.jekyllrb.com/docs/home/) if needed.
- 
+
+{% include comments.html %}
 
 <!--  LocalWords:  Geocities WordPress html LocalWords permalink RCS
  -->
