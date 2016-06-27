@@ -1,1 +1,1 @@
-(Please use this issue for [comments](http://jericson.github.io/comment.html) on the blog post.)
+I generally use issues on this repository for [blog comments](http://jericson.github.io/comment.html). If your issue is related to the content of a post, please include a URL so that I know what you are commenting on.
