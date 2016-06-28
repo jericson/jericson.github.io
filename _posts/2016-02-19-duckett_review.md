@@ -2,6 +2,7 @@
 layout: post
 title: "A review of Hermeneutics: Questions and Answers"
 comments: yes
+issue: 1
 tags: community review
 ---
 
