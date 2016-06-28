@@ -11,7 +11,10 @@ So far my layout is pretty basic. But I have added the following:
   page about [comments](http://jericson.github.io/comment.html).)
 
 * Comments can be turned on by adding `comments: yes` to the front
-  matter of posts and pages. For more information, see
+  matter of posts and pages. Once someone has opened an issue for a
+  post, I'll try to remember to add `issue: ##` to link the (now)
+  canonical comment thread instead of prompting the user to create a
+  new one. For more information, see
   <http://jericson.github.io/comment.html> and the
   [comment.html include file](https://github.com/jericson/jericson.github.io/blob/master/_includes/comments.html).
 
