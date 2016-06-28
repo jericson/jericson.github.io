@@ -8,11 +8,12 @@ So far my layout is pretty basic. But I have added the following:
   extended titles. One of the sneaky benefits of my setup is that you
   can create a page that doesn't show up in the top bar menu by
   including a subtitle and leaving the title blank. (See my hidden
-  page about [comments](http://jericson.github.io/comment.html).
+  page about [comments](http://jericson.github.io/comment.html).)
 
 * Comments can be turned on by adding `comments: yes` to the front
   matter of posts and pages. For more information, see
-  <http://jericson.github.io/comment.html>.
+  <http://jericson.github.io/comment.html> and the
+  [comment.html include file](https://github.com/jericson/jericson.github.io/blob/master/_includes/comments.html).
 
 * Tag pages are built with the
   [jekyll-tagging plugin](https://github.com/pattex/jekyll-tagging). Since
