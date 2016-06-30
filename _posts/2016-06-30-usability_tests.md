@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to conduct hallway usability tests without any hallways.
-tags: features
+tags: features remote
 comments: yes
 ---
 
