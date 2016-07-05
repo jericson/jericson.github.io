@@ -89,7 +89,7 @@ multiple choice questions such as:
 Having just a two options forced people to summarize the entire test
 into a useful data point. We did notice that this evaluation is highly
 variable, however. Some people who struggled rated the experience as
-confusing while people who seemed to pick up on the interface quickly
+intuative while people who seemed to pick up on the interface quickly
 called it confusing.
 
 ## Logistics
