@@ -75,7 +75,7 @@ the `-l` option:
     $ how2 -l unix untar multiple files
 
 I find this slightly less useful than simply searching for keywords
-since you don't always know (or care) where my answer exists. To
+since I don't always know (or care) where my answer exists. To
 compensate, there is an option to browse more questions and answers
 simply by pressing the space bar. It's a great looking option, though
 it risks the sort of distraction this tool is designed to avoid.
