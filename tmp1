@@ -1,0 +1,1 @@
+voidf(intl,intr,std::function<void(inta,ints,intm,intd)>c){c(l+r,l-r,l*r,l/r);}//useissimple..ignoringsomeresultsispossibleaswellintadd;f(2,3,[&](inta,ints,intm,intd){add=a;});
