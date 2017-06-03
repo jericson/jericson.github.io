@@ -73,7 +73,7 @@ hurts.
 Downvotes _also_ hurt. But in my (somewhat limited) experience, extra
 downvotes hurt less and less. More importantly, they cause me to make
 a calculation: do I still think my post is worth risking more
-downvotes or do have I changed my mind? For instance, a few years ago
+downvotes or have I changed my mind? For instance, a few years ago
 on our Skeptics site I answered the question
 "[Is there any verifiable historical and/or scientific evidence that Moses lived?](http://skeptics.stackexchange.com/a/4112/3252)"
 I get a downvote every six months or so and each time I reconsider my
