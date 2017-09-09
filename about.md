@@ -17,6 +17,8 @@ sites" /></a>
 If you want to send me a secret, I have a
 [Keybase account](https://keybase.io/jericson).
 
+[![Project Euler account](https://projecteuler.net/profile/jericson.png)](https://projecteuler.net/progress=jericson)
+
 [![No Comment](http://www.catb.org/~esr/ecsl/graphics/ecsllogo1.png)](http://www.catb.org/~esr/ecsl/)
 
 ---
