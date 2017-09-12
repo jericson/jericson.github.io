@@ -126,6 +126,7 @@ blockquote {
 pre,
 code {
     border: 1px solid $grey-color-light;
+    overflow: auto;
 }
 
 code {
