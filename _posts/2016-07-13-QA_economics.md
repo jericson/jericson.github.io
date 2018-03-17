@@ -71,12 +71,12 @@ A less obvious, but no less interesting:
 Consider this entirely theoretical matrix:
 
 Strategy           | Money `$M` | Time `$T` | Hassle `$P` | Integrity `$I`
-:------            | ----: | ---: | -----: | --------:
-Search Google      |     0 |    1 |      1 |         0
-Find own answer    |     0 |   50 |      5 |       -50 
-Ask a co-worker    |     0 |    5 |      5 |         5 
-Hire a consultant  |    10 |   10 |      1 |         0
-Ask Stack Overflow |     0 |    5 |      ? |         ?
+:------            |      ----: |      ---: |      -----: | --------:
+Search Google      |          0 |         1 |           1 |         0
+Find own answer    |          0 |        50 |           5 |       -50 
+Ask a co-worker    |          0 |         5 |           5 |         5 
+Hire a consultant  |        100 |        10 |           1 |         0
+Ask Stack Overflow |          0 |         5 |           ? |         ?
 
 The numbers are made up and depend on the sort of person pursuing
 answers. But this rough estimate illustrates the economic reason for
