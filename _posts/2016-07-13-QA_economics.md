@@ -40,8 +40,8 @@ in their work schedule and
 Now, some people answer in order to gain skills they can use to
 [get a better job](http://stackoverflow.com/jobs). And there are
 companies who hire programmers to answer questions as part of a
-broader developer relations strategy. But those relatively rare edge
-cases.
+broader developer relations strategy. But those are relatively rare
+edge cases.
 
 You might suppose some of these altruists would be lured away by
 rich-paying consulting gigs. Maybe some are, but I suspect most
