@@ -57,9 +57,9 @@ gives those users many options other than leaving an unhelpful
 comment.
 
 In my experience, critical comments tend to cause the most animosity
-within a community. I don't actually blame people for reacting poorly
-to criticism no matter how constructive. When I was answering a lot of
-questions on Stack Overflow, I'd remember getting comments from people
+within a community. I don't really blame people for reacting poorly to
+criticism no matter how constructive. When I was answering a lot of
+questions on Stack Overflow, I remember getting comments from people
 pointing out that my code would break if there were spaces in a file
 name. My gut reaction was something along the lines of:
 
@@ -73,15 +73,15 @@ hurts.
 Downvotes _also_ hurt. But in my (somewhat limited) experience, extra
 downvotes hurt less and less. More importantly, they cause me to make
 a calculation: do I still think my post is worth risking more
-downvotes or have I changed my mind? For instance, a few years ago
-on our Skeptics site I answered the question
+downvotes or have I changed my mind? For instance, a few years ago on
+our Skeptics site I answered the question
 "[Is there any verifiable historical and/or scientific evidence that Moses lived?](http://skeptics.stackexchange.com/a/4112/3252)"
 I get a downvote every six months or so and each time I reconsider my
 answer. So far, I've not changed anything substantial, but the
 downvotes really cause me to think twice. I also get the occasional
-critical comment, which I find relatively easy to blow off. Rather
-than see the criticism with clear eyes, I just want to poke holes in
-their arguments, which could only end in bad blood.
+critical comment, which I'm afraid I don't take very well. I'd rather
+have people express their disagreement with a simple anonymous vote
+instead.
 
 
 <!--  LocalWords:  LocalWords http  downvoted Zendesk html url Cygwin
