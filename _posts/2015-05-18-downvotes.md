@@ -45,16 +45,16 @@ On many other sites, my only options are:
 
 Most people on most sites do nothing but, perhaps, passively read the
 page. It's not a stretch to say only the most passionate people bother
-leaving feedback. For every person who comments, answers, or even
-votes on a Stack Overflow question,
+leaving feedback. For every person who comments, answers, edits or
+even votes on a Stack Overflow question,
 [hundreds more view it](http://data.stackexchange.com/stackoverflow/query/309028/views-per-action).
-When a question is objectively bad as measured by downvotes, it's more
-common for people to go out of their way to vote or comment.  Invested
-users feel responsible to do something about content that doesn't fit
-on the site. Here's the number of views for various actions at
-question scores from -10 to 10:
-
-![Views per action](/images/views_per_action.png)
+When a question is objectively bad as measured by downvotes, it's
+[more common](http://data.stackexchange.com/stackoverflow/query/edit/309054#graph)
+for people to go out of their way to vote, comment or edit the
+question to improve it.  Invested users feel responsible to do
+something about content that doesn't fit on the site. Stack Overflow
+gives those users many options other than leaving an unhelpful
+comment.
 
 In my experience, critical comments tend to cause the most animosity
 within a community. I don't actually blame people for reacting poorly

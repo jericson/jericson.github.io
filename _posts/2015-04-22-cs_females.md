@@ -119,7 +119,7 @@ of happenstances:
 
 The details are different, but many successful programmers can tell
 similar stories. Being introduced to computers early in life, having a
-personality amenable to spending lots of time with them, and access to
+personality amenable to spending lots of time with them and access to
 programming resources, greatly increased the odds that I'd take and
 pass the AP test. Programmers take it as common wisdom that this sort
 of back story indicates the personality necessary for being a
@@ -147,7 +147,7 @@ successful developer. Joel Spolsky writes about
 Having some of these traits may have given me a leg up in
 interviews. Over my career, I've submitted resumes for 8 different
 programmer positions[^2] and received offers from 7. Now I was _very_
-selective in where I applied, had personal connections, and was
+selective in where I applied, had personal connections and was
 probably a bit lucky. Even so, there's no doubt that a handful of
 things outside of my control made the difference between getting jobs
 and not.
@@ -184,7 +184,7 @@ rank the programmers I've known by how good they are at their jobs,
 women are as likely to be near the top of the list as the bottom. None
 of the typical markers of passionate programmers work either. The only
 real way to rank my colleagues is by remembering how well (and how
-often) they were able to complete projects, solve problems, and fix
+often) they were able to complete projects, solve problems and fix
 bugs. There are no shortcuts.
 
 The standardized AP test certainly doesn't cover the bases. The
@@ -250,7 +250,7 @@ seven-footers, a software team fails if there aren't people to fill
 all the positions. It's as if we've all read the
 [_Mythical Man Month_](https://archive.org/stream/mythicalmanmonth00fred#page/28/mode/2up),
 remembered "the order of magnitude" that separates great programmers
-from replacement level, and forgot about the idea of a "surgical
+from replacement level and forgot about the idea of a "surgical
 team".
 
 When I was working as contractor to JPL, Raytheon was responsible for
@@ -275,7 +275,7 @@ system. I couldn't find the code because he hadn't checked it into our
 source control system. When I did get his code, I couldn't figure out
 how he had compiled it; he'd build it on his own machine and moved the
 binaries into production. He hadn't updated our documentation, he'd
-used the database library he'd written himself, and there was no
+used the database library he'd written himself and there was no
 manual for it. For the next week, we worked to test and debug his
 changes, but because this was a production system we had to pull all
 of his changes out until we'd figured it out. A little later, he left
