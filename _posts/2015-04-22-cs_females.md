@@ -2,6 +2,7 @@
 layout: post
 title: Computer Science and women
 comments: yes
+issue: 4
 tags: community opinion programming
 ---
 
