@@ -15,7 +15,7 @@ wrote
 that many have interpreted as accusing the community and some members
 of it being racist and sexist. This is my personal response. 
 
-([Originally published](https://meta.stackoverflow.com/a/367028/1438) on meta.stackoverflow Stack Exchange by <a alt="Jon Ericson" href="https://meta.stackoverflow.com/users/1438/jon-ericson">Jon Ericson</a>.)
+([Originally published](https://meta.stackoverflow.com/a/367028/1438) on Meta Stack Overflow by <a alt="Jon Ericson" href="https://meta.stackoverflow.com/users/1438/jon-ericson">Jon Ericson</a>.)
 
 ---
 
