@@ -206,15 +206,15 @@ items and, of course, reviews. But it's mostly invisible to me.
 
 It's a bit annoying that having more badges means high level Steam
 users have more emoticons. I certainly spent several minutes figuring
-Having two legitimate ways to use the system is generally fine, but it
-does cause problems when the systems collide. For instance, it took me
-several minutes to figure out how this other user was able to
-construct their emoticon message. A bigger problem is that XP is
-earned by purchasing games and trading cards rather then creating
-content. The crux of the conflict, however, is that gamification has
-encouraged some users to value games for attributes (such as
-availability of trading cards and emoticons) that aren't clear to
-other users.
+out what happened.  Having two legitimate ways to use the system is
+generally fine, but it does cause problems when the systems
+collide. For instance, it took me several minutes to figure out how
+this other user was able to construct their emoticon message. A bigger
+problem is that XP is earned by purchasing games and trading cards
+rather then creating content. The crux of the conflict, however, is
+that gamification has encouraged some users to value games for
+attributes (such as availability of trading cards and emoticons) that
+aren't clear to other users.
 
 I went looking for games with similar profiles to Wasted Pizza:
 inexpensive, multiplayer and goofy premise. (For example,
