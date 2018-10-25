@@ -137,7 +137,7 @@ pounding them out in their unallocated time.
 However there's good reason to expect projects managed by a PM will
 result in more polished features that get testing, validation and
 incremental improvements. Take, for instance, the
-[improved review queue indicator](https://christianity.stackexchange.com/). With
+[improved review queue indicator]https://meta.stackexchange.com/questions/302226/how-does-the-review-needed-indicator-work-exactly). With
 the previous indicator, it was difficult to explain how it worked
 without combing through the code. It was a one-size-fits-all-sites
 algorithm. It had
