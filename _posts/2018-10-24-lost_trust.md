@@ -28,7 +28,7 @@ chaos. For instance, I
 [rage quit without the rage](https://meta.stackexchange.com/questions/42481/the-problem-with-extrinsic-motivation).[^1]
 I
 [announced the shutdown of a project I believe in](https://meta.stackoverflow.com/questions/354217/sunsetting-documentation). In
-2017, good friends and valuable colleagues where
+2017, good friends and valuable colleagues were
 [laid off](https://meta.stackexchange.com/questions/303005/what-happened-with-the-stack-overflow-layoffs).[^2]
 For all that the company has done to enable its volunteer users to
 build a store of knowledge, I wonder if it's worth all the pain we
