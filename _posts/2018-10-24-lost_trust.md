@@ -2,6 +2,7 @@
 layout: post
 title: Chaos, lost trust, grief and restoration
 tags: community
+issue: 5
 comments: yes
 ---
 
