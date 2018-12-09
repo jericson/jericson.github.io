@@ -20,7 +20,7 @@ end
 
 to setup-patches
   ask patches [
-    set comments 90 + random 10
+    set comments random-float 10
   ]
   check-comments
 end
@@ -28,18 +28,17 @@ end
 to setup-turtles
   create-freds good_actors [
     setxy random-xcor random-ycor
-    set tolerance 90 + random 10
+    set tolerance random-float 10
     set color green
   ]
   create-jacks bad_actors [
     setxy random-xcor random-ycor
-    set tolerance random 10
+    set tolerance 90 + random-float 10
     set color red
   ]
   create-hans regular_folk [
     setxy random-xcor random-ycor
-    set tolerance 90 + random 10
-    set color orange
+    set color blue
   ]
   move-turtles
 end
@@ -56,14 +55,14 @@ to move-turtles
   ]
   ask hans [set tolerance mean [comments] of neighbors]
   if users_leave? [
-    ask freds [if mean [comments] of neighbors < leave_threshold [die]]
+    ask freds [if mean [comments] of neighbors > leave_threshold [die]]
   ]
   ;ask hans [set color scale-color yellow tolerance 0 100 ]
 end
 
 to check-comments
   ask patches [
-    set pcolor scale-color cyan comments 0 100
+    set pcolor scale-color cyan comments 100 0
   ]
 end
 @#$#@#$#@
@@ -88,8 +87,8 @@ GRAPHICS-WINDOW
 16
 -16
 16
-0
-0
+1
+1
 1
 ticks
 30.0
@@ -145,7 +144,7 @@ MONITOR
 180
 390
 Unwelcoming comment rate
-100 - mean [comments] of patches
+round mean [comments] of patches
 17
 1
 11
@@ -156,7 +155,7 @@ MONITOR
 137
 445
 Average tolerance
-100 - mean [tolerance] of turtles
+round mean [tolerance] of turtles
 17
 1
 11
@@ -213,7 +212,7 @@ SWITCH
 243
 users_leave?
 users_leave?
-0
+1
 1
 -1000
 
@@ -226,7 +225,7 @@ leave_threshold
 leave_threshold
 0
 100
-80.0
+20.0
 1
 1
 NIL
@@ -235,27 +234,45 @@ HORIZONTAL
 @#$#@#$#@
 ## WHAT IS IT?
 
-(a general understanding of what the model is trying to show or explain)
+A model of Shamus Young's [Philosophy of Moderation](https://www.shamusyoung.com/twentysidedtale/?p=19709) and [the finding](https://stackoverflow.blog/2018/12/04/welcome-wagon-community-and-comments-on-stack-overflow/) that between 3-8% of comments on Stack Overflow are unwelcoming.
 
 ## HOW IT WORKS
 
-(what rules the agents use to create the overall behavior of the model)
+The patches represent comments in certain areas of the site (tags, for instance). Each patch has a variable that tracks how many comments are unwelcoming in that area. Initially it's set randomly between 0-10%. That means the model starts with a global average around 5%, which coincides with the estimate on Stack Overflow.
+
+There are 3 different types of users (breeds in model terms):
+
+1. freds who are Mr. Rogers types. They have a low tolerence for unwelcoming comments set randomly between 0 and 10%.
+
+2. jacks who are like Jack Torrance from _The Shining_. They have high tolerence for unwelcoming comments set between 90 and 100%.
+
+3. hans who adapt to whatever social situation they inhabit. Their tolerence is set each tick to the average rate of comments in neighboring patches.
+
+Each user influences their current patch by decreasing the unwelcoming comment rate if their tolerance is less than it or increasing if greater. The idea is that users who value welcoming comments contribute to creating a more welcoming environment (and vice versa). Each user moves to a new patch randomly on each click.
+
+There is also an option to let freds leave if the tenor of the neighborhood is too unwelcoming. 
 
 ## HOW TO USE IT
 
-(how to use the model, including a description of each of the items in the Interface tab)
+Set the number of each type of user, press the `setup` button and start the simulation by pressing `go`. With 20 freds, 10 jacks and 70 hans, the model falls into a stable pattern. Depending on initial conditions, low tolerance users balance out the high tolerance users to produce ~7-10% unwelcoming comments. There aren't any major hotspots and users average a tolerance of ~15-17%.
+
+Once the site stablizes, enable the `users_leave?` option. If a fred hits a patch with a neighboring unwelcome comment rate higher than the threshold, that user will leave the site never to return. As they do, the average tolerance begins to rise and so does the overall unwelcome comment rate. In turn, this causes more freds to leave. Eventually the unwelcome comment rate and average tolerance stablize at 95%, which is the average tolerance for jacks.
 
 ## THINGS TO NOTICE
 
-(suggested things for the user to notice while running the model)
+Even after one or two freds leave, the model is slow to enter the downward spiral. It may take tens of thousands of clicks to lose all the freds. But once the freds start leaving, it's inevitable that the jacks will take over. It's a race to the bottom.
 
 ## THINGS TO TRY
 
-(suggested things for the user to try to do (move sliders, switches, etc.) with the model)
+Different ratios of users will produce different results. Equal part jacks and freds will produce a battle over areas of the site that stablizes at 50% unwelcoming if freds are not allowed to leave. Adding hans smooths the regions, but doesn't change the stabilzation point. A site full of hans with a single jack will eventually decend into chaos. A single fred will countbalance the jack.
+
+Adjusting the `leave_threshold` to a high enough number prevents jacks from leaving. By running the simulation several times, you can do a [binary search](https://stackoverflow.com/a/32319650/1438) to discover that limit.
 
 ## EXTENDING THE MODEL
 
-(suggested things to add or change in the Code tab to make the model more complicated, detailed, accurate, etc.)
+I'd be interested in adding a slider to set the ranges of initial tolerances and comment rates.
+
+
 
 ## NETLOGO FEATURES
 
@@ -267,7 +284,10 @@ HORIZONTAL
 
 ## CREDITS AND REFERENCES
 
-(a reference to the model's URL on the web if it has one, as well as any other necessary credits, citations, and links)
+* [Philosophy of Moderation](https://www.shamusyoung.com/twentysidedtale/?p=19709) by Shamus Young
+
+* [Welcome Wagon: Community and Comments on Stack Overflowg](https://stackoverflow.blog/2018/12/04/welcome-wagon-community-and-comments-on-stack-overflow/) by Julia Silge & Jason Punyon
+
 @#$#@#$#@
 default
 true
