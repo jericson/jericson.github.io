@@ -247,14 +247,14 @@ true
 true
 "" ""
 PENS
-"Good actors" 1.0 0 -10899396 true "" "plot count freds"
-"Average tolerance" 1.0 0 -955883 true "" "plot mean [tolerance] of turtles"
-"Unwecome rate" 1.0 0 -8990512 true "" "plot mean [comments] of patches"
+"Good actors" 1.0 0 -10263788 true "" "plot count freds"
+"Average tolerance" 1.0 0 -11221820 true "" "plot mean [tolerance] of turtles"
+"Unwecome rate" 1.0 0 -2674135 true "" "plot mean [comments] of patches"
 
 @#$#@#$#@
 ## WHAT IS IT?
 
-A model of Shamus Young's [Philosophy of Moderation](https://www.shamusyoung.com/twentysidedtale/?p=19709) and [the finding](https://stackoverflow.blog/2018/12/04/welcome-wagon-community-and-comments-on-stack-overflow/) that between 3-8% of comments on Stack Overflow are unwelcoming.
+A model of Shamus Young's [Philosophy of Moderation](https://www.shamusyoung.com/twentysidedtale/?p=19709) using [the finding](https://stackoverflow.blog/2018/12/04/welcome-wagon-community-and-comments-on-stack-overflow/) that between 3-8% of comments on Stack Overflow are unwelcoming.
 
 ## HOW IT WORKS
 
@@ -286,6 +286,8 @@ Even after one or two freds leave, the model is slow to enter the downward spira
 
 Different ratios of users will produce different results. Equal part jacks and freds will produce a battle over areas of the site that stablizes at 50% unwelcoming if freds are not allowed to leave. Adding hans smooths the regions, but doesn't change the stabilzation point. A site full of hans with a single jack will eventually decend into chaos. A single fred will countbalance the jack.
 
+**It can take a long time to reach the tipping point.** If you don't see the site destablize, you might try reducing the number of `good_actors` when you set up the model. In particular, the web version seems particularly slow.
+
 Adjusting the `leave_threshold` to a high enough number prevents jacks from leaving. By running the simulation several times, you can do a [binary search](https://stackoverflow.com/a/32319650/1438) to discover that limit.
 
 ## EXTENDING THE MODEL
@@ -298,13 +300,7 @@ The semantcs of the model represent welcoming comments, but it could easily be c
 
 A more complicated model would account for other reasons why people my leave or join the site. 
 
-## NETLOGO FEATURES
 
-(interesting or unusual features of NetLogo that the model uses, particularly in the Code tab; or where workarounds were needed for missing features)
-
-## RELATED MODELS
-
-(models in the NetLogo Models Library and elsewhere which are of related interest)
 
 ## CREDITS AND REFERENCES
 
