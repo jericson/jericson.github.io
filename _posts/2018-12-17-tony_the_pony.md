@@ -5,7 +5,7 @@ tags: meta-post
 license: http://creativecommons.org/licenses/by-sa/3.0/
 encoding: utf-8
 date: 2018-12-17
-comments: no
+comments: yes
 ---
 
 Below is the test post I used while developing my
