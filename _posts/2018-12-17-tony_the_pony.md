@@ -118,9 +118,6 @@ Have you tried using an XML parser instead?
 >
 > This post is locked to prevent inappropriate edits to its content. The post looks exactly as it is supposed to look - there are no problems with its content. Please do not flag it for our attention.
 
----
-
-Please direct comments to the [original post](http://stackoverflow.com/a/1732454/18936).
 
 <!--  LocalWords:  Bringhurst
  -->
