@@ -119,5 +119,18 @@ Have you tried using an XML parser instead?
 > This post is locked to prevent inappropriate edits to its content. The post looks exactly as it is supposed to look - there are no problems with its content. Please do not flag it for our attention.
 
 
+---
+
+Jon here again. Here's the font selection tool for your convenience:
+
+  <textarea name="pickfont">Arial</textarea>
+
+  <button type="button"
+          onclick='document.body.style.fontFamily = document.querySelector("textarea").value'>
+    submit
+  </button>
+
+
+
 <!--  LocalWords:  Bringhurst
  -->
