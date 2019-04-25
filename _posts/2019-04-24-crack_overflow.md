@@ -42,5 +42,23 @@ never be answered anyway? So it's our ethical duty to avoid wasting
 our users' time. That's one of the reasons I'm so happy the
 [Ask Wizard has reduced the number of bad questions](https://meta.stackoverflow.com/q/381671/1438).
 
+Networks like Twitter and Facebook are practically designed to waste
+time. Last month
+[I stopped using those sites](https://medium.com/@jlericson/im-giving-up-twitter-and-facebook-for-lent-fc8b07013828)
+and it was honestly difficult for a few days. I woke up the first
+morning wondering how many responses my post had prompted. After 40
+days of not feeling angry about trivia, I don't see myself going
+back. If I did, it's certain I'd be sucked back into the trap.
+
+At the end of the day, our network
+[provides incredible value](https://stackexchange.com/about) to people
+searching the internet at remarkably low cost. It's difficult to know
+exactly how much time users spend asking and answering questions, but
+we do know that many people enjoy sharing their knowledge. So it's a
+symbiotic relationship between people who have spare time and people
+who desperately needs to find knowledge. It's great that the voting
+and reputation and badges and so on help users do the things they
+already want to do.
+
 <!--  LocalWords:  mic'ed LocalWords Relistening
  -->
