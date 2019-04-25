@@ -46,9 +46,10 @@ Networks like Twitter and Facebook are practically designed to waste
 time. Last month
 [I stopped using those sites](https://medium.com/@jlericson/im-giving-up-twitter-and-facebook-for-lent-fc8b07013828)
 and it was honestly difficult for a few days. I woke up the first
-morning wondering how many responses my post had prompted. After 40
-days of not feeling angry about trivia, I don't see myself going
-back. If I did, it's certain I'd be sucked back into the trap.
+morning wondering how many responses my post saying I was leaving had
+prompted. After 40 days of not feeling angry about trivia, I don't see
+myself going back. If I did, it's certain I'd be sucked back into the
+trap.
 
 At the end of the day, our network
 [provides incredible value](https://stackexchange.com/about) to people
