@@ -18,7 +18,7 @@ Community managers, at least at Stack Overflow, often take the
 responsibility of announcing changes and we've noticed people don't
 like their
 [cheese moved](https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F):
-[![By 2037, the electric shocks had been added to the documentation.](http://cube-drone.com/media/optimized/99.png)](https://cube-drone.com/comics/c/ingeniuty-of-sorts)
+[![By 2037, the electric shocks had been added to the documentation.](/images/ingeniuty-of-sorts.png)](https://threepanel.com/t/cube-drone/18/19)
 © [Curtis Lassam](http://curtis.lassam.net/) 2012-2016
 
 Unfortunately, there's no way to know beforehand if these complaints
