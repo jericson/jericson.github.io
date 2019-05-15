@@ -2,11 +2,11 @@
 title: Jon Quixote
 name: Jon Quixote
 icon: /images/donquixote.gif
-email: jericson@stackexchange.com
+email: jon@jlericson.com
 description: > # this means to ignore newlines until "baseurl:"
-  What does a Community Manager at Stack Exchange do?
+  In which the author considers whether a community is more like a giant or more like a windmill
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://jericson.github.io/" # the base hostname & protocol for your site
+url: "https://jlericson.com/" # the base hostname & protocol for your site
 author: Jon Ericson
 author_url: http://meta.stackexchange.com/users/1438/jon-ericson
 twitter_username: jlericson

@@ -1,4 +1,4 @@
-# [jericson.github.io](http://jericson.github.io/)
+# [jlericson.com](http://jericson.com/)
 
 ## Layout additions
 
@@ -8,7 +8,7 @@ So far my layout is pretty basic. But I have added the following:
   extended titles. One of the sneaky benefits of my setup is that you
   can create a page that doesn't show up in the top bar menu by
   including a subtitle and leaving the title blank. (See my hidden
-  page about [comments](http://jericson.github.io/comment.html).)
+  page about [comments](http://jlericson.com/comment.html).)
 
 * Comments can be turned on by adding `comments: yes` to the front
   matter of posts and pages. Once someone has opened an issue for a

@@ -1,1 +1,1 @@
-I generally use issues on this repository for [blog comments](http://jericson.github.io/comment.html). If your issue is related to the content of a post, please include a URL so that I know what you are commenting on.
+I generally use issues on this repository for [blog comments](http://jlericson.com/comment.html). If your issue is related to the content of a post, please include a URL so that I know what you are commenting on.
