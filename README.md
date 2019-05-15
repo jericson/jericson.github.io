@@ -1,4 +1,4 @@
-# [jlericson.com](http://jericson.com/)
+# [jlericson.com](http://jlericson.com/)
 
 ## Layout additions
 
