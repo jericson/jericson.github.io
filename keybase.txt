@@ -4,6 +4,95 @@ https://keybase.io/jericson
 
 I hereby claim:
 
+  * I am an admin of https://jlericson.com
+  * I am jericson (https://keybase.io/jericson) on keybase.
+  * I have a public key with fingerprint 834A 7AB0 5373 E241 1C01  A3C2 9C29 13F4 097C 3E2C
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206c2d304b28dec446b76451f1c741b99b1da283d7e8b5e0dbd3ed856ff7492c7c0a",
+      "fingerprint": "834a7ab05373e2411c01a3c29c2913f4097c3e2c",
+      "host": "keybase.io",
+      "key_id": "9c2913f4097c3e2c",
+      "kid": "01018c3f399698e5d4c6013901fb8b2538d36139cf988b0d8c810c4fd070334afa1c0a",
+      "uid": "f7ea90ecb3d0923032ee7d9e3c215319",
+      "username": "jericson"
+    },
+    "merkle_root": {
+      "ctime": 1558027844,
+      "hash_meta": "8bf8310c7465c856ebba10fca4c0f3bd0b1ab86ddd52a104c852df0b9c96f04c",
+      "seqno": 5387134
+    },
+    "revoke": {
+      "sig_ids": [
+        "0ac143dde4faa7f4cc703cc9e3c3394819c09ff94ef9fceab8c72eb7547384460f"
+      ]
+    },
+    "service": {
+      "hostname": "jlericson.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1558027848,
+  "expire_in": 157680000,
+  "prev": "7057a8b1b181d2a5143be2af63d27563a851ea23b4c9aaeb5c75bd96e7e5718f",
+  "seqno": 39,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMQBAnicbVMLUBVVGL4o+EBN08g32iYWeMVz9uzu2aV08IEBpmWYT/C25+xZWC7c
+ve1eLg91JLR0KgxnQGcodabUUqOi1NFG6koUYuM0WUFTmKZmDr7LHpZh55JOM007
+O7Pz7//93/993+5pGdTbEx/zSvKw6/1XTvPGfNpcWuLJPbE1c4VAbKNcSFsh+FnP
+gxUZzA35/JYhpAkAikChooGARETVYFSSFIIVSYYmpFiCRNMINHRRRQZmKpEZMIiB
+mKHKimliSRMppkAXvIJpBfKZE3SsQIjTqkjSsU6AjDBiogQhBVBHVNT4DZEpAQ1T
+3qB8sMB2oxNcHNFdlmrZ/B0vfD3y/gd/RzeAKkUm0jRFU5lsSFQBEGkAmkQlooxU
+Aym8pqamqgQYKlUhoJJpAAwQF2fq8B/dJT10Jma6BhglyACaiAASGcOGxrhkKCOo
+RYEucwJ6MePoQuZY1LUDwiqvUMwcfxHzObYdioZLQ1YUAmVZBSJWJYkb1N0CXzEL
+6dFciKkiLgRLikx5howQHQKT6hIFJiIGIFAnqmIYhizyhsQxomEColFNMXnJdbjs
+6YAtpHGHGCKJK3BY2Paz6HLXyuexuULaMgHoFErIMJhk6jo2JUq5b0qjjhDSJBVq
+FGimqUnM1EzK+FKKRUawLGHEVSvAFPJWRZc5YYv2kEe/0x3/RbcDSKV2MZcUdOyQ
+Te0i3ioIhYJuWjSYUHkwii1lxHebxUesgMF/Ez4RZo5r8QDTIEf+NzPVK7CyoOUw
+nxVFyFhRAb+ie1iYU2IgY10lkEAVGqIuc6OEibqpIEPEsoJ0VYZMFxGRqKbrjMgU
+y8TQFIaZjKFq/hsi0rhOPZ9z8ugCeqjEYcKq5sO5sZ6YeE+fuF7R8+OJ7z/kzqki
+kSGeN3Y9N3BTcllOd2VbINwwvW8Cq2HSzmFdV5uuFHbimeX7c6t6X1+7unbo3kPz
+Pj5V4527J7J8QnpGy/RnHjnxa9LV2Pp4M7uwLmV65HxrS+KhJ0F1Z3pBw4a3M4eu
+Gb5xaOmAtqwziRV7f28L/1l25GVx5Jxm6GbH5U1tav6kIulgF7brEhur0BPzyOLR
+245lzR5xueVGd+vIbQsuZ+dN7BXO/fqxse05y6SLh89PTSlfvbv180tj1quDOs4u
+b3/+XFfcQ3enzL92qr36xC1QOGVp3xnB4dqR2hzhxqLkSZX3zhpT91HHw/7SztpN
+sS8dOzrzr1tlM95LHeVdsmv/hEn1mZHUoy/mzDf3pf+wfdvohtj0QMLaiop36wrb
+2votvK9+fNbKfY3HzqRYxz+M866uu6cxP9J6+hvPF9sv5uzcMmvgZP+jB/YkNc9M
+2pfb8P3krJaSAW2fLR7XWTugYNQfW5zu+09uyD6d+k5ORuTxphmvvSlfnZs5jCz2
+a9aISV9eiSlkXZfqzjfCFQfy12+OLBg3Z1zNb0VjY9ednZh8kG0pcdfk+k+e9izI
+sKoGv9rhGSwG26sSP9iRUPNU+uybr1ffZNeStna81a/fCxdySr9aljf68oi7lsCF
+W7unXVvn1m8/+ovTkPHzomeXPvDgKLxxx4Wm72ry1vdJGPxtZdKEnyZXvy/vbv8x
+xe7svtCUce7c+OOVUzb/Dc7a+P0=
+=UVX2
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jericson
+
+==================================================================
+
+==================================================================
+https://keybase.io/jericson
+--------------------------------------------------------------------
+
+I hereby claim:
+
   * I am an admin of https://jericson.github.io
   * I am jericson (https://keybase.io/jericson) on keybase.
   * I have a public key with fingerprint 834A 7AB0 5373 E241 1C01  A3C2 9C29 13F4 097C 3E2C
