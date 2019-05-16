@@ -14,3 +14,5 @@ gem 'html-proofer'
 gem 'jekyll-tagging'
 
 gem 'htmlentities'
+
+gem 'concurrent-ruby'

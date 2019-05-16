@@ -260,6 +260,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  concurrent-ruby
   github-pages
   hpricot
   html-proofer

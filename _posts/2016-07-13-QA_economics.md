@@ -180,7 +180,7 @@ Overflow, the problem is more acute because of volume.
 And then there's the hassle `$P` associated with dealing with people
 who don't understand the rules of the community. From the perspective
 of new users, hurdles such as closing questions and
-[downvoting](http://jericson.github.io/2015/05/18/downvotes.html) seem
+[downvoting](/2015/05/18/downvotes.html) seem
 to extract an enormous `$P` toll. But they often protect the community
 from a threat Clay Shirky
 [wrote about](http://www.shirky.com/writings/herecomeseverybody/group_enemy.html):

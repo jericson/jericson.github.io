@@ -1,5 +1,0 @@
-#!/usr/bin/env ksh
-set -e # halt script on error
-
-./build_tags.sh
-bundle exec htmlproof ./_site

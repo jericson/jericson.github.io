@@ -6,7 +6,7 @@ tags: community
 ---
 
 I wrote about
-[comments on Stack Overflow](http://jericson.github.io/2018/03/23/race_to_1k_6.html)
+[comments on Stack Overflow](/2018/03/23/race_to_1k_6.html)
 and how they are sometimes discouraging to outsiders. I also wrote a
 [meta post](https://meta.stackexchange.com/q/311504/1438) that
 suggests leaving a comment is effective at encouraging a new question

@@ -6,7 +6,7 @@ comments: yes
 tags: support
 ---
 
-[Honeypots](http://jericson.github.io/2015/04/08/customer-support-4.html)
+[Honeypots](/2015/04/08/customer-support-4.html)
 have been catching 3<sup>rd</sup> party tickets for the better part of
 a year. As I explained then, I measure success by comparing the send
 rate for anonymous and registered users. We want to minimize anonymous

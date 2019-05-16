@@ -20,6 +20,7 @@ defaults:
 
 # Build settings
 markdown: kramdown
+encoding: utf-8
 
 liquid:
   error_mode: warn
