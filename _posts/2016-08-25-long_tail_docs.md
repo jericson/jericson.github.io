@@ -159,7 +159,7 @@ manuals and more time creating amazing software.
 
 [^2]: One way that native search _could_ be better than Google is if
     it makes use of metadata unique to the site. On Stack Overflow,
-    one good choice is votes.It's an
+    one good choice is votes. It's an
     [easy fix](https://github.com/jericson/socli/commit/cc87c31b686b0044ae48dfa15d326087b6372055),
     but I still think a Google search would be better yet.
 
