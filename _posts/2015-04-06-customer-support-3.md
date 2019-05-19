@@ -14,14 +14,14 @@ I'll talk about the next three steps:
 ## 3. Be lenient when possible
 
 A few years ago, behavioral economists
-[examined the decisions](http://www.pnas.org/content/108/17/6889.full)
+[examined the decisions](https://web.archive.org/web/20180106005608/http://www.pnas.org/content/108/17/6889/F1.expansion.html)
 of eight Israeli parole board judges. Since the judges were all Jewish
 and the prisoner requests they evaluated were a mix of Arab and Jewish
 offenders, you might suspect that any bias present would be ethnic or
 religious. Actually, decisions were most biased by the time of day the
 judge considered the case:
 
-[![Fig. 1.](http://www.pnas.org/content/108/17/6889/F1.medium.gif)](http://www.pnas.org/content/108/17/6889/F1.expansion.html)
+[![Fig. 1.](http://www.pnas.org/content/108/17/6889/F1.medium.gif)](https://web.archive.org/web/20180106005608/http://www.pnas.org/content/108/17/6889/F1.expansion.html)
 
 Those little circles represent food breaks (breakfast, snack and
 lunch). If a prisoner was lucky enough to have their case heard

@@ -16,3 +16,7 @@ _drafts/
 
 # RCS
 RCS
+
+# Temporary files
+
+tmp/

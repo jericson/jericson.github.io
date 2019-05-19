@@ -85,7 +85,7 @@ Allow me to draw your attention to the coefficients one at a time:
 
 4. Getting an upvote encourages followup questions to a very small degree. This makes sense because new users generally don't care about the game. Rather, they want an answer to their question. Sometimes I see an angry comment asking how a question could have been upvoted. If they are worried about encouraging more questions, this model suggests they wasted their effort.
 
-5. But not all votes are created equal. Downvotes discourage more questions half as much as answers encourage them. (Insert [my thoughts on the value of downvotes](http://jericson.github.io/2015/05/18/downvotes.html).)
+5. But not all votes are created equal. Downvotes discourage more questions half as much as answers encourage them. (Insert [my thoughts on the value of downvotes](/2015/05/18/downvotes.html).)
 
 6. Edits are roughly as encouraging as comments. We sometimes hear new users complain about their questions being edited, but it actually seems to be welcomed by most askers.
 

@@ -65,7 +65,7 @@ allowed people to reset their progress if their pet site was doomed to
 failure. They also noticed that the game didn't require anything to
 play other than an account. Being a clever bunch of programmers, they
 decided to use that bit of information to
-[win the game](http://meta.stackexchange.com/stackegg/leaderboard) by
+[win the game](https://web.archive.org/web/20150404103711/http://meta.stackexchange.com:80/stackegg/leaderboard) by
 resetting rival sites' progress.
 
 Unfortunately, they decided to "raid" Code Review.

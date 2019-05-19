@@ -13,7 +13,7 @@ English. If you disagree with some or all of what I have to say, I'm
 willing to read your persuasive essay too. If you hate my opinion, all I
 can say is that I'm sorry.
 
-[![Left: Glen Beck Right: Frances Elizabeth Snyder Holberton](/images/eniac1.gif)](http://ftp.arl.mil/ftp/historic-computers/)
+[![Left: Glen Beck Right: Frances Elizabeth Snyder Holberton](/images/eniac1.gif)](https://web.archive.org/web/20150301221818/http://ftp.arl.mil:80/ftp/historic-computers/)
 
 We recently ran a survey on Stack Overflow and
 [noted](http://stackoverflow.com/research/developer-survey-2015#profile-women):
@@ -45,7 +45,7 @@ performed on the
 [Computer Science](http://en.wikipedia.org/wiki/AP_Computer_Science)
 and [Calculus AB](http://en.wikipedia.org/wiki/AP_Calculus) Advanced
 Placement tests from
-[2006 to 2013](http://home.cc.gatech.edu/ice-gt/556):
+[2006 to 2013](https://web.archive.org/web/20190226062956/http://home.cc.gatech.edu/ice-gt/556):
 
 |                      | Boys | Girls | Total
 -                    - | ---: | ----: | ----:
@@ -101,7 +101,7 @@ of happenstances:
    [_David Ahl's BASIC Computer Adventures_](http://www.computerscienceforkids.com/Pages/DavidAhlsBasicComputerAdventures.aspx)
    which contained the source code of 10 fairly simplistic games,
    including
-   [Westward Ho!](http://www.computerscienceforkids.com/Pages/DavidAhlsSmallBasicComputerAdventuresChapter2WestwardHo.aspx),
+   [Westward Ho!](https://www.kidwaresoftware.com/davidahlssmallbasiccomputeradventureschapter2westwardho/),
    which is an Oregon Trail clone. I spent many hours keying in and
    debugging these programs; playing the games was boring in
    comparison to reading the source and improving them.

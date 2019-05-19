@@ -10,10 +10,7 @@ Recently I discovered the work of one George A Duckett who has copied
 posts from all over the Stack Exchange network to produce books for
 sale on Amazon. One in particular caught my eye: <a rel="nofollow"
 href="http://www.amazon.com/gp/product/B00XCZ57YY/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00XCZ57YY&linkCode=as2&tag=jonqui-20&linkId=QX4G4MK5J7W6H5HF"><i>Hermeneutics:
-Questions and Answers</i></a><img
-src="http://ir-na.amazon-adsystem.com/e/ir?t=jonqui-20&l=as2&o=1&a=B00XCZ57YY"
-width="1" height="1" border="0" alt="" style="border:none !important;
-margin:0px !important;" />. The paperback edition sells for $15
+Questions and Answers</i></a>. The paperback edition sells for $15
 (though it can be had cheaper used or via other sellers) and the
 Kindle price is $3. Kindle Unlimited subscribers may read it for
 free. As you might gather from the review, I think those prices are

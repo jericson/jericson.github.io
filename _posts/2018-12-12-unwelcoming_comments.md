@@ -50,7 +50,7 @@ To illustrate the current situation, I created an [agent-based model](https://ww
 2. Unrepentantly harsh people and
 3. Normal folks who adjust to the current tone they see around them.
 
-I built a very simple model that you can [try out](https://jericson.github.io/NetLogo/welcome_comments.html). (Click the "Model Info" arrow for a detailed description and "NetLogo Code" for the source code.) It assumes that kind people will always raise the level of discourse, but will leave if there are too many unwelcoming comments. Harsh people influence the environment by increasing unwelcoming comments and normal users adapt to the average level of their neighborhood. The result is an very stable situation that seems entirely sustainable for a long period of time. But every now and then a user with low tolerance for unwelcome comments will leave the site and when enough have, it will start a cascading failure case:
+I built a very simple model that you can [try out](/NetLogo/welcome_comments.html). (Click the "Model Info" arrow for a detailed description and "NetLogo Code" for the source code.) It assumes that kind people will always raise the level of discourse, but will leave if there are too many unwelcoming comments. Harsh people influence the environment by increasing unwelcoming comments and normal users adapt to the average level of their neighborhood. The result is an very stable situation that seems entirely sustainable for a long period of time. But every now and then a user with low tolerance for unwelcome comments will leave the site and when enough have, it will start a cascading failure case:
 
 [![Stable to rapidly deteriorating society][1]][1]
 
