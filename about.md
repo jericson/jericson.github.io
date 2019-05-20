@@ -5,6 +5,11 @@ comments: yes
 permalink: /about/
 ---
 
+[![Build Status](https://travis-ci.org/jericson/jericson.github.io.svg?branch=master)](https://travis-ci.org/jericson/jericson.github.io)
+
+The source of this site can be found on
+[GitHub](https://github.com/jericson/jericson.github.io).
+
 Remember [Geek Code](https://en.wikipedia.org/wiki/Geek_Code)? Here's a modern version:
 
 <a href="http://stackexchange.com/users/1083/jon-ericson"><img
