@@ -4,9 +4,12 @@ task :test do
   sh "bundle exec jekyll build"
   options = { :assume_extension => true,
               :allow_hash_href => true,
-              :file_ignore => [%r"/geocities", %r"/medium/", %r"/rot/"],
+              :file_ignore => [%r"/geocities",
+                               %r"/medium/"],
               # https://github.com/gjtorikian/html-proofer#configuring-caching
               :cache => { :timeframe => '30d' },
+              :check_external_hash => true,
+              :check_html => true,
             }
   HTMLProofer.check_directory("./_site", options).run
 end
