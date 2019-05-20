@@ -1,5 +1,7 @@
 # [jlericson.com](http://jlericson.com/)
 
+[![Build Status](https://travis-ci.org/jericson/jericson.github.io.svg?branch=master)](https://travis-ci.org/jericson/jericson.github.io)
+
 ## Layout additions
 
 So far my layout is pretty basic. But I have added the following:
