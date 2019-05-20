@@ -40,13 +40,13 @@ So far my layout is pretty basic. But I have added the following:
 
       bundle exec jekyll serve --watch --draft --safe
 
-* I'm playing around with importing meta posts with `get_se_post.rb`
-  which uses the
-  [Stack Exchange API](http://api.stackexchange.com/docs). It takes
-  two parameters: a site and a post identifier. The output goes to
-  `stdout`, so you'll have to save it with something like:
+* I'm playing around with importing meta posts with
+  [`se2jekyll.rb`](https://github.com/jericson/se2jekyll.rb) which
+  uses the [Stack Exchange API](http://api.stackexchange.com/docs). It
+  takes two parameters: a site and a post identifier. The output goes
+  to `stdout`, so you'll have to save it with something like:
 
-      ruby get_se_post.rb Meta.Puzzling 3020 > _drafts/site_evaluations.md 
+      ruby se2jekyll.rb -s Meta.Puzzling 3020 > _drafts/site_evaluations.md 
 
 ## Licence clarification
 
