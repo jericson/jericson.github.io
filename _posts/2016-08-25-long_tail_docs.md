@@ -130,7 +130,7 @@ to
 [edit questions to be more general](https://blog.stackoverflow.com/2011/01/the-wikipedia-of-long-tail-programming-questions/),
 but people are too hung up on post ownership. That's one of the
 reasons we're building
-[Stack Overflow Documentation](http://stackoverflow.com/tour/documentation)
+[Stack Overflow Documentation](https://web.archive.org/web/20170803203242/https://stackoverflow.com/tour/documentation)
 to encourage collaborative editing. There's clearly a need for quick
 access to the dusty corners of programming, so we are banking on Stack
 Overflow users stepping up to create long-tail examples the way

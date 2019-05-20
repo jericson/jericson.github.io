@@ -6,11 +6,14 @@ issue: 1
 tags: community review
 ---
 
+**Update May 19, 2019**: At some point Amazon stopped selling this
+  book it's still possible to find it available in a PDF by searching
+  it's [ASN](https://www.google.com/search?q=B00XCZ57YY).
+
 Recently I discovered the work of one George A Duckett who has copied
 posts from all over the Stack Exchange network to produce books for
-sale on Amazon. One in particular caught my eye: <a rel="nofollow"
-href="http://www.amazon.com/gp/product/B00XCZ57YY/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00XCZ57YY&linkCode=as2&tag=jonqui-20&linkId=QX4G4MK5J7W6H5HF"><i>Hermeneutics:
-Questions and Answers</i></a>. The paperback edition sells for $15
+sale on Amazon. One in particular caught my eye: _Hermeneutics:
+Questions and Answers_. The paperback edition sells for $15
 (though it can be had cheaper used or via other sellers) and the
 Kindle price is $3. Kindle Unlimited subscribers may read it for
 free. As you might gather from the review, I think those prices are

@@ -36,7 +36,7 @@ sharing knowledge `$I`. Not everyone would make that trade, but
 hundreds of thousands of programmers do on Stack Overflow. Most of
 them are working programmers who just happen to have a bit of downtime
 in their work schedule and
-[enjoy solving bit-sized problems](http://meta.stackexchange.com/a/17406/1438).
+enjoy solving bite-sized problems.
 Now, some people answer in order to gain skills they can use to
 [get a better job](http://stackoverflow.com/jobs). And there are
 companies who hire programmers to answer questions as part of a

@@ -89,7 +89,6 @@ For instance, we get requests from questions such as[^3]:
 * [Where to report Gmail problems?](http://webapps.stackexchange.com/q/24238/43374)
 * [How do I recover my Google account (or Gmail) password or username?](http://webapps.stackexchange.com/q/52706/43374)
 * [What do I do if I forgot my Gmail password?](http://webapps.stackexchange.com/q/9217/43374)
-* [Gmail got hacked - how should I report?](http://webapps.stackexchange.com/q/11034/43374)
 
 If we got a thousand tickets from these questions, I'd be shocked if
 we could address more than one or two. So I feel extremely comfortable
@@ -135,6 +134,7 @@ quicker to people who have lost access to their Gmail account.
 
 ---
 
+
 [^1]: This doesn't count tickets that were duplicates. People trying
     to recover credentials for sites that essentially control their
     online identity can (understandably) be very anxious for a reply.
@@ -142,10 +142,12 @@ quicker to people who have lost access to their Gmail account.
 [^2]: For whatever reason Yahoo users don't seem to contact us for customer support as much.
 
 [^3]: We also get a surprising number of referrers from a deleted
-    question:
-    [I have forgotten my old Google username and password, how do I recover my account?](http://webapps.stackexchange.com/questions/51875/i-have-forgotten-my-old-google-username-and-password-how-do-i-recover-my-accoun)
+    question: 
+    <a href="http://webapps.stackexchange.com/questions/51875/i-have-forgotten-my-old-google-username-and-password-how-do-i-recover-my-accoun" data-proofer-ignore>I have forgotten my old Google username and password, how do I recover my account?</a>
     My best guess is that some popular site linked to it before deletion.
 
+
+    
 <!--  LocalWords:  problemz animuson LocalWords ur WebApps  http
  -->
 <!--  LocalWords:  accoun username Zendesk gmail google facebook
