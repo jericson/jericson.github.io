@@ -5,7 +5,7 @@ tags: meta-post
 license: http://creativecommons.org/licenses/by-sa/3.0/
 encoding: utf-8
 author: <a alt="Jon Ericson" href="https://meta.stackexchange.com/users/1438/jon-ericson">Jon Ericson</a>
-date: 2018-12-12 06:10:30
+date: 2018-12-12 
 comments: no
 ---
 
