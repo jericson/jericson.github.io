@@ -9,6 +9,7 @@ gem 'json', '>1.8.6'
 gem 'github-pages'#, versions['github-pages'] 
 gem 'hpricot'
 
+gem 'rake'
 gem 'html-proofer'
 
 gem 'jekyll-tagging'
