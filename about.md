@@ -5,10 +5,12 @@ comments: yes
 permalink: /about/
 ---
 
-[![Build Status](https://travis-ci.org/jericson/jericson.github.io.svg?branch=master)](https://travis-ci.org/jericson/jericson.github.io)
 
 The source of this site can be found on
 [GitHub](https://github.com/jericson/jericson.github.io).
+
+[![Build Status](https://travis-ci.org/jericson/jericson.github.io.svg?branch=master)](https://travis-ci.org/jericson/jericson.github.io)
+
 
 Remember [Geek Code](https://en.wikipedia.org/wiki/Geek_Code)? Here's a modern version:
 
@@ -19,8 +21,13 @@ of free, community-driven Q&amp;A sites" title="profile for Jon
 Ericson on Stack Exchange, a network of free, community-driven Q&amp;A
 sites" /></a>
 
+Have a gander at [my CV](https://stackoverflow.com/cv/jericson). I'm
+not looking for a new job right now, however.
+
 If you want to send me a secret, I have a
-[Keybase account](https://keybase.io/jericson).
+[Keybase account](https://keybase.io/jericson). I also use one of
+those GPG keys to
+[sign my commits](https://github.com/pstadler/keybase-gpg-github).
 
 [![Project Euler account](https://projecteuler.net/profile/jericson.png)](https://projecteuler.net/progress=jericson)
 

@@ -4,7 +4,7 @@ name: Jon Quixote
 icon: /images/donquixote.gif
 email: jon@jlericson.com
 description: > # this means to ignore newlines until "baseurl:"
-  In which the author considers whether a community is more like a giant or more like a windmill
+  In which the author considers whether a community is more like a giant or more like a windmill.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://jlericson.com" # the base hostname & protocol for your site
 author: Jon Ericson
