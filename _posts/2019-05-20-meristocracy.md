@@ -166,8 +166,7 @@ sign of status is the whole flogging with scorpions thing.
 
 Footnotes:
 
-[^1]: Well, it was when I started writing this post on May 12 when I
-    started writing.
+[^1]: Well, it was when I started writing this post on May 12.
 
 [^2]: The story goes on to tell us that Jeroboam was no wiser a king
     than Rehoboam. He fought to keep Israel divided and it never
