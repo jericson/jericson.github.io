@@ -9,13 +9,17 @@ gem 'json', '>1.8.6'
 gem 'github-pages'#, versions['github-pages'] 
 gem 'hpricot'
 
+# testing
 gem 'rake'
 gem 'html-proofer'
 
+# tags
 gem 'jekyll-tagging'
 
 gem 'htmlentities'
 
+# Heroku
 gem 'puma'
 gem 'rack-jekyll'
+
 gem 'concurrent-ruby'

@@ -20,3 +20,6 @@ RCS
 # Temporary files
 
 tmp/
+
+# Screws with Travis-CI
+Gemfile.lock
