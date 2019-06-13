@@ -17,5 +17,5 @@ gem 'jekyll-tagging'
 gem 'htmlentities'
 
 gem 'puma'
-
+gem 'rack-jekyll'
 gem 'concurrent-ruby'
