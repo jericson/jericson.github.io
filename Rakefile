@@ -8,7 +8,8 @@ task :test do
                                %r"/medium/"],
               # https://github.com/gjtorikian/html-proofer#configuring-caching
               :cache => { :timeframe => '30d' },
-              :check_external_hash => true,
+              # Frequent false positives for some reason
+              :check_external_hash => false,
               :check_html => true,
             }
   HTMLProofer.check_directory("./_site", options).run

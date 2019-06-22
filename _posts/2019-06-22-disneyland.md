@@ -154,9 +154,9 @@ opened an incognito window and asked Google
 and the top result is a bunch of pages on Stack Overflow, including
 [How do I concatenate two lists in Python?](https://stackoverflow.com/questions/1720421/how-do-i-concatenate-two-lists-in-python)
 That question was asked in the fall of 2009 and it's got almost 2
-million views and the accepted answer was updated last week. I'd argue
-that Stack Overflow was able to nail that mission because it's clear and
-actionable.
+million views and the accepted answer was updated this year. I'd argue
+that Stack Overflow was able to nail that mission because it's clear
+and actionable.
 
 ---
 
