@@ -13,7 +13,7 @@ activities that promote the sorts of interactions
 a better explination of what I'm trying to get at can be found in
 [a mroe recent post about Disneyland](/2019/06/22/disneyland.html). I'm
 leaving this post here for postarity, but I ceratinly don't want
-people to feel like I'm accusing _them_ of being overly harsh. In
+people to feel like I'm _blaming them_ of being overly harsh. In
 truth, I feel this is an unindended consiquence of the system Stack
 Overflow Inc. designed.
 
