@@ -49,11 +49,11 @@ That's just parking! The rest of your day has been engineered to be
 even more delightful.
 
 Now parking isn't perfect. We recently visited when an escalator broke
-down so it was be slow to get everyone to the tram area. Since the
-floors are parked one at a time, one escalator is full while the rest
-are unused. There aren't enough elevators to handle all the strollers
-and wheelchairs that come through, so people have to stand in a long
-line for what I call "the first ride of the day". The top floor is
+down so it was slow to get everyone to the tram area. Since the floors
+are parked one at a time, one escalator is full while the rest are
+unused. There aren't enough elevators to handle all the strollers and
+wheelchairs that come through, so people have to stand in a long line
+for what I call "the first ride of the day". The top floor is
 uncovered and gets insanely hot.
 
 A new parking structure, which is currently getting built, will, no
@@ -160,8 +160,8 @@ and actionable.
 
 ---
 
-Stack Overflow struggles to be a place where people are
-delighted. Yes, people searching for solutions are often delighted to
+Stack Overflow struggles to be a place where people are delighted,
+however. Yes, people searching for solutions are often delighted to
 find answers. But they leave as soon as they can. (If we're lucky,
 they vote up the answers that helped and the questions that helped
 them find those answers.) Askers aren't delighted because there are so
@@ -174,21 +174,23 @@ We need to build (and repair) paths for people to have a good
 experience. This is one of the reasons that the
 [Ask Wizard](https://meta.stackoverflow.com/questions/381671/the-ask-question-wizard-is-live)
 holds promise. The early results, however, suggest at most an
-incremental improvement. The experience is marginally better, but
-still frustrating for just about everyone. Fixing the asking
-experience likely will take more aggressive measures.
+incremental improvement. Questions asked via the wizard get a
+marginally better reception, but it's still frustrating for just about
+everyone. Fixing the asking experience likely will take more
+aggressive measures.
 
 One idea that has come up internally would work something like the
 [Code Golf Sandbox](https://codegolf.meta.stackexchange.com/questions/2140/sandbox-for-proposed-challenges?answertab=active#tab-top). Indeed,
-it has the same name. A question sandbox would be an area where an
-asker could try out their question and potentially get help from other
-users before publishing it to the world. It's kinda similar to test
-environment: you don't need to worry about breaking a production
-system each time you make a change. And at this point, Stack Overflow
-is probably the largest collection of useful questions and working
+it has the same name: a question sandbox would be an area where an
+asker could try out their question and potentially get help from
+others before publishing it to the world. It's kinda similar to a test
+environment: you don't need to worry about breaking the production
+system each time you make a change. At this point, Stack Overflow is
+probably the largest collection of useful questions and working
 answers ever created. Just about everything added to it amounts to
 subtraction by addition and so we
-[block tons of potential questions](https://meta.stackoverflow.com/questions/318174/why-are-there-so-many-bad-questions/358412#358412).
+[block tons of potential questions](https://meta.stackoverflow.com/questions/318174/why-are-there-so-many-bad-questions/358412#358412)
+to avoid duplication or unanswerable posts.
 
 With a sandbox, new contributions could be vetted before going out to
 the community of answerers. Done right, people answering questions
