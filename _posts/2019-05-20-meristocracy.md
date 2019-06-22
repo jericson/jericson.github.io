@@ -5,6 +5,20 @@ comments: yes
 tags: meta community
 ---
 
+
+This post seems to be communicating something I don't intend. What I
+mean it to say is that Stack Overflow has not provided the sorts of
+activities that promote the sorts of interactions
+[we'd like to see](https://stackoverflow.blog/2018/04/26/stack-overflow-isnt-very-welcoming-its-time-for-that-to-change/). Perhaps
+a better explination of what I'm trying to get at can be found in
+[a mroe recent post about Disneyland](/2019/06/22/disneyland.html). I'm
+leaving this post here for postarity, but I ceratinly don't want
+people to feel like I'm accusing _them_ of being overly harsh. In
+truth, I feel this is an unindended consiquence of the system Stack
+Overflow Inc. designed.
+
+---
+
 This post is inspired by
 [Makoto's post on Medium](https://medium.com/@makotothedragon/dear-stack-overflow-i-really-want-to-talk-but-i-dont-believe-you-ll-listen-to-me-anymore-9b17cc9c05f6). As
 I considered the conversation, I realized I needed to sit down and
