@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Control and Agency 
-tags: community 
+tags: community
+issue: 6
 comments: true
 ---
 
