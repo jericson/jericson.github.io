@@ -31,12 +31,12 @@ place. I left
 [this suggestion on UserVoice](https://web.archive.org/web/20090522110810/http://stackoverflow.uservoice.com:80/pages/1722-general/suggestions/106921-provide-an-authorized-location-for-meta-discussion-)
 which was the original way to provide feedback about the site. That
 suggestion was
-[quoted in the announcement of meta](https://stackoverflow.blog/2009/06/28/cmon-get-meta/).
+[quoted in the announcement of Meta](https://stackoverflow.blog/2009/06/28/cmon-get-meta/).
 
 Someone in the crowd (I couldn't see who because of the stage
 lighting) shouted out "So it's your fault!" I replied that it was and
 proceeded to profess my love of Meta in a totally unplanned _ad
-libitum_. For all it's faults, Meta is full of people who care about
+libitum_. For all its faults, Meta is full of people who care about
 the site and how it operates. Having talked to owners of other
 community platforms, it's rare to have that sort of passion. Having
 too much feedback isn't really a problem most sites have to worry
@@ -98,7 +98,7 @@ Instead I was interested in **agency**. I saw a problem, felt helpless
 to do anything about it and asked for a tool (_any_ tool) to help
 out. In the early stages of Stack Overflow, before it built up a
 critical mass of helpful volunteers, it really didn't have anything to
-offer beyond what other communities already offered. But the founders
+offer beyond what other communities already provided. But the founders
 of Stack Overflow invited people to be a part of the development
 process by blogging and podcasting about major decisions along the
 way. Even though we didn't have any real control over the way the site
