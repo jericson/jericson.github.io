@@ -2,6 +2,7 @@
 layout: post
 title: The value of Disneyland's mission
 comments: yes
+issue: 7
 tags: design
 ---
 
