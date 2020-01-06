@@ -28,7 +28,10 @@ If you want to send me a secret, I have a
 [Keybase account](https://keybase.io/jericson). I also use one of
 those GPG keys to
 [sign my commits](https://github.com/pstadler/keybase-gpg-github).
-
+ 
+ <script language="javascript"
+ src="https://boardgamegeek.com/jswidget.php?username=Ichthydion&numitems=12&header=1&text=none&images=small&show=random&imagesonly=1&imagepos=left&inline=1&domains%5B%5D=boardgame&domains%5B%5D=videogame"></script>
+ 
 [![Project Euler account](https://projecteuler.net/profile/jericson.png)](https://projecteuler.net/progress=jericson)
 
 [![No Comment](http://www.catb.org/~esr/ecsl/graphics/ecsllogo1.png)](http://www.catb.org/~esr/ecsl/)
