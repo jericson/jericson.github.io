@@ -90,7 +90,9 @@ predisposed to believe you are enjoying that thing. This is why
 legendarily terrible movies like
 [Howard the Duck](https://en.wikipedia.org/wiki/List_of_films_considered_the_worst#Howard_the_Duck_(1986))
 still get a
-[passing grade from the folks who saw it on opening night](https://www.cinemascore.com/publicsearch/index/title/d2Fy). Nostalgia
+[passing grade](https://gamefaqs.gamespot.com/boards/227-movies-at-the-theater/78094358)
+from the
+[folks who saw it on opening night](https://www.cinemascore.com/cinemascores/). Nostalgia
 also plays a part. Disney properties are so entwined with popular
 culture that _something_ is bound to bring back childhood memories.
 

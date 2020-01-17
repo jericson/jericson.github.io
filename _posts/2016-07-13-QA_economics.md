@@ -183,7 +183,7 @@ of new users, hurdles such as closing questions and
 [downvoting](/2015/05/18/downvotes.html) seem
 to extract an enormous `$P` toll. But they often protect the community
 from a threat Clay Shirky
-[wrote about](http://www.shirky.com/writings/herecomeseverybody/group_enemy.html):
+[wrote about](https://web.archive.org/web/20191122012101/www.shirky.com/writings/herecomeseverybody/group_enemy.html):
 
 > You need barriers to participation. This is one of the things that
 > killed Usenet. You have to have some cost to either join or
