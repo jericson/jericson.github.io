@@ -22,7 +22,7 @@ current wording.
 
 As I said in my answer some of the answers can be ambigious when it
 comes to the word "community". Probably the easiest place to see the
-multiplicity of meaning is:
+duplicity of meaning is:
 
 > Employees that put community first will be rewarded.
 
