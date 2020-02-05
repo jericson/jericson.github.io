@@ -125,7 +125,7 @@ model showing how much the company could make by hiring more
 salespeople and surely there was a lever to pull to get more job
 applicants too.
 
-What needed happen was to [flip the
+What needed to happen was to [flip the
 funnel](https://tinyletter.com/ben/letters/why-i-hate-funnels). Instead
 of treating the community as potential sources of income, remember
 what it was like to delight the community. And now I finally get to
