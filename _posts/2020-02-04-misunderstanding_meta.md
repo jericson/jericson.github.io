@@ -45,7 +45,7 @@ employees in appreciation of a job well done. So option #2 seems more
 likely.
 
 What _is_ the company's definition of community therefor? Clues exist
-other answers:
+other in answers:
 
 > We wouldn't exist without the community.
 
