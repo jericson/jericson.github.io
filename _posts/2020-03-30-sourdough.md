@@ -33,7 +33,7 @@ starter between the toaster and the oven to encourage them to
 reproduce.[^2] Yeast consumes the sugars found in flour to product
 carbon dioxide (useful for leavening) and alcohol. We use alcohol in
 drinks, of course, but its primary function is as a
-disinfectant. Brewing was in important discovery for civilization
+disinfectant. Brewing was an important discovery for civilization
 because it provided germ-free hydration.  Alcohol in starters fends
 off most other microbes. But it doesn't deter lactobacilli, which are
 bacteria that convert sugars to lactic acid. They thrive in
