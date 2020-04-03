@@ -5,8 +5,7 @@ tags: community opinion
 comments: yes
 ---
 
-Richard left [a
-comment](https://meta.stackexchange.com/questions/345734/feedback-for-the-loop-march-2020/345755?noredirect=1#comment1158495_345755)
+[Richard commented](https://meta.stackexchange.com/questions/345734/feedback-for-the-loop-march-2020/345755?noredirect=1#comment1158495_345755)
 on an answer I left on Meta Stack Exchange:
 
 > I think the problem was that a) The decision to demod Monica came
