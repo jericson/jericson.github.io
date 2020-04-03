@@ -5,7 +5,7 @@ tags: community opinion
 comments: yes
 ---
 
-I got [a
+Richard left [a
 comment](https://meta.stackexchange.com/questions/345734/feedback-for-the-loop-march-2020/345755?noredirect=1#comment1158495_345755)
 on an answer I left on Meta Stack Exchange:
 
@@ -17,7 +17,7 @@ on an answer I left on Meta Stack Exchange:
 > that they were eventually forced to recant by legal means. There's
 > no good evidence that any of the underlying thinking has
 > changed. They're sorry it caused a fuss, not sorry they did
-> it.&mdash;[Richard](https://meta.stackexchange.com/users/262849/richard) 
+> it. 
 
 Because of the nature of [Stack Overflow's agreement with Monica
 Cellio](https://meta.stackexchange.com/questions/340906/update-an-agreement-with-monica-cellio),
