@@ -93,7 +93,7 @@ specific pronouns that other moderators didn't use. Part of the
 problem is there was no easy way for people to provide preferred
 pronouns besides telling each other in conversation. So it was easy to
 use the wrong pronoun unintentionally. There was also inherent
-disagreement between people requesting "they/them" and other who did
+disagreement between people requesting "they/them" and others who did
 not want to use them. And there was at least one incident where a
 moderator made a very hurtful comment about transgender people.
 
