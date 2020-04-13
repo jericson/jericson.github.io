@@ -169,7 +169,7 @@ scrabbling for information and guidance, our leaders were [talking to
 The
 Register](https://www.theregister.co.uk/2019/10/01/stack_exchange_controversy/). Moderators
 began resigning in protest and the CMs had no answers. We didn't know
-what was going on or how leadership indented to answer.
+what was going on or how leadership intended to answer.
 
 ---
 <br/>
