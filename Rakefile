@@ -11,6 +11,8 @@ task :test do
               # Frequent false positives for some reason
               :check_external_hash => false,
               :check_html => true,
+              # Suckers bet. I can't fix all the world's broken links.
+              :disable_external => true,
             }
   HTMLProofer.check_directory("./_site", options).run
 end
