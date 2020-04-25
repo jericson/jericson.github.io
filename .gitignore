@@ -22,4 +22,4 @@ RCS
 tmp/
 
 # Screws with Travis-CI
-Gemfile.lock
+#Gemfile.lock
