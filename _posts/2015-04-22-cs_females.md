@@ -282,12 +282,12 @@ changes, but because this was a production system we had to pull all
 of his changes out until we'd figured it out. A little later, he left
 the company and so the changes just didn't get pushed.[^4]
 
-As long as software companies fixate on hiring alpha male programmers
-(of either gender), we are never going to see the
-[full potential of technology](http://www.wsj.com/articles/SB10001424053111903480904576512250915629460). I
+As long as software companies fixate on hiring alpha male programmers,
+we are never going to see the [full potential of
+technology](http://www.wsj.com/articles/SB10001424053111903480904576512250915629460). I
 don't just mean that we will be lacking in role models for girls or
-that our products will fail to meet the needs of
-[female consumers](http://www.theatlantic.com/technology/archive/2013/10/we-need-more-women-in-tech-the-data-prove-it/280964/).
+that our products will fail to meet the needs of [female
+consumers](http://www.theatlantic.com/technology/archive/2013/10/we-need-more-women-in-tech-the-data-prove-it/280964/).
 No, I mean that teams will struggle to overcome the inefficiencies
 inherent in working with rock-star developers.
 
