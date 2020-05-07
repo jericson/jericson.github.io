@@ -5,12 +5,11 @@ comments: yes
 permalink: /about/
 ---
 
-
 The source of this site can be found on
 [GitHub](https://github.com/jericson/jericson.github.io).
 
 [![Build Status](https://travis-ci.org/jericson/jericson.github.io.svg?branch=master)](https://travis-ci.org/jericson/jericson.github.io)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cce2e3ae-1f33-434c-b923-4381f215d440/deploy-status)](https://app.netlify.com/sites/jlericson/deploys)
 
 Remember [Geek Code](https://en.wikipedia.org/wiki/Geek_Code)? Here's a modern version:
 
@@ -118,11 +117,18 @@ version control built right in. (My Geocities setup was backed by RCS,
 but that was considerably less convenient.) If you are a programmer
 who likes to write, there's no reason not to try it out.
 
+I'm testing out hosting on:
+* [GitHub Pages](https://jericson.github.io/)
+* [Heroku](https://jlericson.herokuapp.com/)
+* [Netlify](https://jlericson.netlify.app/)
+
+<iframe height="600" src="https://stats.uptimerobot.com/6YKMJioVAx"></iframe>
+
 Unexpectedly, Jekyll imports several of my legacy blogs seamlessly. I
 no longer need to rely on the
 [Wayback Machine](https://archive.org/web/) to serve
 [my Geocities pages](/geocities) or
-[my Medium post](/medium/A-readthrough-of-Roe-v--Wade.html). All I had
+[my Medium posts](https://medium.com/@jlericson). All I had
 to do was put them in sub-directories under my source directory and
 Jekyll collected them into the site. I have my Blogger and
 WordPress.com blogs saved as XML files ready to be

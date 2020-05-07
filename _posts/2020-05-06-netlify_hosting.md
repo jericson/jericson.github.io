@@ -26,14 +26,15 @@ and it had several days with no downtime, I don't think that's the
 problem. Maybe I'm _still_ doing something wrong. But maybe Heroku
 isn't the most reliable option.
 
-As it happens, I recently learned about
-[Netlify](https://www.netlify.com/), which claims:
+As it happens, I [recently
+learned](https://twitter.com/juliasilge/status/1257531141218635776)
+about [Netlify](https://www.netlify.com/), which claims:
 
 > Deploy a site in 30 seconds.
 
 Now that is a bit over stated, but it did take me about 10 minutes to
 get [my site set up](https://jlericson.netlify.app/). The process
-involved pointing Netlify at my GitHub repository and change the
+involved pointing Netlify at my GitHub repository and changing the
 random name it assigned to the name I want to use. I didn't even need
 to set `JEKYLL_ENV`.
 
@@ -41,7 +42,7 @@ Hosting [Unicorn Meta Zoo on
 Netlify](https://unicorn-meta-zoo.netlify.app/) took a few extra
 steps. GitHub rather helpfully serves the README.md file as a site
 index out of the box. All I needed to do was enable GitHub Pages in
-the repositories settings. I also had picked the [Leap day
+the repository's settings. I also had picked the [Leap day
 theme](https://github.com/pages-themes/leap-day) to make the page look
 a little better.
 
