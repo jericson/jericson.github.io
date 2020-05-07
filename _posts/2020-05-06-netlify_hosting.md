@@ -77,3 +77,5 @@ plugin](https://github.com/benbalter/jekyll-readme-index).
 We'll see how Netlify's uptime looks in a few weeks, but I feel better
 about having a backup hosting option if I ever decide to move off of
 GitHub Pages.
+
+<iframe height="600" src="https://stats.uptimerobot.com/6YKMJioVAx"></iframe>
