@@ -24,7 +24,6 @@ output](https://docs.travis-ci.com/user/languages/ruby/#caching-bundler).)
 So once I had that sorted out and the build wasn't failing on Heroku
 anymore, I opened a tab to [the page for my Heroku
 app](https://jlericson.herokuapp.com/) and saw:
-
 !["Jekyll is currently rendering the site. Please try again
 shortly.](/images/jekyll_rendering.png)
 
@@ -136,7 +135,7 @@ doing now gives us flexibility to build what we need.
 Just for fun, I put the various options in
 [UptimeRobot](https://stats.uptimerobot.com/6YKMJioVAx) monitors to
 see which is most reliable. At the time of publication, Heroku looks
-bad because of me testing the JEKYLL_ENV setting. I imagine it'll be
+bad because of me testing the `JEKYLL_ENV` setting. I imagine it'll be
 more reliable when I stop fiddling with it.
 
 <iframe height="600" src="https://stats.uptimerobot.com/6YKMJioVAx"></iframe>
