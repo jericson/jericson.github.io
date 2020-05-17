@@ -222,7 +222,7 @@ The truth is programming languages are pedantic jerks and you gotta
 have a little bit of that in you to succeed in working with them.
 
 There has never been a force powerful enough to eradicate a story as
-long as there are people will to tell it. That cuts both ways. The
+long as there are people willing to tell it. That cuts both ways. The
 company can't compel users to accept their marketing messages and the
 community can't change what the company has decided it needs to do to
 run its business. But both sides can start telling stories to bridge
