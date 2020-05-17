@@ -2,6 +2,7 @@
 layout: post
 title: The Power of Story
 comments: yes
+issue: 14
 tags: community
 ---
 
@@ -225,7 +226,7 @@ long as there are people will to tell it. That cuts both ways. The
 company can't compel users to accept their marketing messages and the
 community can't change what the company has decided it needs to do to
 run its business. But both sides can start telling stories to bridge
-those gaps.[^3] Just as stories can be told the exclude (like an
+those gaps.[^3] Just as stories can be told to exclude (like an
 inside joke) they can also be used to include. It just requires people
 to be open to listening to others to incorporate their point of view.
 
