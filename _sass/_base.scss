@@ -214,3 +214,8 @@ sup { vertical-align: top; position: relative; top: -0.5em; }
 iframe {
     width: 100%;
 }
+
+/* Why isn't this working already? No idea. For Firefox. */
+b, strong {
+    font-weight: bold;
+}
