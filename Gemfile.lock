@@ -275,6 +275,7 @@ DEPENDENCIES
   hpricot
   html-proofer
   htmlentities
+  jekyll-commonmark-ghpages
   jekyll-tagging
   json (> 1.8.6)
   puma

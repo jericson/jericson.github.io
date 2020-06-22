@@ -7,8 +7,10 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
     {%if page.subtitle %}<h2 class="post-subtitle">{{ page.subtitle }}</h2>{% endif %}
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}
-      {% if page.author %}
-      • <a href="{{ site.author_url }}">{{ site.author }}</a>
+      {% if page.author == site.author %}
+      • <a href="{{ site.author_url }}">{{ page.author }}</a>
+      {% else %}
+      • {{ page.author }}
       {% endif %}
       {% if page.tags %}
       • {% for tag in page.tags %}
