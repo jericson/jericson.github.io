@@ -255,7 +255,7 @@ Footnotes:
     as a given.
   
  [^3]: In the past, I've phrased it as an [economics
-    problem](http://jlericson.com/2016/07/13/QA_economics.html).
+    problem](https://jlericson.com/2016/07/13/QA_economics.html).
   
 [^4]: Oddly, the [Developer
     Story](https://meta.stackoverflow.com/questions/313960/introducing-the-developer-story),
