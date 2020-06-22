@@ -219,7 +219,7 @@ Unless you have an intrinsic motivation, nothing the company does will
 get you to participate. Stack Overflow has been hampered by its deeply
 held believe that everyone should be active on Stack Overflow. This is
 partially a noble ambition to be inclusive. It's also core to the
-thesis of it's Talent/Jobs business. If you want to be LinkedIn for
+thesis of its Talent/Jobs business. If you want to be LinkedIn for
 developers, you gotta aim to have every developer at least have an
 account on your site.[^4] Trouble is, the company has never
 demonstrated that using its service helps people find new work or
