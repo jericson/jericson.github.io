@@ -190,7 +190,7 @@ By no means an exhaustive list, but you get the idea. I've marked
 initiatives that I played a meaningful role in with a dagger (†) so
 that it's clear my criticism includes my own actions.
 
-But these initiatives suffer from the pink motorcycle problem. Imagine
+These initiatives suffer from the pink motorcycle problem. Imagine
 you are Harley Davidson and you notice your customers are [81%
 male](https://www.womenridersnow.com/pages/motorcycle_owner_survey_show_women_riders_increase.aspx). That's
 a problem because it cuts your addressable market almost by half. When
