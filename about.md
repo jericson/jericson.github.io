@@ -13,8 +13,8 @@ The source of this site can be found on
 
 Remember [Geek Code](https://en.wikipedia.org/wiki/Geek_Code)? Here's a modern version:
 
-<a href="http://stackexchange.com/users/1083/jon-ericson"><img
-src="http://stackexchange.com/users/flair/1083.png" width="208"
+<a href="https://stackexchange.com/users/1083/jon-ericson"><img
+src="https://stackexchange.com/users/flair/1083.png" width="208"
 height="58" alt="profile for Jon Ericson on Stack Exchange, a network
 of free, community-driven Q&amp;A sites" title="profile for Jon
 Ericson on Stack Exchange, a network of free, community-driven Q&amp;A
@@ -33,7 +33,7 @@ those GPG keys to
  
 [![Project Euler account](https://projecteuler.net/profile/jericson.png)](https://projecteuler.net/progress=jericson)
 
-[![No Comment](http://www.catb.org/~esr/ecsl/graphics/ecsllogo1.png)](http://www.catb.org/~esr/ecsl/)
+[![No Comment](https://www.catb.org/~esr/ecsl/graphics/ecsllogo1.png)](https://www.catb.org/~esr/ecsl/)
 
 ---
 
@@ -42,8 +42,8 @@ those GPG keys to
 Over the years, I've used a number of blogging options, including:
 
 * [A handmade blog on Geocities.](https://web.archive.org/web/20091026234407/http://geocities.com/jlericson/)
-* [Blogger](http://4of2.blogspot.com/)
-* [WordPress.com](http://taking1and1.wordpress.com)
+* [Blogger](https://4of2.blogspot.com/)
+* [WordPress.com](https://taking1and1.wordpress.com)
 * [Medium](https://medium.com/@jlericson)
 
 Of those, my clunky, manually designed Geocities page was the most
@@ -55,8 +55,8 @@ it to the server. If anything looked off, I fixed it.
 One of my frustrations with building my own web page was writing
 HTML. Having to open and close tags makes authoring in HTML a tedious
 pain. I would have preferred to write my blog in
-[Pod](http://perldoc.perl.org/perlpod.html) or, better yet,
-[LaTeX](http://www.latex-project.org/). While that would solve the
+[Pod](https://perldoc.perl.org/perlpod.html) or, better yet,
+[LaTeX](https://www.latex-project.org/). While that would solve the
 authoring problem, it also requires complicated and error prone
 `*2html` scripts. In 2001, I wrote my resume in Pod. It started with
 this section:
@@ -79,7 +79,7 @@ HTML. But none of the options (including creating my own script)
 worked the way I liked. So I resigned myself to authoring HTML
 manually.
 
-Enter [Jekyll](http://jekyllrb.com/), which uses
+Enter [Jekyll](https://jekyllrb.com/), which uses
 [Markdown](https://help.github.com/articles/github-flavored-markdown/). The
 idea behind Markdown is to formalize conventions of text-only
 communication (such as pre-HTML email and news groups) into a robust
@@ -87,7 +87,7 @@ markup language. It's reminiscent of a simplified and polished version
 of Pod. As a programmer and an author, it's all I could ask for.
 
 Conversion to HTML would still be a problem if it weren't that Jekyll
-uses [Liquid templates](http://jekyllrb.com/docs/templates/). I'm
+uses [Liquid templates](https://jekyllrb.com/docs/templates/). I'm
 addicted to subtitles, which is not an option provided by the base
 theme. No matter. I just added a line to `_layout/page.html`:
 
@@ -98,7 +98,7 @@ theme. No matter. I just added a line to `_layout/page.html`:
 {% endraw %}
     
 Then I can add in the
-[front matter](http://jekyllrb.com/docs/frontmatter/) of my page:
+[front matter](https://jekyllrb.com/docs/frontmatter/) of my page:
 
     subtitle: In which the author spoils his own punchline.
 
@@ -132,7 +132,7 @@ no longer need to rely on the
 to do was put them in sub-directories under my source directory and
 Jekyll collected them into the site. I have my Blogger and
 WordPress.com blogs saved as XML files ready to be
-[deployed](http://import.jekyllrb.com/docs/home/) if needed.
+[deployed](https://import.jekyllrb.com/docs/home/) if needed.
 
 {% include comments.html %}
 

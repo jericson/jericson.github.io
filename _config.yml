@@ -28,7 +28,7 @@ liquid:
   error_mode: warn
 
 commonmark:
-  options: ["UNSAFE", "FOOTNOTES"]
+  options: ["FOOTNOTES"]
   extensions: ["strikethrough", "autolink", "table"]
 
 # Tags (https://github.com/pattex/jekyll-tagging)
