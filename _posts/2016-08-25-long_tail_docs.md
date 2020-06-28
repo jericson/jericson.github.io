@@ -3,6 +3,7 @@ layout: post
 title: Long Tail Documentation
 comments: yes
 tags: review documentation
+issue: 17
 ---
 
 [![A different type of tarbomb.](http://imgs.xkcd.com/comics/tar.png "I don't know what's worse--the fact that after 15 years of using tar I still can't keep the flags straight, or that after 15 years of technological advancement I'm still mucking with tar flags that were 15 years old when I started.")](https://xkcd.com/1168/)
@@ -142,17 +143,16 @@ manuals and more time creating amazing software.
 
 [^1]: Unfortunately, when I found them these commands didn't to a good
     job of showing where answers came from. Technically that's a
-    violation of Stack Overflow's
-    [Attribution Required](http://blog.stackoverflow.com/2009/06/attribution-required/)
+    violation of Stack Overflow's [Attribution
+    Required](http://blog.stackoverflow.com/2009/06/attribution-required/)
     policy and practically it means you need to do a redundant search
-    if you want to get the answer's URL to
-    [paste in your code](http://meta.stackexchange.com/q/272956/1438). As
-    of this writing, I've submitted pull requests to address this
-    issue:
+    if you want to get the answer's URL to [paste in your
+    code](http://meta.stackexchange.com/q/272956/1438). I've submitted
+    pull requests to address this issue:
 
     * [howdoi](https://github.com/gleitz/howdoi/pull/153)&mdash;Accepted
       on principle, but still working on the right comment-like prefix.
-    * [how2](https://github.com/santinic/how2/pull/72)&mdash;No response.
+    * [how2](https://github.com/santinic/how2/pull/72)&mdash;Accepted two years later.
     * [socli](https://github.com/gautamkrishnar/socli/pull/18)&mdash;Accepted
       and
       [improved upon](https://github.com/gautamkrishnar/socli/commit/23bbc839d2fcb6542a60511306ab8ea6efe5c334). (Yay!)
