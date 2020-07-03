@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reacting with "thanks"
+title: Reacting with 'thanks'
 tags: community design features
 comments: yes
 ---
