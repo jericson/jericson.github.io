@@ -70,7 +70,7 @@ assignment was washing dishes at the company test kitchen. It was
 entirely executives and their guests who ate there. Almost all of them
 were white men. Again, I was the only white person in the kitchen.
 
-I've volunteered in the LA County Jail. Overwhelming the inmates are
+I've volunteered in the LA County Jail. Overwhelmingly the inmates are
 black and hispanic. Many of the men I talked to there grew up in
 single-parent homes because their fathers had been put in
 prison. These men have dreams of going to college, writing a book,
