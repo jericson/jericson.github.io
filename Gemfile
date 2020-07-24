@@ -8,6 +8,8 @@ gem 'json', '>1.8.6'
 
 group :jekyll_plugins do
   gem 'jekyll-commonmark-ghpages'
+  gem 'jekyll-twitter-plugin'
+  gem "jekyll-assets", git: "https://github.com/envygeeks/jekyll-assets"
 end
 
 gem 'github-pages'#, versions['github-pages'] 
@@ -27,3 +29,7 @@ gem 'puma'
 gem 'rack-jekyll'
 
 gem 'concurrent-ruby'
+
+# Images
+
+gem "mini_magick"
