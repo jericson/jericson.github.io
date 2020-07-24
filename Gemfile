@@ -13,8 +13,10 @@ end
 gem 'github-pages'#, versions['github-pages'] 
 gem 'hpricot'
 
+gem "rack", ">= 2.1.3"
+
 # testing
-gem 'rake', ">= 2.1.3"
+gem 'rake'
 gem 'html-proofer'
 
 # tags
