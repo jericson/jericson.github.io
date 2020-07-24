@@ -24,9 +24,7 @@ my move. It's not rancid yet, but I wouldn't want to use it in
 bread. Perfect for my starter though. The yeast and bacteria that make
 up a sourdough culture don't care what my flour tastes like.
 
-<!---![Sourdough starter ingredients](/images/sourdough_ingredients.jpg)-->
-
-{% asset sourdough_ingredients.jpg width="740" alt='Sourdough starter ingredients' %}
+![Sourdough starter ingredients](/images/sourdough_ingredients.jpg)
 
 Nothing happened in the first 24 hours. Just a lump of dough to look
 at. But at a microscopic level, the moisture is beginning to revive
