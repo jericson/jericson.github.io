@@ -16,7 +16,7 @@ gem 'github-pages'#, versions['github-pages']
 gem 'hpricot'
 
 # testing
-gem 'rake'
+gem 'rake', ">= 2.1.3"
 gem 'html-proofer'
 
 # tags

@@ -42,7 +42,8 @@ bacteria that convert sugars to lactic acid. They thrive in
 environments with alcohol. Their waste product increases the acidity
 of the starter and that wards off other microbes too.
 
-![Sourdough starter mixed](/images/sourdough_mixing.jpg)
+<!--![Sourdough starter mixed](/images/sourdough_mixing.jpg)-->
+{% asset sourdough_mixing.jpg width="740" alt='Sourdough starter mixed' %}
 
 So yeast and lactobacilli work together to create an environment
 hostile to almost everything else. In addition, the bacteria consume
@@ -61,7 +62,8 @@ allows the yeast and bacteria to thrive. I started to see bubbles of
 CO2 rising to the top of the starter and making it less dense. This is
 what I want out of the process.
 
-![Sourdough starter growth](/images/sourdough_growth.jpg)
+<!---![Sourdough starter growth](/images/sourdough_growth.jpg)-->
+{% asset sourdough_growth.jpg width="740" alt='Sourdough starter growth' %}
  
 On day 3 I made a batch of pancakes. They don't need much leavening
 (and I added some baking powder to help out). I'll need to take out a
@@ -76,7 +78,8 @@ nobody has wanted to go to the store for more.) But in a few days I'll
 be ready to bake bread. That's the ultimate goal, of course. That and
 waffles, pretzels, English muffins, dinner rolls, etc. and so on.
 
-![Sourdough pancakes](/images/sourdough_pancakes.jpg)
+<!---![Sourdough pancakes](/images/sourdough_pancakes.jpg)-->
+{% asset sourdough_pancakes.jpg width="740" alt='Sourdough pancakes' %}
 
 I used the word "culture" a few times in this thread because that's
 the technical term for what a sourdough starter is. It's a mix of
@@ -99,7 +102,8 @@ unemployment benefits. When a show ends its run, everyone has a stable
 source of income while they look for a new gig. It's not the only
 possible solution,[^3] but it works.
 
-![Sourdough boule](/images/sourdough_boule.jpg)
+<!---![Sourdough boule](/images/sourdough_boule.jpg)-->
+{% asset sourdough_boule.jpg width="740" alt='Sourdough boule' %}
 
 All this brings me to online community management and a mistake I've
 seen far too many times: misinterpreting hostility. The easiest way to
@@ -115,7 +119,8 @@ digesting sugars. It's not because they are being mean; it's just what
 they do. Acid and alcohol build up if there's not enough sugar for
 growth.
 
-![Baked sourdough loaf](/images/sourdough_loaf.jpg)
+<!---![Baked sourdough loaf](/images/sourdough_loaf.jpg)-->
+{% asset sourdough_loaf.jpg width="740" alt='Baked sourdough loaf' %}
 
 Same thing with communities. People are drawn to a group because they
 can do things there. It might be to answer questions on Stack Exchange
@@ -134,7 +139,8 @@ functional community, it's likely each part (other than the trolls)
 serve a useful purpose. Perhaps lactic acid protects the culture
 somehow?
 
-![Sourdough bread sliced](/images/sourdough_slice.jpg)
+<!---![Sourdough bread sliced](/images/sourdough_slice.jpg)-->
+{% asset sourdough_slice.jpg width="740" alt='Sourdough bread sliced' %}
 
 ---
 
