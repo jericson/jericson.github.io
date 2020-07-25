@@ -168,7 +168,7 @@ Footnotes:
     revenue growth.
 	
 [^4]:
-    [Originally](http://web.archive.org/web/20170701185947/https://stackoverflow.com/company)
+    [Originally](https://web.archive.org/web/20170701185947/https://stackoverflow.com/company)
     the audience was "developers". This is an expansion of the
     audience, but still focused on a subset of the community.
 	

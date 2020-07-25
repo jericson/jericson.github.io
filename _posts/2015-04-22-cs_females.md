@@ -13,19 +13,19 @@ English. If you disagree with some or all of what I have to say, I'm
 willing to read your persuasive essay too. If you hate my opinion, all I
 can say is that I'm sorry.
 
-[![Left: Glen Beck Right: Frances Elizabeth Snyder Holberton](/images/eniac1.gif)](https://web.archive.org/web/20150301221818/http://ftp.arl.mil:80/ftp/historic-computers/)
+[![Left: Glen Beck Right: Frances Elizabeth Snyder Holberton](/images/eniac1.gif)](https://web.archive.org/web/20150301221818/https://ftp.arl.mil:80/ftp/historic-computers/)
 
 We recently ran a survey on Stack Overflow and
-[noted](http://stackoverflow.com/research/developer-survey-2015#profile-women):
+[noted](https://stackoverflow.com/research/developer-survey-2015#profile-women):
 
 > Compared with men, women who code are nearly twice as likely to have
 > less than 2 years programming experience. We hope this means more
 > women are joining the industry and closing the gender gap.
 
 Just to be clear, we know that our survey
-[under-counted female developers](http://stackoverflow.com/research/developer-survey-2015#profile-gender),
+[under-counted female developers](https://stackoverflow.com/research/developer-survey-2015#profile-gender),
 so the first sentence might not be representative of
-[demographics as a whole](http://en.wikipedia.org/wiki/Women_in_computing).
+[demographics as a whole](https://en.wikipedia.org/wiki/Women_in_computing).
 The second sentence, however, is hopelessly and naively
 optimistic. Best case: experienced female programmers are less likely
 to take our survey. But I worry that women leave the computer industry
@@ -42,10 +42,10 @@ women are dropping out of the programming profession to have children
 or not getting hired because employers are afraid they will get
 distracted by having children. So here's how males and females
 performed on the
-[Computer Science](http://en.wikipedia.org/wiki/AP_Computer_Science)
-and [Calculus AB](http://en.wikipedia.org/wiki/AP_Calculus) Advanced
+[Computer Science](https://en.wikipedia.org/wiki/AP_Computer_Science)
+and [Calculus AB](https://en.wikipedia.org/wiki/AP_Calculus) Advanced
 Placement tests from
-[2006 to 2013](https://web.archive.org/web/20190226062956/http://home.cc.gatech.edu/ice-gt/556):
+[2006 to 2013](https://web.archive.org/web/20190226062956/https://home.cc.gatech.edu/ice-gt/556):
 
 |                      | Boys | Girls | Total
 -                    - | ---: | ----: | ----:
@@ -56,7 +56,7 @@ Calculus performance   |  62% |   54% |   58%
 64% of male students and 56% of females passed the Computer Science
 test (with a 3 or better). This is a problem for my theory, but the
 gender gap doesn't fully explain why
-[only about 20% of programmers working in the US are women](http://www.npr.org/blogs/alltechconsidered/2013/04/29/178810467/blazing-the-trail-for-female-programmers). No,
+[only about 20% of programmers working in the US are women](https://www.npr.org/blogs/alltechconsidered/2013/04/29/178810467/blazing-the-trail-for-female-programmers). No,
 the real problem is the ratio of young men and women who take the test
 in the first place:
 
@@ -72,7 +72,7 @@ college. Even if you aren't majoring in anything math-related, passing
 the exam will exempt you from the Quantitative Reasoning requirement
 many universities have. Most high schools offer AP Calculus for
 college-bound students and
-[women now outnumber men on campuses](http://www.motherjones.com/mojo/2010/01/gender-gap-college-admissions),
+[women now outnumber men on campuses](https://www.motherjones.com/mojo/2010/01/gender-gap-college-admissions),
 so it's not surprising that close to 50% of the students taking
 Calculus AB are female. By contrast, the CS test only makes sense if
 you are considering a computer science major or have already learned
@@ -92,13 +92,13 @@ since elementary school. But taking the CS test depended on a series
 of happenstances:
 
 1. My parents bought a
-   [Tandy 1000 SX](http://en.wikipedia.org/wiki/Tandy_1000#Tandy_1000_EX_.26_SX)
+   [Tandy 1000 SX](https://en.wikipedia.org/wiki/Tandy_1000#Tandy_1000_EX_.26_SX)
    computer when I was in 6<sup>th</sup> grade. It was a pretty good
    gaming PC for it's time and I often spent my allowance on new games
    (starting with
-   [Silent Service](http://en.wikipedia.org/wiki/Silent_Service_%28video_game%29)). At
+   [Silent Service](https://en.wikipedia.org/wiki/Silent_Service_%28video_game%29)). At
    some point, I acquired
-   [_David Ahl's BASIC Computer Adventures_](http://www.computerscienceforkids.com/Pages/DavidAhlsBasicComputerAdventures.aspx)
+   [_David Ahl's BASIC Computer Adventures_](https://www.computerscienceforkids.com/Pages/DavidAhlsBasicComputerAdventures.aspx)
    which contained the source code of 10 fairly simplistic games,
    including
    [Westward Ho!](https://www.kidwaresoftware.com/davidahlssmallbasiccomputeradventureschapter2westwardho/),
@@ -125,7 +125,7 @@ programming resources, greatly increased the odds that I'd take and
 pass the AP test. Programmers take it as common wisdom that this sort
 of back story indicates the personality necessary for being a
 successful developer. Joel Spolsky writes about
-[sorting resumes](http://www.joelonsoftware.com/articles/SortingResumes.html):
+[sorting resumes](https://www.joelonsoftware.com/articles/SortingResumes.html):
 
 > **Passion.** We look for evidence that the applicant is passionate
 > about computers and really loves programming. Typical evidence of
@@ -143,7 +143,7 @@ successful developer. Joel Spolsky writes about
 >
 > * Waxing rhapsodic in their cover letter about how they were moved
 >   to tears by
->   [The Structure and Interpretation of Computer Programs](http://www.amazon.com/o/asin/0262011530).
+>   [The Structure and Interpretation of Computer Programs](https://www.amazon.com/o/asin/0262011530).
 
 Having some of these traits may have given me a leg up in
 interviews. Over my career, I've submitted resumes for 8 different
@@ -166,12 +166,12 @@ doesn't experience the world the way I do can be productive as a
 software engineer.
 
 Indeed, research _does_ suggest that some people are able to
-[think semantically](http://en.wikipedia.org/wiki/Semantics_(computer_science))
+[think semantically](https://en.wikipedia.org/wiki/Semantics_(computer_science))
 about their code and others are not. Anecdotally, even people with
 advanced degrees in Computer Science
-[can't write simple programs on demand](http://blog.codinghorror.com/why-cant-programmers-program/). So
+[can't write simple programs on demand](https://blog.codinghorror.com/why-cant-programmers-program/). So
 those of us in the profession have invented a sort of reverse
-[mirror test](http://en.wikipedia.org/wiki/Mirror_test) to determine
+[mirror test](https://en.wikipedia.org/wiki/Mirror_test) to determine
 if prospective hires are in or out of the group of people likely to
 become successful programmers. We look in other people for markers
 (such as spending free time programming) that we feel identify us as
@@ -201,7 +201,7 @@ Rank | Classification Category     | Percent of multiple-choice items
 6.   | Recursion                   |  5–15%
 7.   | Software Engineering        |  2–10%
 
-[I like recursion](http://stackoverflow.com/q/129877/1438) as much as
+[I like recursion](https://stackoverflow.com/q/129877/1438) as much as
 the next guy, but there's literally always a way to write a recursive
 algorithm iteratively and that's nearly always the best solution. Far
 more useful for students to learn would be:
@@ -217,7 +217,7 @@ more useful for students to learn would be:
 Some of this is probably hidden under "Software Engineering", but I
 don't remember _ever_ getting instruction on these items. Every one of
 them
-[I learned on my own](http://stackoverflow.com/research/developer-survey-2015#profile-education). A
+[I learned on my own](https://stackoverflow.com/research/developer-survey-2015#profile-education). A
 good software engineer will spend significantly more time using those
 skills (_especially debugging_) than using recursion. I'm not saying
 that the
@@ -231,14 +231,14 @@ thrive on spending late nights alone with an editor and compiler
 solving intricate (and therefore interesting) problems.
 
 The software industry fixates on
-[great hackers](http://www.paulgraham.com/gh.html)&mdash;the Micheal
+[great hackers](https://www.paulgraham.com/gh.html)&mdash;the Micheal
 Jordans of the field who are five or ten times as productive as
 ordinary programmers. These men (and if
 [Google is to be believed](https://www.google.com/webhp?q=great+programmers),
 they are mostly men[^3]) are able to
-[create a new language in 10 days](http://www.computer.org/csdl/mags/co/2012/02/mco2012020007.pdf)
+[create a new language in 10 days](https://www.computer.org/csdl/mags/co/2012/02/mco2012020007.pdf)
 or start an
-[aerospace company on the side](http://en.wikipedia.org/wiki/Armadillo_Aerospace). And
+[aerospace company on the side](https://en.wikipedia.org/wiki/Armadillo_Aerospace). And
 why not? If you are starting up a new company, this is _exactly_ the
 sort of programmer you'll want to hire.
 
@@ -256,7 +256,7 @@ team".
 
 When I was working as contractor to JPL, Raytheon was responsible for
 two ground-data systems for sister instruments launching on the same
-[spacecraft](http://aura.gsfc.nasa.gov/about.html). One system was
+[spacecraft](https://aura.gsfc.nasa.gov/about.html). One system was
 designed by a single (and brilliant) programmer who worked mostly on
 his own. I was a junior developer on the other system that was
 designed by a small team. There's no doubt that the system built by an
@@ -284,10 +284,10 @@ the company and so the changes just didn't get pushed.[^4]
 
 As long as software companies fixate on hiring alpha male programmers,
 we are never going to see the [full potential of
-technology](http://www.wsj.com/articles/SB10001424053111903480904576512250915629460). I
+technology](https://www.wsj.com/articles/SB10001424053111903480904576512250915629460). I
 don't just mean that we will be lacking in role models for girls or
 that our products will fail to meet the needs of [female
-consumers](http://www.theatlantic.com/technology/archive/2013/10/we-need-more-women-in-tech-the-data-prove-it/280964/).
+consumers](https://www.theatlantic.com/technology/archive/2013/10/we-need-more-women-in-tech-the-data-prove-it/280964/).
 No, I mean that teams will struggle to overcome the inefficiencies
 inherent in working with rock-star developers.
 

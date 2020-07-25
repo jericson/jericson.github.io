@@ -8,11 +8,11 @@ tags: community
 It's not even April 1 in my timezone and I'm already sick of April Fools' Day.
 
 This year, our developers came up with a
-[Tamagotchi](http://en.wikipedia.org/wiki/Tamagotchi)-like game for
+[Tamagotchi](https://en.wikipedia.org/wiki/Tamagotchi)-like game for
 our users to play. It's called
-[StackEgg](http://meta.stackoverflow.com/questions/289032/whats-stackegg). Users
+[StackEgg](https://meta.stackoverflow.com/questions/289032/whats-stackegg). Users
 vote on a
-[Twitch Plays _Pokémon_](http://en.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon)
+[Twitch Plays _Pokémon_](https://en.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon)
 sort of way. Each community owns their own pet site and work together
 to help it grow from private beta to public beta to graduation to
 "winning the internet". The idea was to give people an overly
@@ -25,13 +25,13 @@ and we'd already [crashed our own sites](https://twitter.com/df07/status/5829067
 
 Thankfully our developers had that problem solved before I had brewed
 my morning coffee. But the fun
-[didn't stop there](http://meta.stackexchange.com/q/252393/1438):
+[didn't stop there](https://meta.stackexchange.com/q/252393/1438):
 
 > However, where there is great inventions there seems to be users who
 > use things for evil. Some users from
-> [Programming Puzzles and Code Golf](http://codegolf.stackexchange.com)
+> [Programming Puzzles and Code Golf](https://codegolf.stackexchange.com)
 > have apparently
-> [raided other sites' stack eggs](http://chat.stackexchange.com/search?q=raid&Room=240&page=1&pagesize=50&sort=newest),
+> [raided other sites' stack eggs](https://chat.stackexchange.com/search?q=raid&Room=240&page=1&pagesize=50&sort=newest),
 > forcing them to restart.
 
 If you haven't used our sites, this might be unintelligible. The
@@ -56,16 +56,16 @@ to look over it for style and clarity problems. The results of a
 successful code review are just about as far as possible from the
 results of code golf. When Stack Exchange expanded beyond Stack
 Overflow, two sites were created nearly simultaneously:
-[Code Golf](http://codegolf.stackexchange.com/) and
-[Code Review](http://codereview.stackexchange.com/).
+[Code Golf](https://codegolf.stackexchange.com/) and
+[Code Review](https://codereview.stackexchange.com/).
 
 So fast forward to this morning: a few Code Golf users noticed that
-our [Stackagotchi](http://meta.stackexchange.com/q/252379/1438) game
+our [Stackagotchi](https://meta.stackexchange.com/q/252379/1438) game
 allowed people to reset their progress if their pet site was doomed to
 failure. They also noticed that the game didn't require anything to
 play other than an account. Being a clever bunch of programmers, they
 decided to use that bit of information to
-[win the game](https://web.archive.org/web/20150404103711/http://meta.stackexchange.com:80/stackegg/leaderboard) by
+[win the game](https://web.archive.org/web/20150404103711/https://meta.stackexchange.com:80/stackegg/leaderboard) by
 resetting rival sites' progress.
 
 Unfortunately, they decided to "raid" Code Review.
@@ -75,7 +75,7 @@ reading later comments that Code Golf folks thought raiding was part
 of the game.  There's long been a friendly rivalry between the two
 sites, but they weren't the first target. However, when Code Review
 got targeted, it set up a
-"[Toxoplasma of Rage](http://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/)". Code
+"[Toxoplasma of Rage](https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/)". Code
 Review users were understandably annoyed that their game was being
 interfered with. And Code Golf people were annoyed that Code Review
 people were taking the situation so seriously. Which only annoyed the

@@ -8,20 +8,20 @@ tags: support
 
 [Previously]({% post_url 2015-03-23-customer-support-2 %}), I started
 writting about
-[Joel's customer service philosophy](http://www.joelonsoftware.com/articles/customerservice.html). Today,
+[Joel's customer service philosophy](https://www.joelonsoftware.com/articles/customerservice.html). Today,
 I'll talk about the next three steps:
 
 ## 3. Be lenient when possible
 
 A few years ago, behavioral economists
-[examined the decisions](https://web.archive.org/web/20180106005608/http://www.pnas.org/content/108/17/6889/F1.expansion.html)
+[examined the decisions](https://web.archive.org/web/20180106005608/https://www.pnas.org/content/108/17/6889/F1.expansion.html)
 of eight Israeli parole board judges. Since the judges were all Jewish
 and the prisoner requests they evaluated were a mix of Arab and Jewish
 offenders, you might suspect that any bias present would be ethnic or
 religious. Actually, decisions were most biased by the time of day the
 judge considered the case:
 
-[![Fig. 1.](http://www.pnas.org/content/108/17/6889/F1.medium.gif)](https://web.archive.org/web/20180106005608/http://www.pnas.org/content/108/17/6889/F1.expansion.html)
+[![Fig. 1.](https://www.pnas.org/content/108/17/6889/F1.medium.gif)](https://web.archive.org/web/20180106005608/https://www.pnas.org/content/108/17/6889/F1.expansion.html)
 
 Those little circles represent food breaks (breakfast, snack and
 lunch). If a prisoner was lucky enough to have their case heard
@@ -30,15 +30,15 @@ about 65% of the time. On the other hand, if they got stuck toward the
 end of a session when the judge was likely to be tired and hungry,
 there was little chance the judge would rule against the _status
 quo_. The authors of the paper suggest a physiological explanation:
-[ego depletion](http://en.wikipedia.org/wiki/Ego_depletion).
+[ego depletion](https://en.wikipedia.org/wiki/Ego_depletion).
 
 We get tickets that share a lot of commonalities with parole
 hearings. In particular, people can get
-[banned from asking questions](http://stackoverflow.com/help/question-bans)
+[banned from asking questions](https://stackoverflow.com/help/question-bans)
 on some of our sites. We've been working on ways to
-[help people avoid](http://meta.stackexchange.com/q/243460/1438) these
+[help people avoid](https://meta.stackexchange.com/q/243460/1438) these
 bans, but with
-[20,000+ new users signing up each week](http://data.stackexchange.com/stackoverflow/query/edit/297117#graph),
+[20,000+ new users signing up each week](https://data.stackexchange.com/stackoverflow/query/edit/297117#graph),
 there's bound to be a few people who just don't learn how to ask good
 questions. At least some percentage of those users appeal to us
 directly.

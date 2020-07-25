@@ -19,7 +19,7 @@ responsibility of announcing changes and we've noticed people don't
 like their
 [cheese moved](https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F):
 [![By 2037, the electric shocks had been added to the documentation.](/images/ingeniuty-of-sorts.png)](https://threepanel.com/t/cube-drone/18/19)
-© [Curtis Lassam](http://curtis.lassam.net/) 2012-2016
+© [Curtis Lassam](https://curtis.lassam.net/) 2012-2016
 
 Unfortunately, there's no way to know beforehand if these complaints
 are valid or not. They represent a natural knee jerk reflex to any
@@ -31,7 +31,7 @@ that prompted waves of protests and petitions, changes on Stack
 Overflow quickly become the new normal.
 
 Unless they
-[just don't work out](http://meta.stackexchange.com/q/258048/1438) of
+[just don't work out](https://meta.stackexchange.com/q/258048/1438) of
 course. Critical feedback works best when it includes specific
 problems caused by the change:
 
@@ -60,7 +60,7 @@ out a logic table to illustrate:
 So the only time we really publish a response to meta is when we think
 we have a good idea that folks didn't understand the first time
 around. There's a story in
-[_Thinking, Fast and Slow_](http://www.amazon.com/gp/product/B00555X8OA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00555X8OA&linkCode=as2&tag=jonqui-20&linkId=UAP5WVRSUHYSC3A5)
+[_Thinking, Fast and Slow_](https://www.amazon.com/gp/product/B00555X8OA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00555X8OA&linkCode=as2&tag=jonqui-20&linkId=UAP5WVRSUHYSC3A5)
 about how criticism often looks more effective than praise. Daniel Kahneman looked
 a the performance of
 [IDF](https://en.wikipedia.org/wiki/Israel_Defense_Forces) pilots

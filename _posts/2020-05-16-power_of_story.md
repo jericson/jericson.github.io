@@ -243,7 +243,7 @@ Footnotes:
 [^3]: My wife wasn't a _Lord of the Rings_ fan before she graciously
     sat through the movies with me. At the end of the _The Fellowship
     of the Ring_, she noticed the
-    [brooches](http://tolkiengateway.net/wiki/Elven_brooches) the
+    [brooches](https://tolkiengateway.net/wiki/Elven_brooches) the
     characters were wearing. She asked me about it afterward, which
     delighted me because it was a detail the film-makers added because
     it was important to fans of the series. It formed a deeper

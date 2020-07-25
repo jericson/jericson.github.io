@@ -2,7 +2,7 @@
 layout: post
 title: Is Stack Overflow really racist/sexist?
 tags: meta-post 
-license: http://creativecommons.org/licenses/by-sa/3.0/
+license: https://creativecommons.org/licenses/by-sa/3.0/
 encoding: utf-8
 author: <a alt="Jon Ericson" href="https://meta.stackoverflow.com/users/1438/jon-ericson">Jon Ericson</a>
 date: 2018-05-01 15:43:27

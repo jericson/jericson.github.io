@@ -21,17 +21,17 @@ trap       | Registered |        39,872 |      20,245  | (50.77%)
 trap       | Registered |        23,583 |      11,688  | (49.56%)
 
 Both before and after we introduced
-[the blurb](http://stackoverflow.com/contact), about half of registered
+[the blurb](https://stackoverflow.com/contact), about half of registered
 users followed through with sending. The ~1% decrease seems
 concerning, but we don't have a
-[large enough sample size](http://www.evanmiller.org/ab-testing/sample-size.html#!4.16;80;5;0.78;0)
+[large enough sample size](https://www.evanmiller.org/ab-testing/sample-size.html#!4.16;80;5;0.78;0)
 to be too worried. It's also possible that some registered users
 really did need help with their Facebook/Yahoo/Google accounts. Small
 changes aren't as concerning as dramatic decreases that might indicate
 we are losing legitimate tickets.
 
 Meanwhile the reduction in anonymous contacts is both
-[statistically significant](http://www.evanmiller.org/ab-testing/sample-size.html#!4.16;80;5;0.78;0)
+[statistically significant](https://www.evanmiller.org/ab-testing/sample-size.html#!4.16;80;5;0.78;0)
 and the direction we were hoping for. My initial testing (with tiny
 samples) suggested that we'd see rates between 2.5% and 3%. So 3.38%
 is a big improvement, but a little higher than I'd hoped. Looking at
@@ -40,8 +40,8 @@ are more of them than expected. I asked
 [our Community Growth Operations Specialists](https://blog.stackoverflow.com/2015/04/jnat-and-animuson-workin-on-ur-problemz/)
 for ideas on what might be producing these tickets.
 
-[Kyle](http://stackexchange.com/users/89201/animuson) suggested our
-[Web Applications](http://webapps.stackexchange.com/) site produced
+[Kyle](https://stackexchange.com/users/89201/animuson) suggested our
+[Web Applications](https://webapps.stackexchange.com/) site produced
 more than its fair share. Indeed since we began tracking in September
 of 2013, there have been 997 tickets from that site and at least[^1]
 509 were intended for some other support system (usually Google or
@@ -49,7 +49,7 @@ Facebook). It's pretty much the ur-case for helpful answers fooling
 people into thinking we can solve their problems on unrelated sites.
 
 These folks haven't read the
-[contact us form](http://webapps.stackexchange.com/contact) very
+[contact us form](https://webapps.stackexchange.com/contact) very
 closely since it already says we can't help them recover their Google
 account or whatnot. I added the bold bit recently in hopes that it
 will make the message more noticable and clear. Shortly afterward,
@@ -80,15 +80,15 @@ set up one for Google and one for Facebook[^2] that are triggered when
 the page the user came from indicates the user has Google or Facebook
 problems. First, it checks that the ticket is new which allows
 responses through. Then it checks that the request came from
-`http://webapps.stackexchange.com/`. Next, it looks for specific
+`https://webapps.stackexchange.com/`. Next, it looks for specific
 referrer URLs that strongly signal the problem is with some other
 site.
 
 For instance, we get requests from questions such as[^3]:
 
-* [Where to report Gmail problems?](http://webapps.stackexchange.com/q/24238/43374)
-* [How do I recover my Google account (or Gmail) password or username?](http://webapps.stackexchange.com/q/52706/43374)
-* [What do I do if I forgot my Gmail password?](http://webapps.stackexchange.com/q/9217/43374)
+* [Where to report Gmail problems?](https://webapps.stackexchange.com/q/24238/43374)
+* [How do I recover my Google account (or Gmail) password or username?](https://webapps.stackexchange.com/q/52706/43374)
+* [What do I do if I forgot my Gmail password?](https://webapps.stackexchange.com/q/9217/43374)
 
 If we got a thousand tickets from these questions, I'd be shocked if
 we could address more than one or two. So I feel extremely comfortable
@@ -102,7 +102,7 @@ sending an automated reply:
 > services. If you have an issue with a Google product, please contact
 > them directly at:
 >
-> http://www.google.com/contact/
+> https://www.google.com/contact/
 >
 > Sorry about the confusion.
 >
@@ -115,13 +115,13 @@ accounts.
 Digging a bit deeper using the
 [Zendesk search API](https://developer.zendesk.com/rest_api/docs/core/search),
 I also noticed tickets coming from the
-[[gmail]](http://webapps.stackexchange.com/questions/tagged/gmail),
-[[google-account]](http://webapps.stackexchange.com/questions/tagged/google-account)
+[[gmail]](https://webapps.stackexchange.com/questions/tagged/gmail),
+[[google-account]](https://webapps.stackexchange.com/questions/tagged/google-account)
 and
-[[facebook]](http://webapps.stackexchange.com/questions/tagged/facebook)
+[[facebook]](https://webapps.stackexchange.com/questions/tagged/facebook)
 tag pages were invariably false alarms. So I added those pages
 too. But I didn't add the
-[Ask Question page](http://webapps.stackexchange.com/questions/ask). _Most_
+[Ask Question page](https://webapps.stackexchange.com/questions/ask). _Most_
 of those correspondents would benefit from this auto-response, but
 some should just ask their question and others have Stack Exchange
 account problems.
@@ -143,7 +143,7 @@ quicker to people who have lost access to their Gmail account.
 
 [^3]: We also get a surprising number of referrers from a deleted
     question: 
-    <a href="http://webapps.stackexchange.com/questions/51875/i-have-forgotten-my-old-google-username-and-password-how-do-i-recover-my-accoun" data-proofer-ignore>I have forgotten my old Google username and password, how do I recover my account?</a>
+    <a href="https://webapps.stackexchange.com/questions/51875/i-have-forgotten-my-old-google-username-and-password-how-do-i-recover-my-accoun" data-proofer-ignore>I have forgotten my old Google username and password, how do I recover my account?</a>
     My best guess is that some popular site linked to it before deletion.
 
 

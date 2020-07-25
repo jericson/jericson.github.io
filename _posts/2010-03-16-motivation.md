@@ -2,14 +2,14 @@
 layout: post
 title: The problem with extrinsic motivation
 tags: meta-post 
-license: http://creativecommons.org/licenses/by-sa/3.0/
+license: https://creativecommons.org/licenses/by-sa/3.0/
 encoding: utf-8
-author: <a alt="Jon Ericson" href="http://meta.stackexchange.com/users/1438/jon-ericson">Jon Ericson</a>
+author: <a alt="Jon Ericson" href="https://meta.stackexchange.com/users/1438/jon-ericson">Jon Ericson</a>
 date: 2010-03-16 23:29:17
 comments: no
 ---
 
-([Originally published](http://meta.stackexchange.com/q/42481/1438) on meta Stack Exchange by <a alt="Jon Ericson" href="http://meta.stackexchange.com/users/1438/jon-ericson">Jon Ericson</a>.)
+([Originally published](https://meta.stackexchange.com/q/42481/1438) on meta Stack Exchange by <a alt="Jon Ericson" href="https://meta.stackexchange.com/users/1438/jon-ericson">Jon Ericson</a>.)
 
 ---
 
@@ -42,9 +42,9 @@ It's tempting to think that hiding or truly making reputation optional would fix
 Just don't expect to get chickens.
 
 
-  [1]: http://www.beswick.info/psychres/management.htm
+  [1]: https://www.beswick.info/psychres/management.htm
 
 ---
 
-Please direct comments to the [original post](http://meta.stackexchange.com/q/42481/1438).
+Please direct comments to the [original post](https://meta.stackexchange.com/q/42481/1438).
 

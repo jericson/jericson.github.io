@@ -81,7 +81,7 @@ beware
 > Any organization that designs a system (defined broadly) will
 > produce a design whose structure is a copy of the organization's
 > communication
-> structure.&mdash;[Conway's Law](http://www.melconway.com/Home/Conways_Law.html)
+> structure.&mdash;[Conway's Law](https://www.melconway.com/Home/Conways_Law.html)
 
 Stack Overflow was designed by a small team of programmers who created
 a structure that encouraged transparency and agency. This level of

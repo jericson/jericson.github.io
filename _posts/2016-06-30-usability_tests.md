@@ -6,7 +6,7 @@ comments: yes
 ---
 
 When it comes to
-[hallway usability testing](http://www.joelonsoftware.com/articles/fog0000000043.html),
+[hallway usability testing](https://www.joelonsoftware.com/articles/fog0000000043.html),
 the less said the better. Just grabbing the next
 [5 or so](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/)
 people you see and watching them use your product turns out to be
@@ -32,7 +32,7 @@ Most of the time the goal can be:
 It's probably implicit to the very act of watching someone try out
 your interface for the first time. But it can also be useful to have
 specific things you want to find out. For instance, when we felt the
-[Stack Overflow Documentation](http://meta.stackoverflow.com/q/303865/1438)
+[Stack Overflow Documentation](https://meta.stackoverflow.com/q/303865/1438)
 product was ready for public launch, we ran some usability tests with this goal:
 
 > Can new users contribute to Documentation?

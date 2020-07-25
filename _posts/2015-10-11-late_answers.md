@@ -8,9 +8,9 @@ tags: community
 ![Stack Overflow is . . . rude](/images/SO_bad.png "Stack Overflow is . . . rude")
 
 Last week, I finally got around to analyzing
-[a change](http://meta.stackexchange.com/q/266696/1438) to the Late
+[a change](https://meta.stackexchange.com/q/266696/1438) to the Late
 Answers review queue.  For those who aren't familiar with Stack Exchange,
-[review queues](http://stackoverflow.com/help/privileges/access-review-queues)
+[review queues](https://stackoverflow.com/help/privileges/access-review-queues)
 give experienced users a chance to look over posts from new users for
 problems that can be corrected or hidden gems. The later is
 particularly important for answers that come over a month after a
@@ -20,13 +20,13 @@ way to combat the commonly-held perception that Stack Overflow is
 rude.
 
 
-[![My motto is "Move fast and break things."](http://imgs.xkcd.com/comics/move_fast_and_break_things.png "I was almost fired from a job driving the hearse in funeral processions, but then the funeral home realized how much business I was creating for them."){: .wrap}](https://xkcd.com/1428/)
+[![My motto is "Move fast and break things."](https://imgs.xkcd.com/comics/move_fast_and_break_things.png "I was almost fired from a job driving the hearse in funeral processions, but then the funeral home realized how much business I was creating for them."){: .wrap}](https://xkcd.com/1428/)
 
 My main concern was that by adding more reviews, we might get into a
 situation where more answers were being added to the queue than the
 reviewers could handle. That can be a problem since ever-growing
 queues
-[demoralize reviewers](http://meta.stackoverflow.com/q/255270/1438). So
+[demoralize reviewers](https://meta.stackoverflow.com/q/255270/1438). So
 most of my analysis was geared toward predicting how many extra tasks
 my change would create. By my estimate, it would add roughly 300 tasks
 a day on Stack Overflow and maybe a dozen on other large sites. Given
@@ -47,7 +47,7 @@ All others     | 3 or fewer
 After this analysis, I consulted a colleague and decided to just
 change the site setting and see what happens:
 
-[![4.4k Late Answers](/images/big_queue.png)](http://meta.askubuntu.com/q/14469/173605 "4.4k Late Answer reviews")
+[![4.4k Late Answers](/images/big_queue.png)](https://meta.askubuntu.com/q/14469/173605 "4.4k Late Answer reviews")
 
 So my estimate was about 4 _orders of magnitude_ wrong. With a single
 change of a variable, I'd increased this site's outstanding reviews 10
@@ -60,7 +60,7 @@ Then I got down to business figuring out what had happened. It quickly
 was clear that the change picked up late answers that were older than
 a day. Initially, I thought the code was only picking up a month's
 worth of posts (more on this later), but comments on
-[my answer](http://meta.stackexchange.com/a/267080/1438) fixed my
+[my answer](https://meta.stackexchange.com/a/267080/1438) fixed my
 misunderstanding. In fact, the change put _all answers ever_ that fit
 the new criteria up for review.
 
@@ -68,7 +68,7 @@ Meanwhile, I'd notified the network's moderators of the change and,
 thanks to their encouragement, featured the meta post describing the
 change on the sidebar across the network. Many sites had already
 started
-[noticing the change](http://stackexchange.com/filters/205229/late-answers)
+[noticing the change](https://stackexchange.com/filters/205229/late-answers)
 and answering the meta questions became an addition task for
 moderators and involved users. I couldn't keep up with those posts,
 but
@@ -80,7 +80,7 @@ Also meanwhile, people were working hard to remove tasks from the queue:
 
 ![Ubuntu Late Answer reviews completed.](/images/ubuntu_reviews.png "Spike in completed reviews.")
 
-This activity is on [Ask Ubuntu](http://askubuntu.com/), but I could
+This activity is on [Ask Ubuntu](https://askubuntu.com/), but I could
 show similar charts from all sorts of sites. Traditionally, Late
 Answers tend to be a backwater of the review queues, so the sudden
 spike was a rare opportunity to earn badges for that queue. The week
@@ -93,7 +93,7 @@ Custodian|Late Answer|      6
 Reviewer |Late Answer|      7
 Steward  |Late Answer|      1
 
-The [Steward badge](http://askubuntu.com/help/badges/126/steward)
+The [Steward badge](https://askubuntu.com/help/badges/126/steward)
 requires 1,000 Reviews, which is pretty hard to accomplish when there
 are only 300 or so a week divided among hundreds of interested users.
 
@@ -132,7 +132,7 @@ question was asked.
    received in the aftermath of my fateful change hinted that a more
    controlled increases in reviews would have eased the concern people
    had. There were any number of ways I could have
-   [boiled the frog](http://conservationmagazine.org/2011/03/frog-fable-brought-to-boil/),
+   [boiled the frog](https://conservationmagazine.org/2011/03/frog-fable-brought-to-boil/),
    but the easiest would have been to increase the reputation limit in
    increments of 5 or 10 followed by quiescence until we reach the
    desired limit. The thought never crossed my mind.

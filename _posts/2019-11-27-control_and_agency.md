@@ -29,7 +29,7 @@ scaled well. Since I'm leading the "Better Mechanisms for Community
 Feedback" section, I got a chance to speak about the project. I
 started off by saying I had a role in creating Meta in the first
 place. I left
-[this suggestion on UserVoice](https://web.archive.org/web/20090522110810/http://stackoverflow.uservoice.com:80/pages/1722-general/suggestions/106921-provide-an-authorized-location-for-meta-discussion-)
+[this suggestion on UserVoice](https://web.archive.org/web/20090522110810/https://stackoverflow.uservoice.com:80/pages/1722-general/suggestions/106921-provide-an-authorized-location-for-meta-discussion-)
 which was the original way to provide feedback about the site. That
 suggestion was
 [quoted in the announcement of Meta](https://stackoverflow.blog/2009/06/28/cmon-get-meta/).

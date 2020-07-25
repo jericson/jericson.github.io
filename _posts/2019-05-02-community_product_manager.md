@@ -12,7 +12,7 @@ I got a new title:
 ![CPM](/images/cpm.png)
 
 It's more of a
-[Assistant **to the** Regional Manager](http://theoffice.wikia.com/wiki/Assistant_Regional_Manager)
+[Assistant **to the** Regional Manager](https://theoffice.wikia.com/wiki/Assistant_Regional_Manager)
 situation than a promotion. I'm still a Community Manager, but my
 title reflects our team's specialization. Some of us focus more on how
 the community interacts with the product than how people in the
@@ -40,7 +40,7 @@ different ways of thinking about the worlds.
 > when the tension between the individual and the group, and the
 > rights and responsibilities of individuals and groups, gets so
 > serious that something has to be done.&mdash;Clay Shirky,
-> ["A Group Is Its Own Worst Enemy"](http://www.shirky.com/writings/herecomeseverybody/group_enemy.html)
+> ["A Group Is Its Own Worst Enemy"](https://www.shirky.com/writings/herecomeseverybody/group_enemy.html)
 
 Hiring an actual economist or political scientist (or even an
 anthropologist) would probably be a good idea, to be honest. For

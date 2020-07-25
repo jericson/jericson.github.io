@@ -98,7 +98,7 @@ future.
 
 What I did hope my blog post would do was confront the injustice of
 [excluding people in the name of
-inclusion](http://web.archive.org/web/20191208001413/https://meta.stackexchange.com/questions/334248/an-update-to-our-community-and-an-apology). The
+inclusion](https://web.archive.org/web/20191208001413/https://meta.stackexchange.com/questions/334248/an-update-to-our-community-and-an-apology). The
 current calculus of privilege mostly considers attributes awarded at
 birth. Since I'm a straight while man, my privilege is therefore at
 the peak. Taking an honest look at my life, I happen to agree with the

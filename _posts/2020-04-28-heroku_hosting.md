@@ -119,7 +119,7 @@ our a [forum index
 page](https://talk.categories.collegeconfidential.com/) that looks
 like it's on the forum. It's more or less a polished version of [the
 index I created for
-myself](http://jlericson.com/vanilla-cat/college-confidential.html). As
+myself](https://jlericson.com/vanilla-cat/college-confidential.html). As
 long as users don't look too carefully at the URL, they will get a
 seamless experience. Or at least that's the idea.
 

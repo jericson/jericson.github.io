@@ -6,13 +6,13 @@ tags: review documentation
 issue: 17
 ---
 
-[![A different type of tarbomb.](http://imgs.xkcd.com/comics/tar.png "I don't know what's worse--the fact that after 15 years of using tar I still can't keep the flags straight, or that after 15 years of technological advancement I'm still mucking with tar flags that were 15 years old when I started.")](https://xkcd.com/1168/)
+[![A different type of tarbomb.](https://imgs.xkcd.com/comics/tar.png "I don't know what's worse--the fact that after 15 years of using tar I still can't keep the flags straight, or that after 15 years of technological advancement I'm still mucking with tar flags that were 15 years old when I started.")](https://xkcd.com/1168/)
 
-While this [tarbomb](http://www.linfo.org/tarbomb.html) is contrived,
+While this [tarbomb](https://www.linfo.org/tarbomb.html) is contrived,
 the fundamental problem of digging a command's syntax without leaving
 the command line is real. Going to a browser to get help risks
 introducing
-[human task switching](http://www.joelonsoftware.com/articles/fog0000000022.html). The
+[human task switching](https://www.joelonsoftware.com/articles/fog0000000022.html). The
 traditional answers are:
 
 1. Man pages:
@@ -45,15 +45,15 @@ can be tricked:
     $ howdoi untar multiple files
     $ tar xf a.tar b.tar
 
-In this case, [the answer](http://stackoverflow.com/a/583891/1438)[^1] is
+In this case, [the answer](https://stackoverflow.com/a/583891/1438)[^1] is
 explaining why this command won't work as expected:
 
     $ tar xf *.tar
 
 Fortunately the `-a` option shows the entire answer. You can also use
 the `-n` option to fetch more answers, including
-[this one](http://stackoverflow.com/a/25123755/1438) by
-[konsolebox](http://stackoverflow.com/users/445221/konsolebox):
+[this one](https://stackoverflow.com/a/25123755/1438) by
+[konsolebox](https://stackoverflow.com/users/445221/konsolebox):
 
     for F in alcatelS*.tar; do
         tar -xvf "$F" 
@@ -69,7 +69,7 @@ Written in [Node.js](https://nodejs.org/en/), `how2` uses the
 [Stack Exchange API](https://api.stackexchange.com/) to grab complete
 answers. Unlike the other commands listed here, it defaults to
 searching
-[Unix &amp; Linux&mdash;Stack Exchange](http://unix.stackexchange.com/). However,
+[Unix &amp; Linux&mdash;Stack Exchange](https://unix.stackexchange.com/). However,
 you can get answers from Stack Overflow by specifying a tag with
 the `-l` option:
 
@@ -94,9 +94,9 @@ The newest entry is also written in Python and uses
 extract both the top answer and the question from Stack
 Overflow. Unlike the other options, it doesn't use Google but Stack
 Overflow's
-[native search](http://stackoverflow.com/search?q=untar%20multiple%20files)
+[native search](https://stackoverflow.com/search?q=untar%20multiple%20files)
 to find questions. Search is not one of our
-[core competencies](http://www.joelonsoftware.com/articles/fog0000000007.html)
+[core competencies](https://www.joelonsoftware.com/articles/fog0000000007.html)
 so we use [Elasticsearch](https://www.elastic.co/). It's good, but not
 Google good.[^2]
 
@@ -105,7 +105,7 @@ The upshot is the results are a bit off. For instance, this command:
     $ socli -q untar multiple files
 
 returns the accepted answer to
-[How can I untar multiple tar files over ssh?](http://stackoverflow.com/q/6208918/1438). The
+[How can I untar multiple tar files over ssh?](https://stackoverflow.com/q/6208918/1438). The
 answer works, but includes the needless complication of involving
 `ssh`. `socli` also includes the question itself, which does provide
 useful context in cases like this.
@@ -144,10 +144,10 @@ manuals and more time creating amazing software.
 [^1]: Unfortunately, when I found them these commands didn't to a good
     job of showing where answers came from. Technically that's a
     violation of Stack Overflow's [Attribution
-    Required](http://blog.stackoverflow.com/2009/06/attribution-required/)
+    Required](https://blog.stackoverflow.com/2009/06/attribution-required/)
     policy and practically it means you need to do a redundant search
     if you want to get the answer's URL to [paste in your
-    code](http://meta.stackexchange.com/q/272956/1438). I've submitted
+    code](https://meta.stackexchange.com/q/272956/1438). I've submitted
     pull requests to address this issue:
 
     * [howdoi](https://github.com/gleitz/howdoi/pull/153)&mdash;Accepted

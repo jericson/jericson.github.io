@@ -2,7 +2,7 @@
 layout: post
 title: Why don&#39;t we keep public records of suspensions?
 tags: meta-post 
-license: http://creativecommons.org/licenses/by-sa/3.0/
+license: https://creativecommons.org/licenses/by-sa/3.0/
 encoding: utf-8
 author: <a alt="Jon Ericson" href="https://meta.stackexchange.com/users/1438/jon-ericson">Jon Ericson</a>
 date: 2017-03-31 22:57:58
@@ -15,7 +15,7 @@ comments: no
 
 Whenever the topic of a suspended user crops up, there's often confusion about what information moderators ought to share and what they should keep private. Sometimes moderators are just as unsure as other users. This can cause all sorts of unnecessary problems. 
 
-The **immediate effect of a suspension is [removal](http://lawcomic.net/guide/?p=133)**. If a user has been rude or destructive, the community needs that behavior to stop and removing the instigator suffices. However, the **long term [goal is rehabilitation](https://stackoverflow.blog/2009/04/a-day-in-the-penalty-box/)**:
+The **immediate effect of a suspension is [removal](https://lawcomic.net/guide/?p=133)**. If a user has been rude or destructive, the community needs that behavior to stop and removing the instigator suffices. However, the **long term [goal is rehabilitation](https://stackoverflow.blog/2009/04/a-day-in-the-penalty-box/)**:
 
 > At the end of this timed suspension period, your reputation will be recalculated, and **your account will resume as normal**. We don't hold grudges. The point of all this is to address the behavior. If the behavior improves, you are welcome back.
 
@@ -45,7 +45,7 @@ Of course, we don't always do the best job of letting users know what goes into 
 
 3. The system encourages moderators to follow an escalating scale of suspensions: 7 days, 30 days and a year. Volunteer moderators are not able to suspend longer than a year. Again, the goal is rehabilitation. Believe it or not, many people have come back from a year-long-suspension to resume their productive participation on the site. 
 
-I've investigated many, many complaints about moderator abuse, including complaints of unfair suspensions. Overwhelmingly, it's clear our moderators are very careful about suspending users. Obviously, you'll need to take my word for that. But you can see the results of wise moderation when using Stack Exchange sites. The network tends to be free of rudeness and chaos as compared to other, similar networks. A good deal of the credit belongs to [the cadre of volunteer moderators](http://stackexchange.com/about/moderators) who have the power to suspend users.
+I've investigated many, many complaints about moderator abuse, including complaints of unfair suspensions. Overwhelmingly, it's clear our moderators are very careful about suspending users. Obviously, you'll need to take my word for that. But you can see the results of wise moderation when using Stack Exchange sites. The network tends to be free of rudeness and chaos as compared to other, similar networks. A good deal of the credit belongs to [the cadre of volunteer moderators](https://stackexchange.com/about/moderators) who have the power to suspend users.
 
 <sub>Parts of this post were copied from [my answer on Meta Physics](https://physics.meta.stackexchange.com/a/9670/9426).</sub>
 

@@ -2,7 +2,7 @@
 layout: post
 title: The Tony the Pony problem
 tags: meta-post 
-license: http://creativecommons.org/licenses/by-sa/3.0/
+license: https://creativecommons.org/licenses/by-sa/3.0/
 encoding: utf-8
 date: 2018-12-17
 comments: yes
@@ -18,7 +18,7 @@ I started thinking about
 and it occured to me that maybe the problem isn't with my script, but
 with the browser. Indeed, switching to Arial fixes the problem and
 renders nearly the same as the
-[original](http://stackoverflow.com/a/1732454/18936).
+[original](https://stackoverflow.com/a/1732454/18936).
 
 To try it out for yourself. Pick another `font-family`:
   <textarea name="pickfont">Arial</textarea>
@@ -101,9 +101,9 @@ made for avoiding creating any impression at all with typography by
 using a veritable _tabula rasa_ of a font such as Arial.
 
 And now,
-[RegEx match open tags except XHTML self-contained tags](http://stackoverflow.com/a/1732454/18936)
+[RegEx match open tags except XHTML self-contained tags](https://stackoverflow.com/a/1732454/18936)
 answered on Stack Overflow by <a alt="bobince"
-href="http://stackoverflow.com/users/18936/bobince">bobince</a>:
+href="https://stackoverflow.com/users/18936/bobince">bobince</a>:
 
 ---
 

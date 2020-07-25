@@ -14,7 +14,7 @@ people.
 
 Stack Exchange sites are a little unusual since the community runs
 them. That's not just a nice way to say that a few users sit on the
-[Star Chamber](http://en.wikipedia.org/wiki/Star_Chamber). Our
+[Star Chamber](https://en.wikipedia.org/wiki/Star_Chamber). Our
 community has authority to do just about everything through a system
 of reputation, privileges, elected or appointed moderators, review
 queues, and flagging. As a result, hardly any of the problems that
@@ -38,7 +38,7 @@ tickets. If any of us get stuck, we drop a link in chat and the rest
 of the team chimes in with suggestions.
 
 Our approach to customer support takes inspiration from Joel Spolsky's
-["Seven steps to remarkable customer service"](http://www.joelonsoftware.com/articles/customerservice.html). We
+["Seven steps to remarkable customer service"](https://www.joelonsoftware.com/articles/customerservice.html). We
 aren't doing customer support over the phone for a company that sells
 software, however, so we apply some of the principles a bit differently:
 
@@ -75,7 +75,7 @@ Now that I knew what the underlying problem was, I set about fixing it:
 
 1. I contacted the Uber API support email to let them know about the
    tag name and give them our standard advice about using
-   [Stack Overflow for product support](http://meta.stackoverflow.com/questions/3966/is-it-okay-to-use-stack-overflow-as-the-support-forum-for-a-product-or-project)
+   [Stack Overflow for product support](https://meta.stackoverflow.com/questions/3966/is-it-okay-to-use-stack-overflow-as-the-support-forum-for-a-product-or-project)
    and
 
 2. I created a tag synonym from [uber] to [uber-api].
@@ -85,14 +85,14 @@ that clearly have nothing to do with Uber drivers. With any luck,
 they'll know they are in the wrong place and find the correct support
 channel more efficiently.
 
-## 2. Suggest the [account recovery page](http://meta.stackexchange.com/users/account-recovery)
+## 2. Suggest the [account recovery page](https://meta.stackexchange.com/users/account-recovery)
 
 We don't do hardware support, but we do have lots of problems with
 people forgetting how to log into our sites:
 
 * OpenID can be one level of indirection too far for some folks.
 * Our login system is pretty good, but it could
-  [probably be better](http://blog.codinghorror.com/the-god-login/).
+  [probably be better](https://blog.codinghorror.com/the-god-login/).
 * OpenID providers go down or go out of business on occasion.
 * Since we log people in automatically, there's often no need to
   remember your credentials until you get a new computer or device.

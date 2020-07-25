@@ -11,14 +11,14 @@ social solutions to customer support problems. Today I will look at an
 interface solution that worked for us.
 
 When your site contains the answers to millions of questions, as does
-the [Stack Exchange network](http://stackexchange.com/sites#answers),
+the [Stack Exchange network](https://stackexchange.com/sites#answers),
 and when those answers frequently turn up in Google searches, it's
 inevitable that some lost souls will mistake you for the official
 product support system of some other company. So we get hundreds of
 support tickets each month that have nothing to do with our sites. It
 doesn't help when we actually tried (and failed) to be the official
 support channel for
-[Facebook developers](http://blog.stackoverflow.com/2011/08/facebook-stackoverflow/).
+[Facebook developers](https://blog.stackoverflow.com/2011/08/facebook-stackoverflow/).
 
 To give you a taste of the tickets we get, here's one I dug out of the
 archive:
@@ -61,7 +61,7 @@ So the people most likely to benefit from contacting us (our
 registered users) actually followed through about half the
 time. That's a respectable conversion rate for this form:
 
-> [![Contact Support](http://i.stack.imgur.com/GMlAl.png)](http://meta.stackexchange.com/contact)
+> [![Contact Support](https://i.stack.imgur.com/GMlAl.png)](https://meta.stackexchange.com/contact)
 
 These tend to be fairly motivated users who really do need our
 help. Meanwhile, better than 95% of anonymous users figure out they
@@ -89,11 +89,11 @@ might be in the wrong place.
 
 So on March 20 we added this notice to the top of the contact form:
 
-> [![Honeypot (text only)](http://i.stack.imgur.com/R6B3F.png)](http://meta.stackexchange.com/contact)
+> [![Honeypot (text only)](https://i.stack.imgur.com/R6B3F.png)](https://meta.stackexchange.com/contact)
 
 It communicates that the first place to go for help is Meta or the
 Help Center. I purposely point people to the
-[top bar](http://blog.stackoverflow.com/2013/12/a-new-top-bar-for-stack-exchange/)
+[top bar](https://blog.stackoverflow.com/2013/12/a-new-top-bar-for-stack-exchange/)
 rather than a direct link so that they have a chance to see the other
 items hidden there. The banner also makes clear what sort of help we
 provide, which isn't so obvious from the rest of the page. Based on
@@ -112,7 +112,7 @@ should decrease our 3<sup>rd</sup> party tickets by a quarter or
 so. The actual decrease was about 30%.[^2] That's pretty good, but
 we wondered if adding logos would improve our results:
 
-> [![Honeypot (logos)](http://i.stack.imgur.com/rAcwz.png)](http://meta.stackexchange.com/contact)
+> [![Honeypot (logos)](https://i.stack.imgur.com/rAcwz.png)](https://meta.stackexchange.com/contact)
 
 After eight days of testing this version we saw further improvement:
 
@@ -122,7 +122,7 @@ After eight days of testing this version we saw further improvement:
 I'm pleased with a potential 40% decrease in tickets intended for
 other products, but there's more we can do. We designed the system so
 that every site can have its own custom notification. Sometimes people
-find our [Christianity](http://christianity.stackexchange.com) and
+find our [Christianity](https://christianity.stackexchange.com) and
 send requests like:
 
 > May I submit my prayer request to you?
@@ -130,19 +130,19 @@ send requests like:
 We don't get nearly as many people looking for Facebook help from that
 site because questions tend to the theological rather than the
 technological. So I added
-[this banner](http://christianity.stackexchange.com/contact) in place
+[this banner](https://christianity.stackexchange.com/contact) in place
 of the list of logos:
 
 > **PLEASE NOTE:** despite the name, this is a
-> [secular site](http://meta.christianity.stackexchange.com/questions/193/brothers-we-are-not-christians). We
+> [secular site](https://meta.christianity.stackexchange.com/questions/193/brothers-we-are-not-christians). We
 > cannot answer your religious questions personally.
 
 In the next few weeks, I plan to customize more banners starting with
 single-product sites such as:
 
-* [Ask Ubuntu](http://askubuntu.com/contact)
-* [Ask Different](http://apple.stackexchange.com/contact)
-* [Ask Patents](http://patents.stackexchange.com/contact)
+* [Ask Ubuntu](https://askubuntu.com/contact)
+* [Ask Different](https://apple.stackexchange.com/contact)
+* [Ask Patents](https://patents.stackexchange.com/contact)
 
 I suspect these will only be incremental gains for us, but the links
 could become valuable for many anonymous users who stumble onto our
@@ -178,9 +178,9 @@ from about 2 fruitless tickets a day:
     Saving (35%)               2.2       15      795
 
 I extrapolated the savings out to a year because the savings is
-[all about scale](http://meta.stackoverflow.com/questions/251175/stack-overflow-is-not-yet-a-vast-wasteland-a-history-of-moderator-tooling). As
+[all about scale](https://meta.stackoverflow.com/questions/251175/stack-overflow-is-not-yet-a-vast-wasteland-a-history-of-moderator-tooling). As
 I mentioned above, one
-[context switch](http://www.joelonsoftware.com/articles/fog0000000022.html)
+[context switch](https://www.joelonsoftware.com/articles/fog0000000022.html)
 really isn't that big of a deal. But saving 800 or so over the course
 of a year is. Real progress can be made with seemingly modest
 improvements.

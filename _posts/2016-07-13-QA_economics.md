@@ -14,7 +14,7 @@ volunteers, the exasperated followup becomes:
 > Why do they _do it_ then?
 
 To explain, let me borrow the
-[Four Currencies framework](http://www.fortressofdoors.com/piracy-and-the-four-currencies/)
+[Four Currencies framework](https://www.fortressofdoors.com/piracy-and-the-four-currencies/)
 from the realm of independent game development:
 
 1. Money `$M`
@@ -38,7 +38,7 @@ them are working programmers who just happen to have a bit of downtime
 in their work schedule and
 enjoy solving bite-sized problems.
 Now, some people answer in order to gain skills they can use to
-[get a better job](http://stackoverflow.com/jobs). And there are
+[get a better job](https://stackoverflow.com/jobs). And there are
 companies who hire programmers to answer questions as part of a
 broader developer relations strategy. But those are relatively rare
 edge cases.
@@ -92,7 +92,7 @@ hassle, but does make you feel pretty good about yourself (assuming
 you succeed). You can also ask the programmer in the cubicle next to
 you who may very well know the answer off the top of her head. That
 saves time, but can also be a bit of a hassle and
-([should](http://www.joelonsoftware.com/articles/fog0000000022.html))
+([should](https://www.joelonsoftware.com/articles/fog0000000022.html))
 impose a small integrity cost for bothering her. Or you might throw
 money at the problem and hire a consultant.
 
@@ -145,7 +145,7 @@ That's the error Ruby gives me. It's not exactly the most newbie
 friendly thing I've read. The error is on line 1 (there should be a
 `"` just before the `;`), but the interpreter doesn't know that until
 it gets to line 5. I can guess what
-["unexpected tCONSTANT" means](http://stackoverflow.com/a/7317408/1438),
+["unexpected tCONSTANT" means](https://stackoverflow.com/a/7317408/1438),
 but the phrase is confusing.
 
 Let's see what Perl has to say about the code:
