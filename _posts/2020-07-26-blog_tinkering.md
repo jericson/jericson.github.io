@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tinkering with my blog as proctrastination
+title: Tinkering with my blog as procrastination
 tags: design
 comments: yes
 ---
