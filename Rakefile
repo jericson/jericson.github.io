@@ -13,7 +13,7 @@ task :test do
               # Suckers bet. I can't fix all the world's broken links.
               :disable_external => true,
               :enforce_https => true,
-              :alt_ignore => ['donquixote.jpg'],
+              :alt_ignore => ['/images/donquixote.gif'],
             }
   HTMLProofer.check_directory("./_site", options).run
 end
