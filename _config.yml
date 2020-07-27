@@ -39,6 +39,7 @@ tag_page_dir: tag
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # LocalWords:  jericson LocalWords kramdown herf ericson http
 # LocalWords:  jlericson dir

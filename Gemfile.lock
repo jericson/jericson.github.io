@@ -276,6 +276,7 @@ DEPENDENCIES
   htmlentities
   jekyll-commonmark-ghpages
   jekyll-seo-tag
+  jekyll-sitemap
   jekyll-tagging
   json (> 1.8.6)
   puma
