@@ -3,6 +3,7 @@ layout: post
 title: Tinkering with my blog as procrastination
 tags: design
 comments: yes
+issue: 18
 ---
 
 I have a pile of things to write about so . . . I'm going to tinker
@@ -151,8 +152,8 @@ problems when websites have poor contrast text. I've known my blog has
 this problem too, but I hadn't gotten around to fixing it. Yes, my
 blog doesn't have a large readership, but that means I lose a higher
 percentage of my audience if they can't read my posts. (Not that
-that's an excuse for [Stack Overflow ignoring the problem](It's not
-like I'm [Stack Overflow), of course.)
+that's an excuse for [Stack Overflow ignoring the
+problem](https://meta.stackexchange.com/q/342787/1438).)
 
 One easy test is to [run a page through
 WAVE](https://wave.webaim.org/report#/https://jlericson.com/2020/03/30/sourdough.html),
