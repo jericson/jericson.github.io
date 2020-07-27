@@ -275,6 +275,7 @@ DEPENDENCIES
   html-proofer
   htmlentities
   jekyll-commonmark-ghpages
+  jekyll-seo-tag
   jekyll-tagging
   json (> 1.8.6)
   puma

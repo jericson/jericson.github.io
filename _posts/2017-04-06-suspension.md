@@ -4,7 +4,8 @@ title: Why don&#39;t we keep public records of suspensions?
 tags: meta-post 
 license: https://creativecommons.org/licenses/by-sa/3.0/
 encoding: utf-8
-author: <a alt="Jon Ericson" href="https://meta.stackexchange.com/users/1438/jon-ericson">Jon Ericson</a>
+author: Jon Ericson
+author_url: https://meta.stackexchange.com/users/1438/jon-ericson
 date: 2017-03-31 22:57:58
 comments: no
 ---

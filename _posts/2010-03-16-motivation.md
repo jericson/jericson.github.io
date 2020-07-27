@@ -4,7 +4,8 @@ title: The problem with extrinsic motivation
 tags: meta-post 
 license: https://creativecommons.org/licenses/by-sa/3.0/
 encoding: utf-8
-author: <a alt="Jon Ericson" href="https://meta.stackexchange.com/users/1438/jon-ericson">Jon Ericson</a>
+author: Jon Ericson
+author_url: https://meta.stackexchange.com/users/1438/jon-ericson
 date: 2010-03-16 23:29:17
 comments: no
 ---

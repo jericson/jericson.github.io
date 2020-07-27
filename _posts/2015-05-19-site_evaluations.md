@@ -3,7 +3,8 @@ layout: post
 title: How can we make the most of our upcoming site self evaluations?
 tags: meta-post 
 license: https://creativecommons.org/licenses/by-sa/3.0/
-author: <a alt="Jon Ericson" href="https://meta.puzzling.stackexchange.com/users/15/jon-ericson">Jon Ericson</a>
+author: Jon Ericson
+author_url: https://meta.puzzling.stackexchange.com/users/15/jon-ericson
 date: 2015-05-15 17:28:08
 comments: no
 ---

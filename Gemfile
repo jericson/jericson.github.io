@@ -8,6 +8,7 @@ gem 'json', '>1.8.6'
 
 group :jekyll_plugins do
   gem 'jekyll-commonmark-ghpages'
+  gem 'jekyll-seo-tag'
 end
 
 gem 'github-pages'#, versions['github-pages'] 

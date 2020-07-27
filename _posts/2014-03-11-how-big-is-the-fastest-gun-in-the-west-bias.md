@@ -3,7 +3,8 @@ layout: post
 title: How big is the Fastest Gun in the West bias?
 tags: meta-post fastest-gun
 license: https://creativecommons.org/licenses/by-sa/3.0/
-author: <a alt="Jon Ericson" href="https://meta.stackexchange.com/users/1438/jon-ericson">Jon Ericson</a>
+author: Jon Ericson
+author_url: https://meta.stackexchange.com/users/1438/jon-ericson
 ---
 
 (Originally published on

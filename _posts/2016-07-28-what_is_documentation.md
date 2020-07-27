@@ -4,7 +4,8 @@ title: What, exactly, is Documentation?
 tags: meta-post documentation
 license: https://creativecommons.org/licenses/by-sa/3.0/
 encoding: utf-8
-author: <a alt="Jon Ericson" href="https://meta.stackoverflow.com/users/1438/jon-ericson">Jon Ericson</a>
+author: Jon Ericson
+author_url: https://meta.stackoverflow.com/users/1438/jon-ericson
 date: 2016-07-28 20:19:53
 comments: no
 ---
