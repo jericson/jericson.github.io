@@ -78,9 +78,8 @@ sentence in `team@` replies is:
 When it comes to coding Q&A, Stack Overflow doesn't have much
 competition and it's tempting to behave like Ma Bell:
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/CHgUN_95UAw" frameborder="0"
-allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/355556831" width="640" height="310" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/355556831">SNL 9/18/76 - Lily Tomlin - We&rsquo;re the Phone Company, We Don&rsquo;t Care!</a> from <a href="https://vimeo.com/user46953047">Michael Russo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 For every person the site drives away, it seems like there are two
 more clueless users to take their place. We don't need to care. But I
