@@ -10,10 +10,14 @@ url: "https://jlericson.com" # the base hostname & protocol for your site
 author: Jon Ericson
 author_url: https://meta.stackexchange.com/users/1438/jon-ericson
 
+# SEO
+
 twitter_username: jlericson
 twitter:
   username: jlericson
   card: summary
+
+logo: /images/donquixote.gif 
 
 github_username:  jericson
 
