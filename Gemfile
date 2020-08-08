@@ -16,6 +16,7 @@ gem 'github-pages'#, versions['github-pages']
 gem 'hpricot'
 
 gem "rack", ">= 2.1.3"
+gem "kramdown", ">= 2.3.0"
 
 # testing
 gem 'rake'
