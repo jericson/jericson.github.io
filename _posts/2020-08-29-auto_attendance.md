@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to simplify Google Form attendence taking
+title: How to simplify Google Form attendance taking
 tags: remote
 comments: yes
 ---
