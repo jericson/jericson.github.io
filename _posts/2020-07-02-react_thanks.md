@@ -24,7 +24,7 @@ motivation](https://jlericson.com/2010/03/16/motivation.html):
 > &mdash; Jon Ericson (@jlericson) [June 18, 2020](https://twitter.com/jlericson/status/1273653468037705730)
 
 Now that's a little unfair. The actual point of the feature is to be a
-["cutter-free way to say
+["clutter-free way to say
 thanks"](https://stackoverflow.blog/2020/06/17/saying-thanks-testing-a-new-reactions-feature/):
 
 > We've heard from our users that the inability to say "thank you" is
