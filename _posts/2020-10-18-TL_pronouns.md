@@ -3,6 +3,7 @@ layout: post
 title: My answer about using preferred pronouns
 comments: yes
 tags: community
+issue: 20
 ---
 
 Below is a lightly edited answer I wrote on the Stack Exchange
