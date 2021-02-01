@@ -168,7 +168,7 @@ disappointment? To quote
 out of context:
 
 > The [parenting] ideal has not been tried and found wanting. It has
-> been found difficult; and left untried
+> been found difficult; and left untried.
 
 <!--One of the ways schools are evaluated is their acceptance rate. [USC
 admits just
