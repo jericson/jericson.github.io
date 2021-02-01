@@ -27,8 +27,14 @@ gem 'jekyll-tagging'
 
 gem 'htmlentities'
 
+gem 'jekyll-titles-from-headings'
+
 # Heroku
 gem 'puma'
 gem 'rack-jekyll'
 
 gem 'concurrent-ruby'
+
+# dependabot
+gem "nokogiri", ">= 1.11.0"
+
