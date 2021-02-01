@@ -13,7 +13,7 @@ layout: default
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-            {{ post.title }}{%if post.subtitle %}: {{ post.subtitle }}{% endif %}
+            {{post.title|markdownify|remove: '<p>'|remove: '</p>'}}{%if post.subtitle %}: {{post.subtitle |markdownify|remove: '<p>'|remove: '</p>'}}{% endif %}
           </a>
         </h2>
       </li>

@@ -4,13 +4,13 @@ layout: default
 <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    {%if page.subtitle %}<h2 class="post-subtitle">{{ page.subtitle }}</h2>{% endif %}
+    <h1 class="post-title">{{ page.title | markdownify }}</h1>
+    {%if page.subtitle %}<h2 class="post-subtitle">{{ page.subtitle | markdownify }}</h2>{% endif %}
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}
       {% if page.author == site.author %}
-      • <a href="{{ site.author_url }}">{{ page.author}}</a>
+      • <a href="{{ site.author_url }}">{{site.author}}</a>
       {% else %}
-      • <a href="{{ page.author_url }}">{{ page.author}}</a>
+      • {{page.author}}
       {% endif %}
       {% if page.tags %}
       • {% for tag in page.tags %}
