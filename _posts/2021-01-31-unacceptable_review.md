@@ -2,6 +2,7 @@
 layout: post
 title: Review of _Unacceptable_
 tags: community
+comments: true
 ---
 
 You've probably heard of the ["Operation Varsity Blues"
