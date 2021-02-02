@@ -17,7 +17,7 @@ by Melissa Korn and Jennifer Levitz goes beyond the headlines to
 report how these affluent parents found themselves serving federal
 time.
 
-<a href="https://www.amazon.com/Unacceptable-Privilege-College-Admissions-Scandal-ebook/dp/B085XK4KFH?crid=GAOJG8X32KAJ&dchild=1&keywords=unacceptable&qid=1604341788&sprefix=unacceptab%2Caps%2C261&sr=8-1&linkCode=li3&tag=jericson-20&linkId=63a2abecc3fb7f08e5998c22b5039a08&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B085XK4KFH&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jericson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=jericson-20&language=en_US&l=li3&o=1&a=B085XK4KFH" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/Unacceptable-Privilege-College-Admissions-Scandal-ebook/dp/B085XK4KFH?tag=jericson-20" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B085XK4KFH&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jericson-20&language=en_US" alt="Unacceptable: Privilege, Deceit & the Making of the College Admissions Scandal" ></a>
  
 The book revolves around William Rick Singer's schemes to sneak
 well-to-do students past the admission departments of elite
