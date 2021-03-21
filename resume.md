@@ -15,7 +15,7 @@ professional community manager, I've worked with dozens of communities
 ranging from college applicants to car enthusiasts to
 hermeneuticians. My job is mostly listening and facilitating
 company/community communication. I also bring a unique understanding
-of social software, data analysis and scripting to my work.
+of social software, data analysis and programming to my work.
 
 ### College Confidential
 **Community & Site Operations Manager**&mdash;_January 2020&ndash;March 2021_
@@ -27,7 +27,7 @@ team, I was the community dynamics and software expert. Product
 mangers, developers and designers consulted with me about how to
 manage the forum software. I also worked with moderators and community
 leaders to defuse conflict and create community norms that work for
-members and the company at large.
+members and the company.
 
 My accomplishments included:
 * Organizing [community testing of the beta Discourse
@@ -43,10 +43,12 @@ My accomplishments included:
 **I helped the hundreds thousands of volunteers who contribute to [176
 Q&A communities](https://stackexchange.com/sites#users) remain or
 become productive.** Obviously no community team can interact with all
-of them, so we identified leaders. I appointed many _pro tempore_
-moderators and conducted elections. On chat and meta sites, I guided
-users by answering their questions about support, new feature ideas,
-bugs, interpersonal interactions and community dynamics.
+of them, so we identified leaders who engage with other members on our
+behalf. I appointed many _pro tempore_ moderators and conducted
+moderator elections. On chat and meta sites, I answered user support
+questions, new feature ideas and bugs reports. Frequently, I'd guide
+users though problems of interpersonal interactions and community
+dynamics.
 
 
 I've worked on several major projects, including:
@@ -106,7 +108,7 @@ One of my favorite classes required me to learn FORTRAN in order to
 build atmospheric models. An math class introduced me to
 Mathematica. I learned the SPSS statistics software from a cultural
 anthropology class. As much as possible, I took history and philosophy
-electives. This is when I entered the world of online communities via
+electives. This is also when I entered the world of online communities via
 Usenet.
 
 For more details, please see [my
