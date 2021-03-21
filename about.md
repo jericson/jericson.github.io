@@ -5,11 +5,56 @@ comments: yes
 permalink: /about/
 ---
 
+
+I'm currently looking for work:
+
+* [Resume](/resume/).
+* My [CV](https://stackoverflow.com/cv/jericson), which goes into more detail.
+* [What I accomplished at College Confidential.](/2021/03/18/leaving_cc.html)
+
+---
+
 The source of this site can be found on
 [GitHub](https://github.com/jericson/jericson.github.io).
 
-[![Build Status](https://travis-ci.org/jericson/jericson.github.io.svg?branch=master)](https://travis-ci.org/jericson/jericson.github.io)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cce2e3ae-1f33-434c-b923-4381f215d440/deploy-status)](https://app.netlify.com/sites/jlericson/deploys)
+[![Build
+Status](https://travis-ci.org/jericson/jericson.github.io.svg?branch=master)](https://travis-ci.org/jericson/jericson.github.io)
+[![Netlify
+Status](https://api.netlify.com/api/v1/badges/cce2e3ae-1f33-434c-b923-4381f215d440/deploy-status)](https://app.netlify.com/sites/jlericson/deploys)
+
+---
+
+My logo is ripped off from [Don Quixote, 1955 by Pablo
+Picasso](https://www.pablopicasso.org/don-quixote.jsp). Back when I
+was active on Usenet, I wanted to start using an
+[X-Face](https://en.wikipedia.org/wiki/X-Face), which is a 48x48 black
+and white image format that can be embedded in posts or
+emails. Automatically converting images tends to result in something
+of a mess:
+
+![X-Face version of my current profile picture](/images/jon_ericson.gif)
+
+I'm using [this online
+converter](https://www.dairiki.org/xface/xface.php), but it doesn't
+tend to matter. Extreme compression sacrifices quite a lot of
+detail. For reference, here's the code needed to render that image:
+
+```
+X-Face: DSyNvIaDL&l#a%6<8=5!`92or[/V'U4zr'cmo]+alpAA}<w/1:ZXe5sy0ogc6D%X||C<6jH
+ Eiym}|GJA[r@HK/:0sQeTyKB7}!MQ4dmNd8M/Tn7oPK)(L_O+pOSGD`jDo}@Gz0x#N(bR#.+c-wcxH
+ CmocEp%Upz9$F;21]~H[rXVrmp)|ou5TrZp{R60dh4+:u~bL,*[}<z.$Sww5S<A0aq7IAyt7G?>/;F
+ g+n.;>Ds+9DSsg/<m6^WEWeCEr1eNEjKr{:)+
+```
+
+Meanwhile, images that are already low density look pretty amazing
+even enlarged 4x so the pixels are more clear:
+
+![X-Face image of the Don Quixote, 1955 by Pablo Picasso. It's highly
+pixelated.](http://www.dairiki.org/xface/xface.php?xface=%22Ro%7Di%231h%2ArV%3Atg%2BF.%21%5Dr%2Fy%2CRDL%27%60%2Asc%5B_1LB%27%25%2Aakh%40LHbt%2C%3AgBJ%2F%3A2cS%40%3AhpBLtYO%29o3a%3Bw3Tli%60r%2C.jIZD-zR%29p7%3A%5EV%5E%7D%23Wz%40.%5Cav%3EO%7B%218S.h%3ElnL3eMT1%22%2C%7EEiISLm4rw%2F%2AqVW3xE%23vj4%7D%23Cq%2757%2C%3FHW3K-Hl.B%2B%26%7B%3D%3E%2Be%3BR%3AJ%7E%27tJ%2A%7EfS%2A2n-G_8_5eS%5Bw%3F%23%2AJF%7Etj%23%7E%3Dzglo%2A%5C%26YBS1%26Zr2gP%5D&preview=1&enlarge=4)
+
+
+
+---
 
 Remember [Geek Code](https://en.wikipedia.org/wiki/Geek_Code)? Here's a modern version:
 
@@ -19,9 +64,6 @@ height="58" alt="profile for Jon Ericson on Stack Exchange, a network
 of free, community-driven Q&amp;A sites" title="profile for Jon
 Ericson on Stack Exchange, a network of free, community-driven Q&amp;A
 sites" /></a>
-
-Have a gander at [my CV](https://stackoverflow.com/cv/jericson). I'm
-not looking for a new job right now, however.
 
 If you want to send me a secret, I have a
 [Keybase account](https://keybase.io/jericson). I also use one of
@@ -33,7 +75,7 @@ those GPG keys to
  
 [![Project Euler account](https://projecteuler.net/profile/jericson.png)](https://projecteuler.net/progress=jericson)
 
-[![No Comment](https://www.catb.org/~esr/ecsl/graphics/ecsllogo1.png)](https://www.catb.org/~esr/ecsl/)
+[![The Eric Conspiracy](https://www.catb.org/~esr/ecsl/graphics/ecsllogo1.png)](https://www.catb.org/~esr/ecsl/)
 
 ---
 

@@ -35,6 +35,6 @@ gem 'rack-jekyll'
 
 gem 'concurrent-ruby'
 
-# dependabot
+# Dependabot
 gem "nokogiri", ">= 1.11.0"
 

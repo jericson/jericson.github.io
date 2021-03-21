@@ -47,11 +47,10 @@ and [Calculus AB](https://en.wikipedia.org/wiki/AP_Calculus) Advanced
 Placement tests from
 [2006 to 2013](https://web.archive.org/web/20190226062956/https://home.cc.gatech.edu/ice-gt/556):
 
-|                      | Boys | Girls | Total
--                    - | ---: | ----: | ----:
-CS performance         |  64% |   56% |   62%
-Calculus performance   |  62% |   54% |   58%
-|=
+|                       | Boys | Girls | Total |
+|-                      | ---: | ----: | ----: |
+|CS performance         |  64% |   56% |   62% |
+|Calculus performance   |  62% |   54% |   58% |
 
 64% of male students and 56% of females passed the Computer Science
 test (with a 3 or better). This is a problem for my theory, but the
@@ -61,10 +60,10 @@ the real problem is the ratio of young men and women who take the test
 in the first place:
 
 
-|                      | Boys | Girls | Total
--                    - | ---: | ----: | ----:
-CS participation       |  81% |   19% |  100%
-Calculus participation |  52% |   48% |  100%
+|                       | Boys | Girls | Total
+|-                      | ---: | ----: | ----:
+|CS participation       |  81% |   19% |  100%
+|Calculus participation |  52% |   48% |  100%
 
 
 AP Calculus is pretty important for anyone planning on entering

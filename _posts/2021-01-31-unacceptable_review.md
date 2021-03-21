@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Review of _Unacceptable_
-tags: community
+tags: community review
 comments: true
 ---
 
