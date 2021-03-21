@@ -5,6 +5,7 @@ comments: yes
 permalink: /about/
 ---
 
+## Jon Ericson
 
 I'm currently looking for work:
 
