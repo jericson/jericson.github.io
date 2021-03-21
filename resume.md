@@ -43,7 +43,7 @@ Exchange sites remain or become productive.**
 I've worked on several major projects, including:
 
 * Streamlining our [user support
-  system](http://jericson.github.io/tag/support.html).
+  system](/tag/support.html).
 * [Winter Bash
   2014](https://stackoverflow.blog/2014/12/15/winter-bash-2014/).
 * The [2017 Developer
@@ -69,7 +69,7 @@ that produced over a terabyte of data each month.
 **Systems Engineer**&mdash;_June 1999&ndash;April 2001_
 
 **During the [Shuttle Radar Topography
-Mission](http://en.wikipedia.org/wiki/Shuttle_Radar_Topography_Mission
+Mission](https://en.wikipedia.org/wiki/Shuttle_Radar_Topography_Mission
 "SRTM"), I was part of the ground support team.**  Both before and after
 the mission, I helped design and test the software which formatted the
 radar data to produce 3-dimensional maps of the Earth's surface.
@@ -85,7 +85,7 @@ colleges anticipate the next downlink slot.
 **As a summer intern, I was asked to code an algorithm that converted
 one-minute sensor output into hourly reports of cloud heights and
 coverage for the [Automated Surface Observing
-System](http://www.nws.noaa.gov/asos/ "ASOS").**  Over the course of the
+System](https://www.nws.noaa.gov/asos/ "ASOS").**  Over the course of the
 next three summers I took on algorithm development, design and coding
 for serial devices, configuration management, weather observation, and
 database management.
