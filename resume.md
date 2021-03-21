@@ -11,8 +11,8 @@ jon@jlericson.com | [jlericson.com](https://jlericson.com/) | (818) 588-6566
 
 I began my career as a programmer, but I keep finding myself taking on
 community roles. In my experience as a volunteer moderator and
-professional community manager, I've worked with dozens of communities
-ranging from college applicants to car enthusiasts to
+professional community manager, I've worked closely with dozens of
+communities ranging from college applicants to car enthusiasts to
 hermeneuticians. My job is mostly listening and facilitating
 company/community communication. I also bring a unique understanding
 of social software, data analysis and programming to my work.
@@ -40,7 +40,7 @@ My accomplishments included:
 ### Stack Overflow/Stack Exchange
 **Community Product Manager**&mdash;_July 2013&ndash;January 2020_
 
-**I helped the hundreds thousands of volunteers who contribute to [176
+**I helped the hundreds of thousands of volunteers who contribute to [176
 Q&A communities](https://stackexchange.com/sites#users) remain or
 become productive.** Obviously no community team can interact with all
 of them, so we identified leaders who engage with other members on our
