@@ -22,7 +22,12 @@ of social software, data analysis and scripting to my work.
 
 **I evaluated a mature community, proposed next steps (including
 migrating to Discourse) and worked with the entire company to revive
-the CC community.** 
+[the CC community](https://talk.collegeconfidential.com/).** On our
+team, I was the community dynamics and software expert. Product
+mangers, developers and designers consulted with me about how to
+manage the forum software. I also worked with moderators and community
+leaders to defuse conflict and create community norms that work for
+members and the company at large.
 
 My accomplishments included:
 * Organizing [community testing of the beta Discourse
@@ -35,9 +40,13 @@ My accomplishments included:
 ### Stack Overflow/Stack Exchange
 **Community Product Manager**&mdash;_July 2013&ndash;January 2020_
 
-**I helped the thousands of volunteers who contribute to Stack
-Exchange sites remain or become productive.**
-
+**I helped the hundreds thousands of volunteers who contribute to [176
+Q&A communities](https://stackexchange.com/sites#users) remain or
+become productive.** Obviously no community team can interact with all
+of them, so we identified leaders. I appointed many _pro tempore_
+moderators and conducted elections. On chat and meta sites, I guided
+users by answering their questions about support, new feature ideas,
+bugs, interpersonal interactions and community dynamics.
 
 
 I've worked on several major projects, including:
@@ -77,7 +86,7 @@ During the mission, I monitored communication with the astronauts and
 waited for downloaded samples of instrument data, which was quickly
 processed in order to provide images for the press.  I was responsible
 for the demux step.  I also designed a simple report to help my
-colleges anticipate the next downlink slot.
+colleagues anticipate the next downlink slot.
 
 ### National Weather Service/Hughes
 **Programmer**&mdash;_Summers 1994&ndash;1997_
