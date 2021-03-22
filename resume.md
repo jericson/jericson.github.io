@@ -9,13 +9,11 @@ permalink: /resume/
 
 jon@jlericson.com | [jlericson.com](https://jlericson.com/) | (818) 588-6566
 
-I began my career as a programmer, but I keep finding myself taking on
-community roles. In my experience as a volunteer moderator and
-professional community manager, I've worked closely with dozens of
-communities ranging from college applicants to car enthusiasts to
-hermeneuticians. My job is mostly listening and facilitating
-company/community communication. I also bring a unique understanding
-of social software, data analysis and programming to my work.
+Complicated systems fascinate me. Perhaps that's why I was drawn to
+programming. In college I studied non-deterministic atmospheric
+models. I operated a supercomputer cluster before computation
+become a commodity. But since nothing compares in complexity to humans
+interacting with each other, I now plan, build and manage online communities.
 
 ### College Confidential
 **Community & Site Operations Manager**&mdash;_January 2020&ndash;March 2021_
@@ -40,18 +38,16 @@ My accomplishments included:
 ### Stack Overflow/Stack Exchange
 **Community Product Manager**&mdash;_July 2013&ndash;January 2020_
 
-**I helped the hundreds of thousands of volunteers who contribute to [176
-Q&A communities](https://stackexchange.com/sites#users) remain or
-become productive.** Obviously no community team can interact with all
-of them, so we identified leaders who engage with other members on our
-behalf. I appointed many _pro tempore_ moderators and conducted
-moderator elections. On chat and meta sites, I answered user support
-questions, new feature ideas and bugs reports. Frequently, I'd guide
-users though problems of interpersonal interactions and community
-dynamics.
+**I learned how to cultivate diverse communities and community leaders.** With
+[176 Q&A sites](https://stackexchange.com/sites#users), Stack Exchange
+was a perfect laboratory for understanding how online communities
+thrive or decay. Even though I had "manager" in my title, the work was
+more like planning and tending a garden. It required both strategic
+vision for the entire network and tactical execution for mentoring,
+mediation and communicating change.
 
 
-I've worked on several major projects, including:
+I worked on several major projects, including:
 
 * Streamlining our [user support
   system](/tag/support.html).
@@ -111,5 +107,5 @@ anthropology class. As much as possible, I took history and philosophy
 electives. This is also when I entered the world of online communities via
 Usenet.
 
-For more details, please see [my
-CV](https://stackoverflow.com/cv/jericson).
+<!--For more details, please see [my
+CV](https://stackoverflow.com/cv/jericson).-->
