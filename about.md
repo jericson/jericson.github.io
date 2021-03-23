@@ -51,7 +51,7 @@ Meanwhile, images that are already low density look pretty amazing
 even enlarged 4x so the pixels are more clear:
 
 ![X-Face image of the Don Quixote, 1955 by Pablo Picasso. It's highly
-pixelated.](http://www.dairiki.org/xface/xface.php?xface=%22Ro%7Di%231h%2ArV%3Atg%2BF.%21%5Dr%2Fy%2CRDL%27%60%2Asc%5B_1LB%27%25%2Aakh%40LHbt%2C%3AgBJ%2F%3A2cS%40%3AhpBLtYO%29o3a%3Bw3Tli%60r%2C.jIZD-zR%29p7%3A%5EV%5E%7D%23Wz%40.%5Cav%3EO%7B%218S.h%3ElnL3eMT1%22%2C%7EEiISLm4rw%2F%2AqVW3xE%23vj4%7D%23Cq%2757%2C%3FHW3K-Hl.B%2B%26%7B%3D%3E%2Be%3BR%3AJ%7E%27tJ%2A%7EfS%2A2n-G_8_5eS%5Bw%3F%23%2AJF%7Etj%23%7E%3Dzglo%2A%5C%26YBS1%26Zr2gP%5D&preview=1&enlarge=4)
+pixelated.](https://www.dairiki.org/xface/xface.php?xface=%22Ro%7Di%231h%2ArV%3Atg%2BF.%21%5Dr%2Fy%2CRDL%27%60%2Asc%5B_1LB%27%25%2Aakh%40LHbt%2C%3AgBJ%2F%3A2cS%40%3AhpBLtYO%29o3a%3Bw3Tli%60r%2C.jIZD-zR%29p7%3A%5EV%5E%7D%23Wz%40.%5Cav%3EO%7B%218S.h%3ElnL3eMT1%22%2C%7EEiISLm4rw%2F%2AqVW3xE%23vj4%7D%23Cq%2757%2C%3FHW3K-Hl.B%2B%26%7B%3D%3E%2Be%3BR%3AJ%7E%27tJ%2A%7EfS%2A2n-G_8_5eS%5Bw%3F%23%2AJF%7Etj%23%7E%3Dzglo%2A%5C%26YBS1%26Zr2gP%5D&preview=1&enlarge=4)
 
 
 
