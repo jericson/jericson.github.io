@@ -28,6 +28,7 @@ leaders to defuse conflict and create community norms that work for
 members and the company.
 
 My accomplishments included:
+
 * Organizing [community testing of the beta Discourse
   site](https://talk.collegeconfidential.com/t/please-test-the-future-of-cc-forums/2106274)
   and answering community questions about this major change.
@@ -38,13 +39,14 @@ My accomplishments included:
 ### Stack Overflow/Stack Exchange
 **Community Product Manager**&mdash;_July 2013&ndash;January 2020_
 
-**I learned how to cultivate diverse communities and community leaders.** With
-[176 Q&A sites](https://stackexchange.com/sites#users), Stack Exchange
-was a perfect laboratory for understanding how online communities
-thrive or decay. Even though I had "manager" in my title, the work was
-more like planning and tending a garden. It required both strategic
-vision for the entire network and tactical execution for mentoring,
-mediation and communicating change.
+**I learned how to cultivate diverse communities and mentor community
+leaders.** With [176 Q&A
+sites](https://stackexchange.com/sites#users), Stack Exchange was a
+perfect laboratory for understanding how online communities thrive or
+decay. Even though I had "manager" in my title, the work was more like
+planning and tending a garden. It required both strategic vision for
+the entire network and tactical execution for mentoring, mediation and
+communicating change.
 
 
 I worked on several major projects, including:
