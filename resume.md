@@ -45,7 +45,7 @@ sites](https://stackexchange.com/sites#users), Stack Exchange was a
 perfect laboratory for understanding how online communities thrive or
 decay. Even though I had "manager" in my title, the work was more like
 planning and tending a garden. It required both strategic vision for
-the entire network and tactical execution for mentoring, mediation and
+the entire network and tactical execution for mentoring, mediation, and
 communicating change.
 
 
