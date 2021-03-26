@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: Résumé
 comments: yes
 permalink: /resume/
 ---
@@ -12,17 +12,17 @@ jon@jlericson.com | [jlericson.com](https://jlericson.com/) | (818) 588-6566
 Complicated systems fascinate me. Perhaps that's why I was drawn to
 programming. In college I studied non-deterministic atmospheric
 models. I operated a supercomputer cluster before computation
-become a commodity. But since nothing compares in complexity to humans
+became a commodity. But since nothing compares in complexity to humans
 interacting with each other, I now plan, build and manage online communities.
 
 ### College Confidential
-**Community & Site Operations Manager**&mdash;_January 2020&ndash;March 2021_
+**Community & Site Operations Manager** | January 2020&ndash;March 2021
 
 **I evaluated a mature community, proposed next steps (including
 migrating to Discourse) and worked with the entire company to revive
 [the CC community](https://talk.collegeconfidential.com/).** On our
 team, I was the community dynamics and software expert. Product
-mangers, developers and designers consulted with me about how to
+managers, developers and designers consulted with me about how to
 manage the forum software. I also worked with moderators and community
 leaders to defuse conflict and create community norms that work for
 members and the company.
@@ -37,7 +37,7 @@ My accomplishments included:
 * Introduced CC's [refreshed brand](https://talk.collegeconfidential.com/t/introducing-ccs-refreshed-brand/3503241).
 
 ### Stack Overflow/Stack Exchange
-**Community Product Manager**&mdash;_July 2013&ndash;January 2020_
+**Community Product Manager** | July 2013&ndash;January 2020
 
 **I learned how to cultivate diverse communities and mentor community
 leaders.** With [176 Q&A
@@ -64,23 +64,24 @@ I worked on several major projects, including:
   Teams](https://meta.stackoverflow.com/a/368400/1438).
 
 ### JPL/Raytheon
-**Technical Lead**&mdash;_June 2001&ndash;August 2013_
+**Technical Lead** | June 2001&ndash;August 2013
 
 **I was part of a team that designed and implemented the Science
 Investigator-led Processing System to process [Tropospheric Emission
-Spectrometer](https://tes.jpl.nasa.gov/) algorithms.**  Since launch in
-the summer of 2004, we received a constant stream of data that needed
-to be stored on tape, converted into interferograms, spectra, vertical
-profiles and, finally, global maps for a variety of atmospheric
-properties.  As a result, I managed a high-performance computer system
-that produced over a terabyte of data each month.
+Spectrometer](https://tes.jpl.nasa.gov/) algorithms.**  From launch in
+the summer of 2004 through its end of life in 2018, the ground data
+system received a constant stream of data that needed to be stored on
+tape, converted into interferograms, spectra, vertical profiles and,
+finally, global maps for a variety of atmospheric properties.  As a
+result, I managed a high-performance computer system that produced
+more than a terabyte of data each month.
 
-**Systems Engineer**&mdash;_June 1999&ndash;April 2001_
+**Systems Engineer** | June 1999&ndash;April 2001
 
 **During the [Shuttle Radar Topography
 Mission](https://en.wikipedia.org/wiki/Shuttle_Radar_Topography_Mission
 "SRTM"), I was part of the ground support team.**  Both before and after
-the mission, I helped design and test the software which formatted the
+the mission, I helped design and test the software that formatted the
 radar data to produce 3-dimensional maps of the Earth's surface.
 During the mission, I monitored communication with the astronauts and
 waited for downloaded samples of instrument data, which was quickly
@@ -89,7 +90,7 @@ for the demux step.  I also designed a simple report to help my
 colleagues anticipate the next downlink slot.
 
 ### National Weather Service/Hughes
-**Programmer**&mdash;_Summers 1994&ndash;1997_
+**Programmer** | Summers 1994&ndash;1997
 
 **As a summer intern, I was asked to code an algorithm that converted
 one-minute sensor output into hourly reports of cloud heights and
@@ -100,10 +101,10 @@ for serial devices, configuration management, weather observation, and
 database management.
 
 ### UCLA
-**Atmospherics Sciences**&mdash;_May 1999_
+**Atmospherics Sciences** | May 1999
 
 One of my favorite classes required me to learn FORTRAN in order to
-build atmospheric models. An math class introduced me to
+build atmospheric models. A math class introduced me to
 Mathematica. I learned the SPSS statistics software from a cultural
 anthropology class. As much as possible, I took history and philosophy
 electives. This is also when I entered the world of online communities via
