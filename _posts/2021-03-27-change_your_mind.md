@@ -3,6 +3,7 @@ layout: post
 title: How are minds changed?
 tags: community
 comments: yes
+issue: 22
 ---
 
 In the late eighties, there weren't as many games to play on a
