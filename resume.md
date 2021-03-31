@@ -20,20 +20,19 @@ interacting with each other, I now plan, build and manage online communities.
 
 **I evaluated a mature community, proposed next steps (including
 migrating to Discourse) and worked with the entire company to revive
-[the CC community](https://talk.collegeconfidential.com/).** On our
-team, I was the community dynamics and software expert. Product
+[the CC community](https://talk.collegeconfidential.com/).** I became
+the community dynamics and software expert for the company. Product
 managers, developers and designers consulted with me about how to
-manage the forum software. I also worked with moderators and community
-leaders to defuse conflict and create community norms that work for
-members and the company.
+manage the forum software. In addition, I managed a small team of
+community specialists. 
 
-My accomplishments included:
+Among my accomplishments:
 
-* Organizing [community testing of the beta Discourse
+* Organized [community testing of the beta Discourse
   site](https://talk.collegeconfidential.com/t/please-test-the-future-of-cc-forums/2106274)
   and answering community questions about this major change.
-* Editing [updated forum rules](https://talk.collegeconfidential.com/t/forum-rules-update-march-2021/3506602).
-* Forming [student groups](https://talk.collegeconfidential.com/t/introducing-student-groups/3499294) so that our primary audience had their own space on the forums.
+* Edited [updated forum rules](https://talk.collegeconfidential.com/t/forum-rules-update-march-2021/3506602).
+* Formed [student groups](https://talk.collegeconfidential.com/t/introducing-student-groups/3499294) so that our primary audience had their own space on the forums.
 * Introduced CC's [refreshed brand](https://talk.collegeconfidential.com/t/introducing-ccs-refreshed-brand/3503241).
 
 ### Stack Overflow/Stack Exchange
@@ -51,7 +50,7 @@ communicating change.
 
 I worked on several major projects, including:
 
-* Streamlining our [user support
+* Streamlined our [user support
   system](/tag/support.html).
 * [Winter Bash
   2014](https://stackoverflow.blog/2014/12/15/winter-bash-2014/).
