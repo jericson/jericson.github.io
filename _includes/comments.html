@@ -5,10 +5,30 @@
 
   For feedback, see <a href="https://github.com/jericson/jericson.github.io/issues/{{ page.issue }}">this GitHub issue</a>.
 
+
 {% else %}
+
+<!--
+
 
   Send feedback by <a href="https://github.com/jericson/jericson.github.io/issues/new?title=Re:%20{{ page.title }}{% if page.subtitle %}: {{ page.subtitle }}{% endif %}&labels=comments&body=%0A%0A---%0A(Please%20use%20this%20issue%20for%20[comments]({{ site.url }}/comment.html)%20on%20[{{ page.title }}{% if page.subtitle %}: {{ page.subtitle }}{% endif %}]({{ site.url }}{{ page.url }}).)">
 creating a GitHub issue</a>.
+-->
+
+<div id='discourse-comments'></div>
+
+<script type="text/javascript">
+  DiscourseEmbed = { discourseUrl: 'https://discourse.jlericson.com/',
+                     discourseEmbedUrl: '{{ site.url }}{{ page.url }}' };
+
+  (function() {
+    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+    d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+  })();
+</script>
+
 {% endif %}
+
 
 {% endif %}
