@@ -210,10 +210,13 @@ for. That's easy enough with [Jekyll
 variables](https://jekyllrb.com/docs/variables/) and [Liquid
 templates](https://jekyllrb.com/docs/liquid/):
 
+{% raw %}
+
 ```
   DiscourseEmbed = { discourseUrl: 'https://discourse.jlericson.com/',
                      discourseEmbedUrl: '{{ site.url }}{{ page.url }}' };
 ```
+{% endraw %}
 
 If I set all this up correctly, you should be able to see an option to
 comment below the footnotes.[^4]
