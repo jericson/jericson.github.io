@@ -170,7 +170,7 @@ everything is set up, be sure to create the admin user
 account. Consider toggling the `disable digest emails` setting so that
 you aren't sending out digest emails which will eat into the Mailjet email quota.
 
-## Using Discourse as for comments on a Jekyll blog
+## Using Discourse for comments on a Jekyll blog
 
 At the moment Oracle limits non-paying customers to two VMs, so I
 might as well put up another Discourse instance at
