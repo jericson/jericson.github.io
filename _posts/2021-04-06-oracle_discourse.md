@@ -76,7 +76,7 @@ Once you have an IP, it's time to get a domain. Domains [need not be
 expensive](/2019/05/15/domain.html), so you might already have
 one. Since the premise of this post is setting up Discourse _for
 free_, even an inexpensive domain is too much. Fortunately there are
-[5 top level domains](http://www.freenom.com/en/pricechart.html) that
+[5 top level domains](https://www.freenom.com/en/pricechart.html) that
 offer free subdomains:
 
 | TLD | Country | 
