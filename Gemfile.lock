@@ -227,6 +227,8 @@ GEM
     nio4r (2.5.7)
     nokogiri (1.11.2-x86_64-darwin)
       racc (~> 1.4)
+    nokogiri (1.11.2-x86_64-linux)
+      racc (~> 1.4)
     nokogumbo (2.0.5)
       nokogiri (~> 1.8, >= 1.8.4)
     nuggets (1.6.0)
@@ -282,6 +284,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-19
+  x86_64-linux
 
 DEPENDENCIES
   concurrent-ruby
@@ -297,7 +300,6 @@ DEPENDENCIES
   jekyll-titles-from-headings
   json (> 1.8.6)
   kramdown (>= 2.3.1)
-  nokogiri (>= 1.11.0)
   puma
   rack (>= 2.1.4)
   rack-jekyll
