@@ -17,7 +17,6 @@ end
 gem 'github-pages'#, versions['github-pages'] 
 gem 'hpricot'
 
-#gem "rack", ">= 2.1.3"
 
 # testing
 gem 'rake'
@@ -37,5 +36,6 @@ gem 'rack-jekyll'
 gem 'concurrent-ruby'
 
 # Dependabot
-#gem "nokogiri", ">= 1.11.0"
+gem "nokogiri", ">= 1.11.0"
 gem "kramdown", ">= 2.3.1"
+gem "rack", ">= 2.1.4"
