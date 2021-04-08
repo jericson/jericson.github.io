@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hide trivial comments
-tags: meta comments
+tags: meta-post comments
 license: http://creativecommons.org/licenses/by-sa/3.0/
 encoding: utf-8
 author: Jon Ericson
