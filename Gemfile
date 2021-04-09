@@ -1,10 +1,7 @@
 source 'https://rubygems.org'
+ruby '~> 2.7.0'
 
 gem 'json', '>1.8.6'
-
-#require 'json'
-#require 'open-uri'
-#versions = JSON.parse(open('https://pages.github.com/versions.json').read)
 
 gem 'jekyll'
 
