@@ -164,6 +164,7 @@ I'm testing out hosting on:
 * [GitHub Pages](https://jericson.github.io/)
 * [Heroku](https://jlericson.herokuapp.com/)
 * [Netlify](https://jlericson.netlify.app/)
+* [CloudCanon](https://ample-nightingale.cloudvent.net/)
 
 <iframe height="600" src="https://stats.uptimerobot.com/6YKMJioVAx"></iframe>
 
