@@ -9,6 +9,7 @@ group :jekyll_plugins do
   gem 'jekyll-commonmark-ghpages'
   gem 'jekyll-seo-tag'
   gem 'jekyll-sitemap'
+  gem 'jekyll-algolia', '~> 1.0'
 end
 
 gem 'github-pages'#, versions['github-pages'] 
@@ -36,3 +37,5 @@ gem 'concurrent-ruby'
 #gem "nokogiri", ">= 1.11.0"
 gem "kramdown", ">= 2.3.1"
 gem "rack", ">= 2.1.4"
+
+gem "webrick", "~> 1.7"
