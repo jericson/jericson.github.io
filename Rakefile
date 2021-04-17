@@ -17,3 +17,7 @@ task :test do
             }
   HTMLProofer.check_directory("./_site", options).run
 end
+
+task "assets:precompile" do
+  exec("jekyll build")
+end
