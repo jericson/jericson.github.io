@@ -3,6 +3,7 @@ layout: post
 title: Finding a community manager job in 2021
 tags: career
 comments: yes
+image: /images/ui_claim_status.png
 ---
 
 Last month I was laid off. It was strictly a money thing and several
