@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I'm on the job market again
+title: My year at College Confidential
 tags: community career
 comments: true
 ---
