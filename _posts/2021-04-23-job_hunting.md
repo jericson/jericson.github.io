@@ -247,7 +247,7 @@ since there aren't exactly clear answers.
 
 Footnotes:
 
-[^1]: Amusingly it's labled `SSN No.` which I assume was a redundant
+[^1]: Amusingly it's labeled `SSN No.` which I assume was a redundant
     use of "number". Kinda like "ATM machine".
 
 [^2]: It's (866) 401-2849, if you are curious.
