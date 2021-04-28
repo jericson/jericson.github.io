@@ -99,7 +99,7 @@ money** so that we can pay people to keep the lights
 on". That's... hopefully not new. But "product-led" is [a new
 buzzword](https://productled.com/) that emphasizes the freemium
 model. It's a model that goes back to
-[shareware](http://jeff-vogel.blogspot.com/2009/03/shareware-is-dead-long-live-shareware.html)
+[shareware](https://jeff-vogel.blogspot.com/2009/03/shareware-is-dead-long-live-shareware.html)
 and [free
 samples](https://www.2dadswithbaggage.com/free-sample-at-sees-candy/). It's
 also the same model as Slack, GitHub, Dropbox and a host of other
@@ -155,7 +155,7 @@ So this simplifies the products Stack Overflow sells by offering just
 advertisements to solve the problem of developers being aware of what
 companies sell and what they are trying to hire for. Brand recognition
 is one of the few things that made a positive impact when [I was
-scouring job listings](2021/04/23/job_hunting.html). Seems like
+scouring job listings](/2021/04/23/job_hunting.html). Seems like
 recruiters might be willing to pay to increase awareness so that when
 people see their LinkedIn ads they will take a second look.
 
