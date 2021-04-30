@@ -41,7 +41,7 @@ For clarity, this is _my_ tankless unit that I installed with the help
 of my father-in-law. We have plans to fix the jank.
 
 Anyway, the problem is likely the result of harmonic resonance in the
-flexible gas line. It's a common problem for natural game appliances
+flexible gas line. It's a common problem for natural gas appliances
 such as fireplaces, fire pits and tankless heaters. One solution is to
 use a flex line that has alternating ridge patterns which break up the
 flow enough to avoid an annoying whistle.
