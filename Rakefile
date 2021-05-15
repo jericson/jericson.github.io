@@ -14,6 +14,9 @@ task :test do
               :disable_external => true,
               :enforce_https => true,
               :alt_ignore => ['/images/donquixote.gif'],
+              :url_ignore => ['http://chadwick-bureau.com/',
+                              'http://chadwick.sourceforge.net/doc/cwevent.html',
+                              'http://chadwick.sourceforge.net/doc/cwtools.html'],
             }
   HTMLProofer.check_directory("./_site", options).run
 end

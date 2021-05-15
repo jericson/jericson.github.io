@@ -12,7 +12,7 @@ I [installed Discourse](/2021/04/06/oracle_discourse.html). And at
 some point I seem to have typed `brew intstall postgres` on my
 MacBook. But I'm talking installing it the hard way. I'm talking
 [installing from the source
-code](https://www.postgresql.org/docs/9.3/installation.html). Yeah!
+code](https://www.postgresql.org/docs/current/installation.html). Yeah!
 
 I've always found that the only way to learn new technology is to have
 a reason to use it. Work-related requirements suffice, but it's even
