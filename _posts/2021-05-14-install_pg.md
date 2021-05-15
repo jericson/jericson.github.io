@@ -103,6 +103,9 @@ it needs. For some reason, RStudio actually puts its output in
 [sandbox](https://en.wikipedia.org/wiki/Sandbox_(computer_security)) for R 
 that has `~/Documents` for a home directory.
 
+
+## Installing Postgres from source
+
 I checked all the steps right up to populating Postgres database
 tables. While its certainly possible to use R to analyze the data, my
 goal was to have a reason to install Postgres. Somewhat annoyingly for
@@ -119,6 +122,8 @@ confused me until I read some [answers on Ask
 Ubuntu](https://askubuntu.com/questions/376199/sudo-su-vs-sudo-i-vs-sudo-bin-bash-when-does-it-matter-which-is-used). Turns
 out `su` asks for the password of the account you want to switch to
 and `sudo` asks for the password of the current account. 
+
+### Installing prerequisites from the command line
 
 Since I wanted to install Postgres the _hard way_ I decided to try
 installing it on Windows using the Microsoft toolchain. Since I'm not
@@ -156,6 +161,8 @@ And even some of the software I installed by downloading a GUI installer:
 choco install R.Studio wsl2
 ```
 
+### Installing MSVC Build Tools
+
 There is one feature that I haven't figured out how to install via
 Chocolatey. It's the Visual Studio C++ build tools, which can be
 installed via the Visual Studio Installer. You can start it up
@@ -181,6 +188,8 @@ site](https://github.com/jekyll/jekyll/issues/8523). This is a
 constant problem with guides about software and closely related to the
 prerequisites problem. Most of the time "install X" is helpful, but
 sometimes you need to say "install version Y of X" instead.
+
+### Building Postgres
 
 At this point we're finally ready to start building Postgres! I'm
 going to show how to do that in PowerShell. But not just any
@@ -237,6 +246,8 @@ Build succeeded.
 Time Elapsed 00:04:01.81
 ```
 
+### Installing Postgres
+
 Once the build succeeds, it's time to install:
 
 ```
@@ -280,6 +291,8 @@ retrosheet=# \d
 Did not find any relations.
 retrosheet=#
 ```
+
+## Writing Retrosheet data to Postgres
 
 Poor retrosheet database. Let's give it family, shall we?
 
@@ -352,6 +365,8 @@ retrosheet=# select count(*) from retro_rosters;
  92727
 (1 row)
 ```
+
+## Has anyone ever hit two grand slams in a single inning?
 
 Now we can start doing some baseball research. For instance, if you
 know that a grand slam is the only way to get 4 RBIs in a single play,[^7]
