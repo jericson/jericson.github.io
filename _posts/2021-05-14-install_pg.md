@@ -430,8 +430,8 @@ of how it happened. Think about the series of events that had to
 happen just so in order for Tatis to get up with the bases loaded
 twice.
 
-Meanwhile, think of all the little things that needed to initiated to
-get a working database sever up and running. Thankfully software can
+Meanwhile, think of all the little things that needed to be initiated to
+get a working database server up and running. Thankfully software can
 be quite a bit easier to manipulate than a baseball game.
 
 <!--
