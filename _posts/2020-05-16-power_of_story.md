@@ -4,6 +4,7 @@ title: The Power of Story
 comments: yes
 issue: 14
 tags: community
+image: /images/lion_fountain.jpg
 ---
 
 I was getting our side yard ready to have a Mother's Day celebration
@@ -95,7 +96,7 @@ Bang and DNA, we can put these misleading stories behind us.
 Still, I find the thing that tempts me to atheism isn't improved
 understanding offered by science. Science is perfectly compatible with
 my faith, after all. No, the attractive thing is the narrative of an
-uncaring universe that produced via simple Darwinian mechanisms, a
+uncaring universe that produced, via simple Darwinian mechanisms, a
 people who can understand the inevitability of the second law of
 thermodynamics. And rather than despair, that people found beauty in
 the world and in each other.
