@@ -3,6 +3,7 @@ layout: post
 title: Starting a new community
 tags: civitas community
 comments: yes
+image: /images/hollywood_bowl.jpg
 ---
 
 > > A beginning is the time for taking the most delicate care that the
