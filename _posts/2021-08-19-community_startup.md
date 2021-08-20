@@ -191,7 +191,7 @@ that they can interact with each other.
 
 Like any new establishment, you'll want to start with a vision of what
 the community will be. But as people come and [rearrange the
-chairs](http://horyun.design/docs), you'll need to adjust. Most likely
+chairs](https://horyun.design/docs), you'll need to adjust. Most likely
 a few of the boundaries marked out the definition phase will need to
 be moved. Likely some of the decisions about the design of the
 platform will turn out to be hindering more than they help. It's
