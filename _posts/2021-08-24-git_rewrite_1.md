@@ -252,10 +252,10 @@ our story just now.
     * Which side is currently on the hook to move.
     * Whether each king can castle and on which side(s).
     * If a pawn is open to _en passant_ capture.
-    * How many moced since the last capture or pawn advance.
+    * The number of moves since the last capture or pawn advance.
     * The curent move number.
     
-    All of this meta data is necessary for 
+    All of this meta data is necessary for giving chess programs the complete state of the game at that moment in time. In the Git analogy, the full FEN notation is something like a commit and the simple board diagram is like the current working tree.
     
 [^4]: Technically Git saves the _contents_ of a file as a
     [blob](https://en.wikipedia.org/wiki/Binary_large_object). The
