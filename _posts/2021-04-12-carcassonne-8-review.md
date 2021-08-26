@@ -16,7 +16,7 @@ playing with just one at a time to see how it works.
  
 We played an entire game with a grand total of one bridge played: 
  
-![](/images/carc_bridges.jpg)
+![Completed Carcassonne game with a bridge](/images/carc_bridges.jpg)
  
 The eagle-eyed in the audience will notice a mistake with a road tile
 that dead-ends on an open field. This was the last tile played and it
@@ -61,10 +61,7 @@ sit in my supply.
 We placed a bunch of castles when we played with them. We also used
 farmers who took advantage of the castle bonuses.
  
-![](/images/carc_castles.jpg)
-<div style=''><a href="https://boardgamegeek.com/image/6107938"><img
-src="https://cf.geekdo-images.com/59_A87Mxc5a3G9CXCVCUSQ__small/img/aDSXhSN0To4OQNpmc7-UNcZwZbA=/fit-in/200x150/filters:strip_icc()/pic6107938.jpg"
-border=0></a></div>
+![Completed Carcassonne layout with castles](/images/carc_castles.jpg)
  
 Castles work as an investment mechanism. You can take the 4 points
 when you build a football (American) town or place a castle that will
