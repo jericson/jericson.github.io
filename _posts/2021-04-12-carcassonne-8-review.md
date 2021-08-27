@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Carcassonne: Expansion 8 – Bridges, Castles and Bazaars – Surprisingly subtle expansions'
-tag: game review
+tags: game review
 ---
 
 <p>by <a  href='https://boardgamegeek.com/user/Ichthydion'>Ichthydion</a></p>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Munchkin: Optimized for very specific people'
-tag: game review
+tags: game review
 ---
 
 <p>by <a  href='https://boardgamegeek.com/user/Ichthydion'>Ichthydion</a></p>
