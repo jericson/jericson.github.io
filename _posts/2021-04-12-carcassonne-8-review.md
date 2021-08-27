@@ -108,10 +108,9 @@ points with a castle!)
  
 When there aren't standout tiles, auctions seem like a disruptive
 mini-game. Certainly the existence of <a
-href="https://boardgamegeek.com/forum/729550/carcassonne-expansion-8-bridges-castles-and-bazaar/variants"
-target="_blank" class="postlink" rel="nofollow noreferrer
-noopener">several bazaar variants</a> suggests players are not
-satisfied with the official rules.
+href="https://boardgamegeek.com/forum/729550/carcassonne-expansion-8-bridges-castles-and-bazaar/variants">several
+bazaar variants</a> suggests players are not satisfied with the
+official rules.
  
 One thing to note is that if nobody cares strongly about getting one
 tile, everyone can bid 0 points. That defaults to picking tiles in
