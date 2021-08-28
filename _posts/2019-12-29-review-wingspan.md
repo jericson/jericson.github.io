@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wingspan: Best if played quickly'
+title: 'Wingspan&mdash;Best if played quickly'
 tags: game review
 ---
 

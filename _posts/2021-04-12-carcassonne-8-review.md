@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Carcassonne: Expansion 8 – Bridges, Castles and Bazaars – Surprisingly subtle expansions'
+title: 'Carcassonne: Bridges, Castles and Bazaars (Expansion 8)&mdash;Surprisingly subtle expansions'
 tags: game review
 ---
 
