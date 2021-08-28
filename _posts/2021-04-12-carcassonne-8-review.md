@@ -4,11 +4,14 @@ title: 'Carcassonne: Expansion 8 – Bridges, Castles and Bazaars – Surprising
 tags: game review
 ---
 
-<p>by <a  href='https://boardgamegeek.com/user/Ichthydion'>Ichthydion</a></p>
+[Originally published on Board Game
+Geek.](https://boardgamegeek.com/thread/2639728/surprisingly-subtle-expansions)
 
 My kids have been getting into Carcassonne in a big way and they
 noticed my one and only expansion on the shelf. (I've played other
-expansions in the computer version, but <a href="https://boardgamegeek.com/thread/2435663/why-carcassonne-has-permanent-place-my-game-shelf">I don't think any expansion is necessary</a> to the original game.)
+expansions in the computer version, but <a
+href="https://boardgamegeek.com/thread/2435663/why-carcassonne-has-permanent-place-my-game-shelf">I
+don't think any expansion is necessary</a> to the original game.)
 Since Carcassonne expansions can be added piecemeal, we've started
 playing with just one at a time to see how it works.
  
