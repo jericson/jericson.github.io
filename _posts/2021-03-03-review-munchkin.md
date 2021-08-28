@@ -4,7 +4,8 @@ title: 'Munchkin: Optimized for very specific people'
 tags: game review
 ---
 
-<p>by <a  href='https://boardgamegeek.com/user/Ichthydion'>Ichthydion</a></p>
+[Originally published on Board Game
+Geek.](https://boardgamegeek.com/thread/2613545/optimized-very-specific-people)
 
 When I first got Munchkin, I was excited to dip my toes into tabletop
 RPGs. I'd played computerized RPGs over the years, but physical D&D
