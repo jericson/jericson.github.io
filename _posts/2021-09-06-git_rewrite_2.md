@@ -251,7 +251,7 @@ time](021/08/24/git_rewrite_1.html):[^9]
 
 I was underselling how much Git uses hashes. The "working tree" is
 really a Merkle tree in which each branch is a hash pointing to either
-a blog or a sub-tree, which is itself a Merkle tree. This is
+a file or a sub-tree, which is itself a Merkle tree. This is
 convenient because it means we can access anything from an individual
 file to the entire project tree (and everything in between) with a
 single number. Netlify can find our content, including all the old
