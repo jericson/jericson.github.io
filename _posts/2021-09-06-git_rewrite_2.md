@@ -303,7 +303,7 @@ too.
 
 With not just one, but two ways to get copies of old PDFs, we're ready
 to stop checking them in each time we build `develop`. You can see
-_exactly_ how I did this by looking at [his
+_exactly_ how I did this by looking at [this
 commit](https://github.com/EnterpriseDB/docs/commit/2b50abacdb7980bb538b8e46ab6dab80a6802275#diff-19659e2265896c02c08a327203563ce9a46d9f4966740441f67f0cbdad58e223). All
 I did was remove the GitHub Action that created PDFs and move the PDF
 generation code into the GitHub Action we use to build to
