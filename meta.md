@@ -1,6 +1,6 @@
 ---
 title: Meta
 permalink: /meta
-redirect: https://discourse.jlericson.com/
+redirect: https://meta.jlericson.com/
 layout: redirect
 ---
