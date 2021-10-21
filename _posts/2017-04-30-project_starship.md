@@ -7,7 +7,7 @@ tags: game review steam
 [Originally published on Steam](https://steamcommunity.com/id/jlericson/recommended/454890/)
 
 
- I'm not exactly a bullet hell shooter connoisseur, but I really enjoy Project Starship. It uses a sort of procedural generation scheme that introduces random enemies and powerups each time you play. Still, the enemy fire patterns are predictable once you've gotten to know and identify them. So there's definitely a learning curve and a chance to do better. Some power ups seem  more useful than others, so you might find the game easier or harder depending on what you get. Not sure what a serious player would think, but I really like it as a casual.
+ I'm not exactly a bullet hell shooter connoisseur, but I really enjoy Project Starship. It uses a sort of procedural generation scheme that introduces random enemies and powerups each time you play. Still, the enemy fire patterns are predictable once you've gotten to know and identify them. So there's definitely a learning curve and a chance to do better. Some power ups seem more useful than others, so you might find the game easier or harder depending on what you get. Not sure what a serious player would think, but I really like it as a casual.
  
 
  

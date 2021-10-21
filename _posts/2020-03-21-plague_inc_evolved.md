@@ -7,7 +7,7 @@ tags: game review steam
 [Originally published on Steam](https://steamcommunity.com/id/jlericson/recommended/246620/)
 
 
- I started playing Plague Inc: Evolved again after COVID-19 arrived in my city. The conceit is you are a pathogen intent on wiping out humanity. So, it's on the morbid side, which may or may not be what you want in the middle of a pandemic. (It was for me, but I'm not necessarily typical.) I've wiped out humanity as a bacteria, a virus and  a fungus. There are many other variations, including horror and a "fake news" scenarios, created by the developer. Included is a scenario creator which allows anyone with the game to create and publish their own versions. Not surprisingly, there are several COVID-19/coronavirus scenarios to play with.
+ I started playing Plague Inc: Evolved again after COVID-19 arrived in my city. The conceit is you are a pathogen intent on wiping out humanity. So, it's on the morbid side, which may or may not be what you want in the middle of a pandemic. (It was for me, but I'm not necessarily typical.) I've wiped out humanity as a bacteria, a virus and a fungus. There are many other variations, including horror and a "fake news" scenarios, created by the developer. Included is a scenario creator which allows anyone with the game to create and publish their own versions. Not surprisingly, there are several COVID-19/coronavirus scenarios to play with.
  
 
  

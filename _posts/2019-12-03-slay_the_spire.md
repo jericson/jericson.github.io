@@ -22,7 +22,7 @@ tags: game review steam
 
  
 
- Each game will work out a bit differently based on early draws and your choice of cards. Collecting block cards might lead you down a path of defense and waiting for chances to strike. (Ideally getting a Shield Strike card.) Collecting cards that focus on other abilities results in other types of play. The real joy of the game is discovering deck strategies that combine cards in imaginative ways. To be clear, the game design is the source of the strategies.  Players merely discover them. But when you do, it feels as if you've made a scientific breakthrough.
+ Each game will work out a bit differently based on early draws and your choice of cards. Collecting block cards might lead you down a path of defense and waiting for chances to strike. (Ideally getting a Shield Strike card.) Collecting cards that focus on other abilities results in other types of play. The real joy of the game is discovering deck strategies that combine cards in imaginative ways. To be clear, the game design is the source of the strategies. Players merely discover them. But when you do, it feels as if you've made a scientific breakthrough.
  
 
  

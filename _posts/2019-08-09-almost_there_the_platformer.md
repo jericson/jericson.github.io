@@ -12,7 +12,7 @@ tags: game review steam
 
  
 
- Still, this game lacks a lot of Super Meat Boy's character. I mean this in a literal sense as you control a cube in a sterile environment. Sometimes elaborate themes and story can be distracting, you know? Perhaps a better comparison is 140, another platformer featuring a square. (Though, that box turns into a circle when rolling and a triangle in the air.)  The one bit of character Almost There's box has is a red line, which seems to be a bit of ribbon according to the cover art. It serves a useful purpose of streaming behind to show where you've travelled.
+ Still, this game lacks a lot of Super Meat Boy's character. I mean this in a literal sense as you control a cube in a sterile environment. Sometimes elaborate themes and story can be distracting, you know? Perhaps a better comparison is 140, another platformer featuring a square. (Though, that box turns into a circle when rolling and a triangle in the air.) The one bit of character Almost There's box has is a red line, which seems to be a bit of ribbon according to the cover art. It serves a useful purpose of streaming behind to show where you've travelled.
  
 
  
@@ -22,4 +22,4 @@ tags: game review steam
 
  
 
- Many of the mechanics (especially the spinning buzz saws) harken back to Super Meat Boy. Some of the challenges seem a bit closer to plagiarism than homage.  If you are going to copy, take from the best, I suppose. Still, there are plenty of unique (as far as I know) ideas here. More importantly, Almost There captures the tension and release cycle that makes for the best platforming experience. You are in complete control of that little box whether using the keyboard or controller, so yours is the responsibility of failure and so is the glory of success.
+ Many of the mechanics (especially the spinning buzz saws) harken back to Super Meat Boy. Some of the challenges seem a bit closer to plagiarism than homage. If you are going to copy, take from the best, I suppose. Still, there are plenty of unique (as far as I know) ideas here. More importantly, Almost There captures the tension and release cycle that makes for the best platforming experience. You are in complete control of that little box whether using the keyboard or controller, so yours is the responsibility of failure and so is the glory of success.
