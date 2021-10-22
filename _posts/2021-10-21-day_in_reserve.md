@@ -177,11 +177,11 @@ during his at-bat:
 ![The Padres shifted Max Muncy pretty heavily.](/images/muncy_shift.jpg)
 
 Another thing we don't usually see on TV is the way fielders move from
-one pitch to the next. Look at the Padre in right field. That's Manny
-Machado who typically plays third base. With a pull-hitting lefty
-(Muncy) at the plate, he's essentially a shallow outfielder here. The
-Dodger third baseman, Justin Turner, often shifts right of second base
-with two strikes against a left-handed batter. 
+one pitch to the next. Look at the Padre in shallow right
+field. That's Manny Machado who typically plays third base. With a
+pull-hitting lefty (Muncy) at the plate, he's essentially a shallow
+outfielder here. The Dodger third baseman, Justin Turner, often shifts
+right of second base with two strikes against a left-handed batter.
 
 In this case, the fielding alignment didn't matter. Muncy struck
 out. So did Trea Turner. And Justin Turner hit a fly ball. The
@@ -238,7 +238,7 @@ Scherzer](https://www.mlb.com/video/max-scherzer-in-play-out-s-to-manny-machado-
 pitches. 21 outs and 21 batters. With a 2 run lead, Gavin Lux singled,
 Scherzer bunted him to second, Betts singled, Max Muncy doubled
 (scoring Lux), Trea Turner ground out, and Justin Turner hit a 396
-foot homer to put the Dodgers  ahead 6-0. The only drama left was Max's
+foot homer to put the Dodgers ahead 6-0. The only drama left was Max's
 perfect game.
 
 Top of the 8<sup>th</sup> now. Fernando Tatis Jr. filed out.[^7] Eric
@@ -364,7 +364,7 @@ didn't have to get a hit to get on base.
 As we walked up the third base line past the Dodger dugout, Max
 Scherzer came out for his post-game interviews. He's slightly taller
 than I am, but there's something larger than life about seeing a
-ballplayer in person. He smiled and waved at the parent who reached
+ballplayer in person. He smiled and waved at the parents who reached
 for their phones to grab a photo. And then he moved away while the
 stadium staff hurried us into the stands. We wandered around a bit,
 shopped in the team shop, took a few more pictures and walked back to
