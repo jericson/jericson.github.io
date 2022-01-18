@@ -149,7 +149,12 @@ table {
     /* http://stackoverflow.com/a/10994718/1438 */
     padding: $spacing-unit;
     border-spacing: $spacing-unit 0px;
+    border-collapse: collapse;
+    width: 100%;
+
 }
+
+tr:nth-child(even) {background-color: #f2f2f2;}
 
 /**
  * Superscripts

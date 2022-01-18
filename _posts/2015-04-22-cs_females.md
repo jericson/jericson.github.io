@@ -190,15 +190,15 @@ bugs. There are no shortcuts.
 The standardized AP test certainly doesn't cover the bases. The
 [multiple choice section](https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-computer-science-a-course-description-2014.pdf) breaks down thusly:
 
-Rank | Classification Category     | Percent of multiple-choice items
-:--- | :----------------------     | -------------------------------:
-1.   | Programming Fundamentals    | 55–75%
-2.   | Algorithms/Problem Solving  | 25–45%
-3.   | Data Structures             | 20–40%
-4.   | Object-Oriented Programming | 15–25%
-5.   | Logic                       |  5–15%
-6.   | Recursion                   |  5–15%
-7.   | Software Engineering        |  2–10%
+| Rank | Classification Category     | Percent of multiple-choice items
+| :--- | :----------------------     | -------------------------------:
+| 1.   | Programming Fundamentals    | 55–75%
+| 2.   | Algorithms/Problem Solving  | 25–45%
+| 3.   | Data Structures             | 20–40%
+| 4.   | Object-Oriented Programming | 15–25%
+| 5.   | Logic                       |  5–15%
+| 6.   | Recursion                   |  5–15%
+| 7.   | Software Engineering        |  2–10%
 
 [I like recursion](https://stackoverflow.com/q/129877/1438) as much as
 the next guy, but there's literally always a way to write a recursive
