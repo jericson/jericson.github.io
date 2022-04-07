@@ -14,5 +14,23 @@
   <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
   <link rel="micropub" href="https://jericson-micropub.herokuapp.com/micropub">
 
-  {% seo %}
+  <!-- Stolen from https://github.com/jekyll/jekyll-seo-tag -->
+  <meta name="generator" content="Jekyll v{{ jekyll.version }}" />
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}{% if page.subtitle %}: {{ page.subtitle }}{% endif %}" />
+  <meta name="author" content="{{ page.author }}" />
+  <meta property="og:locale" content="en_US" />
+  <meta name="description" content="{{ page.excerpt | escape }}" />
+  <meta property="og:description" content="{{ page.excerpt | escape }}" />
+  <link rel="canonical" href="{{ site.url }}/{{ page.url }}" />
+  <meta property="og:url" content="{{ site.url }}/{{ page.url }}" />
+  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta property="og:image" content="{{ page.content | match_regex: '<img .*?src="([^"]+)"' }}" />
+  <meta property="og:image:alt" content="{{ page.content | match_regex: '<img .*?alt="([^"]+)"' }}" />
+{% if page.date %}
+  <meta property="og:type" content="article" />
+  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" />
+{% else %}
+   <meta property="og:type" content="website" />
+{% endif %}
+
 </head>

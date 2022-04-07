@@ -47,9 +47,11 @@ tag_page_dir: tag
 #tag_feed_dir: tag
 
 plugins:
-  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-titles-from-headings
+  - match_regex
+
+safe: true
 
 titles_from_headings:
   enabled:     false

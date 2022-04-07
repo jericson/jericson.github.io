@@ -1,0 +1,4 @@
+{{- include.post.title|markdownify|remove: '<p>'|remove: '</p>'| rstrip -}}
+{%- if include.post.subtitle -%}
+    : {{include.post.subtitle |markdownify|remove: '<p>'|remove: '</p>'-}}
+{%- endif -%}

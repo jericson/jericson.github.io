@@ -7,9 +7,9 @@ gem 'jekyll'
 
 group :jekyll_plugins do
   gem 'jekyll-commonmark-ghpages'
-  gem 'jekyll-seo-tag'
   gem 'jekyll-sitemap'
   gem 'jekyll-algolia', '~> 1.0'
+  gem 'match_regex'
 end
 
 gem 'github-pages'#, versions['github-pages'] 
@@ -26,10 +26,6 @@ gem 'jekyll-tagging'
 gem 'htmlentities'
 
 gem 'jekyll-titles-from-headings'
-
-# Heroku
-gem 'puma'
-gem 'rack-jekyll'
 
 gem 'concurrent-ruby'
 
