@@ -6,15 +6,15 @@ date: 2020-02-07
 tags: community 
 ---
 
-Orginally [published on
-Twitter](https://threadreaderapp.com/thread/1225859081904115712.html).
 
-Last fall, during a very rough week, I wrote
-[a melancholy parable about Stack Exchange](https://medium.com/@jlericson/emptiness-a-parable-ee46a8a1cad6). I'm
+Last fall, during a very rough week, I wrote [a melancholy parable
+about Stack
+Exchange](https://medium.com/@jlericson/emptiness-a-parable-ee46a8a1cad6). I'm
 not sure if anyone read it and understood the significance, but that's
 ok. I do a lot of writing for my own benefit. Since then, I've thought
 of another parable that might be more hopeful.
- 
+
+
 At my new house we have a bunch of rose bushes. It's very clear they
 were well taken care of, but in recent years they have been allowed to
 grow as they will. We got a few decent roses in the fall, but the
@@ -25,8 +25,11 @@ doing. I just sorta hack away at the roses and rely on them being very
 robust. I'm learning and it's my garden, so I don't feel
 bad. Cultivators of roses (rosarians) would probably cringe to watch
 me do this, but it needs to be done and I'm the only person likely to
-do it. If this were [Exposition Park](https://www.laparks.org/park/exposition-rose-garden), I'd have a staff of experts to do
-it right.
+do it. If this were [Exposition
+Park](https://www.laparks.org/park/exposition-rose-garden), I'd have a
+staff of experts to do it right.
+
+{% include add_image.html image="roses.jpg" %}
 
 So to get back to Stack Exchange, the sites have moderators who behave
 something like expert gardeners. They prune questions that are aren't
@@ -109,3 +112,8 @@ different than the one I left. Someone needs to take ownership,
 acknowledge the mistakes of the past and show real
 leadership. Otherwise it looks like my inexpert pruning with only a
 vague goal.
+
+--
+
+Originally [published on
+Twitter](https://threadreaderapp.com/thread/1225859081904115712.html).
