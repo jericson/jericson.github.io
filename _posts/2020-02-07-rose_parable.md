@@ -74,10 +74,10 @@ it.") and be accused of not caring about the overarching company
 goals.
 
 One thing people learn the hard way over and over is that if you leave
-a void in communication, your listener will inevitable fill in *the
+a void in communication, your listener will inevitably fill in *the
 worst possible options*. "Why aren't they telling me what's going on?
 Do they hate me?"  I think this can kinda work if you have some hold
-on people. It's lousy work environment, but management can totally
+on people. It's a lousy work environment, but management can totally
 skip the communication step from time to time. It's really a bad idea
 when working with a community, however. Never forget people can just
 stop coming.
