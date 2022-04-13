@@ -4,8 +4,12 @@
  initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+ <!-- Primary Meta Tags -->
+ <!-- Test with https://metatags.io/-->
+  
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}{% if page.subtitle %}: {{ page.subtitle }}{% endif %}</title>
-  <meta name="description" content="{{ site.description }}">
+  <meta name="title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}{% if page.subtitle %}: {{ page.subtitle }}{% endif %}"</meta>
+  <meta name="description" content="{{  page.excerpt | escape }}">
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
@@ -15,13 +19,17 @@
   <link rel="micropub" href="https://jericson-micropub.herokuapp.com/micropub">
 
   <!-- Stolen from https://github.com/jekyll/jekyll-seo-tag -->
+ 
+
   <meta name="generator" content="Jekyll v{{ jekyll.version }}" />
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}{% if page.subtitle %}: {{ page.subtitle }}{% endif %}" />
   <meta name="author" content="{{ page.author }}" />
-  <meta property="og:locale" content="en_US" />
-  <meta name="description" content="{{ page.excerpt | escape }}" />
-  <meta property="og:description" content="{{ page.excerpt | escape }}" />
   <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}{% if page.subtitle %}: {{ page.subtitle }}{% endif %}" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:description" content="{{ page.excerpt | escape }}" />
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
   <meta property="og:site_name" content="{{ site.title }}" />
 
@@ -36,6 +44,13 @@
    {% assign images = page.content | split: 'img src="' %} 
    {% assign image = images[1] | split:'"' | first | replace: '//cdn', 'https://cdn'; | replace: 'medium', 'large' %}
    <meta property="og:image" content="{{ image }}">
-{% endif %}
+{  <meta property="twitter:image" content="{{ image }}">
+% endif %}
 
+<!-- Twitter -->
+   <meta property="twitter:card" content="summary_large_image">
+   <meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
+   <meta property="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}{% if page.subtitle %}: {{ page.subtitle }}{% endif %}">
+   <meta property="twitter:description" content="{{  page.excerpt | escape }}">
+ 
 </head>
