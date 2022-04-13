@@ -32,6 +32,10 @@
    <meta property="og:type" content="website" />
 {% endif %}
 
+{% if page.content contains "<img" %}
+   {% assign images = page.content | split: 'img src="' %} 
+   {% assign image = images[1] | split:'"' | first | replace: '//cdn', 'https://cdn'; | replace: 'medium', 'large' %}
+   <meta property="og:image" content="{{ image }}">
+{% endif %}
 
-    
 </head>
