@@ -29,7 +29,7 @@ do it. If this were [Exposition
 Park](https://www.laparks.org/park/exposition-rose-garden), I'd have a
 staff of experts to do it right.
 
-{% include add_image.html image="roses.jpg" %}
+{% include add_image.md image="roses.jpg" alt="One of my roses a month after I pruned it." %}
 
 So to get back to Stack Exchange, the sites have moderators who behave
 something like expert gardeners. They prune questions that are aren't
