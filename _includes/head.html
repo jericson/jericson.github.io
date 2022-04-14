@@ -43,11 +43,11 @@
 {% if page.content contains "<img" %}
    {% assign images = page.content | split: 'img src="' %} 
    {% assign image = images[1] | split:'"' | first | replace: '//cdn', 'https://cdn'; | replace: 'medium', 'large' %}
-   <meta property="og:image" content="{{ image }}">
-   <meta property="twitter:image" content="{{ image }}">
+   <meta property="og:image" content="{{ site.url }}{{ image }}">
+<!-- Twitter -->
+   <meta property="twitter:image" content="{{ site.url }}{{ image }}">
 {% endif %}
 
-<!-- Twitter -->
    <meta property="twitter:card" content="summary_large_image">
    <meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
    <meta property="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}{% if page.subtitle %}: {{ page.subtitle }}{% endif %}">
