@@ -4,12 +4,16 @@
  initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+
+  {% capture title_calc %}{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}{% if page.subtitle %}: {{ page.subtitle }}{% endif %}{% endcapture %}
+  {% capture description_calc %}{{ page.excerpt | newline_to_br | strip_html }}{% endcapture %}
+  
  <!-- Primary Meta Tags -->
  <!-- Test with https://metatags.io/-->
   
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}{% if page.subtitle %}: {{ page.subtitle }}{% endif %}</title>
-  <meta name="title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}{% if page.subtitle %}: {{ page.subtitle }}{% endif %}"</meta>
-  <meta name="description" content="{{  page.excerpt | escape }}">
+  <title>{{ title_calc }}</title>
+  <meta name="title" content="{{ title_calc }}"</meta>
+  <meta name="description" content="{{ description_calc }}">
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
@@ -29,7 +33,7 @@
   <!-- Open Graph / Facebook -->
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}{% if page.subtitle %}: {{ page.subtitle }}{% endif %}" />
   <meta property="og:locale" content="en_US" />
-  <meta property="og:description" content="{{ page.excerpt | escape }}" />
+  <meta property="og:description" content="{{ description_calc }}" />
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
   <meta property="og:site_name" content="{{ site.title }}" />
 
@@ -40,9 +44,11 @@
    <meta property="og:type" content="website" />
 {% endif %}
 
+<!-- Automated image gathering thanks to https://community.shopify.com/c/shopify-design/pull-an-image-from-a-page-using-liquid/m-p/231494/highlight/true#M63172 -->
+   
 {% if page.content contains "<img" %}
    {% assign images = page.content | split: 'img src="' %} 
-   {% assign image = images[1] | split:'"' | first | replace: '//cdn', 'https://cdn'; | replace: 'medium', 'large' %}
+   {% assign image = images[1] | split:'"' | first %}
    <meta property="og:image" content="{{ site.url }}{{ image }}">
 <!-- Twitter -->
    <meta property="twitter:image" content="{{ site.url }}{{ image }}">
@@ -50,7 +56,7 @@
 
    <meta property="twitter:card" content="summary_large_image">
    <meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
-   <meta property="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}{% if page.subtitle %}: {{ page.subtitle }}{% endif %}">
-   <meta property="twitter:description" content="{{  page.excerpt | escape }}">
+   <meta property="twitter:title" content="{{ title_calc }}">
+   <meta property="twitter:description" content="{{ description_calc }}">
  
 </head>
