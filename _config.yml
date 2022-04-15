@@ -48,10 +48,10 @@ tag_page_dir: tag
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
   - jekyll-titles-from-headings
-  - match_regex
 
-safe: true
+#safe: true
 
 titles_from_headings:
   enabled:     false
