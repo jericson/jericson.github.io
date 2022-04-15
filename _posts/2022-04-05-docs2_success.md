@@ -11,9 +11,9 @@ I wrote a short series for our internal blog at
 an introduction to our [updated documentation
 system](https://www.enterprisedb.com/docs/). 
 
-1. [Everyone can contribute](docs2_contribution)
-2. [An overnight success 15 months in the making](docs2_success)
-3. [The beginning of a beautiful friendship](docs2_edb_cloud)
+1. [Everyone can contribute](/2022/04/04/docs2_contribution.html)
+2. [An overnight success 15 months in the making](/2022/04/05/docs2_success.html)
+3. [The beginning of a beautiful friendship](/2022/04/06/docs2_edb_cloud.html)
 
 ---
 
@@ -40,7 +40,7 @@ development before the final product. We're pretty proud of what we
 accomplished in August, but when you dig below the surface, it's also
 a validation of a year and a half of effort:
 
-![](/images/docs2_timeline.png)
+![Docs 2.0 repository history](/images/docs2_timeline.png)
 
 This chart shows:
 
@@ -79,7 +79,7 @@ Cloud preview.
 ## Speedy delivery of the documentation our customers need
 
 Putting documentation on GitHub, an early decision [I wrote about last
-time](),
+time](/2022/04/04/docs2_contribution.html),
 enabled the developers, designers, writers and product managers to
 contribute to different branches of documentation
 simultaneously. Changes don't have to wait for other, unrelated work,

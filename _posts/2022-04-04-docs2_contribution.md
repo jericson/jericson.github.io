@@ -11,9 +11,9 @@ I wrote a short series for our internal blog at
 an introduction to our [updated documentation
 system](https://www.enterprisedb.com/docs/). 
 
-1. [Everyone can contribute](docs2_contribution)
-2. [An overnight success 15 months in the making](docs2_success)
-3. [The beginning of a beautiful friendship](docs2_edb_cloud)
+1. [Everyone can contribute](/2022/04/04/docs2_contribution.html)
+2. [An overnight success 15 months in the making](/2022/04/05/docs2_success.html)
+3. [The beginning of a beautiful friendship](/2022/04/06/docs2_edb_cloud.html)
 
 ---
 

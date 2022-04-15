@@ -11,13 +11,13 @@ I wrote a short series for our internal blog at
 an introduction to our [updated documentation
 system](https://www.enterprisedb.com/docs/). 
 
-1. [Everyone can contribute](docs2_contribution)
-2. [An overnight success 15 months in the making](docs2_success)
-3. [The beginning of a beautiful friendship](docs2_edb_cloud)
+1. [Everyone can contribute](/2022/04/04/docs2_contribution.html)
+2. [An overnight success 15 months in the making](/2022/04/05/docs2_success.html)
+3. [The beginning of a beautiful friendship](/2022/04/06/docs2_edb_cloud.html)
 
 ---
 
-[Our last post](docs2_success) pointed out that EDB Cloud
+[Our last post](/2022/04/05/docs2_success.html) pointed out that EDB Cloud
 documentation was added to Docs 2.0 in August in parallel with 4 other
 products. As with other aspects of EDB Cloud, it was a heroic effort
 and many people pitched in to help. I interviewed some of the people
@@ -76,7 +76,7 @@ tickets, Google docs and Google sheets to coordinate their work. The
 problem with using so many forms of communication is that it can be
 hard to find, or even know about, discussions that have happened in
 the past.  By contrast, [GitHub is a communication
-tool](docs2_contribution) that focuses the conversation on the content
+tool](/2022/04/04/docs2_contribution.html) that focuses the conversation on the content
 being discussed. A pull request (PR) not only includes suggested
 changes, but also allows other people to comment on the complete set
 of changes or individual lines. Keeping all that discussion in the
@@ -85,7 +85,7 @@ understand why changes were made.
 
 Using GitHub has opened up Docs 2.0 so that anyone can see how things
 are progressing. (I [wrote about that
-previously](docs2_contribution).) Since many people are already
+previously](/2022/04/04/docs2_contribution.html).) Since many people are already
 familiar with Git from other projects, using it for documentation
 wasn't a major hurdle. GitHub facilitates a **transparent editorial
 process** from writing the first draft to copy editing to review to
@@ -104,7 +104,7 @@ changes directly**. Every change to documentation gets reviewed in the
 pull request (PR) process, so contributors don't even need to worry
 about making a mistake.
 
-After reading [the first post in this series](docs2_contribution),
+After reading [the first post in this series](/2022/04/04/docs2_contribution.html),
 Bobby noticed a minor problem with the EFM documentation and decided
 to fix it using GitHub's web interface:
 
