@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Wasted Pizza&mdash;Not Recommended'
+title: 'Wasted Pizza'
+subtitle: 'Not Recommended'
 tags: game review steam
 ---
 

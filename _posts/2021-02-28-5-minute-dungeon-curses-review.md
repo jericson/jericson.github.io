@@ -1,6 +1,7 @@
 ---
 layout: post
-title: '5-Minute Dungeon: Curses! Foiled Again!&mdash;Makes the base game a bit more palletable '
+title: '5-Minute Dungeon: Curses! Foiled Again!'
+subtitle: 'Makes the base game a bit more palletable '
 tags: game review
 ---
 

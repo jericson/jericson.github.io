@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Fall of Civilization&mdash;Recommended'
+title: 'Fall of Civilization'
+subtitle: 'Recommended'
 tags: game review steam
 ---
 

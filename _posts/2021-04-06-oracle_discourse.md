@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hosting Discourse for free!
-tags: community discourse
+tags: community discourse oracle
 comments: true
 ---
 

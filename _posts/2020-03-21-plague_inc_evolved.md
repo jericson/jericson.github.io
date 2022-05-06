@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Plague Inc: Evolved&mdash;Not Recommended'
+title: 'Plague Inc: Evolved'
+subtitle: 'Not Recommended'
 tags: game review steam
 ---
 

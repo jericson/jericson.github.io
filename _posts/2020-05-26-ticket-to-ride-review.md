@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Ticket to Ride&mdash;A classic that needs expansions'
+title: 'Ticket to Ride'
+subtitle: 'A classic that needs expansions'
 tags: game review
 ---
 

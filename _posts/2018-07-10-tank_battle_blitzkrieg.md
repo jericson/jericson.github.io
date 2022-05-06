@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Tank Battle: Blitzkrieg&mdash;Recommended'
+title: 'Tank Battle: Blitzkrieg'
+subtitle: 'Recommended'
 tags: game review steam
 ---
 

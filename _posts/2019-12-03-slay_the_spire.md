@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Slay the Spire&mdash;Recommended'
+title: 'Slay the Spire'
+subtitle: 'Recommended'
 tags: game review steam
 ---
 

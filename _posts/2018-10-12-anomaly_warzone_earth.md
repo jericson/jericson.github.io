@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Anomaly Warzone Earth&mdash;Not Recommended'
+title: 'Anomaly Warzone Earth'
+subtitle: 'Not Recommended'
 tags: game review steam
 ---
 

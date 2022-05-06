@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Purgatory&mdash;Not Recommended'
+title: 'Purgatory'
+subtitle: 'Not Recommended'
 tags: game review steam
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Ironclad Tactics&mdash;Recommended'
+title: 'Ironclad Tactics'
+subtitle: 'Recommended'
 tags: game review steam
 ---
 

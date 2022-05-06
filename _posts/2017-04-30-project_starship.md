@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Project Starship&mdash;Recommended'
+title: 'Project Starship'
+subtitle: 'Recommended'
 tags: game review steam
 ---
 

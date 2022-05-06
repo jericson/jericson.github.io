@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'CLASH - Legacy Pack&mdash;Not Recommended'
+title: 'CLASH - Legacy Pack'
+subtitle: 'Not Recommended'
 tags: game review steam
 ---
 

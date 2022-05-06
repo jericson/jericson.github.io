@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Scythe&mdash;A user interface triumph that reminds me of Settlers'
+title: 'Scythe'
+subtitle: 'A user interface triumph that reminds me of Settlers'
 tags: game review
 ---
 

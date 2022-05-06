@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'City of Chains&mdash;Recommended'
+title: 'City of Chains'
+subtitle: 'Recommended'
 tags: game review steam
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Chess&mdash;How to enjoy chess again'
+title: 'Chess'
+subtitle: 'How to enjoy chess again'
 tags: game review
 ---
 

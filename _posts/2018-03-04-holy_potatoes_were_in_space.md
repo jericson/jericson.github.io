@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Holy Potatoes! We’re in Space?!&mdash;Not Recommended'
+title: 'Holy Potatoes! We’re in Space?!'
+subtitle: 'Not Recommended'
 tags: game review steam
 ---
 

@@ -48,16 +48,7 @@ table.
 On their turn, each player must mine and transfer one crypto. They may
 also be able to sell a crypto into the marketplace.
 
-### 1. Mine
-
-At the start of each turn, the active player must _mine_ by taking the
-top card from the deck into their hand.
-
-**If the card is a Joker**, the player must reveal it, place it next
-to the deck, and draw another card. The game ends immediately when the
-second Joker turns up.
-
-### 2. Sell 
+### 1. Sell 
 
 Players can _sell_ a card from the portfolio by moving it from their
 portfolio to the corresponding crypto market. Cards may not be sold
@@ -113,6 +104,15 @@ There are three ways to sell crypto:
 compensation for selling a card from the portfolio. The goal is to
 have as few cards as possible in your portfolio at the end of the
 game.
+
+### 2. Mine
+
+At the start of each turn, the active player must _mine_ by taking the
+top card from the deck into their hand.
+
+**If the card is a Joker**, the player must reveal it, place it next
+to the deck, and draw another card. The game ends immediately when the
+second Joker turns up.
 
 ### 3. Transfer
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Munchkin&mdash;Optimized for very specific people'
+title: 'Munchkin'
+subtitle: 'Optimized for very specific people'
 tags: game review
 ---
 

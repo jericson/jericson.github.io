@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Tank Battle: Normandy&mdash;Recommended'
+title: 'Tank Battle: Normandy'
+subtitle: 'Recommended'
 tags: game review steam
 ---
 

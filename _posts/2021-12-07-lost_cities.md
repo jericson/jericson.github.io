@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Lost Cities&mdash;The espresso of card games
+title:  Lost Cities
+subtitle: The espresso of card games
 tags: review game
 comments: yes
 image: /images/lost_cities.jpg

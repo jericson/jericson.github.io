@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Tank Battle: East Front&mdash;Recommended'
+title: 'Tank Battle: East Front'
+subtitle: 'Recommended'
 tags: game review steam
 ---
 

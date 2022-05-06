@@ -1,6 +1,7 @@
 ---
 layout: post
-title: '5-Minute Dungeon&mdash;My kids love it. Me? Not so much.'
+title: '5-Minute Dungeon'
+subtitle: 'My kids love it. Me? Not so much.'
 tags: game review
 ---
 

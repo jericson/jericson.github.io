@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'TIMEframe&mdash;Recommended'
+title: 'TIMEframe'
+subtitle: 'Recommended'
 tags: game review steam
 ---
 

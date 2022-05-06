@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Door Kickers&mdash;Recommended'
+title: 'Door Kickers'
+subtitle: 'Recommended'
 tags: game review steam
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'MASSIVE CHALICE&mdash;Recommended'
+title: 'MASSIVE CHALICE'
+subtitle: 'Recommended'
 tags: game review steam
 ---
 

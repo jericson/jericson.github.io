@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Dungeon of Zolthan&mdash;Recommended'
+title: 'Dungeon of Zolthan'
+subtitle: 'Recommended'
 tags: game review steam
 ---
 

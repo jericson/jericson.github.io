@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Desolate Wastes: Vendor Chronicles&mdash;Not Recommended'
+title: 'Desolate Wastes: Vendor Chronicles'
+subtitle: 'Not Recommended'
 tags: game review steam
 ---
 

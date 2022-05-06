@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Aviary Attorney&mdash;Recommended'
+title: 'Aviary Attorney'
+subtitle: 'Recommended'
 tags: game review steam
 ---
 

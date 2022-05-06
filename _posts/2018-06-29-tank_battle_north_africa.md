@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Tank Battle: North Africa&mdash;Recommended'
+title: 'Tank Battle: North Africa'
+subtitle: 'Recommended'
 tags: game review steam
 ---
 

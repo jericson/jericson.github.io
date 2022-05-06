@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Color Brain: Disney Edition&mdash;Color trivia levels the playing field'
+title: 'Color Brain: Disney Edition'
+subtitle: 'Color trivia levels the playing field'
 tags: game review
 ---
 

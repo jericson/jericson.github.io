@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Hero Quest: Tower Conflict&mdash;Not Recommended'
+title: 'Hero Quest: Tower Conflict'
+subtitle: 'Not Recommended'
 tags: game review steam
 ---
 

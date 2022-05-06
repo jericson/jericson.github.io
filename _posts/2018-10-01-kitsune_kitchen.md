@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Kitsune Kitchen&mdash;Not Recommended'
+title: 'Kitsune Kitchen'
+subtitle: 'Not Recommended'
 tags: game review steam
 ---
 

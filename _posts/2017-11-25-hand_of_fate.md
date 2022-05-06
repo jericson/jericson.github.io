@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Hand of Fate&mdash;Recommended'
+title: 'Hand of Fate'
+subtitle: 'Recommended'
 tags: game review steam
 ---
 

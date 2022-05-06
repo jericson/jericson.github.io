@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Azul&mdash;Finely crafted strategy and satisfying interactions'
+title: 'Azul'
+subtitle: 'Finely crafted strategy and satisfying interactions'
 tags: game review
 ---
 

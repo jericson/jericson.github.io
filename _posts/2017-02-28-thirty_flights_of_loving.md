@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Thirty Flights of Loving&mdash;Recommended'
+title: 'Thirty Flights of Loving'
+subtitle: 'Recommended'
 tags: game review steam
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Chaos Reborn&mdash;Recommended'
+title: 'Chaos Reborn'
+subtitle: 'Recommended'
 tags: game review steam
 ---
 

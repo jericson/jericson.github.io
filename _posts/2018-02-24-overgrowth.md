@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Overgrowth&mdash;Recommended'
+title: 'Overgrowth'
+subtitle: 'Recommended'
 tags: game review steam
 ---
 

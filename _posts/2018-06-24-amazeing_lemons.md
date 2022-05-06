@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Amazeing Lemons&mdash;Not Recommended'
+title: 'Amazeing Lemons'
+subtitle: 'Not Recommended'
 tags: game review steam
 ---
 

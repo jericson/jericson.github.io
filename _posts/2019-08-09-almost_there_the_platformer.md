@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Almost There: The Platformer&mdash;Recommended'
+title: 'Almost There: The Platformer'
+subtitle: 'Recommended'
 tags: game review steam
 ---
 

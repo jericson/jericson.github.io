@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Carcassonne&mdash;Why Carcassonne has a permanent place on my game shelf'
+title: 'Carcassonne'
+subtitle: 'Why Carcassonne has a permanent place on my game shelf'
 tags: game review
 ---
 

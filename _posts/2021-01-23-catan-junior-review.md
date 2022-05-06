@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Catan: Junior&mdash;Simple but not immature'
+title: 'Catan: Junior'
+subtitle: 'Simple but not immature'
 tags: game review
 ---
 

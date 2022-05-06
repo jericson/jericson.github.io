@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Tablut&mdash;More like Viking Go than Viking Chess
+title:  Tablut
+subtitle: More like Viking Go than Viking Chess
 tags: game review
 comments: yes
 ---

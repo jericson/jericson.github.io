@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'So Many Cubes&mdash;Not Recommended'
+title: 'So Many Cubes'
+subtitle: 'Not Recommended'
 tags: game review steam
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Lanterns: The Harvest Festival&mdash;A gracious game of tile laying and set collecting'
+title: 'Lanterns: The Harvest Festival'
+subtitle: 'A gracious game of tile laying and set collecting'
 tags: game review
 ---
 

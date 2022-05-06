@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Catan&mdash;The hobby has moved on, but owes a debt to Catan'
+title: 'Catan'
+subtitle: 'The hobby has moved on, but owes a debt to Catan'
 tags: game review
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Radical Spectrum: Volume 1&mdash;Recommended'
+title: 'Radical Spectrum: Volume 1'
+subtitle: 'Recommended'
 tags: game review steam
 ---
 

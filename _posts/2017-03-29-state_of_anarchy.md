@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'State of Anarchy&mdash;Not Recommended'
+title: 'State of Anarchy'
+subtitle: 'Not Recommended'
 tags: game review steam
 ---
 
