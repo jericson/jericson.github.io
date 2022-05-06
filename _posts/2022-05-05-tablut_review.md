@@ -102,3 +102,6 @@ opponents differing resources to accomplish different goals. It's one
 instance of a larger system of games that bears some resemblance to
 other grid-based games (Chess and Go in particular), but must be
 addressed on its own terms.
+
+Also published on [Board Game
+Geek](https://boardgamegeek.com/thread/2858897/more-viking-go-viking-chess).
