@@ -69,7 +69,7 @@ landscaping? Is it ok to talk about that in a gardening community? How
 about indoor plants? What about bees and other pollinators? What about
 fixing fences? Other home repair? Should plumbing questions be limited
 to sprinkler systems or all types of household plumbing? Believe it or
-not, these are important questions to answers upfront.
+not, these are important questions to answer upfront.
 
 Area 51 requires followers to submit at least 40 on-topic example
 questions with a net score of at least 10. These aren't intended to be
