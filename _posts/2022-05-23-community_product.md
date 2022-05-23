@@ -72,7 +72,7 @@ Confusingly, the product they sold was branded as Stack Overflow, but
 it was created by people who weren't directly involved in the Stack
 Overflow site for programming questions. The job site called Stack
 Overflow Talent had a little blue box[^1] in the sidebar of the main
-Stack Overflow sites and that was pretty much the extent of how the
+Stack Overflow site and that was pretty much the extent of how the
 two Stack Overflows were connected. It wasn't until years later that
 [Stack Overflow sold something that resembles Stack
 Overflow](https://stackoverflow.blog/2018/05/23/how-stack-overflow-for-teams-fits-into-the-community/
@@ -160,8 +160,8 @@ Fundamentally, people derive joy from helping others. It's [why people
 answer questions for no
 compensation](https://jlericson.com/2016/07/13/QA_economics.html) and
 how you can visit a foreign country without a guidebook.[^3]
-Communities that taps into that fundamental desire provide value to
-companies that happen to be in it's ecosystem. Unfortunately, that
+Communities that tap into that fundamental desire provide value to
+companies that happen to be in the same ecosystem. Unfortunately, that
 benefit can be difficult to measure directly.
 
 Ideally, I'd like to work with companies that start a community as
