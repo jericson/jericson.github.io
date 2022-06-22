@@ -54,7 +54,7 @@ least somewhat part of the community.
 | [2020](https://insights.stackoverflow.com/survey/2020#community-do-developers-consider-themselves-part-of-the-stack-overflow-community-by-gender) | 44.5% | 30.0% | 27.1% | ? |
 
 The pattern across all genders is decreasing sense of belonging. Maybe
-changes how the survey was advertised produced this result. Indeed the
+changes in how the survey was advertised produced this result. Indeed the
 number of people who "have never participated in Q&A on Stack
 Overflow" rose from [17.3% in
 2018](https://insights.stackoverflow.com/survey/2018#community-_-how-often-do-developers-participate-on-stack-overflow)
