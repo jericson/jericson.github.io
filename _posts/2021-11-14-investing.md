@@ -162,7 +162,7 @@ businesses. Many are successful, but some will fail. According to the
 hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis),
 stocks are always priced accurately. While that's generally true,
 supply and demand still matters in short time frames. For instance,
-earlier this year [GamStop jumped from $6 to $483 a
+earlier this year [GameStop jumped from $6 to $483 a
 share](https://www.fool.com/investing/2021/09/16/could-gamestop-stock-supercharge-your-portfolio/)
 because it became a meme stock. Seems likely that it was under-priced
 at $6 and overpriced at $483. So wouldn't it be nice to buy low and
