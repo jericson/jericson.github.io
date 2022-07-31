@@ -121,7 +121,9 @@ Wingspan](https://jlericson.com/2019/12/29/review-wingspan.html):
 Thinking about it, what I'd want from Wingspan is a lot less worrying
 about whether I've acquired the right food for my birds and a lot more
 time digging through the bird cards to find interesting
-combinations. That's exactly what Ares has done. 
+combinations. That's exactly what Ares has done. None of the decisions
+are wasted because even rejecting a bad idea has value when it comes
+to research and development.
 
 The engine exists so that your discoveries mean something and only
 tangentially so that you win the game. I can understand preferring a
