@@ -172,6 +172,9 @@ I often forget to update when I play a card. It can be handy when
 planning ahead to have an idea of your income, but it really only
 matters in the Production phase.
 
+See also the discussion of this review on
+[BoardGameGeek](https://boardgamegeek.com/thread/2908813/game-about-applied-research).
+
 ---
 
 Footnotes:
