@@ -72,7 +72,7 @@ those GPG keys to
 [sign my commits](https://github.com/pstadler/keybase-gpg-github).
  
  <script language="javascript"
- src="https://boardgamegeek.com/jswidget.php?username=Ichthydion&numitems=12&header=1&text=none&images=small&show=random&imagesonly=1&imagepos=left&inline=1&domains%5B%5D=boardgame&domains%5B%5D=videogame"></script>
+ src="https://boardgamegeek.com/jswidget.php?username=Ichthydion&numitems=12&header=1&text=none&images=small&show=recentplays&imagesonly=1&imagepos=left&inline=1&domains%5B%5D=boardgame"></script>
  
 [![Project Euler account](https://projecteuler.net/profile/jericson.png)](https://projecteuler.net/progress=jericson)
 
