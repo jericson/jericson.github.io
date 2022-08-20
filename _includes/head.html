@@ -48,13 +48,19 @@
 <!-- Automated image gathering thanks to https://community.shopify.com/c/shopify-design/pull-an-image-from-a-page-using-liquid/m-p/231494/highlight/true#M63172 -->
    
 {% if page.content contains "<img" %}
-   {% assign images = page.content | split: 'img src="' %} 
+   {% assign images = page.content | split: 'img src="' %}
    {% assign image = images[1] | split:'"' | first %}
+   {% if image contains ":" %}
+   <meta property="og:image" content="{{ image }}">
+<!-- Twitter -->
+   <meta property="twitter:image" content="{{ image }}">
+   {% else %}                                                          
    <meta property="og:image" content="{{ site.url }}{{ image }}">
 <!-- Twitter -->
    <meta property="twitter:image" content="{{ site.url }}{{ image }}">
+   {% endif %}
 {% endif %}
-
+   
    <meta property="twitter:card" content="summary_large_image">
    <meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
    <meta property="twitter:title" content="{{ title_calc }}">
