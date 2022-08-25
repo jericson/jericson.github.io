@@ -3,6 +3,15 @@ layout: post
 title: Review of _Unacceptable_
 tags: community review
 comments: true
+excerpt: 'You''ve probably heard of the 
+  ["Operation Varsity Blues" investigation](https://en.wikipedia.org/wiki/2019_college_admissions_bribery_scandal)
+  which resulted in rich and famous people like Lori Loughlin, Felicity
+  Huffman and the Mossimo guy going to prison. Turns out paying bribes
+  to guarantee admission for their children into prestigious schools is
+  just a bit illegal. _Unacceptable: Privilege, Deceit & the Making of the College Admissions Scandal_
+  by Melissa Korn and Jennifer Levitz goes beyond the headlines to
+  report how these affluent parents found themselves serving federal
+  time.'
 ---
 
 You've probably heard of the ["Operation Varsity Blues"
