@@ -4,6 +4,8 @@ title: Tags
 permalink: /tag/
 ---
     
+
+    
 <!-- https://longqian.me/2017/02/09/github-jekyll-tag/ -->
     
 {% capture temptags %}
@@ -13,13 +15,14 @@ permalink: /tag/
 {% endcapture %}
 
 {% assign sortedtemptags = temptags | split:' ' | sort | reverse %}
-<ol>
 {% for temptag in sortedtemptags %}
   {% assign tagitems = temptag | split: '#' %}
   {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
-  <li><a href="/tag/{{ tagname }}"><nobr>{{ tagname }}</nobr></a></li>
+  1. [{{ tagname }}](/tag/{{ tagname }}) {{ tagitems[2] }}
 {% endfor %}
-</ol>
+
+<img src="/images/tags.jpg" alt="Sandal covered in tags." />
+
 <!--
 
 <div id="tag-cloud">
