@@ -9,7 +9,8 @@ Dear members of our local church,
 In light of the congregational meeting on August 28 and our
 experiences over the last few years, Joy and I have decided to vote no
 on all 4 nominees for the elder board. This isn't a decision we take
-lightly and we have three sufficient reasons.
+lightly and we have three reasons. Each one would be sufficient on its
+own.
 
 The first is a **practical** reason. When a team has a few losing seasons,
 the coaching staff goes under scrutiny. It doesn't matter if there are
