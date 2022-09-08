@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /board_vote.html
+
+User-agent: *
+Allow: /
+
+
+Sitemap: https://jlericson.com/sitemap.xml
