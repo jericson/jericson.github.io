@@ -12,12 +12,12 @@ on all 4 nominees for the elder board. This isn't a decision we take
 lightly and we have three reasons. Each one would be sufficient on its
 own.
 
-The first is a **practical** reason. When a team has a few losing seasons,
-the coaching staff goes under scrutiny. It doesn't matter if there are
-good reasons (a star player injured, for instance), the coaches are
-held responsible for failure. Our church has had losing seasons and I
-know COVID didn't help. At some point leaders must be held
-responsible.
+The first is a **practical** reason. When a team has a few losing
+seasons, the coaching staff goes under scrutiny. It doesn't matter if
+there are good excuses (a star player injured, for instance), the
+coaches are held responsible for failure. Our church has had a few
+losing seasons. While pastor changes and pandemics have challenged us,
+at some point leaders must be held responsible for their results.
 
 We were discouraged to learn there are no new candidates because men
 who were approached did not wish to join the current board. It reminds
@@ -29,10 +29,10 @@ elder board seems like a recipe for a worse tear.
 The second reason is **personal**. Joy and I have disagreed with the
 elders many times this year and we've tried to resolve differences
 with individual elders. Eventually we were told that the elders valued
-their unified voice. I don't believe that's healthy for a governing
-body and it was destructive for our church. It seems only right that
-if we can't resolve our differences individually, we can vote on the
-merits of the board as a whole.
+their unified voice. I don't believe that approach is healthy for a
+governing body and it was destructive for our church. If we can't
+resolve our differences with elders individually, we have little
+choice but vote on the merits of the board as a whole.
 
 We love each of these men and if the vote were whether to be their
 friend, I'd gladly vote "yes" every time. But that's not what this
@@ -43,10 +43,10 @@ people at our church.
 
 My third reason is **spiritual**. Psalm 25:14 says:
 
-```
-The friendship of the Lord is for those who fear him,
-    and he makes known to them his covenant.
-```
+
+> The friendship of the Lord is for those who fear him,  
+> &emsp;and he makes known to them his covenant.</ul>
+
 
 I don't know what will happen if we don't approve the candidates. It's
 natural to fear the unknown. But if the church really is Christ's
