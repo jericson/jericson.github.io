@@ -1,15 +1,16 @@
 ---
-layout: default
+layout: page
+title: Reviews
+comments: yes
+permalink: /reviews/
 ---
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-
   <ul class="post-list">
     
     {% for post in site.posts %}
-    {% unless post.tags contains 'review' %}
+    {% if post.tags contains 'review' %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -19,10 +20,11 @@ layout: default
           </a>
         </h2>
       </li>
-    {% endunless %}
+    {% endif %}
     {% endfor %}
   </ul>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
+
