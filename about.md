@@ -7,13 +7,15 @@ permalink: /about/
 
 ## Jon Ericson
 
-<!--
-I'm currently looking for work:
+I'm not currently looking for work, but I do have a [resume](/resume/)
+that's only slightly out of date.
 
-* [Resume](/resume/).
-* My [CV](https://stackoverflow.com/cv/jericson), which goes into more detail.
-* [What I accomplished at College Confidential.](/2021/03/18/leaving_cc.html)
--->
+For a while, Sorin Istrate and I ran an [online community
+consultancy](https://buildcivitas.com/). Since we are now both
+Community Managers at [College
+Confidential](https://talk.collegeconfidential.com/about), we're not
+really in the business any more.
+
 ---
 
 The source of this site can be found on
@@ -167,7 +169,7 @@ I'm testing out hosting on:
 * [Netlify](https://jlericson.netlify.app/)
 * [CloudCanon](https://ample-nightingale.cloudvent.net/)
 
-<iframe height="600" src="https://stats.uptimerobot.com/6YKMJioVAx"></iframe>
+<!--<iframe height="600" src="https://stats.uptimerobot.com/6YKMJioVAx"></iframe>-->
 
 Unexpectedly, Jekyll imports several of my legacy blogs seamlessly. I
 no longer need to rely on the
