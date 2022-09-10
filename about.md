@@ -7,12 +7,13 @@ permalink: /about/
 
 ## Jon Ericson
 
+<!--
 I'm currently looking for work:
 
 * [Resume](/resume/).
 * My [CV](https://stackoverflow.com/cv/jericson), which goes into more detail.
 * [What I accomplished at College Confidential.](/2021/03/18/leaving_cc.html)
-
+-->
 ---
 
 The source of this site can be found on
