@@ -22,7 +22,7 @@ The timeline from our perspective:
   to read, but the elders had it on their phones. They promised to
   email it to us.
 * June 10, 2022: In an email, I asked to see the document.
-* June 15, 2022: We were emailed a document explaining the process: [Jon_and_Joy_Ericson_(draft)_Addressing_sin.pdf](Jon_and_Joy_Ericson_(draft)_Addressing_sin.pdf).
+* June 15, 2022: We were emailed a document explaining the process: [Jon and Joy Ericson (draft) Addressing sin.pdf](Jon_and_Joy_Ericson_(draft)_Addressing_sin.pdf).
 * June 23, 2022: The elders sent us a document lifting the discipline: [EC Elder LT Ericsons 6.23.2022.docx](EC_Elder_LT_Ericsons_6.23.2022.pdf).
 
 ---
