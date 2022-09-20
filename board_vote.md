@@ -2,7 +2,32 @@
 layout: page
 #title: Elder Board Vote
 comments: no
+sitemap: false
 ---
+
+## September 19, 2022
+
+I hadn't planned on updating this page. But today we learned of
+questions concerning the church discipline process Joy and I
+experienced. We have only a limited understanding of what happened
+ourselves. If any member of the previous elder board would like to
+tell the other side of the story, we are open to hearing it.
+
+The timeline from our perspective:
+
+* June 9, 2022: At the invitation of one of the elders, Joy and I met
+  in the family room with four elders. In that meeting we were
+  informed, for the first time, that we were under church
+  discipline. The document explaining our sin was not available for us
+  to read, but the elders had it on their phones. They promised to
+  email it to us.
+* June 10, 2022: In an email, I asked to see the document.
+* June 15, 2022: We were emailed a document explaining the process: [Jon_and_Joy_Ericson_(draft)_Addressing_sin.pdf](Jon_and_Joy_Ericson_(draft)_Addressing_sin.pdf).
+* June 23, 2022: The elders sent us a document lifting the discipline: [EC Elder LT Ericsons 6.23.2022.docx](EC_Elder_LT_Ericsons_6.23.2022.pdf).
+
+---
+
+## September 9, 2022
 
 Dear members of our local church,
 
@@ -70,3 +95,4 @@ you are not a member of my church, please disregard as this is a
 family matter. If you have any questions at all, please send me an
 email at <a href="mailto:jon@jlericson.com"
 rel="me">jon@jlericson.com</a>.
+
