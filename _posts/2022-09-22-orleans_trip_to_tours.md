@@ -3,6 +3,7 @@ layout: post
 title: 'Orléans: The Trip To Tours'
 subtitle:  The Touring Merchant problem
 tags: game review
+comments: yes
 ---
 
 Trip to Tours is a solo scenario for Orléans that comes in the
