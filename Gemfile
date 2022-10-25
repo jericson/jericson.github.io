@@ -22,6 +22,7 @@ gem 'html-proofer'
 
 # tags
 gem 'jekyll-tagging'
+gem 'jekyll-import'
 
 gem 'htmlentities'
 
