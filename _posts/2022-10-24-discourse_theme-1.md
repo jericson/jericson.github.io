@@ -53,7 +53,7 @@ unfortunately. I don't have any experience with that route.
 process](https://gist.github.com/jericson/b4f8199b24f7265f818a843a9a114b24)
 includes [sharing a home directory between Windows and
 WSL](https://jeremyskinner.co.uk/2018/07/27/sharing-home-directory-between-windows-and-wsl/).
-Windows Subsystem for Linux (WSL) makes Windows nearly as good as iOS
+Windows Subsystem for Linux (WSL) makes Windows nearly as good as macOS
 for developers.
 
 Once you have Docker installed, it's probably a good idea to [test it
