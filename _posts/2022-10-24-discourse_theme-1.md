@@ -187,6 +187,44 @@ updates the theme. The only downside is that you'll need to have _yet another_ p
 The plus side is you can use your favorite IDE[^6] to change the theme
 and see the results update live.
 
+## Previewing the theme
+
+The `discourse_theme` script will give you some options on how to sync
+the theme. After the first time, you can choose to sync with an
+existing theme. That's usually the right choice unless you have some
+reason to have several themes with the same name on your test
+site. The command includes a few useful links to preview, manage and
+test your theme:
+
+```
+$ discourse_theme watch ~/src/graceful             
+» Using http://localhost:4200 from /Users/jericson/.discourse_theme
+» Using api key from /Users/jericson/.discourse_theme
+? How would you like to sync this theme? Sync with existing theme: 'graceful' (id:7)
+» Uploading theme from /Users/jericson/src/graceful
+✔ Theme uploaded (id:7)
+i Preview: http://localhost:4200/?preview_theme_id=7
+i Manage: http://localhost:4200/admin/customize/themes/7
+i Tests: http://localhost:4200/theme-qunit?id=7
+» Watching for changes in /Users/jericson/src/graceful...
+```
+
+You can also navigate there via the menu bar:
+1. Admin or Settings
+2. Customize
+3. Themes
+4. The theme you are watching
+
+![Graceful theme setup page](/images/graceful_theme.png)
+
+Checking the "Theme is enabled by default" will set your site to use
+the new theme automatically. That's a good choice when working
+locally, but on a shared system you should use the "Preview" option at
+the bottom of the theme's settings page so that it doesn't change the
+theme for everyone.
+
+_Next time_: Making changes and working with branches.
+
 ---
 
 Footnotes:
