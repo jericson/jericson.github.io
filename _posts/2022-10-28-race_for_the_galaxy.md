@@ -174,3 +174,6 @@ feels like a real test of strategic thinking now. It's an excellent
 game. But it's an excellent game that I had to play dozens of times to
 appreciate. Most of those plays left me slightly annoyed and confused
 about what made so many people love this game so much.
+
+See also: [comments on
+BGG](https://boardgamegeek.com/thread/2962774/article/41085153#41085153).
