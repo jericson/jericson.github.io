@@ -176,5 +176,5 @@ appreciate. Most of those plays left me slightly annoyed and confused
 about what made so many people love this game so much.
 
 See also: [comments on
-BGG](https://boardgamegeek.com/thread/2962774/article/41085153#41085153),
+BGG](https://boardgamegeek.com/thread/2962774/article/41082968#41082968),
 including from Tom Lehmann, the designer of Race for the Galaxy.
