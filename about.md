@@ -7,6 +7,14 @@ permalink: /about/
 
 ## Jon Ericson
 
+From time to time, I review things. Mostly board games at the
+moment. Use the [Reviews](/reviews) tab to get a full list. Here are
+the games I've been playing recently:
+
+ <script language="javascript"
+ src="https://boardgamegeek.com/jswidget.php?username=Ichthydion&numitems=18&header=1&text=none&images=small-fixed&show=recentplays&imagesonly=1&imagepos=left&inline=1&domains%5B%5D=boardgame"></script>
+
+
 I'm not currently looking for work, but I do have a [resume](/resume/)
 that's only slightly out of date.
 
@@ -73,10 +81,7 @@ If you want to send me a secret, I have a
 [Keybase account](https://keybase.io/jericson). I also use one of
 those GPG keys to
 [sign my commits](https://github.com/pstadler/keybase-gpg-github).
- 
- <script language="javascript"
- src="https://boardgamegeek.com/jswidget.php?username=Ichthydion&numitems=12&header=1&text=none&images=small&show=recentplays&imagesonly=1&imagepos=left&inline=1&domains%5B%5D=boardgame"></script>
- 
+  
 [![Project Euler account](https://projecteuler.net/profile/jericson.png)](https://projecteuler.net/progress=jericson)
 
 [![The Eric Conspiracy](https://www.catb.org/~esr/ecsl/graphics/ecsllogo1.png)](https://www.catb.org/~esr/ecsl/)
