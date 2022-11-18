@@ -50,16 +50,20 @@
 {% if page.content contains "<img" %}
    {% assign images = page.content | split: 'img src="' %}
    {% assign image = images[1] | split:'"' | first %}
-   {% if image contains ":" %}
+{% else %}
+   {% assign image = "/images/don_quixote.jpg" %}                                   
+{% endif %}
+{% if image contains ":" %}
+
+                           
    <meta property="og:image" content="{{ image }}">
 <!-- Twitter -->
    <meta property="twitter:image" content="{{ image }}">
-   {% else %}                                                          
+{% else %}                                                          
    <meta property="og:image" content="{{ site.url }}{{ image }}">
 <!-- Twitter -->
    <meta property="twitter:image" content="{{ site.url }}{{ image }}">
-   {% endif %}
-{% endif %}
+ {% endif %}
    
    <meta property="twitter:card" content="summary_large_image">
    <meta property="twitter:url" content="{{ site.url }}{{ page.url }}">

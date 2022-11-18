@@ -174,7 +174,7 @@ you aren't sending out digest emails which will eat into the Mailjet email quota
 
 At the moment Oracle limits non-paying customers to two VMs, so I
 might as well put up another Discourse instance at
-https://discourse.jlericson.com/ . A really nice feature of Discourse
+https://meta.jlericson.com/ . A really nice feature of Discourse
 is that it allows people to [embed comments on a static site with a
 bit of
 JavaScript](https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963). Up
