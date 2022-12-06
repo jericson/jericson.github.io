@@ -31,7 +31,10 @@ defaults:
 #markdown: kramdown
 markdown: CommonMarkGhPages
 encoding: utf-8
-include: [.emacs]
+include: [.emacs, "/.well-known"]
+
+# Why does this fail?
+#exclude: [tmp]
 
 liquid:
   error_mode: warn
