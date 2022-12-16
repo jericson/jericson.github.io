@@ -17,9 +17,10 @@ function getParameterByName(name, url = window.location.href) {
 }
 
 
+<!-- Basically I'm setting this up to work around Twitter's Mastodon ban. -->
 (function(){
-     var dest = getParameterByName("dest");
-     var url = "https://"+dest;
+     var dest = getParameterByName("msearch");
+     var url = "https://mastodon.social/search?q="+msearch;
      window.location = url;
 }());
 </script>
