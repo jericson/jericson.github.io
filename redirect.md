@@ -16,11 +16,39 @@ function getParameterByName(name, url = window.location.href) {
     return decodeURIComponent(results[2].replace(/\+/g, ' '));
 }
 
+<!-- Lifted from https://stackoverflow.com/questions/12460378/how-to-get-json-from-url-in-javascript -->
+
+var getJSON = function(url, callback) {
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', url, true);
+    xhr.responseType = 'json';
+    xhr.onload = function() {
+      var status = xhr.status;
+      if (status === 200) {
+        callback(null, xhr.response);
+      } else {
+        callback(status, xhr.response);
+      }
+    };
+    xhr.send();
+};
+
 
 <!-- Basically I'm setting this up to work around Twitter's Mastodon ban. -->
 (function(){
-     var dest = getParameterByName("msearch");
-     var url = "https://mastodon.social/search?q="+msearch;
-     window.location = url;
+     var query = getParameterByName("msearch");
+     var url = "https://mastodon.social/api/v2/search?q="+query+"&resolve=false&limit=5";
+     getJSON(url, 
+       function (err, data){
+         if (err !== null) {
+           alert('Something went wrong: ' + err);
+        } else {
+          if (data.accounts[0] == null) {
+            alert('Could not find a Mastodon account associated with ' + query);
+          } else {
+            window.location.replace(data.accounts[0].url);
+          }
+        }
+     });
 }());
 </script>
