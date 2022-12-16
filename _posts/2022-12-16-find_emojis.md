@@ -84,10 +84,11 @@ SELECT substring(raw from :emoji_regex) emoji
 ```
 
 The capital `SELECT` is pre-populated when creating a new query in
-Discourse Data Explorer. So this is an indicator of where I started
-working. I'm selecting the first emoji from the `raw` post column
-using the regex from earlier. If a post has several emoji, this query
-will only select the first one. 
+Discourse Data Explorer. I typically use lowercase in my queries, so
+this is an indicator of where I started working. I'm selecting the
+first emoji from the `raw` post column using the regex from
+earlier. If a post has several emoji, this query will only select the
+first one.
 
 ```
 from posts
@@ -121,7 +122,9 @@ and user_id > 0
 ```
 
 Before I added this restriction, I got a lot of ":gift:" emojis coming
-from an automated response. Automation frequently screws up data.
+from an automated response. Automation frequently screws up data. By
+convention automated accounts have negative `user_id`s, so it's easy
+to filter them out.
 
 ```
 ) emoji_sample
