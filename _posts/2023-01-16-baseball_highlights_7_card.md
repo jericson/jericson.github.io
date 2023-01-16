@@ -10,7 +10,7 @@ Eagle-Gryphon sells a [7-card promo
 pack](https://www.eaglegames.net/Baseball-Highlights-2045-7-Card-Promo-Pack-p/101869.htm)
 for [Baseball Highlights:
 2025](https://boardgamegeek.com/boardgame/151022/baseball-highlights-2045). To
-spoil my review, this is a purchase for completionists.
+spoil my review, this is a purchase for coalitionists.
 
 ## Mordecai Marichal correction
 
@@ -173,4 +173,4 @@ outfielder.
 
 [^1]: Meaning of life joke?
 
-[^2]: It was a card-sized manilla envelope with the 7 cards tucked inside.
+[^2]: It was a card-sized manila envelope with the 7 cards tucked inside.
