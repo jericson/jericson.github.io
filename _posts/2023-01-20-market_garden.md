@@ -121,7 +121,7 @@ the whole endeavor fails.
 We tend to assume complicated simulations get better as more details
 are added. That can be true when the details can be modeled with
 certainty. Weather models, for instance, [get better with tighter
-grids]](https://earthscience.stackexchange.com/questions/19/how-do-weather-models-work/56#56). But
+grids](https://earthscience.stackexchange.com/questions/19/how-do-weather-models-work/56#56). But
 battles swing on details that can't be anticipated: boats that arrive
 too late for a planned river crossing or radios that don't work
 because of sunspots. Modeling that sort of event creates false
