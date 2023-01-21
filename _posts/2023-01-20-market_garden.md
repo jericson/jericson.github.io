@@ -6,7 +6,6 @@ tags: game review
 comments: true
 ---
 
-
 There is [no shortage of games about Operation Market
 Garden](https://boardgamegeek.com/geeksearch.php?action=search&objecttype=boardgame&q=market%20garden). If
 you have [read](https://en.wikipedia.org/wiki/A_Bridge_Too_Far_(book))
@@ -130,3 +129,6 @@ precision.
 Better to build a simple model that's broadly correct and can be run
 many times. Battle Card: Market Garden is just that sort of model and
 it makes a marvelous tool for learning.
+
+Also posted on [Board Game
+Geek](https://boardgamegeek.com/thread/3012493/beautifully-simple-model-snafu).
