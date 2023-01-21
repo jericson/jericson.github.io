@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Battle Card: Market Garden"
-subtitle: 
+subtitle: A beautifully simple model of a SNAFU
 tags: game review
 comments: true
 ---
@@ -63,7 +63,7 @@ The Battle Card system (assuming there will be more entries in the
 series) abstracts most of those decisions away. Landing is risky and
 mostly out of the control of the commander. So it's simulated by a
 roll of a die for each unit. Fog lifting to allow Polish
-reinforcements is another random die roll. German forces reinforce one
+reinforcements is another random die roll. German forces reinforce on
 a strict schedule.
 
 The only decisions remaining are:
