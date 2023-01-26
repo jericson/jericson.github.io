@@ -7,7 +7,7 @@ comments: true
 
 This morning I decided to look at my blog comments hosted on [Meta
 Jon](https://meta.jlericson.com/), which is a [free Discourse instance
-on Oracle Cloud](oracle_discourse.html). I discovered my connection
+on Oracle Cloud](/2021/04/06/oracle_discourse.html). I discovered my connection
 had timed out. So I tried to log in directly using `ssh`:
 
 ```
