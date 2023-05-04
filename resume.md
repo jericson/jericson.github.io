@@ -16,6 +16,23 @@ became a commodity. But since nothing compares in complexity to humans
 interacting with each other, I now plan, build and manage online communities.
 
 ### College Confidential
+**Head of Community** | June 2022&ndash;Present
+
+### EDB
+**Developer Advocate** | April 2021&ndash;June 2022
+
+**I worked with the documentation team to help them produce excellent
+documentation in order to give people confidence they will be
+succesful.**
+
+* [Moving binary files to LFS to speed up Git operations.](https://github.com/EnterpriseDB/docs/issues/1673)
+* [Helping the documentation team do daily builds.](https://github.com/EnterpriseDB/docs/releases)
+* [Automate integration of documentation from other projects' repositories.](https://github.com/EnterpriseDB/docs/blob/develop/.github/workflows/sync-and-process-files.yml)
+* [Oracle compatibility demo.](https://www.enterprisedb.com/docs/biganimal/latest/using_cluster/06_demonstration_oracle_compatibility/)
+* [BigAnimal quickstart guide.](https://www.enterprisedb.com/docs/biganimal/release/free_trial/quickstart/)
+* [Installation guide template system.](https://github.com/EnterpriseDB/docs/tree/develop/install_template)
+
+### College Confidential
 **Community & Site Operations Manager** | January 2020&ndash;March 2021
 
 **I evaluated a mature community, proposed next steps (including
