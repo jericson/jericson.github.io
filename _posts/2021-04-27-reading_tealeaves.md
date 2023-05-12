@@ -214,7 +214,7 @@ interest](https://en.wikipedia.org/wiki/Compound_interest#Continuous_compounding
 it's easy to calculate an expected value for each investment:
 
 | Series | Date             | Duration | Raised | Expected current value |
-| :----- | ----------:      | :------- | -----: | ---------------------: |
+| :----- | ----------:      | -------: | -----: | ---------------------: |
 | A      | May 4, 2010      | 11 years |    $6M |                   $54M |
 | B      | March 8, 2011    | 10 years |   $12M |                   $89M |
 | C      | June 1, 2012     |  8 years |   $10M |                   $50M |
