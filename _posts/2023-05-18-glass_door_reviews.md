@@ -201,10 +201,10 @@ how much data they ended up getting from the survey I mentioned. The
 CEO does [post on the
 blog](https://stackoverflow.blog/author/pchandrasekar/) every
 quarter. Unsurprisingly, he gave up [posting on
-Meta](https://stackexchange.com/users/16260110/prashanth-chandrasekar). I
-don't really expect the CEO to be involved with the community, he
-committed ["to continue posting on meta at least
-quarterly."](/2020/02/04/misunderstanding_meta.html). He seems to be
+Meta](https://stackexchange.com/users/16260110/prashanth-chandrasekar). While
+I don't really expect the CEO to be involved with the community, he
+had committed ["to continue posting on meta at least
+quarterly."](/2020/02/04/misunderstanding_meta.html) He seems to be
 listening to his peers (Silicon Valley CEOs) rather than his potential
 customers. Hard to argue with $1.8 billion, though.
 
