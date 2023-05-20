@@ -162,9 +162,13 @@ There are a handful of people still around who I'd love to work with
 again. The Community Team is quite strong even after the layoffs. As
 usual they are quietly holding everything together on the sites.
 
-I can't imagine the benefits are anything like they were when I
-left. One cost savings of company mergers comes from consolidating
-benefits and HR. For the record, free medical coverage was structured in a clever
+<strike>I can't imagine the benefits are anything like they were when
+I left. One cost savings of company mergers comes from consolidating
+benefits and HR.</strike> **Update**: I have it on good authority that
+this basic system is still used, but has been improved. I'll explain
+what changed after describing the system as it was when I joined.
+
+For the record, free medical coverage was structured in a clever
 way:
 
 1. High deductible insurance to minimize the premium Stack Overflow paid.
@@ -192,8 +196,16 @@ Explanation of Benefits (EOB) and submit it to the company managing
 your HRA (usually a third-party contractor). If you don't submit your
 forms correctly there's a good chance your claim will be rejected and
 you'll be stuck with the expense. Fortunately I was able to sort these
-things out, but it wasn't stress
-free.
+things out, but it wasn't stress free.
+
+**Further update**: I was reminded that the system was changed so that
+the insurance company also runs the HRA. As a result, employees don't
+need to pay upfront and get reimbursed. Instead, they tell providers
+to bill their insurance who pays out from the HRA until the deducible
+is reached and they pay out of insurance coverage. It occurs to me the
+change was made before I left, but we'd pretty much gone to my wife's
+insurance (Kaiser, which is a wonderful HMO) by that point. Or at
+least that's my excuse for not remembering this.
 
 I mentioned [The Loop](https://stackoverflow.blog/?s=the+loop). The
 most recent post was Fall of 2021, so it lasted 2 years. I don't know
