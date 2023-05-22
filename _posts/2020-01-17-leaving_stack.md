@@ -72,7 +72,7 @@ instincts and judgments about how to do it were wrong. Perhaps Stack
 Overflow has needed a change in direction and I have been, perhaps, an
 unnecessary roadblock. Sometimes old ways must make way for new. But
 beware
-[Chesterton's Fence](https://florentcrivello.com/index.php/2019/09/04/the-efficiency-destroying-magic-of-tidying-up/).
+[Chesterton's Fence](https://flocrivello.com/the-efficiency-destroying-magic-of-tidying-up).
 
 ---
 
