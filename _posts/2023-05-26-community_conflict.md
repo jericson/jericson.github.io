@@ -38,20 +38,20 @@ somewhere inside a person rather than some external place. Fiction
 speaks to us in mysterious ways.
 
 There are many [strategies to dealing with
-conflict](https://www.valamis.com/hub/conflict-management-styles):
+conflict](https://kilmanndiagnostics.com/brief-overview-of-the-tki-assessment/):[^2]
 
 * Accommodating
 * Avoiding
 * Compromising
 * Competing
-* Collaboration
+* Collaborating
 
 I've run into a strategy recently that isn't on that list. I call it
-Exclusion. The idea is that if someone in a group disagrees, the group
+Excluding. The idea is that if someone in a group disagrees, the group
 will be more unified if that person leaves. It's a straightforward way
 to end conflict and it just works&mdash;temporarily. Somehow each time
 a group gets rid of one problem, a new disagreement pops up. It's
-strange because if these people aren't happy with the group, why don't
+strange because if these people aren't happy with the group, why do
 they stick around?
 
 Exclusion doesn't work in the long run because there's always another
@@ -75,10 +75,10 @@ and commitment to a higher authority must be enforced. You better
 believe the conflict is still there, though. It's just expressed in
 ways that are compatible with a culture of discipline.
 
-Ultimate conflict is healthy for a group. The people who care about it
-aren't satisfied with the _stratus quo_ because every group could
+Ultimately conflict is healthy for a group. The people who care about
+it aren't satisfied with the _stratus quo_ because every group could
 stand to be improved. If a group were to somehow obtain
-perfection,[^2] I suppose it wouldn't have conflict and wouldn't need
+perfection,[^3] I suppose it wouldn't have conflict and wouldn't need
 it. But until then, it's better to find ways to manage conflict rather
 than dismiss or hide it.
 
@@ -88,6 +88,16 @@ than dismiss or hide it.
      sci-fi, SF or speculative
      fiction](https://damiengwalter.com/2018/08/07/science-fiction-vs-scifi-vs-sf-what-is-the-true-definition/).
 
-[^2]: As a Christian, I believe the church will be perfect _after the
+[^2]: When I first encounted this concept, I took the test and ended
+    up solidly in the "Avoiding" category as my main
+    conflict-resolution strategy. After publishing this post, I took
+    [another
+    assessment](https://www.usip.org/public-education-new/conflict-styles-assessment)
+    a reader recommended via email. Now I'm getting "73% Problem
+    Solver", which is effectively the "Collaborating" strategy. I also
+    prefer Avoiding (67%) and Compromising (64%) over Accommodating
+    (43%) and Competing (8%).
+
+[^3]: As a Christian, I believe the church will be perfect _after the
     end of this broken world_. But never make the mistake it's perfect
     now!
