@@ -35,6 +35,11 @@ three years ago, the company has once again shown it does not trust
 its volunteer moderators. This time moderators don't intend to resign,
 but rather stop engaging with the network.
 
+It's also looking as if [the volunteer-operated spam-protection
+systems](https://stackoverflow.blog/2020/06/25/how-does-spam-protection-work-on-stack-exchange/)
+are also going on strike. This would have a rather large and immediate
+impact on the network.
+
 ---
 
 AOL (of disc-in-the-mail fame) had a Community Leader program that was
