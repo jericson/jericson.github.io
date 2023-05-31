@@ -42,27 +42,15 @@ impact on the network.
 
 ---
 
-AOL (of disc-in-the-mail fame) had a Community Leader program that was
-[investigated by the Department of
-Labor](https://en.wikipedia.org/wiki/AOL_Community_Leader_Program#Department_of_Labor_investigation). The
-company eventually settled a class-action lawsuit. The question was
-not settled, but there is a chance companies who treat volunteer
-moderators as employees could be required to pay them. It's a concern
-I have with [College Confidential moderators
-too](https://talk.collegeconfidential.com/t/moderator-election-next-steps/3618521). I've
-had moderators resign because they disagree with top-down policies,
-but that's never my preference. Communities only have value when their
-members are given agency.
+A key paragraph in [the
+policy](https://meta.stackexchange.com/questions/389582/what-is-the-network-policy-regarding-ai-generated-content):
 
-There are legitimate concerns about moderation surrounding ChatGPT and
-similar technologies. This particular policy seems heavy-handed and
-ill-conceived. It's always better to talk with moderators directly
-about these problems rather than impose a policy on short
-notice. There's perhaps time for the company to correct this, but not
-much time. Things are moving quickly and I somehow suspect the company
-won't be ready for what comes next.
+> We recently performed a set of analyses on the current approach to
+> AI-generated content moderation. The conclusions of these analyses
+> strongly indicate to us that AI-generated content is not being
+> properly identified across the network, and that the potential for
+> false-positives is very high.
 
----
 
 Having consulted on an investigation of a user who (probably) used GPT
 to generate a good deal of content, not to mention many sock puppet
@@ -100,3 +88,25 @@ experience, multiple moderators are involved before suspensions are
 handed out. It's not as simple as it looks on the surface and it's
 troubling that upper leadership on Stack Overflow still [fails to
 understand what they have](/2020/02/04/misunderstanding_meta.html)
+
+---
+
+AOL (of disc-in-the-mail fame) had a Community Leader program that was
+[investigated by the Department of
+Labor](https://en.wikipedia.org/wiki/AOL_Community_Leader_Program#Department_of_Labor_investigation). The
+company eventually settled a class-action lawsuit. The question was
+not settled, but there is a chance companies who treat volunteer
+moderators as employees could be required to pay them. It's a concern
+I have with [College Confidential moderators
+too](https://talk.collegeconfidential.com/t/moderator-election-next-steps/3618521). I've
+had moderators resign because they disagree with top-down policies,
+but that's never my preference. Communities only have value when their
+members are given agency.
+
+There are legitimate concerns about moderation surrounding ChatGPT and
+similar technologies. This particular policy seems heavy-handed and
+ill-conceived. It's always better to talk with moderators directly
+about these problems rather than impose a policy on short
+notice. There's perhaps time for the company to correct this, but not
+much time. Things are moving quickly and I somehow suspect the company
+won't be ready for what comes next.
