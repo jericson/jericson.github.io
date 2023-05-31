@@ -22,17 +22,18 @@ encourage you to read it in full. A quick summary:
   considered reliable because of their high false positive rate.
 * Moderators may continue to act on users with a pattern of
   low-quality posts.
-* This policy did not follow the new moderator agreement policy change
-  policy.
+* [This policy did not follow the new moderator agreement policy
+  change
+  policy.](https://meta.stackexchange.com/questions/389597/please-follow-your-own-policies-on-making-new-policies)
   
 It's looking like at least some of the moderators on the Stack
 Exchange network are [discussing a possible
-strike](https://discord.gg/FCWJXZM). It's been relatively quite since
-[a number of moderators
+strike](https://discord.gg/FCWJXZM). While it's been relatively quite
+since [a number of moderators
 resigned](https://meta.stackexchange.com/questions/342039/firing-community-managers-stack-exchange-is-not-interested-in-cooperating-with)
-three years ago. Once again, the company has shown it does not trust
-it's volunteer moderators. This time it appears moderators don't
-intend to resign, but rather stop engaging with the network.
+three years ago, the company has once again shown it does not trust
+its volunteer moderators. This time moderators don't intend to resign,
+but rather stop engaging with the network.
 
 ---
 
