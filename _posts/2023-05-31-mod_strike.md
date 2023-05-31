@@ -75,9 +75,9 @@ writes so well has discovered Grammarly. Perhaps the bizarre logic
 errors were just the result of answering too quickly. That made up
 "fact"? Hadn't they said they read it somewhere, but don't recall the
 source? Even people who _are_ using ChatGPT edit their answers to fix
-errors and isn't that a sign they are using using it as a tool to
-provide faster responses? Unless you are sitting right next to them as
-they type out the answers, it's really hard to be certain.
+errors and isn't that a sign they are using it as a tool to provide
+faster responses? Unless you are sitting right next to them as they
+type out the answers, it's really hard to be certain.
 
 And this is where human (and dare I say expert) judgment comes into
 play. It's not just moderator judgment either. Regular users [flag
