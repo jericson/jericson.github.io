@@ -28,7 +28,7 @@ encourage you to read it in full. A quick summary:
   
 It's looking like at least some of the moderators on the Stack
 Exchange network are [discussing a possible
-strike](https://discord.gg/FCWJXZM). While it's been relatively quite
+strike](https://discord.gg/FCWJXZM). While it's been relatively quiet
 since [a number of moderators
 resigned](https://meta.stackexchange.com/questions/342039/firing-community-managers-stack-exchange-is-not-interested-in-cooperating-with)
 three years ago, the company has once again shown it does not trust
