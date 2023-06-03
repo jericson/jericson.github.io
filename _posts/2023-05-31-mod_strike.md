@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stack Exchange moderator  strike
+title: Stack Exchange moderator strike
 tags: community
 comments: true
 ---
@@ -60,7 +60,7 @@ imagine looking at an individual suspension and having a low
 confidence that the moderator correctly diagnosed the situation.
 
 We know that huge numbers of people are currently experimenting with
-ChatGTP and similar tools. It would be really surprising if there
+ChatGPT and similar tools. It would be really surprising if there
 weren't a large number of people applying these tools to answer
 questions on Stack Overflow. After the CEO of the company [pumped AI
 on the

@@ -93,7 +93,7 @@ after using each strategy. Solving it on your own usually feels great
 so it has a negative cost (i.e., a gain). Asking a [Large Language
 Model (LLM)](https://en.wikipedia.org/wiki/Large_language_model) feels
 about the same as typing a search term into Google for me. Virtually
-the entire experience of using ChatGTP resembles Google even down to
+the entire experience of using ChatGPT resembles Google even down to
 getting bogus results sometimes.
 
 All of this is very bad news for Stack Overflow.[^3] Every problem
@@ -107,7 +107,7 @@ making things up, of course, but at least it'll be using your context
 rather than what it can gather from munging public training data.
 
 I can't _prove_ the drop so far is [due to
-ChatGTP](https://meta.stackexchange.com/questions/387278/did-stack-exchanges-traffic-go-down-since-chatgpt). It's
+ChatGPT](https://meta.stackexchange.com/questions/387278/did-stack-exchanges-traffic-go-down-since-chatgpt). It's
 likely to be several factors pull in the same direction (away from
 SO). Here's what the [official network policy regarding AI-generated
 content](https://meta.stackexchange.com/questions/389582/what-is-the-network-policy-regarding-ai-generated-content/389583#389583)
@@ -136,7 +136,7 @@ doesn't back that assertion up with data. If, as I believe likely, the
 data is ambiguous and forced into a "mods are suspending legitimate
 users" interpretation, this is a self-defeating policy. It can take
 hours to answer a question well. It only takes a few seconds for
-ChatGTP to answer it poorly. Humans can't beat robotic [gun
+ChatGPT to answer it poorly. Humans can't beat robotic [gun
 slingers](https://meta.stackexchange.com/questions/9731/fastest-gun-in-the-west-problem).
 
 So why can't the current SO CEO dismiss AI as a distraction (at best)?
