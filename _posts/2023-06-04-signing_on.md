@@ -266,6 +266,14 @@ subject-matter experts.
 suspensions of up to 30 days to users who are copying and pasting GPT
 content onto the site, with or without prior notice or warning.
 
+**Note:** The final paragraph was invalidated (according to
+moderators) by the internal policy change on May 29, 2023. Suspending
+an account without warning for 30 days is outside of the network norm
+and sounds very much like a product of not knowing how to handle a
+flood of ChatGPT content. I don't think most moderators are fighting
+for that provision and it's not clear to me how many people were
+suspended under that part of the policy.
+
 ---
 
 [^1]: For a rather fascinating look into those rules, I recommend two
