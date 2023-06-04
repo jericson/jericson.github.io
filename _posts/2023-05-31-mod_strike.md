@@ -87,7 +87,7 @@ system](https://stackoverflow.com/help/reviews-intro). In my
 experience, multiple moderators are involved before suspensions are
 handed out. It's not as simple as it looks on the surface and it's
 troubling that upper leadership on Stack Overflow still [fails to
-understand what they have](/2020/02/04/misunderstanding_meta.html)
+understand what they have](/2020/02/04/misunderstanding_meta.html).
 
 ---
 
