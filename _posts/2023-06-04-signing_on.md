@@ -71,7 +71,7 @@ says](https://stackoverflow.blog/2023/05/31/ceo-update-paving-the-road-forward-w
 > engagement within our public community and add value to customers of
 > our SaaS product, Stack Overflow for Teams.
 
-So the CEO was placed a sizable bet on AI. I think its misguided and
+So the CEO has placed a sizable bet on AI. I think it's misguided and
 won't save the company. But that's not why I'm signing. That's just
 the backdrop.
 
