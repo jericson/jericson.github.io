@@ -11,7 +11,7 @@ I'm signing [an open letter to Stack
 Overflow](https://openletter.mousetail.nl/) because the volunteers who
 contribute, curate and moderate online communities provide value
 whether or not it can be monetized. Stack Exchange Inc. has fallen
-short of its obligations to the communities it hosts. While I'm not
+short of its obligations to the communities it hosts. While I'm no
 longer active on the network, I support those who are going on strike.
 
 See also:
@@ -184,7 +184,7 @@ letter](https://openletter.mousetail.nl/).
 
 In the Fall of 2019, I got a taste of what I expect you are going
 through now. We were stuck between our duties as employees and our
-duty to the manage our communities with integrity. Being unable to
+duty to manage our communities with integrity. Being unable to
 navigate those waters led me to leave Stack Overflow. I had the luxury
 of a job offer, but it was hard to leave the job I loved. You are in a
 tough spot and that's underselling it.
