@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stack Exchange moderator strike
-tags: community
+tags: community strike
 comments: true
 ---
 

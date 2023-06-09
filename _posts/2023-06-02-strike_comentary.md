@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Moderation by humans
-tags: community
+tags: community strike
 comments: true
 ---
 
