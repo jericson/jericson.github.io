@@ -316,7 +316,7 @@ community concerns so that they were only addressed by individual
 developers (which buys a lot of community trust) or members of the
 community. Now that the community is on strike and their tools aren't
 working for the company, it'd be pretty handy to have [the staff it
-recently laid off](2023/05/17/so_business.html).
+recently laid off](/2023/05/17/so_business.html).
 
 > This is also an opportunity for us to work with the mods to advance
 > some of our own ideas about creating a friendlier and more welcoming
