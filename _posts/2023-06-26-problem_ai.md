@@ -243,9 +243,10 @@ The chart has a few issues, however:
    Overflow, the rest of the network [adds
    up](https://stackoverflow.blog/2018/01/31/stack-exchange-2017-review/)
    to what ought to be sufficient data.
-4. My prior would be for ChatGTP usage to _increase_ as public
-   interest increased through the early part of 2023. I'm not an early
-   adopter, so I didn't pay much attention to ChatGPT until
+4. My [prior](https://en.wikipedia.org/wiki/Prior_probability) would
+   be for ChatGTP usage to _increase_ as public interest increased
+   through the early part of 2023. I'm not an early adopter, so I
+   didn't pay much attention to ChatGPT until
    [mid-March](https://meta.jlericson.com/t/my-chatgpt-biography/174?u=jericson). I
    didn't consider the possibility of using it for coding projects
    before I read ["Cheating is All You
@@ -510,7 +511,7 @@ post explained what happened:
 Something about this feels off and it took me several weeks of
 passively thinking about it to nail down the problem. It's not in
 what's said, but what's unsaid. When I get complaints about moderators
-(I got one this week on College Confidential) I try to reconstruct
+(I got one this week on the site I currently manager) I try to reconstruct
 what happened from the user's perspective. Almost always the user
 fails to understand the site rules or the role of volunteer
 moderators. I carefully (and frequently quixotically) explain the
