@@ -161,7 +161,7 @@ limit](https://stackoverflow.com/help/answering-limit) to 1 answer
 every 30 minutes for users with less than 125 reputation. Since the
 other part of the [official
 response](https://stackoverflow.com/help/gpt-policy) was to empower
-moderators to suspend users who copy and paste GTP without prior
+moderators to suspend users who copy and paste GPT without prior
 warning,[^3] it's not surprising the people with 3 or more answers in a
 week would be most impacted. 
 
@@ -244,7 +244,7 @@ The chart has a few issues, however:
    up](https://stackoverflow.blog/2018/01/31/stack-exchange-2017-review/)
    to what ought to be sufficient data.
 4. My [prior](https://en.wikipedia.org/wiki/Prior_probability) would
-   be for ChatGTP usage to _increase_ as public interest increased
+   be for ChatGPT usage to _increase_ as public interest increased
    through the early part of 2023. I'm not an early adopter, so I
    didn't pay much attention to ChatGPT until
    [mid-March](https://meta.jlericson.com/t/my-chatgpt-biography/174?u=jericson). I
@@ -543,7 +543,7 @@ got abnormal in this timeline:
 
 * **November 30** ChatGPT launches.
 * **December 5** Moderators [temporarily ban
-  ChatGTP](https://meta.stackoverflow.com/revisions/421831/1) saying
+  ChatGPT](https://meta.stackoverflow.com/revisions/421831/1) saying
   that the final policy needs to be discussed with staff.
 * **December 8** Staff creates a help center article [supporting the
   temporary
