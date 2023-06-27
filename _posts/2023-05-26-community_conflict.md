@@ -64,7 +64,7 @@ won't be a growing group.
 
 Truth is, the only groups that don't have conflict are those that are
 too young or insignificant. Since conflict happens when people care
-about something (other wise they don't bother to push disagreements),
+about something (otherwise they don't bother to push disagreements),
 conflict is a sign of maturity and significance. It's the symptom and
 result of people working together on a common goal. 
 
