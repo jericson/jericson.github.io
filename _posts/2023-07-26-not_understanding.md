@@ -11,7 +11,7 @@ comments: true
 > Licked_](https://books.google.com/books?id=OqqpXJy-fRwC&newbks=1&newbks_redir=0&lpg=PP1&pg=PA109#v=onepage&q&f=false)
 
 I've been [on
-vacation](/2015/07/21/vacation.html/2015/07/21/vacation.html), so I
+vacation](/2015/07/21/vacation.html), so I
 haven't been following [the Stack Overflow moderator
 strike](https://jlericson.com/tag/strike.html).[^1] Not there has been
 much progress. Negotiations stalled for [a variety of
