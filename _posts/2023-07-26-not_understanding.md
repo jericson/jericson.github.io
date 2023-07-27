@@ -108,7 +108,7 @@ they have put much thought into why the community might want to do
 this, though it's important to remember these are comments directed to
 investors, not developers.
 
-The call happened on July 27, a month after [the policy allowing AI
+The call happened on June 27, a month after [the policy allowing AI
 content](https://meta.stackexchange.com/questions/389582/what-is-the-network-policy-regarding-ai-generated-content). I
 can only speculate, but a reasonable interpretation would be that the
 company found it could not solve its financial problems by [selling
