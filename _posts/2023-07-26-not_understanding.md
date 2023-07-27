@@ -5,16 +5,10 @@ tags: community strike
 comments: true
 ---
 
-> It is difficult to get a man to understand something, when his
-> salary depends on his not understanding it!&mdash;Upton Sinclair,
-> [_I, Candidate for Governor: And How I Got
-> Licked_](https://books.google.com/books?id=OqqpXJy-fRwC&newbks=1&newbks_redir=0&lpg=PP1&pg=PA109#v=onepage&q&f=false)
-
-I've been [on
-vacation](/2015/07/21/vacation.html), so I
-haven't been following [the Stack Overflow moderator
-strike](https://jlericson.com/tag/strike.html).[^1] Not there has been
-much progress. Negotiations stalled for [a variety of
+I've been [on vacation](/2015/07/21/vacation.html), so I haven't been
+following [the Stack Overflow moderator
+strike](https://jlericson.com/tag/strike.html).[^1] Not that there has
+been much progress. Negotiations stalled for [a variety of
 reasons](https://meta.stackexchange.com/questions/390106/moderation-strike-update-data-dumps-choosing-representatives-gpt-data-and-wh/390704#390704). Meanwhile
 Stack Overflow's CEO, Prashanth Chandrasekar, dug the company's hole a
 bit deeper [during an interview with
