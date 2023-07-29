@@ -367,10 +367,10 @@ to address in no particular order:
   aren't held accountable for the problems they sometimes cause in
   their organizations. This is also true of half a dozen other
   professions such as politicians, lawyers and pastors. People, even
-  people who theoretically oversee these folks, just defer the them by
-  default. Unfortunately, these professions also attract certain
+  people who theoretically oversee these folks, just defer to the them
+  by default. Unfortunately, these professions also attract certain
   personalities who project confidence that reinforces the perception
-  that they don't need oversight. 
+  that they don't need oversight.
   
   Practically I prefer to think of the problem as incompetence because
   that implies that experience could change the CEO's/doctor's
