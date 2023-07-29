@@ -5,6 +5,9 @@ tags: community strike
 comments: true
 ---
 
+[I've added [an update](#update-july-29) after watching [the
+announcement](https://www.youtube.com/watch?v=g5F5t205pYA).]
+
 I've been [on vacation](/2015/07/21/vacation.html), so I haven't been
 following [the Stack Overflow moderator
 strike](https://jlericson.com/tag/strike.html).[^1] Not that there has
@@ -279,6 +282,107 @@ community-centered company. It requires [much more than platitudes and
 boundless
 enthusiasm](https://meta.stackexchange.com/questions/391626/historical-policy-on-the-use-of-gpt-generators/391654#391654).
 
+### Update July 29
+
+I've gotten some more information related to this post that I'd like
+to address in no particular order:
+
+* Apparently the interview was conducted a month or so before the
+  article was published. You can see evidence of that by noticing
+  Prashanth said the announcement was "in about a month's time" when
+  the article was published two weeks before the conference. This
+  doesn't change my analysis much. It does mean there was less
+  feedback from the community for Prashanth to incorporate into his
+  answers.
+  
+* After listening to [the
+  announcement](https://www.youtube.com/watch?v=g5F5t205pYA), I'm
+  struck by how none of it actually requires machine-generated content
+  be allowed on public Stack Overflow. From what I can tell Stack
+  Overflow is using an LLM model (probably developed by Prosus) to
+  index content that already exists. It doesn't use ordinary post
+  voting to improve the model. It also doesn't seem to be feeding
+  content into the sites either.[^5] What they are actually doing seems
+  worthy of experimenting with, so provoking the moderators, your
+  natural advocates, to strike seems particularly counterproductive.
+  
+* There was also a [podcast
+  episode](https://the-stack-overflow-podcast.simplecast.com/episodes/overflowai-stack-overflow-ai-search-code-ide/transcript/)
+  from Stack Overflow[^6] in which Ellen Brandenberger, Director of
+  Product Innovation, and Jody Bailey, CTO, discussed the new
+  initiatives. One revelation is that Prosus _did_ provide several of
+  the models including a Slack chatbot called [Plus
+  One](https://finance.yahoo.com/news/tech-investor-prosus-learned-lessons-202140208.html)
+  which is being used within the company. Employees are also
+  [dogfooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food)
+  search improvements (which aren't AI-related necessarily). Both
+  guests sound genuinely interested in getting feedback from the
+  current users of public Q&A. More of this, please!
+
+* The [secret policy which sparked the moderator
+  strike](https://meta.stackexchange.com/questions/391626/historical-policy-on-the-use-of-gpt-generators)
+  was finally made public. It focuses extensively on the unreliability
+  of GPT detectors. Stack Overflow moderators seem to generally agree
+  with this conclusion because [they didn't use those detectors as a
+  rule](https://meta.stackexchange.com/questions/389811/moderation-strike-stack-overflow-inc-cannot-consistently-ignore-mistreat-an/389844#389844). Predictably
+  it points out that users from Pakistan, Bangladesh and India are
+  substantially more likely to be suspended for GPT usage and users
+  from the US, Sweden, Britain and Australia are less likely than
+  average. This lines up with [Stack Overflow's own
+  data](https://stackoverflow.co/labs/developer-sentiment-ai-ml/#h3-e1b2aa9219ec0)
+  that finds 55% of Indian developers trust output of AI tools
+  compared to [42% of all
+  respondents](https://survey.stackoverflow.co/2023/#section-developer-tools-accuracy-of-ai-tools). I
+  now believe Stack Overflow leadership genuinely believed most
+  suspensions were false positives and simply communicated their
+  concerns in a self-destructive way.
+  
+* Someone asked at what point incompetence becomes malicious. Well, my
+  wife is a nurse. Her job is to take care of the patient's practical
+  medical needs. She works with doctors who are tasked with addressing
+  the patient's medical conditions. Since my wife is a pediatric
+  nurse, her patients are children. Some children can't swallow pills
+  and other children refuse to take medicine in suspension
+  (liquids). From the doctor's point of view, these are identical for
+  many medications as long as the dosing is calculated properly. From
+  a nurse's perspective, one works and the other doesn't.
+
+  Thankfully many doctors have learned to defer to the nursing staff
+  when it comes to decisions such as "pill or suspension". Some will
+  even write their orders to give nurses some discretion for this sort
+  of thing. But other doctors (younger ones, generally) focus on their
+  own priorities without taking into account the nursing staff. They
+  are probably very good doctors when it comes to diseases, but their
+  way of operating adds friction to the care process.
+  
+  So are these doctors malicious or incompetent? Your answer to that
+  question should be similar to your answer to whether a CEO of a
+  community-centered business adds friction to the operations of his
+  company because he's focused on his own specialty.  Given ongoing
+  pain suffered by people in their wake, I can see how you might call
+  this behavior malicious. It's certainly incompetent, though not in
+  the primary duty of a doctor. So maybe this is the wrong framing?
+  
+  The core of the problem, in my estimation, is that doctors and CEOs
+  aren't held accountable for the problems they sometimes cause in
+  their organizations. This is also true of half a dozen other
+  professions such as politicians, lawyers and pastors. People, even
+  people who theoretically oversee these folks, just defer the them by
+  default. Unfortunately, these professions also attract certain
+  personalities who project confidence that reinforces the perception
+  that they don't need oversight. 
+  
+  Practically I prefer to think of the problem as incompetence because
+  that implies that experience could change the CEO's/doctor's
+  behavior. But it might be better to attribute it to malice since the
+  only reliable solution I've observed is for the person to move onto
+  some other company. 
+
+* My blog has a comment section. You can see the comments on this post
+  below or you can go [directly to my Meta
+  site](https://meta.jlericson.com/) where you can find all the
+  comments.
+
 ---
 
 [^1]: Not to be confused with the [Writers and Actors Guilds
@@ -298,6 +402,10 @@ enthusiasm](https://meta.stackexchange.com/questions/391626/historical-policy-on
 [^3]: It's dangerous to send people to really interesting articles since they might never come back. Still, you could do worse than just read what prompted Stack Overflow's founding and compare them to the current CEO's ideas.
 
 [^4]: In a relative sense at least. Agricultural technology is a bit odd since it allowed for dramatically higher global population and thereby increased the number of farmers. AI seems unlikely to have the same effect.
+
+[^5]: Though it's possible [I didn't listen closely enough](https://meta.stackoverflow.com/questions/425787/will-overflowai-really-feature-dumping-ai-code-explanations-onto-stack-overflow).
+
+[^6]: I used to be a regular listener to the podcast. I stopped because I found I don't care about the topics which were rarely related to Stack Overflow (much less Stack Exchange). Listening to this episode was refreshing. Not sure if it's a regular feature of the show now, but I was pleasantly surpised with a discussion of a recent [Lifeboat badge award](https://stackoverflow.blog/2019/06/18/adios-to-unfriendly-badges-ahoy-lifejacket-and-lifeboat/). 
 
 <!--  LocalWords:  Prashanth Chandrasekar Prashanth's Prosus LLM GPT
  -->
