@@ -44,8 +44,8 @@ everything, of course, but it is a reward companies commonly give to
 employees in appreciation of a job well done. So option #2 seems more
 likely.
 
-What _is_ the company's definition of community therefor? Clues exist
-other in answers:
+What _is_ the company's definition of community? Clues exist other in
+answers:
 
 > We wouldn't exist without the community.
 

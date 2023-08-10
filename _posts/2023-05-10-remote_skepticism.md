@@ -51,8 +51,8 @@ from UCLA.[^2] So my commute increased the time dedicated to work from
 8 hours to 10. I listened to a lot of sports talk radio before I
 discovered the library has an extensive audio book collection.
 
-I worked a guy who lived in South Bay and got up early to avoid an
-hour and a half commute. My strategy was to go in later in the
+I worked with a guy who lived in South Bay and got up early to avoid
+an hour and a half commute. My strategy was to go in later in the
 morning. So we had roughly 4 hours of overlap during the day. Even
 though we worked closely together, I estimate we spent an average of
 20 minutes of that time in the same room. Most of that would be during

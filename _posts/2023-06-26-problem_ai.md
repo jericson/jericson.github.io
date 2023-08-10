@@ -290,7 +290,7 @@ users for 7
 days](https://github.com/samliew/SO-mod-userscripts/commit/a4510388cb39b83f34746f0f835103ebd381bc84#diff-67d179ea0a03fec39c7c981205f0dbd8aebef69c6205218f2a1d1caaf19d3ab6R231)
 rather than the staff-suggested 30 days.)
 
-But I also think the draft count metric stopped working _because of
+But I also think the draft count metric stopped working _because
 the ChatGPT ban was effective_. When you block people from doing what
 they intend to do, they sometimes adjust their behavior. Just as
 spammers developed [tricks to avoid
@@ -355,7 +355,7 @@ Overflow](https://stackoverflow.com/questions/51792750/how-might-i-get-detailed-
 to see if there were a way to get better error messages in the
 future. After a few comments, the question lay fallow for a few years.
 
-Then in April 2022,I got a detailed comment from
+Then in April 2022, I got a detailed comment from
 [r2evans](https://stackoverflow.com/users/3358272/r2evans), who is a
 prolific R answerer, saying that the problem has been resolved in
 recent updates. Unfortunately, I couldn't test the answer since I was
