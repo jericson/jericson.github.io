@@ -22,7 +22,12 @@ gem 'html-proofer'
 
 # tags
 gem 'jekyll-tagging'
+
+# import
 gem 'jekyll-import'
+gem "open_uri_redirections"
+
+
 
 gem 'htmlentities'
 

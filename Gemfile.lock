@@ -259,6 +259,7 @@ GEM
     octokit (4.25.1)
       faraday (>= 1, < 3)
       sawyer (~> 0.9)
+    open_uri_redirections (0.2.1)
     parallel (1.22.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -325,6 +326,7 @@ DEPENDENCIES
   json (> 1.8.6)
   kramdown (>= 2.3.1)
   match_regex
+  open_uri_redirections
   rack (>= 2.1.4)
   rake
   webrick (~> 1.7)
