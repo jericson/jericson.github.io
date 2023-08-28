@@ -14,7 +14,6 @@ the games I've been playing recently:
  <script language="javascript"
  src="https://boardgamegeek.com/jswidget.php?username=Ichthydion&numitems=18&header=1&text=none&images=small-fixed&show=recentplays&imagesonly=1&imagepos=left&inline=1&domains%5B%5D=boardgame"></script>
 
-
 I'm not currently looking for work, but I do have a [resume](/resume/)
 that's only slightly out of date.
 
@@ -23,6 +22,8 @@ consultancy](https://buildcivitas.com/). Since we are now both
 Community Managers at [College
 Confidential](https://talk.collegeconfidential.com/about), we're not
 really in the business any more.
+
+<iframe id='kofiframe' src='https://ko-fi.com/jericson/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='jericson'></iframe>
 
 ---
 
