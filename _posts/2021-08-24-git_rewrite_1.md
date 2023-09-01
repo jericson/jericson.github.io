@@ -7,6 +7,12 @@ comments: yes
 image: /images/Caro-Kann.png
 ---
 
+This is part one of a series:
+
+* [Unlimited growth (in a bad way)](/2021/08/24/git_rewrite_1.html)
+* [How we stopped making everything worse](/2021/09/06/git_rewrite_2.html)
+* [Dealing with distribution](2023/09/01/git_rewrite_3.html)
+
 In order to understand this story, we'll need an appropriate mental
 model of [Git](https://en.wikipedia.org/wiki/Git). At their core,
 version control systems save previous states of a project. That way
@@ -191,7 +197,7 @@ repositories never get smaller. It's a ratcheting effect that needless
 chewed up disk space and bandwidth for everyone who contributes to the
 project. It had to stop.
 
-Next time: we stop digging.
+Next time: [we stop digging](/2021/09/06/git_rewrite_2.html).
 
 ---
 
