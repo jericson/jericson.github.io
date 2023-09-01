@@ -9,9 +9,9 @@ image: /images/Caro-Kann.png
 
 This is part one of a series:
 
-* [Unlimited growth (in a bad way)](/2021/08/24/git_rewrite_1.html)
-* [How we stopped making everything worse](/2021/09/06/git_rewrite_2.html)
-* [Dealing with distribution](2023/09/01/git_rewrite_3.html)
+1. [Unlimited growth (in a bad way)](/2021/08/24/git_rewrite_1.html)
+2. [How we stopped making everything worse](/2021/09/06/git_rewrite_2.html)
+3. [Dealing with distribution](/2023/09/01/git_rewrite_3.html)
 
 In order to understand this story, we'll need an appropriate mental
 model of [Git](https://en.wikipedia.org/wiki/Git). At their core,

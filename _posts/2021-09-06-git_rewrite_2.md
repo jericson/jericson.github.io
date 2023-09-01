@@ -7,11 +7,11 @@ comments: yes
 image: /images/ecobee.jpg
 ---
 
-This is part three of a series:[^1]
+This is part two of a series:
 
-* [Unlimited growth (in a bad way)](/2021/08/24/git_rewrite_1.html)
-* [How we stopped making everything worse](/2021/09/06/git_rewrite_2.html)
-* [Dealing with distribution](2023/09/01/git_rewrite_3.html)
+1. [Unlimited growth (in a bad way)](/2021/08/24/git_rewrite_1.html)
+2. [How we stopped making everything worse](/2021/09/06/git_rewrite_2.html)
+3. [Dealing with distribution](/2023/09/01/git_rewrite_3.html)
 
 [Last time](/2021/08/24/git_rewrite_1.html) I explained how Git
 repositories get larger and larger as people commit changes. Today I'm
@@ -317,7 +317,7 @@ production. That way the PDFs will be copied to Netlify where we can
 access them, if needed.
 
 If you read this far, you probably are looking forward to [next
-time](2023/09/01/git_rewrite_3.html) when I explain how we rewrote our
+time](/2023/09/01/git_rewrite_3.html) when I explain how we rewrote our
 Git repository.
 
 ---
