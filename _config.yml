@@ -9,6 +9,10 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://jlericson.com" # the base hostname & protocol for your site
 author: Jon Ericson
 author_url: https://meta.stackexchange.com/users/1438/jon-ericson
+rss: RSS feed
+
+#GA 
+google_analytics: G-84N1KC6S9M
 
 # SEO
 
@@ -32,6 +36,8 @@ defaults:
 markdown: CommonMarkGhPages
 encoding: utf-8
 include: [.emacs, "/.well-known"]
+
+theme: minima
 
 # Why does this fail?
 #exclude: [tmp]
