@@ -15,6 +15,8 @@ end
 gem 'github-pages'#, versions['github-pages'] 
 gem 'hpricot'
 
+# Styling
+gem "minima"
 
 # testing
 gem 'rake'
