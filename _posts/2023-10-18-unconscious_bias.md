@@ -2,6 +2,7 @@
 layout: post
 title: Bias
 subtitle: Conscious and unconscious 
+comments: yes
 tags: community opinion
 ---
 
