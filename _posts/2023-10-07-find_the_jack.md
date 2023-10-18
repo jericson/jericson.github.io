@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Find the Jack
+comments: yes
 tags: community
 ---
 
