@@ -20,7 +20,7 @@ way to combat the commonly-held perception that Stack Overflow is
 rude.
 
 
-[![My motto is "Move fast and break things."](https://imgs.xkcd.com/comics/move_fast_and_break_things.png "I was almost fired from a job driving the hearse in funeral processions, but then the funeral home realized how much business I was creating for them."){: .wrap}](https://xkcd.com/1428/)
+[![My motto is "Move fast and break things."](https://imgs.xkcd.com/comics/move_fast_and_break_things.png "I was almost fired from a job driving the hearse in funeral processions, but then the funeral home realized how much business I was creating for them.")](https://xkcd.com/1428/)
 
 My main concern was that by adding more reviews, we might get into a
 situation where more answers were being added to the queue than the
