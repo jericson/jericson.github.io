@@ -4,6 +4,9 @@ title: 'How Stack Overflow for Teams Fits into the Community&mdash;Stack Overflo
 tags: blogoverflow
 ---
 
+[Originally published on Blog
+Overflow.](https://stackoverflow.blog/2018/05/23/how-stack-overflow-for-teams-fits-into-the-community/)
+
 
 Back when I was a full-time programmer and there was some code someone
 struggled with, it was a common practice to ask around in cubicle
