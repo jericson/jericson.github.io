@@ -3,7 +3,7 @@ layout: post
 title:  Building a customer support system
 subtitle: Moving from email to Zendesk
 comments: yes
-tags: support
+tags: support cm_book
 ---
 
 Before I was

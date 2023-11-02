@@ -3,7 +3,7 @@ layout: post
 title:  Building a customer support system
 subtitle: Automated responses
 comments: yes
-tags: support
+tags: support cm_book
 ---
 
 [Honeypots](/2015/04/08/customer-support-4.html)

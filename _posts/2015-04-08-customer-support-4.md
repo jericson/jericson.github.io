@@ -3,7 +3,7 @@ layout: post
 title:  Building a customer support system
 subtitle: Adding a honeypot
 comments: yes
-tags: support
+tags: support cm_book
 ---
 
 [Last time]({% post_url 2015-04-06-customer-support-3 %}) I focused on

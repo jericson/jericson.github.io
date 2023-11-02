@@ -3,7 +3,7 @@ layout: post
 title:  Building a customer support system
 subtitle: Tickets are people too
 comments: yes
-tags: support
+tags: support cm_book
 ---
 
 [Previously]({% post_url 2015-03-23-customer-support-2 %}), I started
@@ -21,7 +21,7 @@ offenders, you might suspect that any bias present would be ethnic or
 religious. Actually, decisions were most biased by the time of day the
 judge considered the case:
 
-[![Fig. 1.](https://www.pnas.org/content/108/17/6889/F1.medium.gif)](https://web.archive.org/web/20180106005608/https://www.pnas.org/content/108/17/6889/F1.expansion.html)
+[![Fig. 1.](/images/israeli_judges.gif)](https://web.archive.org/web/20180106005608/https://www.pnas.org/content/108/17/6889/F1.expansion.html)
 
 Those little circles represent food breaks (breakfast, snack and
 lunch). If a prisoner was lucky enough to have their case heard

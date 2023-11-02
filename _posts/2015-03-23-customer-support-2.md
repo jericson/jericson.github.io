@@ -3,7 +3,7 @@ layout: post
 title:  Building a customer support system
 subtitle: Training
 comments: yes
-tags: support
+tags: support cm_book
 ---
 
 [Last time]({% post_url 2015-03-13-customer-support-1 %}) I wrote
