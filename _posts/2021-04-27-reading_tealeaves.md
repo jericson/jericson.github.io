@@ -192,7 +192,7 @@ good place to work. Presumably this sort of promotion will help Apple
 recruit the people it wants to hire.
 
 I've
-[argued](https://stackoverflow.blog/2018/05/23/how-stack-overflow-for-teams-fits-into-the-community/)
+[argued](/2018/05/23/how-stack-overflow-for-teams-fits-into-the-community.html)
 that by focusing more on Teams and Enterprise, Stack Overflow will
 have incentives to improve the public sites as well. For the sake of
 the community, I'd choose ads over Jobs/Talent because pageviews
