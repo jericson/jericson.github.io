@@ -2,7 +2,7 @@
 layout: post
 title: Building a community platform
 subtitle: Stack Overflow
-tags: community 
+tags: community platform
 comments: true
 ---
 
