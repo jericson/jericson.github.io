@@ -41,7 +41,7 @@ all involved.
 
 I cribbed many of my ideas about community platforms from Alex
 Komoroske's concept of [platforms as
-gardens](komoroske.com/gardening-platforms).[^1] Communities can
+gardens](https://komoroske.com/gardening-platforms).[^1] Communities can
 function like software platforms and, with a little care, they can be
 the foundation of a great business. This particular post is a
 case-study of Stack Overflow, which largely failed to match its
