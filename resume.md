@@ -18,19 +18,29 @@ interacting with each other, I now plan, build and manage online communities.
 ### College Confidential
 **Head of Community** | June 2022&ndash;Present
 
+**I returned to College Confidential in order to unlock the potential
+of the community for a new owner.**
+
+* [Manged a major database update for the forum software](https://talk.collegeconfidential.com/t/maintenance-scheduled-for-friday-september-30/3619753)
+* [Set up College Confidential's first moderator elections](https://talk.collegeconfidential.com/t/moderator-nominations-for-fall-of-2022/3617796)
+* [Created a private forum for politics](https://talk.collegeconfidential.com/t/politics-discussion-group/3617248)
+* [Hosted and produced episodes of the Admitted podcast](https://talk.collegeconfidential.com/tag/podcast)
+* 
+
 ### EDB
 **Developer Advocate** | April 2021&ndash;June 2022
 
 **I worked with the documentation team to help them produce excellent
 documentation in order to give people confidence they will be
-succesful.**
+successful.**
 
-* [Moving binary files to LFS to speed up Git operations.](https://github.com/EnterpriseDB/docs/issues/1673)
-* [Helping the documentation team do daily builds.](https://github.com/EnterpriseDB/docs/releases)
-* [Automate integration of documentation from other projects' repositories.](https://github.com/EnterpriseDB/docs/blob/develop/.github/workflows/sync-and-process-files.yml)
+* [Documented a strategy for community contributions to EDB documentation](https://jlericson.com/2022/04/04/docs2_contribution.html)
+* [Moved binary files to LFS to speed up Git operations.](https://jlericson.com/2021/08/24/git_rewrite_1.html)
+* [Built a process to allow the documentation team do daily builds.](https://github.com/EnterpriseDB/docs/releases)
+* [Automated integration of documentation from other projects' repositories.](https://github.com/EnterpriseDB/docs/blob/2991c889aacf76146a5361e7d24b4359e6f70b65/.github/workflows/sync-and-process-files.yml)
 * [Oracle compatibility demo.](https://www.enterprisedb.com/docs/biganimal/latest/using_cluster/06_demonstration_oracle_compatibility/)
 * [BigAnimal quickstart guide.](https://www.enterprisedb.com/docs/biganimal/release/free_trial/quickstart/)
-* [Installation guide template system.](https://github.com/EnterpriseDB/docs/tree/develop/install_template)
+* [Installation guide template system.](https://github.com/EnterpriseDB/docs/tree/3da9047d667d2c560c10e473dc5ec296e185e5ef/install_template)
 
 ### College Confidential
 **Community & Site Operations Manager** | January 2020&ndash;March 2021
