@@ -15,17 +15,28 @@ models. I operated a supercomputer cluster before computation
 became a commodity. But since nothing compares in complexity to humans
 interacting with each other, I now plan, build and manage online communities.
 
+
+
 ### College Confidential
 **Head of Community** | June 2022&ndash;Present
 
 **I returned to College Confidential in order to unlock the potential
 of the community for a new owner.**
 
+* Community analysis such as [How does mandatory registration impact participation?](https://jlericson.com/2022/10/14/registration_drives.html)
 * [Manged a major database update for the forum software](https://talk.collegeconfidential.com/t/maintenance-scheduled-for-friday-september-30/3619753)
 * [Set up College Confidential's first moderator elections](https://talk.collegeconfidential.com/t/moderator-nominations-for-fall-of-2022/3617796)
 * [Created a private forum for politics](https://talk.collegeconfidential.com/t/politics-discussion-group/3617248)
 * [Hosted and produced episodes of the Admitted podcast](https://talk.collegeconfidential.com/tag/podcast)
-* 
+
+### Civitas 
+**Founder** | June 2021&ndash;Present
+
+**Working with Sorin Istrate, we started a community consultant company.**
+
+* Advised [Vested Finance](https://vestedfinance.com/) on their plan
+  to start a customer community. After analyzing their situation, we
+  agreed it wasn't a good time to start their community.
 
 ### EDB
 **Developer Advocate** | April 2021&ndash;June 2022
