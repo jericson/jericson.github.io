@@ -7,6 +7,19 @@ permalink: /about/
 
 ## Jon Ericson
 
+[This site runs on coffee.](https://meta.jlericson.com/t/this-site-runs-on-coffee/214)
+
+I'm currently looking for work and my [resume](/resume/)
+is only slightly out of date.
+
+Sorin Istrate and I started an [online community
+consultancy](https://buildcivitas.com/). Since he's now [Head of
+Community at College
+Confidential](https://talk.collegeconfidential.com/t/introducing-cc-s-new-head-of-community-cc-sorin/3650152/1),
+I'm on my own. **If you have a mid-range community, [you might need my
+services](https://buildcivitas.com/why-hire-consultants/).
+
+
 From time to time, I review things. Mostly board games at the
 moment. Use the [Reviews](/reviews) tab to get a full list. Here are
 the games I've been playing recently:
@@ -14,16 +27,7 @@ the games I've been playing recently:
  <script language="javascript"
  src="https://boardgamegeek.com/jswidget.php?username=Ichthydion&numitems=18&header=1&text=none&images=small-fixed&show=recentplays&imagesonly=1&imagepos=left&inline=1&domains%5B%5D=boardgame"></script>
 
-I'm not currently looking for work, but I do have a [resume](/resume/)
-that's only slightly out of date.
 
-For a while, Sorin Istrate and I ran an [online community
-consultancy](https://buildcivitas.com/). Since we are now both
-Community Managers at [College
-Confidential](https://talk.collegeconfidential.com/about), we're not
-really in the business any more.
-
-<iframe id='kofiframe' src='https://ko-fi.com/jericson/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='jericson'></iframe>
 
 ---
 
