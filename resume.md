@@ -21,8 +21,7 @@ interacting with each other, I now plan, build and manage online communities.
 **Head of Community** | June 2022&ndash;Present
 
 **I returned to College Confidential in order to unlock the potential
-of the community for a new owner.** Over a year and a half. I
-stabilized the community and the software it runs on: Discourse. 
+of the community for a new owner.** 
 
 * Community analysis such as [How does mandatory registration impact participation?](https://jlericson.com/2022/10/14/registration_drives.html)
 * [Manged a major database update for the forum software](https://talk.collegeconfidential.com/t/maintenance-scheduled-for-friday-september-30/3619753)
