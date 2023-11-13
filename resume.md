@@ -23,11 +23,16 @@ interacting with each other, I now plan, build and manage online communities.
 **I returned to College Confidential in order to unlock the potential
 of the community for a new owner.** 
 
-* Community analysis such as [How does mandatory registration impact participation?](https://jlericson.com/2022/10/14/registration_drives.html)
-* [Manged a major database update for the forum software](https://talk.collegeconfidential.com/t/maintenance-scheduled-for-friday-september-30/3619753)
-* [Set up College Confidential's first moderator elections](https://talk.collegeconfidential.com/t/moderator-nominations-for-fall-of-2022/3617796)
-* [Created a private forum for politics](https://talk.collegeconfidential.com/t/politics-discussion-group/3617248)
-* [Hosted and produced episodes of the Admitted podcast](https://talk.collegeconfidential.com/tag/podcast)
+* Community analysis such as [How does mandatory registration impact
+  participation?](https://jlericson.com/2022/10/14/registration_drives.html).
+* [Manged a major database update for the forum
+  software](https://talk.collegeconfidential.com/t/maintenance-scheduled-for-friday-september-30/3619753).
+* [Set up College Confidential's first moderator
+  elections](https://talk.collegeconfidential.com/t/moderator-nominations-for-fall-of-2022/3617796).
+* [Created a private forum for
+  politics](https://talk.collegeconfidential.com/t/politics-discussion-group/3617248).
+* [Hosted and produced episodes of the Admitted
+  podcast](https://talk.collegeconfidential.com/tag/podcast).
 * Brought on Sorin Istrate to replace me as [Head of Community at
   College
   Confidential](https://talk.collegeconfidential.com/t/introducing-cc-s-new-head-of-community-cc-sorin/3650152/1).
