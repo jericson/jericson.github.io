@@ -24,7 +24,7 @@ interacting with each other, I now plan, build and manage online communities.
 of the community for a new owner.** 
 
 * Community analysis such as [How does mandatory registration impact
-  participation?](https://jlericson.com/2022/10/14/registration_drives.html).
+  participation?](https://jlericson.com/2022/10/14/registration_drives.html)
 * [Manged a major database update for the forum
   software](https://talk.collegeconfidential.com/t/maintenance-scheduled-for-friday-september-30/3619753).
 * [Set up College Confidential's first moderator
