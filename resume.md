@@ -1,6 +1,6 @@
 ---
 layout: page
-#title: Résumé
+title: Résumé
 comments: yes
 permalink: /resume/
 ---
@@ -21,29 +21,34 @@ interacting with each other, I now plan, build and manage online communities.
 **Head of Community** | June 2022&ndash;Present
 
 **I returned to College Confidential in order to unlock the potential
-of the community for a new owner.**
+of the community for a new owner.** Over a year and a half. I
+stabilized the community and the software it runs on: Discourse. 
 
 * Community analysis such as [How does mandatory registration impact participation?](https://jlericson.com/2022/10/14/registration_drives.html)
 * [Manged a major database update for the forum software](https://talk.collegeconfidential.com/t/maintenance-scheduled-for-friday-september-30/3619753)
 * [Set up College Confidential's first moderator elections](https://talk.collegeconfidential.com/t/moderator-nominations-for-fall-of-2022/3617796)
 * [Created a private forum for politics](https://talk.collegeconfidential.com/t/politics-discussion-group/3617248)
 * [Hosted and produced episodes of the Admitted podcast](https://talk.collegeconfidential.com/tag/podcast)
+* Brought on Sorin Istrate to replace me as [Head of Community]([Head
+of Community at College
+Confidential](https://talk.collegeconfidential.com/t/introducing-cc-s-new-head-of-community-cc-sorin/3650152/1).
 
 ### Civitas 
 **Founder** | June 2021&ndash;Present
 
-**Working with Sorin Istrate, we started a community consultant company.**
-
-* Advised [Vested Finance](https://vestedfinance.com/) on their plan
-  to start a customer community. After analyzing their situation, we
-  agreed it wasn't a good time to start their community.
+**Working with Sorin Istrate, I started a community consultant company
+in my spare time.** We created a community plan for [Vested
+Finance](https://vestedfinance.com/), but returned to College
+Confidential as community managers before signing other clients.
 
 ### EDB
 **Developer Advocate** | April 2021&ndash;June 2022
 
 **I worked with the documentation team to help them produce excellent
 documentation in order to give people confidence they will be
-successful.**
+successful.** While I enjoyed getting back into documentation and
+using my developer skills, I discovered I wanted to return to
+community work.
 
 * [Documented a strategy for community contributions to EDB documentation](https://jlericson.com/2022/04/04/docs2_contribution.html)
 * [Moved binary files to LFS to speed up Git operations.](https://jlericson.com/2021/08/24/git_rewrite_1.html)
