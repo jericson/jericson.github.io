@@ -18,7 +18,7 @@ interacting with each other, I now plan, build and manage online communities.
 
 
 ### College Confidential
-**Head of Community** | June 2022&ndash;Present
+**Head of Community** | June 2022&ndash;November 2023
 
 **I returned to College Confidential in order to unlock the potential
 of the community for a new owner.** 
