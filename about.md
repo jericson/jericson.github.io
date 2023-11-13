@@ -17,7 +17,10 @@ consultancy](https://buildcivitas.com/). Since he's now [Head of
 Community at College
 Confidential](https://talk.collegeconfidential.com/t/introducing-cc-s-new-head-of-community-cc-sorin/3650152/1),
 I'm on my own. **If you have a mid-range community, [you might need my
-services](https://buildcivitas.com/why-hire-consultants/).
+services](https://buildcivitas.com/why-hire-consultants/).**
+
+
+---
 
 
 From time to time, I review things. Mostly board games at the
