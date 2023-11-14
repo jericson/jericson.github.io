@@ -121,6 +121,8 @@ best: building up communities. The hope from there is that happy
 clients recommend me to other organizations that need help with their
 communities. From then on I'm playing on the field of my own choosing.
 
+---
+
 [^1]: Technically I started this before I knew I needed to find more
     work. I've edited one chapter-ish so far and that work is going to
     be dormant for the immediate future.
