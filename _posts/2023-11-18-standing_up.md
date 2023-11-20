@@ -208,7 +208,7 @@ disengage](/2020/09/24/ignoring_others.html). That might mean changing
 the subject or [finding a better
 venue](https://talk.collegeconfidential.com/t/politics-discussion-group/3617248)
 for a conversation. There's no topic that's so important that it must
-be discussed always and everywhere. People matter more ideas. And
+be discussed always and everywhere. People matter more than ideas. And
 here's the thing: treating others with respect means **caring for
 people as individuals** rather than as stand-ins for their identities.
 
