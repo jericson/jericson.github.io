@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Résumé
 comments: yes
 permalink: /resume/
 ---
@@ -25,6 +24,8 @@ of the community for a new owner.**
 
 * Community analysis such as [How does mandatory registration impact
   participation?](https://jlericson.com/2022/10/14/registration_drives.html)
+  I also wrote SQL queries to keep track of metrics  and updated our
+  reporting to GA4.
 * [Manged a major database update for the forum
   software](https://talk.collegeconfidential.com/t/maintenance-scheduled-for-friday-september-30/3619753).
 * [Set up College Confidential's first moderator
@@ -50,9 +51,10 @@ Confidential as community managers before signing other clients.
 
 **I worked with the documentation team to help them produce excellent
 documentation in order to give people confidence they will be
-successful.** While I enjoyed getting back into documentation and
-using my developer skills, I discovered I wanted to return to
-community work.
+successful.** For many developers deciding on which software to
+recommend for purchase, online documentation is the first place they
+check. Too many companies ignore the value of documentation for
+marketing and lead generation.
 
 * [Documented a strategy for community contributions to EDB documentation](https://jlericson.com/2022/04/04/docs2_contribution.html)
 * [Moved binary files to LFS to speed up Git operations.](https://jlericson.com/2021/08/24/git_rewrite_1.html)
