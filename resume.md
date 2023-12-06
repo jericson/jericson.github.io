@@ -14,19 +14,29 @@ models. I operated a supercomputer cluster before computation
 became a commodity. But since nothing compares in complexity to humans
 interacting with each other, I now plan, build and manage online communities.
 
+### Civitas 
+**Founder** | June 2021&ndash;Present
+
+**I help companies understand their communities in order to achieve
+their goals.** While working at EnterpriseDB, I created a part-time
+community consulting company so that my community management skills
+wouldn't get rusty.
 
 
 ### College Confidential
 **Head of Community** | June 2022&ndash;November 2023
 
 **I returned to College Confidential in order to unlock the potential
-of the community for a new owner.** 
+of the community for a new owner.** The theme for this stretch was
+_stabilization_. With several changes in ownership, College
+Confidential felt the effects of changes in strategy. My work was both
+social and technical.
 
 * Community analysis such as [How does mandatory registration impact
   participation?](https://jlericson.com/2022/10/14/registration_drives.html)
   I also wrote SQL queries to keep track of metrics  and updated our
   reporting to GA4.
-* [Manged a major database update for the forum
+* [Managed a major database update for the forum
   software](https://talk.collegeconfidential.com/t/maintenance-scheduled-for-friday-september-30/3619753).
 * [Set up College Confidential's first moderator
   elections](https://talk.collegeconfidential.com/t/moderator-nominations-for-fall-of-2022/3617796).
@@ -38,15 +48,8 @@ of the community for a new owner.**
   College
   Confidential](https://talk.collegeconfidential.com/t/introducing-cc-s-new-head-of-community-cc-sorin/3650152/1).
 
-### Civitas 
-**Founder** | June 2021&ndash;Present
 
-**Working with Sorin Istrate, I started a community consultant company
-in my spare time.** We created a community plan for [Vested
-Finance](https://vestedfinance.com/), but returned to College
-Confidential as community managers before signing other clients.
-
-### EDB
+### EnterpriseDB
 **Developer Advocate** | April 2021&ndash;June 2022
 
 **I worked with the documentation team to help them produce excellent
