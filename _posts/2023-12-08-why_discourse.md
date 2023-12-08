@@ -194,10 +194,11 @@ experts hanging around who can.
     people who aren't on a community platform such as Discourse.
 
 [^6]: Even before I was hired I asked if College Confidential might
-    swithc to Discourse and the answer was "not a chance". At that
+    switch to Discourse and the answer was "not a chance". At that
     point I was mostly reacting the custom theme, which was just
-    unworkable, and I saw Discourse as a nicer looking product. Not
-    all Vanilla forums have poorly designed themes.
+    unworkable. I saw Discourse as a nicer looking product. Not all
+    Vanilla forums have poorly designed themes, so switching wasn't
+    obviously the right option at that point.
 
 [^7]: Relegating the snide remark about how this name was choicen
     because the feature stinks to a footnote.
