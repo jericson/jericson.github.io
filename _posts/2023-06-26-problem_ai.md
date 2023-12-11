@@ -781,7 +781,7 @@ swiftly. For this answer, that's 5 drafts plus the note at the end.
     GPT](https://chrome.google.com/webstore/search/GPT?hl=en-GB&_category=extensions). It's
     difficult to know how many answerers on Stack Overflow are
     actually using them in their workflow, however. I suppose [this
-    graph](https://i.stack.imgur.com/J72HF.png) suggests the number is
+    graph](/images/J72HF.png) suggests the number is
     rather small.
 
 -->

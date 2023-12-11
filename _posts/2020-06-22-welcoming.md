@@ -38,7 +38,7 @@ that have happened in recent years. The words in the comments from
 people who feel less welcoming certainly indicate that.
 
 [![cellio, firing, managers, inc, monica, behind,
-treatment](https://i.stack.imgur.com/pq1o9.png)](https://meta.stackoverflow.com/questions/397792/2020-developer-survey-results-feedback/397862#397862)
+treatment](/images/pq1o9.png)](https://meta.stackoverflow.com/questions/397792/2020-developer-survey-results-feedback/397862#397862)
 
 For the last few years, the survey has asked if respondents feel "part
 of the Stack Overflow community". This seems like a potentially less

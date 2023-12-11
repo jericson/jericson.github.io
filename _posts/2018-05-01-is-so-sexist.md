@@ -53,9 +53,9 @@ Part of our company's mandate (which is aligned with our business interests, to 
 
 Ultimately, getting to know the community is the key to understanding it. We don't have to look very hard to find people who think of the site as a free consulting service or really ought to spend some time learning about basic programming before asking a question or who seem incapable of civil interactions. Telling that sort of user that this isn't the place for them seems like a good idea. The tragedy is the type of person who wants easy answers aren't listening. Instead, people who haven't yet tried the site are learning they shouldn't bother&mdash;it's not for them.
 
-  [1]: https://i.stack.imgur.com/V4d7b.png
-  [2]: https://i.stack.imgur.com/TGoLt.png
-  [3]: https://i.stack.imgur.com/z8mhb.png
+  [1]: /images/V4d7b.png
+  [2]: /images/TGoLt.png
+  [3]: /images/z8mhb.png
 
 ---
 

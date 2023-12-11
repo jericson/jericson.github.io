@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How big is the Fastest Gun in the West bias?
-tags: meta-post fastest-gun
+tags: meta-post fastest-gun stack_overflow cm_book
 license: https://creativecommons.org/licenses/by-sa/3.0/
 author: Jon Ericson
 author_url: https://meta.stackexchange.com/users/1438/jon-ericson
@@ -23,10 +23,7 @@ most upvoted answers
 of.) The bias seems well known, but I haven't seen anyone actually
 measure it.
 
-How much does it cost to be the second person to answer a question
-rather than the first?
-
-# [My Answer](https://meta.stackexchange.com/a/225034/1438)
+## [How much does it cost to be the second person to answer a question rather than the first?](https://meta.stackexchange.com/a/225034/1438)
 
 I decided to look at all questions with exactly two non-negatively
 scored answers.  The first answer is declared the fastest gun and the
@@ -40,7 +37,7 @@ hope to get the top answer in any reasonable timeframe.  Indeed, if
 you look at answers a month apart, noise obscures the bias pretty
 thoroughly:
 
-[![Delta between first and last answer by hour difference up to one month.](https://i.stack.imgur.com/COQk3.png)](https://data.stackexchange.com/stackoverflow/query/173862/difference-in-score-by-delay-between-answers#graph)
+[![Delta between first and last answer by hour difference up to one month.](/images/COQk3.png)](https://data.stackexchange.com/stackoverflow/query/173862/difference-in-score-by-delay-between-answers#graph)
 
 
 The horizontal axis is the hours separating the answers from 0 to one
@@ -54,7 +51,7 @@ apart answers are separated in time.  There's good reason for that:
 the scale of the FGITW problem is minutes and seconds, not hours and
 days.
 
-[![Delta between first and last answer by minute difference up to four hours.](https://i.stack.imgur.com/Gotmd.png)](https://data.stackexchange.com/stackoverflow/query/173861/fgitw-effect#graph)
+[![Delta between first and last answer by minute difference up to four hours.](/images/Gotmd.png)](https://data.stackexchange.com/stackoverflow/query/173861/fgitw-effect#graph)
 
 This version shows answers separated by minutes up to 4 hours.  Again
 there is a lot of noise on the right side of the graph[^2],

@@ -61,7 +61,7 @@ So the people most likely to benefit from contacting us (our
 registered users) actually followed through about half the
 time. That's a respectable conversion rate for this form:
 
-> [![Contact Support](https://i.stack.imgur.com/GMlAl.png)](https://meta.stackexchange.com/contact)
+> [![Contact Support](/images/GMlAl.png)](https://meta.stackexchange.com/contact)
 
 These tend to be fairly motivated users who really do need our
 help. Meanwhile, better than 95% of anonymous users figure out they
@@ -89,7 +89,7 @@ might be in the wrong place.
 
 So on March 20 we added this notice to the top of the contact form:
 
-> [![Honeypot (text only)](https://i.stack.imgur.com/R6B3F.png)](https://meta.stackexchange.com/contact)
+> [![Honeypot (text only)](/images/R6B3F.png)](https://meta.stackexchange.com/contact)
 
 It communicates that the first place to go for help is Meta or the
 Help Center. I purposely point people to the
@@ -112,7 +112,7 @@ should decrease our 3<sup>rd</sup> party tickets by a quarter or
 so. The actual decrease was about 30%.[^2] That's pretty good, but
 we wondered if adding logos would improve our results:
 
-> [![Honeypot (logos)](https://i.stack.imgur.com/rAcwz.png)](https://meta.stackexchange.com/contact)
+> [![Honeypot (logos)](/images/rAcwz.png)](https://meta.stackexchange.com/contact)
 
 After eight days of testing this version we saw further improvement:
 

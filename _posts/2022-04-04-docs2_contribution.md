@@ -3,7 +3,7 @@ layout: post
 title: Docs 2.0
 subtitle: Everyone can contribute
 comments: yes
-tags: documentation
+tags: documentation docs_2
 ---
 
 I wrote a short series for our internal blog at

@@ -76,7 +76,7 @@ icons to represent
 "thanks"](https://meta.stackoverflow.com/q/398367/1438):
 
 ![Clap on the left and pray on the
-right.](https://i.stack.imgur.com/kMXts.png)
+right.](/images/kMXts.png)
 
 [Further communication](https://meta.stackoverflow.com/q/398909/1438)[^2]
 clarified that the team is watching other effects, such as impact on

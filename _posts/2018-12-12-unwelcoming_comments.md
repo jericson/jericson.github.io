@@ -100,7 +100,7 @@ Ok, let's get real. The immediate reason we started the Welcome Wagon is that ou
 
 We have a lot more diversity sitting just outside [programmer Jerusalem](https://www.joelonsoftware.com/2015/01/20/stack-exchange-raises-40m/). The network is still [male-dominated](https://www.quantcast.com/measure/stackexchange.com?country=US#/demographicsCard), of course. But the sites themselves host an incredible variety of topics beyond programming. It demonstrates that the Q&A format can be welcoming to a variety of people. I'm incredibly proud to be a part of these communities and we ought to do what we can to avoid the sort of catastrophic collapse that my model suggests is possible for any of our sites.
 
-  [1]: https://i.stack.imgur.com/QWV6S.png
+  [1]: /images/QWV6S.png
 
 ---
 

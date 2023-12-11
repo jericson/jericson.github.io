@@ -92,7 +92,7 @@ It's extremely unlikely this change will solve Stack Exchange problems. It's als
 
 
 
-  [1]: https://i.stack.imgur.com/PUQZu.png
+  [1]: /images/PUQZu.png
 
 
 Please direct comments to the [original post](https://meta.stackexchange.com/a/393434/1438).

@@ -37,7 +37,7 @@ the job, but I dread my `team@` days. Something has to change."
 This is part one in a series describing how we managed to reduce the
 misery factor of customer support even as our contact rate doubled:
 
-![Sent "contact us" forms by month across all sites.](https://i.stack.imgur.com/6cqVn.png)
+![Sent "contact us" forms by month across all sites.](/images/6cqVn.png)
 
 # Prehistory
 

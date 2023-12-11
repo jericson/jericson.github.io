@@ -59,10 +59,10 @@ Ignore the last point, obviously. We're a long way from knowing what will happen
   [sede-961239]: https://data.stackexchange.com/stackoverflow/query/961239/unanswered-questions-by-year#graph
   [sede-961607]: https://data.stackexchange.com/stackoverflow/query/961607/unanswered-questions-by-year#graph
 
-  [1]: https://i.stack.imgur.com/lh0JD.png
-  [2]: https://i.stack.imgur.com/jmp8Z.png
-  [3]: https://i.stack.imgur.com/OmSIc.png
-  [4]: https://i.stack.imgur.com/nsIkG.png
+  [1]: /images/lh0JD.png
+  [2]: /images/jmp8Z.png
+  [3]: /images/OmSIc.png
+  [4]: /images/nsIkG.png
 
 ---
 

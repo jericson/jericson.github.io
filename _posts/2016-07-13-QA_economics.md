@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why do people answer questions on Stack Overflow?
-tags: community
+tags: community stack_overflow cm_book
 comments: yes
 ---
 
