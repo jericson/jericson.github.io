@@ -153,10 +153,10 @@ such as reading. Discourse eliminated that one bit of friction for our
 community and most people won't notice it's missing.
 
 Discourse isn't perfect, of course. Vanilla did a better job
-organizing hundreds of categories, for instance. But unlike what I
+organizing hundreds of categories, for instance. Unlike what I
 experienced using Vanilla, the company that develops Discourse
-continues to improve the product. I have every reason to believe that
-will continue since [the company uses Discourse
+continuously improves the product. I have every reason to believe the
+software will keep getting better since [the company uses Discourse
 themselves](https://blog.discourse.org/2018/03/how-does-team-discourse-use-discourse/). To
 steal [a line from Warren
 Buffet](https://www.berkshirehathaway.com/letters/1983.html#:~:text=We%20eat%20our%20own%20cooking.),
