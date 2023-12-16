@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Building a community platform
-subtitle: BoardGameGeek
+title: BoardGameGeek
+subtitle: Building a community platform
 tags: community platform
 comments: true
 ---

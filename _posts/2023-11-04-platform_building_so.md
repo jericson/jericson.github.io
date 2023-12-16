@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Building a community platform
-subtitle: Stack Overflow
+title: Stack Overflow
+subtitle: Building a community platform
 tags: community platform
 comments: true
 ---
