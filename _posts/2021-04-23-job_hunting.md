@@ -260,17 +260,13 @@ Footnotes:
     it needed to scan my face, which is a bit unsettling.
 
 [^5]: The contact form helpfully notes:
-
-   >  If you have a question about your UI claim, you can contact the
-   >  EDD online, by mail, or by phone. The fastest way to contact the
-   >  EDD is by submitting a question below. Some topics are
-   >  informational only while other topics will allow you to submit a
-   >  question and receive a response. You may submit two questions
-   >  per day.
-   
-   The "fastest way to contact the EDD" takes "5-7 days" as it turns
-   out.
-
+     >  If you have a question about your UI claim, you can contact the
+     >  EDD online, by mail, or by phone. The fastest way to contact the
+     >  EDD is by submitting a question below. Some topics are
+     >  informational only while other topics will allow you to submit a
+     >  question and receive a response. You may submit two questions
+     >  per day.
+ 
 [^6]: Or should I say "Resumes"? Can't decide if the accents
     communicate "playful" or "pretentious"?
     
