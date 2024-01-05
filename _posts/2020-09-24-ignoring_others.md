@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ignoring others for community peace
-tags: design community
+tags: design community discourse
 comments: yes
 ---
 

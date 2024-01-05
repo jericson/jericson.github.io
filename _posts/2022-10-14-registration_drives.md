@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Registration and retention
-tags: community 
+tags: community discourse
 comments: true
 ---
 

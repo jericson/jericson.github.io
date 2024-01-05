@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My year at College Confidential
-tags: community career
+tags: community career discourse
 comments: true
 ---
 

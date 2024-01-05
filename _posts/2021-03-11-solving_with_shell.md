@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creating Discourse permalinks with shell commands
-tags: programming
+tags: programming discourse
 comments: true
 ---
 

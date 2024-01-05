@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Star Realms' leveling system
-tags: game design
+tags: game design discourse
 comments: true
 ---
 

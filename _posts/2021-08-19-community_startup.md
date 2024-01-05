@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Starting a new community
-tags: civitas community
+tags: civitas community discourse
 comments: yes
 image: /images/hollywood_bowl.jpg
 ---

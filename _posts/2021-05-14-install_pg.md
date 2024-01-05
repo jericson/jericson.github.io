@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Installing PostgreSQL the hard way
-tags: 
+tags: discourse programming postgresql
 comments: yes
 image: 
 ---

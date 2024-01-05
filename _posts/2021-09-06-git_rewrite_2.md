@@ -2,7 +2,7 @@
 layout: post
 title: Rewriting a Git repository
 subtitle: How we stopped making everything worse
-tags: git documentation
+tags: git documentation discourse
 comments: yes
 image: /images/ecobee.jpg
 ---

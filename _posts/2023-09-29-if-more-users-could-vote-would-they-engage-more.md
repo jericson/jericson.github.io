@@ -1,7 +1,7 @@
 ---
 layout: post
 title: If more users could vote, would they engage more?
-tags: meta-post
+tags: meta-post discourse stack_overflow
 license: http://creativecommons.org/licenses/by-sa/3.0/
 encoding: utf-8
 author: Jon &#39;links in bio&#39; Ericson

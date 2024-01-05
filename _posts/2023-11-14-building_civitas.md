@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing my community consulting business
-tags: community career civitas
+tags: community career civitas discourse
 comments: true
 ---
 

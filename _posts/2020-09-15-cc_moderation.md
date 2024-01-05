@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Moderating on Discourse
-tags: community moderation
+tags: community moderation discourse
 comments: yes
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wisdom scaled
-tags: community
+tags: community discourse
 ---
 
 On January 6, 2021, I had a meeting with a colleague about making some
