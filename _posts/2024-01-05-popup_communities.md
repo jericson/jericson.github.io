@@ -85,7 +85,7 @@ experience than most people care to obtain.  It occurs to me that I've
 been working with Discourse [for years](/tag/discourse) and setting up
 a workable system for pop-up communities doesn't seem difficult for
 me. In fact, I'm setting up mailing list for [my mom's
-writing](https://meta.jlericson.com/t/about-the-biography-category/249)
+writing](https://beta.buildcivitas.com/t/about-the-biography-category/16)
 using Discourse.
 
 
