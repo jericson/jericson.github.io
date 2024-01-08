@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pop-up communities
+title: Supporting pop-up communities
 tags: discourse community civitas
 comments: yes
 ---
