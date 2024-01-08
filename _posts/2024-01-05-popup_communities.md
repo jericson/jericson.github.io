@@ -5,6 +5,15 @@ tags: discourse community civitas
 comments: yes
 ---
 
+It's still early, but I'm working on a service that I think will
+combine the best parts of mailing lists with the simplicity
+Facebook/Slack/etc. Even better, I think I can offer this service at
+no cost to smaller groups. If you'd like to help me test this idea,
+please visit [Build
+Civitas](https://beta.buildcivitas.com/t/what-is-build-civitas-beta/5),
+which is in very early beta.
+
+
 Over the last few years, I've rather made a habit of leaving
 jobs. Whenever I do, I try to keep in touch by joining or creating an
 alumni group. It's so easy to drift off into new jobs and forget until
@@ -79,11 +88,4 @@ me. In fact, I'm setting up mailing list for [my mom's
 writing](https://meta.jlericson.com/t/about-the-biography-category/249)
 using Discourse.
 
-It's still early, but I'm working on a service that I think will
-combine the best parts of mailing lists with the simplicity
-Facebook/Slack/etc. Even better, I think I can offer this service at
-no cost to smaller groups. If you'd like to help me test this idea,
-please visit [Build
-Civitas](https://beta.buildcivitas.com/t/what-is-build-civitas-beta/5),
-which is in very early beta.
 
