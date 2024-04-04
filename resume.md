@@ -17,10 +17,30 @@ interacting with each other, I now plan, build and manage online communities.
 ### Civitas 
 **Founder** | June 2021&ndash;Present
 
-**I help companies understand their communities in order to achieve
-their goals.** While working at EnterpriseDB, I created a part-time
-community consulting company so that my community management skills
-wouldn't get rusty.
+**Using my experience as a community manager and a programmer, I help
+clients get the most out of their community software.** While working
+at EnterpriseDB, I created a part-time community consulting company so
+that my community management skills wouldn't get rusty. I now work
+full-time with clients using Discourse, the best forum software
+around.
+
+* [Rebel Capitalist forum](https://forum.georgegammon.com/) needed to
+  send emails to subscribers who wanted to get investment advice right
+  to their inbox. While configuring that, I discovered a problem with
+  their MemberPress subscription service and provided a solution.
+* The owner of [The WellOiledK9
+  forum](https://members.welloiledk9.com/about) struggled to set up a
+  subscription model on Discourse. I solved the technical problem and
+  set up a way for her to provide extended trial subscriptions to her
+  existing clients.
+* Evans Mechanical Services Inc needs a contact form that works well
+  on mobile devices and sends emails to employees when a new contact
+  is submitted. I'm building [a Discourse
+  plugin](https://github.com/jericson/discourse-contact-plugin) that
+  does just that. (As of this writing, it's a prototype that's not
+  ready for production.)
+* College Confidential is setting up a premium membership model to
+  help pay hosting costs and I'm managing the implementation.
 
 
 ### College Confidential
