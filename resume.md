@@ -52,8 +52,8 @@ _stabilization_. With several changes in ownership, College
 Confidential felt the effects of changes in strategy. My work was both
 social and technical.
 
-* Community analysis such as [How does mandatory registration impact
-  participation?](https://jlericson.com/2022/10/14/registration_drives.html)
+* Community analysis such as "[How does mandatory registration impact
+  participation?](https://jlericson.com/2022/10/14/registration_drives.html)"
   I also wrote SQL queries to keep track of metrics  and updated our
   reporting to GA4.
 * [Managed a major database update for the forum
