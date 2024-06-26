@@ -10,6 +10,7 @@ This is part two in an ongoing series looking at community platforms:
 
 1. [Stack Overflow](/2023/11/04/platform_building_so.html)
 2. [BoardGameGeek](/2023/11/06/platform_building_bgg.html)
+3. [College Confidential](https://beta.buildcivitas.com/t/case-study-college-confidential/75)
 
 ## What is BGG?
 
@@ -77,8 +78,8 @@ Gods](https://boardgamegeek.com/boardgame/229853/teotihuacan-city-gods) was rank
    and stats I hadn't seen before. Most people don't care, but the
    people who do care [get a lot out of the
    data](https://fivethirtyeight.com/features/designing-the-best-board-game-on-the-planet/).
-5. Many games include player count, play time and age recommendations
-   on the side of the box. BGG also lets the community suggest the
+5. Typically games include player count, play time and age recommendations
+   on the side of their box. BGG also lets the community suggest the
    best player counts and age limits, which work better than the
    publisher's numbers thanks to the wisdom of the
    crowd. Additionally, the community can give games [a complexity
@@ -119,7 +120,7 @@ Gods](https://boardgamegeek.com/boardgame/229853/teotihuacan-city-gods) was rank
    game works in detail before they buy or play the first time. BGG
    has some hand in producing these videos as well.
    
-Not ever game will have all of these items, of course. Less popular
+Not every game will have all of these items, of course. Less popular
 games, such as
 [MimocirQ](https://boardgamegeek.com/boardgame/355918/mimocirq), which
 I submitted to the database, show the bones of the structure. For more
