@@ -74,8 +74,8 @@ Gods](https://boardgamegeek.com/boardgame/229853/teotihuacan-city-gods) was rank
    you click the number, you'll get a breakdown of how many people
    gave each rating, comments (mini-reviews) and all sort of
    statistical data BGG has collected. Every time I look I see metrics
-   and stats I hadn't seen before. Most people care, but the people
-   who do care [get a lot out of the
+   and stats I hadn't seen before. Most people don't care, but the
+   people who do care [get a lot out of the
    data](https://fivethirtyeight.com/features/designing-the-best-board-game-on-the-planet/).
 5. Many games include player count, play time and age recommendations
    on the side of the box. BGG also lets the community suggest the
