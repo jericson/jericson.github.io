@@ -24,21 +24,19 @@ that my community management skills wouldn't get rusty. I now work
 full-time with clients using Discourse, the best forum software
 around.
 
+* I imported 2.4 million posts from the [Bullshido
+  archive](https://forums.bullshido.net/) from a MySQL database to the
+  active Discourse forum. Along the way, I contributed changes that
+  handled various data problems to the open source import script.
 * [Rebel Capitalist forum](https://forum.georgegammon.com/) needed to
   send emails to subscribers who wanted to get investment advice right
   to their inbox. While configuring that, I discovered a problem with
   their MemberPress subscription service and provided a solution.
-* The owner of [The WellOiledK9
-  forum](https://members.welloiledk9.com/about) struggled to set up a
-  subscription model on Discourse. I solved the technical problem and
-  set up a way for her to provide extended trial subscriptions to her
-  existing clients.
 * Evans Mechanical Services Inc needs a contact form that works well
   on mobile devices and sends emails to employees when a new contact
-  is submitted. I'm building [a Discourse
+  is submitted. I built [a Discourse
   plugin](https://github.com/jericson/discourse-contact-plugin) that
-  does just that. (As of this writing, it's a prototype that's not
-  ready for production.)
+  does just that. 
 * College Confidential is setting up a premium membership model to
   help pay hosting costs and I'm managing the implementation.
 
