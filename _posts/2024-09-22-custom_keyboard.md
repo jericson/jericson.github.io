@@ -100,8 +100,7 @@ competent (if not fast) when it comes to light data entry tasks.
 My solution was to buy a separate ten key pad (and the separate
 dwarvish num keycaps). That way I can put it nearby for when I need to
 enter a number into a form, but push it aside when I need more room
-for my mouse. (I'm going to talk about my keypad later in this post
-for all the data entry fans.)
+for my mouse. 
 
 ![Dwarf ten key and mouse](/images/dwarf_nums.jpg)
 
@@ -145,14 +144,14 @@ use that layout instead of breaking my muscle memory.
 
 After using the keyboard for a few weeks, I discovered the spacebar
 got stuck sometimes. Several keys on a mechanical keyboard require
-stabilizers which keep wide keys from being depressed
-unevenly. Spacebar is particularly troublesome since it covers the
-width of 6 regular keys. So there's a wire that stretches under the
-spacebar with spring-loaded pistons on either side to make sure the
-entire spacebar moves the same distance up and down. The stock
-stabilizers were prone to getting stuck, so the manufacturer offered a
-discount on better quality stabilizers for people who reported this
-problem.
+[stabilizers which keep wide keys from being depressed
+unevenly](https://www.keyboard.university/100-courses/stabilizers-lcjf2). Spacebar
+is particularly troublesome since it covers the width of 6 1/4 regular
+keys. So there's a wire that stretches under the spacebar with
+spring-loaded pistons on either side to make sure the entire spacebar
+moves the same distance up and down. The stock stabilizers were prone
+to getting stuck, so the manufacturer offered a discount on better
+quality stabilizers for people who reported this problem.
 
 When I got the GSV2 stabilizers, I opened the keyboard case for the
 first time. Or rather, I tried to open it. One of the screws was
@@ -165,6 +164,8 @@ the switch and going back to typing a moment later was immensely
 satisfying.
 
 
+---
+
 Here's the final cost for my setup:
 
 Item                                                         |    Cost
@@ -174,7 +175,7 @@ Mechanical Keyboard Switches (Gateron)                       |  $34.99
 GSV2 Premium Keyboard Stabilizers                            |   $4.99
 Drop + The Lord of the Rings™ MT3 Training Dwarvish Base Kit | $109.00
 Drop + The Lord of the Rings™ MT3 Dwarvish Numpad            |  $35.00
-Darmoshark Mechanical Numeric Keypad                         |  $42.99
+[Darmoshark Mechanical Numeric Keypad](http://www.darmoshark.cn/WIREDGAMINGKEYBOARD/13.html) |  $42.99
 **Total**                                                    | **$396.96**
 
 
@@ -210,5 +211,5 @@ Footnotes:
     time Glorious didn't support MacOS with their [Core
     software](https://www.gloriousgaming.com/pages/core). 
 
-<!--  LocalWords:  keycap Logitech keycaps numpad
+<!--  LocalWords:  keycap Logitech keycaps numpad Spacebar
  -->
