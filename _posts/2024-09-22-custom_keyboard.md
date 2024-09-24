@@ -123,7 +123,7 @@ most firmware puts the new firmware command on `function-\`, it's not
 quite so annoying after the first time.
 
 In order to get the setup I wanted, I created custom firmware using
-QMK^[4] You can see [my code on
+QMK[^4] You can see [my code on
 GitHub](https://github.com/jericson/qmk_firmware/blob/master/keyboards/jericson/keymap.c). The
 critical changes are:
 
