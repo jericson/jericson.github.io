@@ -303,7 +303,7 @@ GEM
     unf_ext (0.0.8.2)
     unicode-display_width (1.8.0)
     verbal_expressions (0.1.5)
-    webrick (1.8.1)
+    webrick (1.8.2)
     yell (2.2.2)
     zeitwerk (2.6.12)
 
@@ -332,7 +332,7 @@ DEPENDENCIES
   open_uri_redirections
   rack (>= 2.1.4)
   rake
-  webrick (~> 1.7)
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.3.3

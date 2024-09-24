@@ -42,4 +42,4 @@ gem 'concurrent-ruby'
 gem "kramdown", ">= 2.3.1"
 gem "rack", ">= 2.1.4"
 
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
