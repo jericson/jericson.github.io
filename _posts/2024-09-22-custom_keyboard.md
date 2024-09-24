@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building a custom keyboard
+title: Building a Lord of the Rings keyboard
 tags: programming
 comments: yes
 ---
