@@ -1,7 +1,7 @@
 ---
 layout: page
 comments: yes
-permalink: /resume/
+# permalink: /resume/
 ---
 
 ## Jon Ericson
@@ -11,8 +11,8 @@ jon@jlericson.com | [jlericson.com](https://jlericson.com/) | (818) 588-6566
 Complicated systems fascinate me. Perhaps that's why I was drawn to
 programming. In college I studied non-deterministic atmospheric
 models. I operated a supercomputer cluster before computation
-became a commodity. But since nothing compares in complexity to humans
-interacting with each other, I now plan, build and manage online communities.
+became a commodity. Nothing compares in complexity to humans
+interacting with each other, however. 
 
 ### Civitas 
 **Founder** | June 2021&ndash;Present
