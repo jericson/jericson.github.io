@@ -21,8 +21,8 @@ supercomputer cluster before computation became a commodity.
 | ---              | ---                  | ---     | ---           |
 | C/C++            | Oracle               | Docker  | Documentation |
 | Ruby             | PostgreSQL           | Rails   | Automation    |
-| SQL, R           | SQL Server           | Git     | Debugging     |
-| Shell, Lua, Perl | SQLite               | Ansible | Collaboration |
+| SQL, R           | SQL Server           | Ansible | Debugging     |
+| Shell, Lua, Perl | SQLite               | Git     | Collaboration |
 
 
 
