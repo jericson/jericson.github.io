@@ -49,7 +49,7 @@ software around.
   plugin](https://github.com/jericson/discourse-contact-plugin) that
   does just that. Then I created [a plugin to accept
   reviews](https://github.com/jericson/discourse-review-plugin) from
-  customers who can't be bothered to create an account/.
+  customers who can't be bothered to create an account.
 * For College Confidential created a process to import Department of
   Education data (updated several times a year) into PostgreSQL and
   generate school profiles using ERB templates. Using Discourse's API,
