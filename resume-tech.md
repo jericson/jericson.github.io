@@ -39,11 +39,11 @@ software around.
   two-container Discourse instance with an nginx proxy server. I wrote
   a suite of Ansible scripts to maintain these setup which is
   currently hosted on a Digital Ocean Droplet.
-* I imported 2.4 million posts from the [Bullshido
+* I imported 2.4 million posts from the [Bullshido Forum
   archive](https://forums.bullshido.net/) from a MySQL database to the
   active Discourse forum. Along the way, I contributed changes that
   handled various data problems to the open source import script.
-* Evans Mechanical Services Inc needs a contact form that works well
+* Evans Mechanical Services Inc needed a contact form that works well
   on mobile devices and sends emails to employees when a new contact
   is submitted. I built [a Discourse
   plugin](https://github.com/jericson/discourse-contact-plugin) that
@@ -53,7 +53,7 @@ software around.
 * For College Confidential created a process to import Department of
   Education data (updated several times a year) into PostgreSQL and
   generate school profiles using ERB templates. Using Discourse's API,
-  I edit the About topic for the matching school category.
+  I automated editing the About topic for each matching school category.
 
 ### College Confidential
 **Head of Community** | June 2022&ndash;November 2023
