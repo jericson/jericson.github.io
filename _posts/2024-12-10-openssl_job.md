@@ -65,7 +65,7 @@ maintain it as a core part of the internet's infrastructure.
 [Modern
 cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
 depends on the difficulty of computing the prime factorization of huge
-numbers. In a 1977 Mathematical GAmes column entitled ["A new kind of
+numbers. In a 1977 Mathematical Games column entitled ["A new kind of
 cipher that would take millions of years to
 break"](https://fermatslibrary.com/s/a-new-kind-of-cipher-that-would-take-millions-of-years-to-break),
 Martin Gardner published an encrypted message with a $100 price for
@@ -82,7 +82,7 @@ broke the code in 4 hours. In the future, quantum computers might use
 to break much stronger algorithms in a fraction of that time. Just
 today [Google announced a new quantum
 computer](https://www.nytimes.com/2024/12/09/technology/google-quantum-computing.html)
-which sounds like science fiction, but could bring us a step closer yo
+which sounds like science fiction, but could bring us a step closer to
 [technological
 breakthrough](https://blog.google/technology/research/google-willow-quantum-chip/).[^4]
 
