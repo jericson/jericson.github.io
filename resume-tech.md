@@ -2,7 +2,7 @@
 layout: page
 # title: Résumé
 comments: yes
-# permalink: /resume/
+permalink: /resume/
 ---
 
 ## Jon Ericson
