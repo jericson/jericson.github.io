@@ -1,22 +1,22 @@
 {
- "subject":"acct:jericson@hachyderm.io",
+ "subject":"acct:jericson@infosec.exchange",
  "aliases": [
-   "https://hachyderm.io/@jericson",
-   "https://hachyderm.io/users/jericson"
+   "https://infosec.exchange/@jericson",
+   "https://infosec.exchange/users/jericson"
  ],"links": [
    {
      "rel":"http://webfinger.net/rel/profile-page",
      "type":"text/html",
-     "href":"https://hachyderm.io/@jericson"
+     "href":"https://infosec.exchange/@jericson"
    },
    {
      "rel":"self",
      "type":"application/activity+json",
-     "href":"https://hachyderm.io/users/jericson"
+     "href":"https://infosec.exchange/users/jericson"
    },
    {
      "rel":"http://ostatus.org/schema/1.0/subscribe",
-     "template":"https://hachyderm.io/authorize_interaction?uri={uri}"
+     "template":"https://infosec.exchange/authorize_interaction?uri={uri}"
    }
  ]
 }
