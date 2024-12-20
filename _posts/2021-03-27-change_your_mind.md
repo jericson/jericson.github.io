@@ -104,13 +104,17 @@ then, it's generally fine to revert to the previous paradigm once the
 final is over.
 
 So it's not always clear that changing your mind is necessary. We tend
-to identify times when _other people_ need to change their minds.
-Paradoxically, that often means there's something wrong with our own
-way of thinking. A stark example is people who value diversity
-insisting in the strongest terms that people they disagree with need
-to change their opinions. I'm not saying their core beliefs are
-wrong. (I often find myself agreeing, in fact). Rather there is an
-inherent contradiction that ought to be examined with honesty.
+to identify times when _other people_ need to change their minds. To quote Jesus:
+
+> Judge not, that you be not judged.  For with the judgment you
+pronounce you will be judged, and with the measure you use it will be
+measured to you. Why do you see the speck that is in your brother’s
+eye, but do not notice the log that is in your own eye? Or how can you
+say to your brother, ‘Let me take the speck out of your eye,’ when
+there is the log in your own eye? You hypocrite, first take the log
+out of your own eye, and then you will see clearly to take the speck
+out of your brother’s eye.&mdash;Matthew 7:1–5
+([ESV](https://www.esv.org/Matthew+7/))
 
 At any rate, I started with a story about how I changed the way I
 think about video game controls and it's about time I got to the
