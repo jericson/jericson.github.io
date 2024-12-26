@@ -2,28 +2,24 @@
 title: Jon Quixote
 name: Jon Quixote
 icon: /images/donquixote.gif
-email: jon@jlericson.com
+
 description: > # this means to ignore newlines until "baseurl:"
   In which the author considers whether a community is more like a giant or more like a windmill.
-baseurl: "" # the subpath of your site, e.g. /blog/
+#baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://jlericson.com" # the base hostname & protocol for your site
-author: Jon Ericson
-author_url: https://meta.stackexchange.com/users/1438/jon-ericson
-rss: RSS feed
+author:
+  name: Jon Ericson
+  email: jon@jlericson.com
+#author_url: https://meta.stackexchange.com/users/1438/jon-ericson
+#rss: RSS feed
 
 #GA 
 google_analytics: G-84N1KC6S9M
 
 # SEO
 
-twitter_username: jlericson
-twitter:
-  username: jlericson
-  card: summary
 
 logo: /images/donquixote.gif 
-
-github_username:  jericson
 
 defaults:
   -
@@ -37,7 +33,21 @@ markdown: CommonMarkGhPages
 encoding: utf-8
 include: [.emacs, "/.well-known"]
 
-theme: minima
+#theme: minima
+remote_theme: jekyll/minima
+
+minima:
+  skin: auto
+  social_links:
+    - { platform: github, user_url: "https://github.com/jericson" }
+    - { platform: mastodon, user_url: "https://infosec.exchange/@jericson" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/jonericson/" }
+    - { platform: twitter, user_url: "https://x.com/jlericson" }
+    - { platform: facebook, user_url: "https://www.facebook.com/jlericson" }
+    - { platform: bluesky, user_url: "https://bsky.app/profile/jlericson.com" }
+    - { platform: devto, user_url: "https://dev.to/jericson" }
+    - { platform: keybase, user_url: "https://keybase.io/jericson/" }
+    - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/1438/jon-ericson" }
 
 # Why does this fail?
 #exclude: [tmp]
@@ -46,7 +56,7 @@ liquid:
   error_mode: warn
 
 commonmark:
-  options: ["FOOTNOTES", "UNSAFE"]
+  options: ["FOOTNOTES"]
   extensions: ["strikethrough", "autolink", "table"]
 
 # Tags (https://github.com/pattex/jekyll-tagging)
@@ -59,6 +69,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-titles-from-headings
+  - jekyll-feed
+  - jekyll-remote-theme
 
 #safe: true
 

@@ -10,13 +10,16 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-algolia', '~> 1.0'
   gem 'match_regex'
+  gem 'jekyll-remote-theme'
+  gem 'jekyll-feed'
+  gem 'jekyll-seo-tag'
 end
 
-gem 'github-pages'#, versions['github-pages'] 
+#gem 'github-pages'#, versions['github-pages'] 
 gem 'hpricot'
 
 # Styling
-gem "minima"
+#gem "minima"
 
 # testing
 gem 'rake'
@@ -35,11 +38,11 @@ gem 'htmlentities'
 
 gem 'jekyll-titles-from-headings'
 
-gem 'concurrent-ruby'
+#gem 'concurrent-ruby'
 
 # Dependabot
 #gem "nokogiri", ">= 1.11.0"
-gem "kramdown", ">= 2.3.1"
-gem "rack", ">= 2.1.4"
+#gem "kramdown", ">= 2.3.1"
+#gem "rack", ">= 2.1.4"
 
-gem "webrick", "~> 1.8"
+#gem "webrick", "~> 1.8"
