@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby -W1
+#!/usr/bin/env -S ruby -W1
 # encoding: UTF-8
 
 require 'net/http'
@@ -10,7 +10,7 @@ require 'open-uri'
 def localize_images(file)
   doc = File.read(file)
 
-  doc.scan(/(https:\/\/[\S]+\/)(\p{Alnum}*.png)/) do |match|
+  doc.scan(/(https:\/\/[\S]+\/)([0-9.\-A-Za-z]+.png)/) do |match|
     uri="#{$1}#{$2}"                     
     puts uri
     IO.copy_stream(URI.open(uri), "images_raw/#{$2}")
