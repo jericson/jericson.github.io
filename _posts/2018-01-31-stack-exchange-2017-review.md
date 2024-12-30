@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Stack Exchange 2017 in Review&mdash;Stack Overflow Blog'
+title: 'Stack Exchange 2017 in Review'
 tags: blogoverflow 
 ---
 
