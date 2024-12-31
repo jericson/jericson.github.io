@@ -101,62 +101,8 @@ Please join me in congratulating the users who earned **all 38 hats** across the
 * [Logan M](http://anime.stackexchange.com/users/24/logan-m) (32 hats on [Anime & Manga](http://winterbash2014.stackexchange.com/leaderboard/anime.stackexchange.com) and last year's winner)
 * [Martijn Pieters](http://stackoverflow.com/users/100297/martijn-pieters) (35 hats on [Stack Overflow](http://winterbash2014.stackexchange.com/leaderboard/stackoverflow.com))
 * [rolfl](http://codereview.stackexchange.com/users/31503/rolfl) (34 hats on [Code Review](http://winterbash2014.stackexchange.com/leaderboard/codereview.stackexchange.com))
-* [Mike Miller](http://math.stackexchange.com/users/98602/mike-miller) (36 hats on [Mathematics](http://winterbash2014.stackexchange.com/leaderboard/math.stackexchange.com))*
+* [Mike Miller](http://math.stackexchange.com/users/98602/mike-miller) (36 hats on [Mathematics](http://winterbash2014.stackexchange.com/leaderboard/math.stackexchange.com))[^1]
 
 And with that, we must say a fond farewell to the hats of 2014. If you have any feedback on this year's event, please [weigh in on Meta Stack Exchange](http://meta.stackexchange.com/questions/246533/winter-bash-closing-remarks-ideas-for-next-year).
 
-* The leaderboard counts hats earned across the network. While all four earned the maximum network-wide, the tiebreaker goes to the person who scored the most hats on their home site. Mike Miller's [36 hats on Mathematics](http://winterbash2014.stackexchange.com/leaderboard/math.stackexchange.com) was the maximum he could earn. The two he missed on Math were HairBoat, since [Abby hadn't posted on his site](http://math.stackexchange.com/users/14167/abby-hairboat) and Kofia, which is awarded to brand-new posters only.
-
-The most common non-secret hat was Saint Lucia (25,444 times to 19,390 users). It was also the first awarded (December 14 at 1200 UTC). Yes, that’s a day late. Other time-based hats were: Solstice (7,581 times to 6,858 users), Kofia (4,152 times to 4,019 users), Gelt (813 times to 757 users), Bill Lumbergh (325 times to 318 users), Resolution (244 times to 222 users), Stockings Hung by the Fire (223 times to 196 users), and Mistletoe (207 times to 154 users). Due to timezones, we were pretty generous with the timing. But not Mistletoe, which required chatting within a ten minute period around January 1, 2015 0000 UTC. Thankfully our chat servers handled the load just fine.
-
-
-
-
-
-The mobile app must have been on our mind recently since there are a number of hats that required it: Bugdroid (7,115 times to 4,776 users), Not a cherry (3,829 times to 2,403 users), On The Road (511 times to 451 users), and Got a Tablet for Christmas (231 times). I personally got an iPhone 6 for Christmas and used the iOS app to earn “Not a cherry”. Verdict: my fingers are still too big for phone-sized keyboards. Maybe I should get a tablet.
-
-
-
-
-
-
-
-
-
-
-
-Right in the middle of Winter Bash, balpha allowed hats to be rotated 360°. Lots of folks took advantage of this to concoct brand new hats such as the Praying Mantis, Soccer Necklace, Crab Face Googly Eyes, Next Generation Earpiece, and, of course, the Mulletbeard™.
-
-
-
-The most difficult hat was the Red Baron earned by just 26 users. It required posting an answer that was so good it changed they way people looked at the question. A great example of how this works is this answer, which was submitted while the question was at -7. After the answer (and a strategic edit to the question), the question got 10 straight upvotes to bring the score to +3 at the time of writing. Without the hat, this amazing accomplishment would have gone unrecognized. Especially pleasing for us: the idea for this hat came from a user suggestion to replace the existing Reversal badge. When it comes to amazing, talented and dedicated users, Stack Exchange’s cup overflows. We’ve been asked to share statistics about hats this year, which we are happy to do. In the weeks to come, I will be reporting things we learned from Winter Bash over on Meta Stack Exchange. In the meantime, enjoy a few more of my favorite hat-wearing avatars:
-
-
-
-
-
-
-
-
-
-
-
-As last year, the hats were illustrated by Elias Stein. I hope you enjoyed his work as much as we did. Thanks Elias!
-
-Announcing the winners
-Everyone who participated is a winner! Okay, that’s not what you are here for. Four individuals top the network-wide leaderboard:
-
-Network-wide leaderboard
-
-Please join me in congratulating the users who earned all 38 hats across the network:
-
-Logan M (32 hats on Anime & Manga and last year’s winner)
-Martijn Pieters (35 hats on Stack Overflow)
-rolfl (34 hats on Code Review)
-Mike Miller (36 hats on Mathematics)*
-And with that, we must say a fond farewell to the hats of 2014. If you have any feedback on this year’s event, please weigh in on Meta Stack Exchange.
-
-The leaderboard counts hats earned across the network. While all four earned the maximum network-wide, the tiebreaker goes to the person who scored the most hats on their home site. Mike Miller’s 36 hats on Mathematics was the maximum he could earn. The two he missed on Math were HairBoat, since Abby hadn’t posted on his site and Kofia, which is awarded to brand-new posters only.
-
-Create Topic
-Close
+[^1]: The leaderboard counts hats earned across the network. While all four earned the maximum network-wide, the tiebreaker goes to the person who scored the most hats on their home site. Mike Miller's [36 hats on Mathematics](http://winterbash2014.stackexchange.com/leaderboard/math.stackexchange.com) was the maximum he could earn. The two he missed on Math were HairBoat, since [Abby hadn't posted on his site](http://math.stackexchange.com/users/14167/abby-hairboat) and Kofia, which is awarded to brand-new posters only.
