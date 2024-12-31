@@ -33,6 +33,11 @@ gem 'jekyll-import'
 gem "open_uri_redirections"
 
 
+# Markdown
+gem 'kramdown'
+gem 'kramdown-parser-gfm'
+
+
 
 gem 'htmlentities'
 

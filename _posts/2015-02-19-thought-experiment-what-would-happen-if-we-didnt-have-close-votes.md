@@ -21,7 +21,7 @@ The most obvious result of no close votes is no closed questions. Since all ques
 
 <!-- 8593 -->
 
-[![When closed questions are closed and when they are answered](http://i.stack.imgur.com/FGw0J.png)](https://data.stackexchange.com/stackoverflow/query/edit/274788#graph)
+[![When closed questions are closed and when they are answered](/images/FGw0J.png)](https://data.stackexchange.com/stackoverflow/query/edit/274788#graph)
 
 This graph looks only at questions that are currently closed and shows how long (in minutes) it took for them to be answered and closed. The x-axis is the time elapsed in minutes and the y-axis is number of events. There are more total answers than closures because I'm only counting the time of the most recent closure, but including all answers. (I've linked to a [SEDE query](https://data.stackexchange.com/stackoverflow/query/edit/274788#graph) so that you can see what I'm up to. But notice that the public data does not include deleted posts.) 
 
