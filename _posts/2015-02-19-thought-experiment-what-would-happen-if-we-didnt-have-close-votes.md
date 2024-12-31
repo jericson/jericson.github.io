@@ -31,38 +31,39 @@ I put "costs" in scare quotes because, of course, theoretically answers to bad q
 
 <!-- 8595 -->
 
-    N        question state answer Score Score > 0 Score < 0 Score = 0 
-    -------- -------------- ------------- --------- --------- --------- 
-     1298965 closed         2.211         50.7      6.6       42.7      
-    14593333 open           2.013         55.7      3.6       40.7      
+|        N | question state | answer Score | Score > 0 | Score < 0 | Score = 0 |
+|---------:|----------------|-------------:|----------:|----------:|----------:|
+|  1298965 | closed         |        2.211 |      50.7 |       6.6 |      42.7 |
+| 14593333 | open           |        2.013 |      55.7 |       3.6 |      40.7 |
 
 While closed questions are more likely to get bad answers, on average the answers on closed questions seem _better_ than on open questions. How can this be? It turns out, the results are skewed by questions that are closed late, which I define as a month or more after initially asked:
 
-    N        question state answer Score Score > 0 Score < 0 Score = 0 
-    -------- -------------- ------------- --------- --------- --------- 
-     838328  early close    1.099         45.2      7.4       47.4      
-     460642  late close     4.236         60.8      5         34.2      
-    14593415 open           2.013         55.7      3.6       40.7      
+| N        | question state | answer Score | Score > 0 | Score < 0 | Score = 0 |
+|----------|----------------|--------------|-----------|-----------|-----------|
+| 838328   | early close    | 1.099        | 45.2      | 7.4       | 47.4      |
+| 460642   | late close     | 4.236        | 60.8      | 5         | 34.2      |
+| 14593415 | open           | 2.013        | 55.7      | 3.6       | 40.7      |
 
 There are probably other ways to slice this (such as number of answers, question score, or views), but questions are [closed early](https://stackoverflow.com/search?tab=newest&q=closed%3ayes) when the answers are likely to be unhelpful and [closed late](https://stackoverflow.com/search?tab=votes&q=closed%3ayes) when _additional_ answers are likely to be unhelpful. It's the difference between a question that's unclear and a question that's been answered too many times already.
 
 Of interest, here is the [same query excluding deleted posts](https://data.stackexchange.com/stackoverflow/query/274906/average-answer-score-on-closed-questions?opt.textResults=true):
  
-    N        question state average Score Score > 0 Score < 0 Score = 0 
-    -------- -------------- ------------- --------- --------- --------- 
-    474142   early close    1.687         63.6      2.2       34.1      
-    252388   late close     4.741         71.1      1.9       27        
-    12983819 open           2.268         61.6      1.5       36.9  
+| N        | question state | average Score | Score > 0 | Score < 0 | Score = 0 |
+|----------|----------------|---------------|-----------|-----------|-----------|
+| 474142   | early close    | 1.687         | 63.6      | 2.2       | 34.1      |
+| 252388   | late close     | 4.741         | 71.1      | 1.9       | 27        |
+| 12983819 | open           | 2.268         | 61.6      | 1.5       | 36.9      |
 
 The other result of no closed questions _might be_ fewer deleted questions:
 
 <!-- 8596 -->
 
-    N       question state deleted % 
-    ------- -------------- --------- 
-     897851 early close    67.6      
-     176921 late close     44.7      
-    9916795 open           14.4   
+| N       | question state | deleted % |
+|---------|----------------|-----------|
+| 897851  | early close    | 67.6      |
+| 176921  | late close     | 44.7      |
+| 9916795 | open           | 14.4      |
+
 
 I say "might" because a good percentage of deleted questions are [triggered automatically](https://meta.stackexchange.com/a/177675/1438). There's no reason to not also change the triggering conditions to take lack of closure into account.
 
