@@ -9,7 +9,7 @@ image:
 Since [I joined EDB](/2021/04/30/developer_advocate.html), I figured it
 was time to learn how to install Postgres. I techinically did it when
 I [installed Discourse](/2021/04/06/oracle_discourse.html). And at
-some point I seem to have typed `brew intstall postgres` on my
+some point I seem to have typed `brew install postgres` on my
 MacBook. But I'm talking installing it the hard way. I'm talking
 [installing from the source
 code](https://www.postgresql.org/docs/current/installation.html). Yeah!
