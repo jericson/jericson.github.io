@@ -146,8 +146,8 @@ Footnotes:
  
 
 [^3]: To my mind this vulnerability benefited from exceptional
- branding. Attackers could access private data by exploiting a memory
- leak in the implementation of the heartbeat extension.
+    branding. Attackers could access private data by exploiting a
+    memory leak in the implementation of the heartbeat extension.
 
 [^4]: To be clear, this isn't really of any practical use and there's
     [some question](https://x.com/skdh/status/1866352680899104960)
