@@ -9,16 +9,18 @@ permalink: /about/
 
 [This site runs on coffee.](https://meta.jlericson.com/t/this-site-runs-on-coffee/214)
 
-I'm currently looking for work and my [resume](/resume/)
-is only slightly out of date.
+I'm currently the [Communities Manager for the OpenSSL
+Foundation](/2024/12/10/openssl_job.html). My [resume](/resume/) is
+only slightly out of date.
 
+<!--
 Sorin Istrate and I started an [online community
 consultancy](https://buildcivitas.com/). Since he's now [Head of
 Community at College
 Confidential](https://talk.collegeconfidential.com/t/introducing-cc-s-new-head-of-community-cc-sorin/3650152/1),
 I'm on my own. **If you have a mid-range community, [you might need my
 services](https://buildcivitas.com/why-hire-consultants/).**
-
+-->
 
 ---
 
@@ -37,8 +39,8 @@ the games I've been playing recently:
 The source of this site can be found on
 [GitHub](https://github.com/jericson/jericson.github.io).
 
-[![Build
-Status](https://travis-ci.org/jericson/jericson.github.io.svg?branch=master)](https://travis-ci.org/jericson/jericson.github.io)
+<!--[![Build
+Status](https://travis-ci.org/jericson/jericson.github.io.svg?branch=master)](https://travis-ci.org/jericson/jericson.github.io) -->
 [![Netlify
 Status](https://api.netlify.com/api/v1/badges/cce2e3ae-1f33-434c-b923-4381f215d440/deploy-status)](https://app.netlify.com/sites/jlericson/deploys)
 

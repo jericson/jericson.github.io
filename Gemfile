@@ -16,14 +16,14 @@ group :jekyll_plugins do
 end
 
 #gem 'github-pages'#, versions['github-pages'] 
-gem 'hpricot'
+#gem 'hpricot'
 
 # Styling
 #gem "minima"
 
 # testing
 gem 'rake'
-gem 'html-proofer'
+#gem 'html-proofer'
 
 # tags
 gem 'jekyll-tagging'
