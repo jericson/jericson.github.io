@@ -128,20 +128,21 @@ Footnotes:
     rice](https://www.boredpanda.com/rice-story-truck-lorry-india/).
     
 [^2]: At the moment I can buy 4 pounds of sugar for $3.14 at
- Walmart. That's 78.5¢ a pound. Depending on my exact expected salary,
- I'd receive between 150,000 to 200,000 pounds of sugar. Depending on
- [the type of
- sugar](https://www.bhg.com/recipes/how-to/bake/how-many-cups-in-one-pound-of-sugar/)
- my salary would be between 300,000 and 800,000 cups. In cubic meters:
- 71 to 198. A [40 foot High Cube shipping container has a max capacity
- of 72
- m<sup>3</sup>](https://www.icontainers.com/cubic-meter-calculator-cbm/)
- so my employer would need to deliver at least 1 shipping container of
- granulated sugar or up to 3 shipping containers of powdered sugar a
- year to employ me. As my daughter pointed out, we could make and sell
- candy to get rid of all that sugar. In the meantime, I believe I
- could park the container on my driveway, though there might be a city
- ordinance against parking literal tons of sugar at my house.
+    Walmart. That's 78.5¢ a pound. Depending on my exact expected
+    salary, I'd receive between 150,000 to 200,000 pounds of
+    sugar. Depending on [the type of
+    sugar](https://www.bhg.com/recipes/how-to/bake/how-many-cups-in-one-pound-of-sugar/)
+    my salary would be between 300,000 and 800,000 cups. In cubic
+    meters: 71 to 198. A [40 foot High Cube shipping container has a
+    max capacity of 72
+    m<sup>3</sup>](https://www.icontainers.com/cubic-meter-calculator-cbm/)
+    so my employer would need to deliver at least 1 shipping container
+    of granulated sugar or up to 3 shipping containers of powdered
+    sugar a year to employ me. As my daughter pointed out, we could
+    make and sell candy to get rid of all that sugar. In the meantime,
+    I believe I could park the container on my driveway, though there
+    might be a city ordinance against parking literal tons of sugar at
+    my house.
  
 
 [^3]: To my mind this vulnerability benefited from exceptional
