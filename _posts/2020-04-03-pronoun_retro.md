@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My one-sided retrospective of Stack Overflow's pronoun affair
-tags: community opinion
+tags: community opinion stack_overflow conways_law
 comments: yes
 ---
 

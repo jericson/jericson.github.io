@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Community as meta-product
-tags: community
+tags: community conways_law
 comments: yes
 ---
 

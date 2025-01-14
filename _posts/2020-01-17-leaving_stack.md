@@ -3,7 +3,7 @@ layout: post
 title: Why I left Stack Overflow
 #date: 2020-01-17
 comments: yes
-tags: career
+tags: career stack_overflow conways_law
 ---
 
 Today is my last day as an employee of Stack Exchange, Inc. I'm
