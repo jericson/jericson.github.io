@@ -81,7 +81,7 @@ suspension. No need for a separate shame badge.
 
 In my estimation, a tiny percentage of people cause the majority of
 community strife. Rooting out those people (what I call [finding the
-Jack](2023/10/07/find_the_jack.html)) solves so many problems that
+Jack](/2023/10/07/find_the_jack.html)) solves so many problems that
 there's not much need for a gimmick like a shame badge.
 
 Shame works in social situations because it's really a feedback
