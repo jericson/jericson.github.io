@@ -69,6 +69,9 @@ GEM
       jekyll (>= 3.7, < 5.0)
       nokogiri (~> 1.0)
       reverse_markdown (~> 2.1)
+    jekyll-pandoc (2.0.1)
+      jekyll (>= 3.0)
+      pandoc-ruby (~> 2.0, >= 2.0.0)
     jekyll-remote-theme (0.4.3)
       addressable (~> 2.0)
       jekyll (>= 3.5, < 5.0)
@@ -115,6 +118,7 @@ GEM
       racc (~> 1.4)
     nuggets (1.6.1)
     open_uri_redirections (0.2.1)
+    pandoc-ruby (2.1.10)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     progressbar (1.13.0)
@@ -155,6 +159,7 @@ DEPENDENCIES
   jekyll-commonmark-ghpages
   jekyll-feed
   jekyll-import
+  jekyll-pandoc
   jekyll-remote-theme
   jekyll-seo-tag
   jekyll-sitemap

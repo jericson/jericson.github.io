@@ -13,6 +13,7 @@ group :jekyll_plugins do
   gem 'jekyll-remote-theme'
   gem 'jekyll-feed'
   gem 'jekyll-seo-tag'
+  gem "jekyll-pandoc"
 end
 
 #gem 'github-pages'#, versions['github-pages'] 

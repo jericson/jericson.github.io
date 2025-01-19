@@ -28,7 +28,9 @@ defaults:
 
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
+markdown: Pandoc
+
 #markdown: CommonMarkGhPages
 encoding: utf-8
 include: [.emacs, "/.well-known"]
@@ -37,7 +39,7 @@ include: [.emacs, "/.well-known"]
 remote_theme: jekyll/minima
 
 minima:
-  skin: auto
+  skin: civitas
   social_links:
     - { platform: github, user_url: "https://github.com/jericson" }
     - { platform: mastodon, user_url: "https://infosec.exchange/@jericson" }
@@ -71,6 +73,7 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-pandoc
 
 #safe: true
 
