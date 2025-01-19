@@ -39,7 +39,7 @@ the games I've been playing recently:
 The source of this site can be found on
 [GitHub](https://github.com/jericson/jericson.github.io).
 
-![GitHub Actions status](https://github.com/jericson/jericson.github.io/actions/workflows/jekyll.yml/badge.svg)
+[![GitHub Actions status](https://github.com/jericson/jericson.github.io/actions/workflows/jekyll.yml/badge.svg)](https://github.com/jericson/jericson.github.io/actions)
 
 <!--[![Build
 Status](https://travis-ci.org/jericson/jericson.github.io.svg?branch=master)](https://travis-ci.org/jericson/jericson.github.io) -->
