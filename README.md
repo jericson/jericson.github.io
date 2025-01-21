@@ -1,6 +1,6 @@
 # [jlericson.com](http://jlericson.com/)
 
-[![Build Status](https://travis-ci.org/jericson/jericson.github.io.svg?branch=master)](https://travis-ci.org/jericson/jericson.github.io)
+[![GitHub Actions status](https://github.com/jericson/jericson.github.io/actions/workflows/jekyll.yml/badge.svg)](https://github.com/jericson/jericson.github.io/actions)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/cce2e3ae-1f33-434c-b923-4381f215d440/deploy-status)](https://app.netlify.com/sites/jlericson/deploys)
 
 ## Layout additions
