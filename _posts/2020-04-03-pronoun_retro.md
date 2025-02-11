@@ -172,7 +172,6 @@ began resigning in protest and the CMs had no answers. We didn't know
 what was going on or how leadership intended to answer.
 
 ---
-<br/>
 
 > He replied, "I heard the sound of You in the garden, and I was afraid
 > because I was naked, so I hid."&mdash;[Genesis 3:10
@@ -229,7 +228,6 @@ by the CMs? Whatever the case, people who are ashamed of their actions
 (and inactions) naturally want to hide their shame.
 
 ---
-<br/>
 
 As the title says, this is a _one-sided_ retrospective. There have
 been changes to leadership since I left. It's possible the culture is
