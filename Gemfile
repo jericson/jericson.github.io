@@ -38,7 +38,12 @@ gem "open_uri_redirections"
 gem 'kramdown'
 gem 'kramdown-parser-gfm'
 
-
+# Remove warnings
+gem 'base64'
+gem 'logger'
+gem 'bigdecimal'
+gem 'mutex_m'
+gem 'ostruct'
 
 gem 'htmlentities'
 
