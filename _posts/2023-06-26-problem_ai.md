@@ -15,16 +15,14 @@ director suddenly tosses the paper away.
 ![Still from _8½_ in which the director has tossed away the critic's
 negative review](/images/crumpled_review.png)
 
-I mention it because: a) I fell asleep watching that film last night
-and b) that scene felt like a pretty good illustration of Stack
-Overflow's public response to criticism lately. It is a touch unfair,
-to be honest. The company has started a bunch of new projects, none of
-them are completed and the community has already deemed them
-failures. If [my reading](/2023/06/19/data_dump.html) is correct, the
-CEO has launched those projects with an aggressive deadline (the CEO's
-speech on July 27) and insufficient resources. Sure things look messy
-_now_. Maybe hold off judging until progress has been made,
-whydontcha?
+I mention it because that scene felt like a pretty good illustration
+of Stack Overflow's public response to criticism lately. The company
+has started a bunch of new projects, none of them are completed and
+the community has already deemed them failures. If [my
+reading](/2023/06/19/data_dump.html) is correct, the CEO has launched
+those projects with an aggressive deadline (the CEO's speech on July
+27) and insufficient resources. Sure things look messy _now_. Maybe
+hold off judging until progress has been made, whydontcha?
 
 It's hard to keep up with the new projects. There's:
 
@@ -37,8 +35,7 @@ It's hard to keep up with the new projects. There's:
 I could be missing one or two. Tallying up these initiatives I wonder
 if the quantity serves to put on a show of solving the problem while
 keeping everyone too busy to ask inconvenient questions. It may also
-create _esprit de corps_ within the company. Last time that happened,
-I already inoculated against such sentiments.
+create _esprit de corps_ within the company.
 
 There's plenty of criticism of these projects from meta users. Some of
 it is just angry, knee-jerk flames from people who feel slighted by
