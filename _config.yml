@@ -43,7 +43,8 @@ minima:
   social_links:
     - { icon: github, url: "https://github.com/jericson" }
     - { icon: mastodon, url: "https://infosec.exchange/@jericson" }
-    - { icon: linkedin, url: "https://www.linkedin.com/in/jonericson/" }
+    - { icon: linkedin, url: "https://www.linkedin.com/in/jonericson" }
+    - { icon: wikipedia-w, url: "https://meta.wikimedia.org/wiki/User:Jlericson" }
     - { icon: twitter, url: "https://x.com/jlericson" }
     - { icon: facebook, url: "https://www.facebook.com/jlericson" }
     - { icon: bluesky, url: "https://bsky.app/profile/jlericson.com" }
