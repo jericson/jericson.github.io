@@ -243,9 +243,7 @@ since there aren't exactly clear answers.
 
 **Next time**: My new job as a developer advocate.
 
----
 
-Footnotes:
 
 [^1]: Amusingly it's labeled `SSN No.` which I assume was a redundant
     use of "number". Kinda like "ATM machine".

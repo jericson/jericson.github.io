@@ -370,9 +370,7 @@ stadium staff hurried us into the stands. We wandered around a bit,
 shopped in the team shop, took a few more pictures and walked back to
 our car. A good day was had by all.
 
----
 
-Footnotes:
 
 [^1]: The Dodger's also lost Trevor Bauer, who was last year's Cy
     Young winner and the highest paid player in baseball (for now). LA

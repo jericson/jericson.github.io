@@ -253,9 +253,7 @@ company I wanted Stack Overflow to be (and thought it was) would not
 take a year to listen to what the people most active with the
 community were saying.[^7] Here's hoping for a better 2020.[^8]
 
----
 
-Footnotes:
 
 [^1]: I strongly suspect the there is an analog to [Dunbar's
     number](https://en.wikipedia.org/wiki/Dunbar%27s_number) at

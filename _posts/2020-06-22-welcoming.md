@@ -235,9 +235,7 @@ and provide a much needed service for developers. Instead, we get a
 [thanks
 reaction](https://twitter.com/jlericson/status/1273653468037705730).
 
----
 
-Footnotes:
 
 [^1]: I'm using "scare quotes" because companies like to label
     themselves "tech" in order to attract investments rather than

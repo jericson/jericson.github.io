@@ -221,9 +221,7 @@ templates](https://jekyllrb.com/docs/liquid/):
 If I set all this up correctly, you should be able to see an option to
 comment below the footnotes.[^4]
 
----
 
-Footnotes:
 
 [^1]: Obviously there is a _caveat lector_: you get what you pay
     for. For a fun side project that isn't critical, these free

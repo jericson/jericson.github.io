@@ -176,10 +176,6 @@ For most companies, the community isn't the product. But it can be a
 place for people (including employees) to have authentic conversations
 about whatever the company is selling.
 
----
-
-Footnotes:
-
 [^1]: Fellow employees will recall another adjective used in place of
     "little".
     

@@ -138,9 +138,7 @@ somehow?
 
 ![Sourdough bread sliced](/images/sourdough_slice.jpg)
 
----
 
-Footnotes:
 
 [^1]: I used [The Clever Carrot's sourdough starter
     recipe](https://www.theclevercarrot.com/2019/03/beginner-sourdough-starter-recipe/). In

@@ -199,9 +199,7 @@ project. It had to stop.
 
 Next time: [we stop digging](/2021/09/06/git_rewrite_2.html).
 
----
 
-Footnotes:
 
 [^1]: The full [Portable Game Notation
     (PGN)](https://en.wikipedia.org/wiki/Portable_Game_Notation) for

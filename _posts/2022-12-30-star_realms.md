@@ -148,9 +148,7 @@ to play. There is, however, more than enough strategic depth in the
 original core set to make those extra cards almost unnecessary. It's a
 masterwork of the genre.
 
----
 
-Footnotes:
 
 [^1]: This is only considering the orginal Core Set. There are many
     expansions that can add many more cards to the game, if you want.

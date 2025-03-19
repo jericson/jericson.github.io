@@ -209,9 +209,7 @@ group by date_trunc('month', u.created_at)
 order by date_trunc('month', u.created_at)
 ```
 
----
 
-Footnotes:
 
 [^1]: In this case it was a new platform. CC has been around [since
     2001](http://www.collegeconfidential.com/discus/), but everyone

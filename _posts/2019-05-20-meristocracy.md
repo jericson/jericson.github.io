@@ -176,9 +176,7 @@ gives status to users who have demonstrated a commitment to
 quality. Lacking other avenues to show that commitment, the ultimate
 sign of status is the whole flogging with scorpions thing.
 
----
 
-Footnotes:
 
 [^1]: Well, it was when I started writing this post on May 12.
 

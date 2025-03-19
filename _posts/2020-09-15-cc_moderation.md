@@ -199,9 +199,7 @@ allow for immediate removal of negative behavior and a path toward
 rehabilitation. And all of these systems can be configured to fit with
 existing moderation styles.
 
----
 
-Footnotes:
 
 [^1]: I moved across the country from Virginia to attend college at
     UCLA. I arrived early because I played tuba in the band and we had

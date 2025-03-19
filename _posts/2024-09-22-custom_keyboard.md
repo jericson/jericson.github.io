@@ -181,9 +181,7 @@ Drop + The Lord of the Rings™ MT3 Dwarvish Numpad            |  $35.00
 
 
 
----
 
-Footnotes:
 
 [^1]: I bought them quickly because I was worried they would be sold
     out. 

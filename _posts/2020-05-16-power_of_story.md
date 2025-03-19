@@ -231,9 +231,7 @@ those gaps.[^3] Just as stories can be told to exclude (like an
 inside joke) they can also be used to include. It just requires people
 to be open to listening to others to incorporate their point of view.
 
----
 
-Footnotes:
 
 [^1]: Even in movie or TV-special form! Though I do think it necessary
     to read the books if you really want to understand.

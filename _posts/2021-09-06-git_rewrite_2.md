@@ -320,9 +320,7 @@ If you read this far, you probably are looking forward to [next
 time](/2023/09/01/git_rewrite_3.html) when I explain how we rewrote our
 Git repository.
 
----
 
-Footnotes:
 
 [^1]: I eventually learned about the [hazzards of recursive
     make](https://stackoverflow.com/questions/559216/what-is-your-experience-with-non-recursive-make)

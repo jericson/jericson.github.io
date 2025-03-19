@@ -202,9 +202,7 @@ price is clearly explained given the complexity of financial aid.
 
 -->
 
----
 
-Footnotes:
 
 [^1]: I did find [one student who recieved a
     scholarship](https://www.latimes.com/california/story/2019-08-18/college-admissions-scandal-ucla-rick-singer). He

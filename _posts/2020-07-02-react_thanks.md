@@ -182,9 +182,7 @@ make sure everything was ok?
 
 -->
 
----
 
-Footnotes:
 
 
 [^1]: Come to think of it, it's possible some of my readers work at

@@ -272,9 +272,7 @@ whatever God puts before me.
 * https://talk.collegeconfidential.com/t/please-welcome-prompt-to-our-verified-expert-program/2104312
 --->
 
----
 
-Footnotes:
 
 [^1]: He means "pre-Discourse", but I like this phrasing too. ;-) I'll
     explain the transition to Discourse further into this post.

@@ -317,9 +317,7 @@ much advantage to using another language at all.
 
 Will I continue to write prototypes on the command line? Yes I shell.
 
----
 
-Footnotes:
 
 [^1]: In particular, text manipulation. It can be quite aggravating to
     see people struggle with manual tasks that could be solved with a

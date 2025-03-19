@@ -45,9 +45,7 @@ from looking at feature list why this is, but Google has consistently
 made better collaboration products than Microsoft for as long as I can
 remember.
 
----
 
-Footnotes:
 
 
 [^1]: Which is now, apparently, called [Google

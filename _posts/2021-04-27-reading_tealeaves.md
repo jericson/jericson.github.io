@@ -277,9 +277,7 @@ network effect advantage.[^6] Buying the company would give it unique
 access to millions of developers. And who knows? It might even connect
 Stack Overflow to LinkedIn somehow.
 
----
 
-Footnotes:
 
 [^1]: But forgetting to link to them in [the show
     note](https://stackoverflow.blog/2021/04/16/podcast-330-how-to-build-and-maintain-online-communities-from-gaming-to-open-source/).

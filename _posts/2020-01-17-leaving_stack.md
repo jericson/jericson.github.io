@@ -135,9 +135,7 @@ been a real joy and I will miss interacting with them all. Easily the
 worst thing about leaving is worrying their work will be that much
 harder with one less hand to do it. 
 
----
 
-Footnotes:
 
 [^1]: My plan was to write a book along the way, but I only have a
     handful of partial chapters to show for it.

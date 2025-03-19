@@ -154,9 +154,7 @@ you told that you immediately regretted, the year you cheated on your
 taxes. That's pretty much what it's like to read meta without grokking
 why people post there.
 
----
 
-Footnotes:
 
 [^1]: Obviously that's nothing compared to the last 90 days or so. 
 

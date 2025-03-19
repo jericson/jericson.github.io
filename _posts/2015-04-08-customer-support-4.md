@@ -189,9 +189,7 @@ improvements.
   3<sup>rd</sup> party tickets: manual account merges and deletions.
 
 
----
 
-Footnotes:
 
 [^1]: For those who are wondering, we also have unregistered and
       moderator user types. Neither is significant in relative terms,

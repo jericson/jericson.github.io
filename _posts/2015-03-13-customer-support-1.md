@@ -118,9 +118,7 @@ point.
 
 **Next time:** [scaling by hiring]({% post_url 2015-03-23-customer-support-2 %}).
 
----
 
-Footnotes:
 
 [^1]:
 

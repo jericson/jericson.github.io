@@ -167,9 +167,7 @@ a potential for kismet. You never know when people might come together
 by chance to do something amazing. If too many people ignore each
 other, it's like a lobotomy for a community. Ignore with caution.
 
----
 
-Footnotes:
 
 [^1]: For those who are curious, the formula is `n(n-1)/2`, which is
     the same as [the number of lines connecting `n` noncollinear

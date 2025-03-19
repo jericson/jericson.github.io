@@ -140,9 +140,7 @@ more reliable when I stop fiddling with it.
 
 <iframe height="600" src="https://stats.uptimerobot.com/6YKMJioVAx"></iframe>
 
----
 
-Footnotes:
 
 [^1]: I'm not going to call the company out by name (though it's not
     hard to figure it out, if you know how) because we're still under

@@ -225,9 +225,7 @@ theme for everyone.
 
 _Next time_: Making changes and working with branches.
 
----
 
-Footnotes:
 
 [^1]: It's similar to a paid internship, which [how I got my
     start](https://jlericson.com/2015/04/22/cs_females.html). 

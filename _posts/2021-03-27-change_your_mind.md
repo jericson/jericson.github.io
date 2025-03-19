@@ -158,9 +158,7 @@ unwillingness to care about others enough to inhabit their mind
 space. Ultimately, if you value being open-minded, you either will be
 frequently uncomfortable listening to others or you are a hypocrite.
 
----
 
-Footnotes:
 
 [^1]: Or [WWI](https://www.mobygames.com/game/red-baron), for that matter.
 

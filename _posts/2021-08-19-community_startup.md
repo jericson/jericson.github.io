@@ -199,9 +199,7 @@ critical that the people managing the community adjust to the new
 mental models of reality the nascent group presents. There's no script
 for this.
 
----
 
-Footnotes:
 
 [^1]: Stack Exchange has a site sponsorship program. Once we invited
     NASA to sponsor one of our sites. Probably [Space

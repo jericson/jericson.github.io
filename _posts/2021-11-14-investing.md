@@ -191,9 +191,7 @@ Read the book if that sounds interesting. It really is little (147
 pages) and it explains the formula in a logical way.[^5] Worth reading
 even if you don't use the formula.
 
----
 
-Footnotes:
 
 [^1]: Assuming you only count individual issues like that Dodger
     Stadium thing. Once they sold the initial lot, they are unlikely

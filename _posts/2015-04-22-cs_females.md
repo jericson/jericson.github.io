@@ -292,10 +292,6 @@ inherent in working with rock-star developers.
 
 
 
----
-
-Footnotes:
-
 [^1]: My big project at that time was a galaxy collision simulator
       typed from a _Sky & Telescope_ article. It was a great
       introduction to optimization and debugging.

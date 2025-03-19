@@ -175,9 +175,7 @@ matters in the Production phase.
 See also the discussion of this review on
 [BoardGameGeek](https://boardgamegeek.com/thread/2908813/game-about-applied-research).
 
----
 
-Footnotes:
 
 [^1]: Well, also the second in that there are two ways to end the
     game: take the last victory point chip or place the
