@@ -29,6 +29,7 @@ implementation](https://codenames.game/):
 ![Red has "space" and "satellite", but blue has "Venus".](/images/codenames.png)
 
 This is what the spymasters of each team will see:
+
 * Red and blue cards are the red and blue agents
   respectively. Spymasters only want their team to guess their own
   color and avoid signaling the opposite color, which helps the other
