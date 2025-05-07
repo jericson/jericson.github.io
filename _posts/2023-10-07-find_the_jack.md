@@ -18,8 +18,10 @@ I focused on:
 
 * Simplifying the language
 * Removing a bunch of sections that addressed edge cases
-* Broadening the rules so that they covered a wider range of behavior while also
-* Softening the language to give moderators discretion when it comes to enforcement.
+* Broadening the rules so that they covered a wider range of behavior
+  while also
+* Softening the language to give moderators discretion when it comes
+  to enforcement.
 
 Our legal team regularly updates the ToS and we do want to enforce
 them. But it's best to think of ToS violations as really obvious and
@@ -29,6 +31,16 @@ from "racial" posts. While that _can_ cover a lot of things people
 might write, the goal is to bar people from hosting Klan meetings on
 the site. When someone violates the ToS, there should be a serious
 discussion about banning their account for a very long time.
+
+Meanwhile the rules represent broad principles that guide rather than
+prescribe. "Discussion, Not Debate", for instance, gives everyone an
+idea of the sort of interactions we want on the site rather than, say,
+defining how many times a person can repeat their argument before it
+violates the rules. If someone digs in a bit too much, it can be
+corrected with a warning and an escalating series of
+consequences. They have an opportunity to align their behavior to the
+community norms or demonstrate they aren't interested in being good
+citizens.
 
 My thinking has been heavily influenced by [this philosophy of
 moderation](https://www.shamusyoung.com/twentysidedtale/?p=19709)
@@ -68,4 +80,12 @@ illustrates the range of people in a community:
 Jack](https://www.shamusyoung.com/twentysidedtale/images/moderate1.jpg)
 
 I don't usually have a problem identifying rules breakers, but most of
-them are Han Solo types. What I want to find is the Jack.
+them are Han Solo types. They tend to adapt to the situation around
+them. If there are enough Mr. Rogers types around, they generally
+behave well enough.
+
+What I want to find is the Jack; the one guy who likes nothing more
+than to watch the world burn. If there isn't enough drama, he'll light
+a match to the most flammable fuel he can find. If you see fires in
+our community, your Jack is sure to be right there looking as innocent
+as possible.
