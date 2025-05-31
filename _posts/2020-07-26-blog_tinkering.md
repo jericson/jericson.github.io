@@ -91,7 +91,7 @@ two for an image to load. Plus the text loads immediately so people
 can get to the words. But it's the sort of thing that really kills a
 site like [College
 Confidential](https://talk.collegeconfidential.com/). [Our PageSpeed
-on mobil is
+on mobile is
 5](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Ftalk.collegeconfidential.com). Out
 of 100. That's "remember modems?" speed. Now our problem is not mostly
 images. We're working to fix the problem because it really makes using
