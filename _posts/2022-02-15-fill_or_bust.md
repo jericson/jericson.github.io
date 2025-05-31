@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fill or Bust&mdash;Best version of the 6-dice push-your-luck game'
+title: 'Fill or Bust: Best version of the 6-dice push-your-luck game'
 tags: game review
 comments: true
 ---
