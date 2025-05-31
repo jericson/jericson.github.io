@@ -10,12 +10,13 @@ read_dom () {
 
 title='subject'
 
-curl https://www.boardgamegeek.com/xmlapi2/thread -d id=$1 -d count=1 | while read_dom; do
+curl "https://boardgamegeek.com/xmlapi2/thread?id=$1&count=1" | while read_dom; do
     if [[ $ENTITY = $title ]]; then
         echo "---
 layout: post
-title: '$2&mdash;$CONTENT'
+title: '$2: $CONTENT'
 tags: game review
+comments: yes
 ---
 
 [Originally published on Board Game
