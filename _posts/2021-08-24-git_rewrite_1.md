@@ -193,7 +193,7 @@ type of file.
 This is _unlimited linear growth_. Each time we built out we increased
 the size of the repo by roughly the size of our PDFs after [zlib
 compression](https://en.wikipedia.org/wiki/Zlib). By design, Git
-repositories never get smaller. It's a ratcheting effect that needless
+repositories never get smaller. It's a ratcheting effect that needlessly
 chewed up disk space and bandwidth for everyone who contributes to the
 project. It had to stop.
 
@@ -270,5 +270,5 @@ our story just now.
 [^5]: Git also compresses blobs and uses
     [packfiles](https://git-scm.com/book/en/v2/Git-Internals-Packfiles)
     to reduce the size of the repository. Interestingly, packfiles
-    work on a similarly to changesets except they can group similar
+    work similarly to changesets except they can group similar
     content even if it's not strictly speaking the same file.

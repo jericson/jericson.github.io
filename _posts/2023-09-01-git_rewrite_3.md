@@ -157,9 +157,6 @@ sent out emails to everyone I had a reason to suspect had make a
 copy. And then I moved on content in the knowledge that only some disk
 space, and not the space-time continuum itself, was at risk.
 
----
-
-
 [^1]: I [no longer work at EDB](/2022/06/13/year_at_edb.html), but I
     found this draft and decided to finish writing it. Hopefully I
     remember enough to be informative!

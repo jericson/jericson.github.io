@@ -140,12 +140,11 @@ But this is really terrible grammar that only a computer could love. Let's rewor
 > When there is a  `push` `on`  the `develop` `branch` . . . 
 
 I haven't talked about branches just yet, but this is feature of Git
-that allows people to work on different projects using the same code
-without stepping on each other's toes. It creates an alternate
-timeline that won't interfere with other timelines until someone
-decides to merge them. The important thing is that this particular
-workflow happens every time someone submits a change to the `develop`
-branch.
+that allows several people to work on the same code without stepping
+on each other's toes. It creates an alternate timeline that won't
+interfere with other timelines until someone decides to merge
+them. The important thing is that this particular workflow happens
+every time someone submits a change to the `develop` branch.
 
 What happens? Well that's defined in the second half of the file:
 
@@ -225,7 +224,7 @@ defining steps, but they boil down to:
 
 The crux of the problem, [as I previously
 explained]((/2021/08/24/git_rewrite_1.html)), is that we checked in
-PDFs files which caused our repository to grow without limit. So all
+PDF files which caused our repository to grow without limit. So all
 we need to do is eliminate step #3 there.
 
 Trouble is we want to keep PDFs indefinitely. So we need to store them
@@ -289,6 +288,7 @@ we've created have been overtaken by events.
 That said, the nifty thing about Git keeping all that history _and_
 using commodity compute power is that we can more or less re-generate
 any PDF we've ever created in the past. All we need to do is:
+
 1. Log into a computer with the same configuration as the computer we
 used to generate PDFs. (In our case, that's one running
 `ubuntu-20.04`.)  
