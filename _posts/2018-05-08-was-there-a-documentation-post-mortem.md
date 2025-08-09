@@ -10,11 +10,11 @@ date: 2018-05-08
 comments: no
 ---
 
-([Originally published](https://meta.stackoverflow.com/a/367572/1438) on meta.stackoverflow Stack Exchange by Jon Ericson.)
+([Originally published](https://meta.stackoverflow.com/a/367572/1438) on Meta Stack Overflow by Jon Ericson.)
 
 ---
 
-I never did write that retrospective. (Though I did touch on Documentation in [my 2017 retrospective](https://stackoverflow.blog/2018/01/31/stack-exchange-2017-review/) and [my personal blog](http://jericson.github.io/2017/12/08/race_to_1k_5.html).) We also used [100% of Town Hall #5](https://chat.meta.stackexchange.com/rooms/89/conversation/town-hall-5-9-august-2017) to talk docs. Last summer our UX researcher intern, Horyun Song, interviewed 13 technical writers and wrote up [her results](https://web.archive.org/web/20191019010027/http://horyun.design/docs) on her website. She did a more thorough and expert job than I did, but since you asked:
+I touched on Stack Overflow Documentation in [my 2017 retrospective](https://stackoverflow.blog/2018/01/31/stack-exchange-2017-review/) and [my personal blog](http://jericson.github.io/2017/12/08/race_to_1k_5.html).) We also used [100% of Town Hall #5](https://chat.meta.stackexchange.com/rooms/89/conversation/town-hall-5-9-august-2017) to talk docs. Last summer our UX researcher intern, Horyun Song, interviewed 13 technical writers and wrote up [her results](https://web.archive.org/web/20191019010027/http://horyun.design/docs) on her website. She did a more thorough and expert job than I could, but here is my postmortem.
 
 # Why Documentation didn't work
 
