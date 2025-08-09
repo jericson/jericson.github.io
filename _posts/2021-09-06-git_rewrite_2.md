@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Rewriting a Git repository: How we stopped making everything worse
-tags: git documentation discourse
+title: 'Rewriting a Git repository: How we stopped making everything worse'
+tags: git documentation 
 comments: yes
 image: /images/ecobee.jpg
 ---
