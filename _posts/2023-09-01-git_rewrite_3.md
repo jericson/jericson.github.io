@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Rewriting a Git repository
-subtitle: Dealing with distribution
+title: Rewriting a Git repository: Dealing with distribution
 tags: git documentation
 comments: yes
 image: /images/Caro-Kann_clone.png

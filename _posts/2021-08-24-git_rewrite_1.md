@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Rewriting a Git repository
-subtitle: Unlimited growth (in a bad way)
+title: Rewriting a Git repository: Unlimited growth (in a bad way)
 tags: git documentation
 comments: yes
 image: /images/Caro-Kann.png
