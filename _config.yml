@@ -30,8 +30,9 @@ defaults:
 # Build settings
 #markdown: kramdown
 markdown: Pandoc
-
+#markdown: Paru
 #markdown: CommonMarkGhPages
+
 encoding: utf-8
 include: [.emacs, "/.well-known"]
 
@@ -75,6 +76,8 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-pandoc
+#  - jekyll-spaceship
+#  - jekyll-paru
 
 #safe: true
 

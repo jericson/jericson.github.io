@@ -14,6 +14,8 @@ group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'jekyll-seo-tag'
   gem "jekyll-pandoc"
+  #  gem 'jekyll-spaceship'
+  gem 'jekyll-paru'
 end
 
 #gem 'github-pages'#, versions['github-pages'] 
@@ -52,8 +54,10 @@ gem 'jekyll-titles-from-headings'
 #gem 'concurrent-ruby'
 
 # Dependabot
-#gem "nokogiri", ">= 1.11.0"
+gem "nokogiri", ">= 1.19.1"
 #gem "kramdown", ">= 2.3.1"
 #gem "rack", ">= 2.1.4"
 
 #gem "webrick", "~> 1.8"
+
+gem "openssl", "~> 3.3"
