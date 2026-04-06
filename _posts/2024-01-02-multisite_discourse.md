@@ -72,7 +72,7 @@ instructions](https://meta.discourse.org/t/run-other-websites-on-the-same-machin
 to install Nginx and change app.yml to:
 
 1. Remove SSL related templates,
-2. Add in `- "templates/web.socketed.template.yml" and
+2. Add in `- "templates/web.socketed.template.yml"` and
 3. Remove any exposed ports.
 
 At this point I did a `sudo /var/discourse/launcher rebuild app` to
