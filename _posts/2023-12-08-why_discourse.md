@@ -13,9 +13,9 @@ personal computers:
 3. Linux which also works on most hardware, but hasn't gained much market share.
 
 For years I used Windows on a PC I build from parts I bought at
-Fry's. The first thing I'd install was the functional equivalent of [a
-Linux distribution for Windows](https://www.cygwin.com/).[^1] At
-[Stack
+[Fry's](https://myburbank.com/frys-closes-doors-nationally-new-development-already-planned-for-burbank-site/). The
+first thing I'd install was the functional equivalent of [a Linux
+distribution for Windows](https://www.cygwin.com/).[^1] At [Stack
 Overflow](/2013/08/09/please-welcome-jon-ericson-community-manager.html)
 I discovered Macs make good developer machines. If you [open a
 terminal
@@ -27,6 +27,7 @@ every day, but always through a Mac or Windows OS.
 
 Why don't I use Linux for my regular OS? Well, it suffers that fate of
 "programmer design". Here's the process:
+
 1. A programmer creates an interface that works.
 2. Better not to mess with a good thing.
 
@@ -173,8 +174,6 @@ Discourse](https://meta.discourse.org/c/marketplace/14) to look for
 leads. I might not be able to help you myself, but there are other
 experts hanging around who can.
 
-
----
 
 [^1]: When [I use Windows these days](/2021/05/14/install_pg.html), I
     install [Windows Subsystem for Linux
