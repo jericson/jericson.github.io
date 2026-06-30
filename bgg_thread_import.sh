@@ -9,8 +9,10 @@ read_dom () {
 }                    
 
 title='subject'
+body=false
 
-curl "https://boardgamegeek.com/xmlapi2/thread?id=$1&count=1" | while read_dom; do
+curl -H "Authorization: Bearer $BGG_TOKEN" \
+     "https://boardgamegeek.com/xmlapi2/thread?id=$1&count=1" | while read_dom; do
     if [[ $ENTITY = $title ]]; then
         echo "---
 layout: post
@@ -27,6 +29,23 @@ Geek.](https://boardgamegeek.com/thread/$1)
     fi
 
     if [[ $ENTITY = "body" ]]; then
-        echo $CONTENT | perl -MHTML::Entities -pe 'decode_entities($_);s|<br/>|\n|g'
+        body=true
     fi
+
+    if [[ $ENTITY = "/body" ]]; then
+        body=false
+    fi
+
+    if [[ $body ]]; then
+        echo $CONTENT \
+            | perl -MHTML::Entities -pe 'decode_entities($_);s|<br/>|\n|g' \
+            | grep -v ']]>'
+        
+        if [[  $ENTITY =~ 'img *' ]]; then
+            echo "<$ENTITY>"
+        fi
+    fi
+
+    #echo ">>>$ENTITY<<<"
+   
 done

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Review of _Unacceptable_
-tags: community review
+tags: community review ⭐⭐⭐⭐⭐ 
 comments: true
 excerpt: 'You''ve probably heard of the 
   ["Operation Varsity Blues" investigation](https://en.wikipedia.org/wiki/2019_college_admissions_bribery_scandal)
