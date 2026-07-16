@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '_Arkham Horror: The Card Game_'
-tags: game review
+tags: game review ⭐⭐⭐⭐⭐
 ---
 
 _Arkham Horror: The Card Game_ is the sort of game that comes with a
@@ -31,7 +31,7 @@ series of disclaimers. Here are mine:
    I got a second core because it helps to have a second copy of the
    various investigator cards to build stronger decks. One core
    suffices to get the feel of the game, though.
-   
+
    The difficulty with getting two cores is that you also get two
    copies of the scenario cards, which is wasteful. So the publisher
    shifted to a "revised" core that included a full compliment of
@@ -40,7 +40,7 @@ series of disclaimers. Here are mine:
    matter for some investigators and includes better tokens. Unless
    you find the original core for a cut-rate price, you'll probably
    want to stick with the revised core.
-   
+
    The situation with expansions is, if anything, more
    complicated. See near the end of this review for details. And to
    top things off, Fantasy Flight recently [announced a new core
@@ -48,7 +48,7 @@ series of disclaimers. Here are mine:
    you are entirely new to the game, it seems best to hold off until
    the second chapter is released and avoid the confusing release
    models that currently exist.
- 
+
 ## On to the review
 
 _Arkham Horror: The Card Game_ isn't really a game, but rather a game
@@ -76,7 +76,7 @@ with a revealed and unrevealed side depending on whether an
 investigator has visited the location.  As implied by the name,
 investigators will need to search the locations for clues using their
 own custom deck of cards representing various assets, skills and
-events.^[Yes, you can _cause_ events to happen at will.] 
+events.^[Yes, you can _cause_ events to happen at will.]
 
 Two decks of cards represent the [recto and
 verso](https://en.wikipedia.org/wiki/Recto_and_verso) of a book. The
@@ -153,7 +153,7 @@ unfun. Scenarios in Arkham Horror must serve two purposes:
    it tells a story of mystery and the uncanny.
 2. Subsequent plays begin to lose the story element and become
    puzzles to be solved.
-   
+
 The first two scenarios work well as stories even after playing a few
 times and continue to be interesting puzzles for testing new
 investigator decks. Choices you make in those scenarios impact the
@@ -229,7 +229,7 @@ investigator cards and didn't care about the campaign. Or the other
 way around. While investigators do tend to have thematic connections
 to the campaign they are tied to, they aren't out-of-place in other
 campaigns. Another problem is that if you miss one the Mythos Packs,
-it's harder to complete the cycle. 
+it's harder to complete the cycle.
 
 So starting with _Edge of the Earth_, the cycle was sold in two boxes:
 
@@ -250,7 +250,7 @@ I've had good luck with the last since there are copies in the wild
 purchased by people who have either stopped playing the game or who
 bought more expansions than they ended up playing. This can spread out
 the cost and drip-feed content. Certain mythos packs command high prices,
-however. 
+however.
 
 That said, it's likely easier to just buy the new format. If you do,
 you can get a new campaign and add investigators from another
@@ -268,7 +268,7 @@ As an sample of the what the game offers, the core set (whether the
 revised or original) does the job. I played it 3 or 4 times to try out
 the different investigators. It's not terribly expensive (especially
 the original core) and if you don't feel inspired by the system,
-there's no reason to invest more. 
+there's no reason to invest more.
 
 But for those who _do_ want to continue, the core set (either the
 revised or two original cores) anchor your collection. Should you dig

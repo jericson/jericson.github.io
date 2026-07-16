@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Blood of an Englishman: Head to head fable simulator"
-tags: game review
+title: _The Blood of an Englishman_: Head to head fable simulator"
+tags: game review ⭐⭐⭐
 comments: true
 ---
 
@@ -31,10 +31,10 @@ giant eager to squash Jack. The giant has [one
 aim](https://en.wikipedia.org/wiki/Fee-fi-fo-fum):
 
 
-> Fee-fi-fo-fum,  
-> I smell the blood of an Englishman,  
-> Be he alive, or be he dead  
-> I'll have his bones to grind my bread.  
+> Fee-fi-fo-fum,
+> I smell the blood of an Englishman,
+> Be he alive, or be he dead
+> I'll have his bones to grind my bread.
 
 Mixed among the vines and the treasure are eight cards with an
 increasingly threatening giant. There are two cards each labeled Fe,

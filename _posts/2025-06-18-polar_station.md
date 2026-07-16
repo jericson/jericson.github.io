@@ -2,7 +2,7 @@
 layout: post
 title: '_Exit: The Game&mdash;The Polar Station_'
 subtitle: 'Maybe too much of a good thing'
-tags: game review
+tags: game review ⭐⭐⭐
 ---
 
 The _Exit_ series are escape-rooms-in-a-box featuring riddles that
@@ -13,8 +13,8 @@ single-play-only game since players will literally spoil the puzzles.
 
 ![After escaping Research Station IMB-Q-13, I tried to pack it up
 again.](/images/polar_station.jpg)
- 
- 
+
+
 Reviewing such a game comes with unique challenges. Generally games
 need more than a single session to evaluate. Not only do some games
 unfold their secrets only after several plays, you gotta beware of
@@ -32,7 +32,7 @@ coming. Unfortunately, you'll need to open a series of containers in
 order to find the code that will open the door to exit. My daughter
 enjoyed the story at the start, but the focus shifts to puzzles pretty
 quickly. Each fits well into the overall theme, but there's no time to
-read lore until the very end. 
+read lore until the very end.
 
 I played with my children: 10-year-old twins and my college-age
 son. We read the rules together and while the mechanism for opening
@@ -92,11 +92,10 @@ our Goldilocks zone, we had a satisfying escape.
 I only noticed after we finished that there is a helper app for this
 title that provides a tutorial and a timer with ambient sounds.  The
 rule book said the app also includes three bonus riddles, but I don't
-know where they might be. 
+know where they might be.
 
 Taken as a whole, _The Polar Station_ comes together as a
 professionally developed experience for a bargain price. This is
 perhaps more difficult than the 3/5 level printed on the box
 implies. Again, this is group dependent and I haven't tried any other
-entry in the series. 
-
+entry in the series.

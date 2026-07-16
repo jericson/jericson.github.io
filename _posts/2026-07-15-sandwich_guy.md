@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Sandwich Guy serves the ingredients he's dealt
-tags: game review
+title: _The Sandwich Guy_ serves the ingredients he's dealt
+tags: game review ⭐⭐⭐
 comments: yes
 ---
 

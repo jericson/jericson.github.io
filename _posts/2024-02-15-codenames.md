@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Codenames
+title: _Codenames_
 subtitle: No secret to this success
-tags: game review
+tags: game review ⭐⭐⭐⭐⭐
+comments: true
 ---
 
-With such a simple concept, it's hard to believe Codenames isn't a
+With such a simple concept, it's hard to believe _Codenames_ isn't a
 refined version of an older parlor game.[^1] Each team selects a
 spymaster who knows the codename of each team's agents as they are
 laid out in a grid on the table. Then the spymasters take turns
@@ -15,7 +16,7 @@ guess. The first team to have all of their target agents revealed
 select another spymaster and play again.
 
 Great party games don't need the safety net of scoring. I vaguely
-remember Codenames having a score system. When I checked [the
+remember _Codenames_ having a score system. When I checked [the
 rules](https://czechgames.com/files/rules/codenames-rules-en.pdf) I
 discovered there is&mdash;for the two-player variant. I suppose
 competitive people would just keep track of how many times their team
@@ -23,7 +24,7 @@ won. Keeping track of winners and losers just doesn't add a whole lot.
 
 Not that Codenames isn't challenging. It's more that the challenge
 comes from mastering the puzzle each array of words presents. Here's
-an example lineup from the [Codenames online
+an example lineup from the [_Codenames_ online
 implementation](https://codenames.game/):
 
 ![Red has "space" and "satellite", but blue has "Venus".](/images/codenames.png)
@@ -68,7 +69,7 @@ new puzzle to their teams. But not just to their own team. If you see
 brief "monkey pox" scare. Again, it can help to know your audience.
 
 Generally party games become unbalanced with couples or close friends
-are on the same team. Codenames isn't an exception, though it does
+are on the same team. _Codenames_ isn't an exception, though it does
 lead to second guessing that can result in disaster. Recently I played
 with my wife and gave the clue "Salt 3". My team narrowed it down to
 these words:
@@ -82,7 +83,7 @@ I hadn't connected "salt" to "compound", but my wife was right when
 she said that's something I was prone to doing. So instead of "beach",
 which was a reach, they picked "compound". It was the assassin. For
 whatever reason my brain didn't make a connection it normally would,
-so we lost. Codenames rewards cleverness and anticipating the thinking
+so we lost. _Codenames_ rewards cleverness and anticipating the thinking
 of other people. But there's always a risk of over-thinking things
 both as a spymaster and as a team member.
 
@@ -97,7 +98,7 @@ their options.
 
 Now sometimes a spymaster takes too long coming up with a clue.[^2]
 This is sometimes called Analysis Paralysis (AP) and can kill the
-momentum of a game. Codenames includes a sand timer and very unusual
+momentum of a game. _Codenames_ includes a sand timer and very unusual
 rule for deploying it. Most of the time it stays in the box, but
 anyone can start the timer if they feel it's needed. The rules even
 suggest a spymaster set the timer for themselves so that they have a
@@ -111,8 +112,8 @@ like every second is an eternity. Setting a timer does limit your
 time, but you don't have to worry you are taking too long. As long as
 you beat the timer, you've kept to a socially-acceptable pace.
 
-At it's heart, Codenames is a word-association game that's probably a
-lot closer to Apples to Apples than I'd like to imagine. The spy novel
+At it's heart, _Codenames_ is a word-association game that's probably a
+lot closer to _Apples to Apples_ than I'd like to imagine. The spy novel
 theme lifts it out of that comparison for me. Card art provides an
 assist with suave red and blue agents, and confused neutrals. (As an
 extra touch of class these cards have a male and a female side that
@@ -124,9 +125,9 @@ miscalculation.
 ---
 
 [^1]: I'm specifically thinking of
-    [Balderdash](https://boardgamegeek.com/boardgame/163/balderdash),
+    [_Balderdash_](https://boardgamegeek.com/boardgame/163/balderdash),
     which closely resembles
-    [Dictionary](https://boardgamegeek.com/boardgame/28553/fictionary). It's
+    [_Dictionary_](https://boardgamegeek.com/boardgame/28553/fictionary). It's
     an excellent re-implementation.
 
 [^2]: Or occationally a team takes too long finalizing their guesses,
