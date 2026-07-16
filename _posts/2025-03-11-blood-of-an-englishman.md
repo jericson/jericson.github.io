@@ -1,6 +1,6 @@
 ---
 layout: post
-title: _The Blood of an Englishman_: Head to head fable simulator"
+title: '_The Blood of an Englishman_: Head to head fable simulator'
 tags: game review ⭐⭐⭐
 comments: true
 ---
