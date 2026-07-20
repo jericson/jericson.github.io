@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Review of _Unacceptable_
-tags: community review ⭐⭐⭐⭐⭐ 
+tags: community review ⭐⭐⭐
 comments: true
-excerpt: 'You''ve probably heard of the 
+excerpt: 'You''ve probably heard of the
   ["Operation Varsity Blues" investigation](https://en.wikipedia.org/wiki/2019_college_admissions_bribery_scandal)
   which resulted in rich and famous people like Lori Loughlin, Felicity
   Huffman and the Mossimo guy going to prison. Turns out paying bribes
@@ -26,8 +26,8 @@ by Melissa Korn and Jennifer Levitz goes beyond the headlines to
 report how these affluent parents found themselves serving federal
 time.
 
-<a href="https://www.amazon.com/Unacceptable-Privilege-College-Admissions-Scandal-ebook/dp/B085XK4KFH?tag=jericson-20" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B085XK4KFH&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jericson-20&language=en_US" alt="Unacceptable: Privilege, Deceit & the Making of the College Admissions Scandal" ></a>
- 
+[![Unacceptable: Privilege, Deceit & the Making of the College Admissions Scandal](https://images4.penguinrandomhouse.com/cover/9780593087732)](https://www.penguinrandomhouse.com/books/622985/unacceptable-by-melissa-korn-and-jennifer-levitz/)
+
 The book revolves around William Rick Singer's schemes to sneak
 well-to-do students past the admission departments of elite
 universities such as UCLA and USC. The college consultant described
@@ -229,6 +229,6 @@ price is clearly explained given the complexity of financial aid.
 
 [^6]: Full disclosure: I'm a Community Manager for College
     Confidential.
-    
+
 [^7]: There's a perncious feedback loop too. The more selective a
-    school is, the more people will want to apply. 
+    school is, the more people will want to apply.
