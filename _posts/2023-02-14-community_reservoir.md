@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Community Insights #1
-subtitle: Communities are like reservoirs
-tags: community metrics insights discourse
+title: Communities are like reservoirs
+tags: community metrics insights discourse college_confidential
 comments: true
 ---
 
