@@ -5,10 +5,6 @@ tags: community metrics insights discourse college_confidential
 comments: true
 ---
 
-[This is the first of a regular series of articles about the College
-Confidential community. I'm writing them for an internal audience and
-this is a slightly edited version for an external audience.]
-
 I've [compared communities to hydroelectric
 dams](https://jlericson.com/2021/03/23/2021_CMX_report.html) in the
 sense that they're difficult to get started yet provide ongoing value if
@@ -197,7 +193,6 @@ In the long run, increasing contribution and retention rates will
 increase the quantity and quality of content on CC. That, in turn, is
 the best way to bring in new visitors via search traffic.
 
----
 
 
 [^1]:  This is just the forums. The WWW section is 58% Organic Search
