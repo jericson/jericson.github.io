@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Registration and retention
-tags: community discourse
+tags: community discourse college_confidential
 comments: true
 ---
 
@@ -61,7 +61,7 @@ or March contribute. It drops below 30% in the summer.)
 
 In the summer months, there's not a big urgency to post because there's
 not a lot of news in the admissions world. Everyone is taking a summer
-break and preparing for the start of classes in the fall. 
+break and preparing for the start of classes in the fall.
 
 Next I looked at retention rate after 3 months. It doesn't matter if I
 look at how often they are still visiting or still posting, the
@@ -115,7 +115,7 @@ Just compare those charts. Contribution rate fell at the same time
 that new user registration spiked. In turn, the reason registrations
 increases was because of this aggressive popup:
 
-![A very aggressive registration campaign.](/images/CC_join.png) 
+![A very aggressive registration campaign.](/images/CC_join.png)
 
 What might not be clear from this screenshot is that the X button on
 the right in the lower third of the screen dismisses the video. While
@@ -154,15 +154,15 @@ strategies for encouraging registration.
 ### Contribution rate by join month
 
 ```
-SELECT 
+SELECT
        to_char(date_trunc('month', u.created_at), 'YYYY Mon') "Join Date",
-       cast(sum(case 
-                  when first_post_created_at-u.created_at <= interval '30 days' 
-                    then 1.0 
-                  else 0.0 
+       cast(sum(case
+                  when first_post_created_at-u.created_at <= interval '30 days'
+                    then 1.0
+                  else 0.0
                 end) /count(*) as float) "Contribution Rate"
-from users u 
-     join user_stats s 
+from users u
+     join user_stats s
           on u.id = s.user_id
 where u.created_at > '2004-10-01T00:00:00.000Z'
 group by date_trunc('month', u.created_at)
@@ -182,10 +182,10 @@ A few notes:
 ### New users by join month
 
 ```
-SELECT 
+SELECT
        to_char(date_trunc('month', u.created_at), 'YYYY Mon') "Join Date",
        count(*) "New users"
-from users u 
+from users u
 where u.created_at > '2004-10-01T00:00:00.000Z'
       and u.created_at between '2018-08-01' and '2019-08-31'
 group by date_trunc('month', u.created_at)
@@ -195,14 +195,14 @@ order by date_trunc('month', u.created_at)
 ### Retention rate by join month
 
 ```
-SELECT 
+SELECT
        to_char(date_trunc('month', u.created_at), 'YYYY Mon') "Join Date",
-      cast(sum(case 
-                 when last_seen_at-u.created_at > interval '3 months' 
-                   then 1.0 
-                 else 0.0 
+      cast(sum(case
+                 when last_seen_at-u.created_at > interval '3 months'
+                   then 1.0
+                 else 0.0
                end) /count(*) as float) "Retention Rate"
-from users u 
+from users u
 where u.created_at > '2004-10-01T00:00:00.000Z'
       and u.created_at between '2018-08-01' and '2019-08-31'
 group by date_trunc('month', u.created_at)
