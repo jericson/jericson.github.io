@@ -1,7 +1,7 @@
 ---
 layout: page
 comments: yes
-# permalink: /resume/
+# permalink: /cv/
 ---
 
 ## Jon Ericson
@@ -14,7 +14,7 @@ models. I operated a supercomputer cluster before computation
 became a commodity. Nothing compares in complexity to humans
 interacting with each other, however.
 
-### OpenSSL Foundation
+### [OpenSSL Foundation](https://openssl.foundation/)
 **Communities Manager** | January 2025&ndash;Present
 
 **My mandate is to expand the OpenSSL ecosystem so that it remains a
@@ -56,9 +56,7 @@ edit numerous internal documents for the rest of the team, mentor
 students in the NC State Secure Computing Institute (SCI), and
 generally pick up tasks that need doing.
 
-### Game Designer
-
-### Civitas
+### [Civitas](https://buildcivitas.com/)
 **Founder** | June 2021&ndash;Present
 
 **Using my experience as a community manager and a programmer, I help
@@ -95,6 +93,9 @@ Rules writing, as it turns out, requires precision similar to writing
 code, but also needs to be at least somewhat engaging to
 humans. Play-testing followed by edit passes are crucial to the
 process.
+
+### College Confidential
+**Head of Community** | June 2022&ndash;November 2023
 
 **I returned to College Confidential in order to unlock the potential
 of the community for a new owner.** The theme for this stretch was
