@@ -25,7 +25,7 @@ keyboards](https://www.logitech.com/en-us/products/keyboards/k375s-multidevice-s
 because I've found their devices to have a good quality to price
 ratio. Maybe I was wrong since I have two K375s keyboards with failing
 keys and I've disposed of two K750 solar powered keyboards that
-stopped working altogether. 
+stopped working altogether.
 
 My son, who is somehow old enough to be in college, let me borrow his
 mechanical keyboard for a day or two. Most modern keyboards, including
@@ -100,7 +100,7 @@ competent (if not fast) when it comes to light data entry tasks.
 My solution was to buy a separate ten key pad (and the separate
 dwarvish num keycaps). That way I can put it nearby for when I need to
 enter a number into a form, but push it aside when I need more room
-for my mouse. 
+for my mouse.
 
 ![Dwarf ten key and mouse](/images/dwarf_nums.jpg)
 
@@ -135,12 +135,12 @@ When I started programming, `CAPS LOCK` was somewhat useful for
 entering FORTRAN programs and theoretically helpful for SQL
 keywords. But these days ALL CAPS makes people think you are yelling
 and messes up password entry. An Emacs trick is mapping the key to
-Control, but I find it slightly better to have emit the
-Windows/Command keystroke.
+Control, but I find it more convenient to have the keyboard itself
+emit the Windows/Command keystroke instead.
 
 Meanwhile, the way Windows and MacOS swap the two keys to the left of
 the spacebar is particularly annoying. Since I have a MacBook, I just
-use that layout instead of breaking my muscle memory. 
+use that layout instead of breaking my muscle memory.
 
 After using the keyboard for a few weeks, I discovered the spacebar
 got stuck sometimes. Several keys on a mechanical keyboard require
@@ -157,7 +157,7 @@ When I got the GSV2 stabilizers, I opened the keyboard case for the
 first time. Or rather, I tried to open it. One of the screws was
 striped and wouldn't come out. Thankfully the company replaced my
 initial keyboard at no cost. After replacing the stabilizers, it's
-been functioning almost perfectly. 
+been functioning almost perfectly.
 
 Not long ago I replaced my "V" key, which was getting flaky. Replacing
 the switch and going back to typing a moment later was immensely
@@ -184,8 +184,8 @@ Drop + The Lord of the Rings™ MT3 Dwarvish Numpad            |  $35.00
 
 
 [^1]: I bought them quickly because I was worried they would be sold
-    out. 
-    
+    out.
+
 [^2]: Not Mavis Beacon, but I believe a game called, imaginatively,
     "Typing Tutor". I'm pretty sure it was a later version of [this
     game](https://archive.org/details/TypingTutorWordInvaders/mode/2up)
@@ -204,10 +204,10 @@ Drop + The Lord of the Rings™ MT3 Dwarvish Numpad            |  $35.00
     delete, page up, page down and end. But as we'll discuss in a bit,
     I can map them to anything I like and it would be an option to
     make the delete key be the home key instead.
-    
+
 [^4]: This stands for Quantum Mechanical Keyboard Firmware. At the
     time Glorious didn't support MacOS with their [Core
-    software](https://www.gloriousgaming.com/pages/core). 
+    software](https://www.gloriousgaming.com/pages/core).
 
 <!--  LocalWords:  keycap Logitech keycaps numpad Spacebar
  -->
