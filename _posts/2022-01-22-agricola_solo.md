@@ -35,7 +35,7 @@ solitaire variation that's more interesting to play.
 ## Current high score
 
 The first thing I did was play the game myself to see what score I got
-without optimization. I got 70, which seemed fairly respectable. 
+without optimization. I got 70, which seemed fairly respectable.
 
 ![Final state of my Agricola: Family Edition solo run that scored
 70](/images/agricola_70.jpg)
@@ -92,7 +92,9 @@ score as many points from harvested grain as possible. Since there are
 not plow one time. (I need 6+9 fields and I have 14+2 plowing actions to use.)
 
 For this game, I will avoid:
-1. [Getting reeds.](https://www.quartertothree.com/fp/2014/07/10/caverna-doesnt-need-thatch-roofs/)
+
+1. [Getting
+   reeds.](https://www.quartertothree.com/fp/2014/07/10/caverna-doesnt-need-thatch-roofs/)
 2. Adding to my house. (No reeds for thatched roofs.)
 
 That means I will use the last three turns to make new workers using
@@ -136,6 +138,7 @@ food. The sooner we get our bread baking operation going the better.
 We've accounted for 4 of the 6 action before the next harvest (3x plow
 and sow). That leaves two actions to get baking going. Unfortunately,
 we need three actions:
+
 1. Collect clay for the oven.
 2. Build the oven.
 3. Collect wood to burn.
@@ -169,7 +172,8 @@ point. There's no particular hurry to do this, however. We just need
 to make sure it happens before the last turn.
 
 The other asset we have is wood. We'll need some of it for making bread:
-* 1 wood for the fourth harvest 
+
+* 1 wood for the fourth harvest
 * 2 wood for the fifth harvest (our family will have grown to 4 by then)
 * 2 wood for the sixth harvest
 
@@ -304,19 +308,19 @@ of solitaire Agricola:
    turn space that you collected it so that you can remember how many
    goods are left the next time.
 2. As long as you are careful not to repeat an action, you don't need
-   to move your workers around. 
+   to move your workers around.
 3. It's not ideal, but there is [a Tabletop Simulator mod for
    Agricola: Family
    Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=2636421669). It's
    handy for trying out ideas that come to you when the board isn't
    set up.
 4. Take notes so that you can retrace your steps if you get a high
-   score. 
-   
+   score.
+
 ## A solitaire variation
 
 Compared to playing with other people, solitaire Agricola doesn't
-thwart your plans. So I've tried two additional rules to make the game
+thwart your plans. So I've tried some additional rules to make the game
 more challenging:
 
 1. Let's borrows a trick from the solitaire variation of
@@ -329,14 +333,14 @@ more challenging:
    turn. Then, at then end of turn 3, take back your original color
    workers and use them for turn 3. When you add a worker later in the
    game, take a worker of both colors.
-   
+
    I used this variation in my first full solo game and it forces you
    to diversify your farm. It's impossible to plow more than 8 fields
    and you can't us the last three turns to collect workers. For an
    even more challenging game (which I haven't tried myself) use three
    colors. At that point you are playing a game that more closely
    resembles the multiplayer game since many actions will be blocked.
- 
+
 2. The rooster action is normally not useful in a solo game since
    there's not turn order to be first in. But with alternating
    workers, there are spaces that can be blocked. In this variation,
@@ -345,11 +349,11 @@ more challenging:
    comes with the 1 food as normal.) Note that there's no way to
    remove a worker from the start player action except to wait for it
    to be pulled off normally.
-   
+
    The other alternative is to use this space as a repeat action
    space, but that would allow you to repeat an action you've already
    taken this turn, which seems out of the spirit of the game.
- 
+
 3. The first upgrade you can purchase is a cooking upgrade. There
    are six options, but in the solo game only three will ever get
    played. That's because half the options are more expensive versions
@@ -359,7 +363,7 @@ more challenging:
    and one wood into 5 food. The Cooking Hearth and Fireplace also
    give you flexibility to use animals for food, which is a lot less
    attractive for high score runs.
-   
+
    In this variation, shuffle the 6 cooking upgrades and select the
    top from the pile. That is the only upgrade you can purchase from
    the turn 1 space. If you purchase that upgrade, turn over the next
@@ -367,7 +371,7 @@ more challenging:
    slightly more complicated decision about how to feed your
    family. It also makes the other upgrades more attractive later in
    the game since they can convert other resources into food.
-   
+
 4. I haven't tried this yet, but it would also add variation to
    shuffle the other improvement tiles and deal them randomly to their
    spaces. That could mean the Depot (which only converts resources to
