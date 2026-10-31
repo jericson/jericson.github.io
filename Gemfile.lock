@@ -127,7 +127,6 @@ GEM
       racc (~> 1.4)
     nuggets (1.6.1)
     open_uri_redirections (0.2.1)
-    openssl (3.3.2)
     ostruct (0.6.3)
     pandoc-ruby (2.1.10)
     paru (1.5.2)
@@ -189,7 +188,6 @@ DEPENDENCIES
   mutex_m
   nokogiri (>= 1.19.1)
   open_uri_redirections
-  openssl (~> 3.3)
   ostruct
   rake
 

@@ -18,7 +18,7 @@ group :jekyll_plugins do
   gem 'jekyll-paru'
 end
 
-#gem 'github-pages'#, versions['github-pages'] 
+#gem 'github-pages'#, versions['github-pages']
 #gem 'hpricot'
 
 # Styling
@@ -60,4 +60,4 @@ gem "nokogiri", ">= 1.19.1"
 
 #gem "webrick", "~> 1.8"
 
-gem "openssl", "~> 3.3"
+#gem "openssl", "~> 3.3"
